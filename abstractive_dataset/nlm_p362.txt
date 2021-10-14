@@ -1,0 +1,14 @@
+Posttraumatic stress disorder (PTSD) is a major psychiatric disorder that is 
+prevalent in combat veterans. Previous neuroimaging studies have found elevated 
+amygdala activity in PTSD in response to threatening stimuli, but previous work 
+has lacked the temporal specificity to study fast bottom-up fear responses 
+involving the amygdala. Forty-four combat veterans, 28 with PTSD and 16 without, 
+completed psychological testing and then a face-processing task during 
+magnetoencephalography (MEG). The resulting MEG data were pre-processed, 
+transformed into the time-frequency domain, and then imaged using a beamforming 
+approach. We found that veterans with PTSD exhibited significantly stronger 
+oscillatory activity from 50 to 450 ms in the left amygdala compared to veterans 
+without PTSD while processing threatening faces. This group difference was not 
+present while viewing neutral faces. The current study shows that amygdala 
+hyperactivity in response to threatening cues begins quickly in PTSD, which 
+makes theoretical sense as an adaptive bottom-up fear response.

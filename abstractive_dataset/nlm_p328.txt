@@ -1,0 +1,19 @@
+The development of advanced neuroimaging techniques and their deployment in 
+large cohorts has enabled an assessment of functional and structural brain 
+network architecture at an unprecedented level of detail. Across many temporal 
+and spatial scales, network neuroscience has emerged as a central focus of 
+intellectual efforts, seeking meaningful descriptions of brain networks and 
+explanatory sets of network features that underlie circuit function in health 
+and dysfunction in disease. However, the tools of network science commonly 
+deployed provide insight into brain function at a fundamentally descriptive 
+level, often failing to identify (patho-)physiological mechanisms that link 
+system-level phenomena to the multiple hierarchies of brain function. Here we 
+describe recently developed techniques stemming from advances in complex systems 
+and network science that have the potential to overcome this limitation, thereby 
+contributing mechanistic insights into neuroanatomy, functional dynamics, and 
+pathology. Finally, we build on the Research Domain Criteria framework, 
+highlighting the notion that mental illnesses can be conceptualized as 
+dysfunctions of neural circuitry present across conventional diagnostic 
+boundaries, to sketch how network-based methods can be combined with 
+pharmacological, intermediate phenotype, genetic, and magnetic stimulation 
+studies to probe mechanisms of psychopathology.

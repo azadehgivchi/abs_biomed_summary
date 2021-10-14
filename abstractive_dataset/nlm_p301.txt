@@ -1,0 +1,17 @@
+Psychiatric disorders are disturbances of cognitive and behavioral processes 
+mediated by the brain. Emerging evidence suggests that accurate biomarkers for 
+psychiatric disorders might benefit from incorporating information regarding 
+multiple brain regions and their interactions with one another, rather than 
+considering local perturbations in brain structure and function alone. Recent 
+advances in the field of applied mathematics generally - and network science 
+specifically - provide a language to capture the complexity of interacting brain 
+regions, and the application of this language to fundamental questions in 
+neuroscience forms the emerging field of network neuroscience. This chapter 
+provides an overview of the use and utility of network neuroscience for building 
+biomarkers in psychiatry. The chapter begins with an overview of the theoretical 
+frameworks and tools that encompass network neuroscience before describing 
+applications of network neuroscience to the study of schizophrenia and major 
+depressive disorder. With reference to work on genetic, molecular, and 
+environmental correlates of network neuroscience features, the promises and 
+challenges of network neuroscience for providing tools that aid in the diagnosis 
+and the evaluation of treatment response in psychiatric disorders are discussed.

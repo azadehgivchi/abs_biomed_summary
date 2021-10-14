@@ -1,0 +1,15 @@
+Intrinsically disordered proteins (IDPs) are either completely unstructured or 
+contain large disordered regions in their native state; they have drawn much 
+attention in the field of molecular pathology. Some of them substantially tend 
+to form protein self-assemblies, such as toxic or non-toxic aggregates and 
+fibrils, and have been postulated to relate to diseases. These disease-related 
+IDPs include Aβ(1-42) [Alzheimer's disease (AD)], Tau (AD and tauopathy), 
+α-synuclein (Parkinson's disease) and p53 (cancer). Several studies suggest that 
+these aggregation and/or fibril formation processes are often initiated by 
+transient conformational changes of the IDPs prior to protein self-assembly. 
+Interestingly, the pathological molecular processes of these IDPs share multiple 
+common features with those of protein misfolding diseases, such as transmissible 
+spongiform encephalopathy (PrPsc) and AL-amyloidosis (VL-domain of 
+γ-immunoglobulin). This review provides an overview of solution NMR techniques 
+that can help analyse the early and transient events of conformational 
+equilibrium of IDPs and folded proteins.

@@ -1,0 +1,38 @@
+IMPORTANCE: Lithium is a first-line mood stabilizer for the treatment of bipolar 
+affective disorder (BPAD). However, the efficacy of lithium varies widely, with 
+a nonresponse rate of up to 30%. Biological response markers are lacking. 
+Genetic factors are thought to mediate treatment response to lithium, and there 
+is a previously reported genetic overlap between BPAD and schizophrenia (SCZ).
+OBJECTIVES: To test whether a polygenic score for SCZ is associated with 
+treatment response to lithium in BPAD and to explore the potential molecular 
+underpinnings of this association.
+DESIGN, SETTING, AND PARTICIPANTS: A total of 2586 patients with BPAD who had 
+undergone lithium treatment were genotyped and assessed for long-term response 
+to treatment between 2008 and 2013. Weighted SCZ polygenic scores were computed 
+at different P value thresholds using summary statistics from an international 
+multicenter genome-wide association study (GWAS) of 36 989 individuals with SCZ 
+and genotype data from patients with BPAD from the Consortium on Lithium 
+Genetics. For functional exploration, a cross-trait meta-GWAS and pathway 
+analysis was performed, combining GWAS summary statistics on SCZ and response to 
+treatment with lithium. Data analysis was performed from September 2016 to 
+February 2017.
+MAIN OUTCOMES AND MEASURES: Treatment response to lithium was defined on both 
+the categorical and continuous scales using the Retrospective Criteria of 
+Long-Term Treatment Response in Research Subjects with Bipolar Disorder score. 
+The effect measures include odds ratios and the proportion of variance 
+explained.
+RESULTS: Of the 2586 patients in the study (mean [SD] age, 47.2 [13.9] years), 
+1478 were women and 1108 were men. The polygenic score for SCZ was inversely 
+associated with lithium treatment response in the categorical outcome, at a 
+threshold P < 5 × 10-2. Patients with BPAD who had a low polygenic load for SCZ 
+responded better to lithium, with odds ratios for lithium response ranging from 
+3.46 (95% CI, 1.42-8.41) at the first decile to 2.03 (95% CI, 0.86-4.81) at the 
+ninth decile, compared with the patients in the 10th decile of SCZ risk. In the 
+cross-trait meta-GWAS, 15 genetic loci that may have overlapping effects on 
+lithium treatment response and susceptibility to SCZ were identified. Functional 
+pathway and network analysis of these loci point to the HLA antigen complex and 
+inflammatory cytokines.
+CONCLUSIONS AND RELEVANCE: This study provides evidence for a negative 
+association between high genetic loading for SCZ and poor response to lithium in 
+patients with BPAD. These results suggest the potential for translational 
+research aimed at personalized prescribing of lithium.

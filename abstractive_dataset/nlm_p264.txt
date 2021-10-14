@@ -1,0 +1,11 @@
+Depression is the most common psychiatric disorder worldwide, which affects more 
+than 300 million people. We aimed to detect depressed patients and healthy 
+people automatically. We work on the PHQ-9 questionnaires and reduced it to a 
+PHQ-5 questionnaires with a new cut-off value of 8 to detect depressed patients. 
+We trained a Neural Network with 70% of our dataset. Then, the proposed 
+classifier was tested with two datasets. The first one consists of 30% of PHQ-5 
+datasets, which could achieve 85.69%, 99.11% and 90.56% for accuracy, 
+sensitivity and specificity respectively. The second test dataset consists of 
+physical patient's parameters which recorded during a study in the Hanover 
+Medical School. This classifier has shown good results in the detection of 
+depression based on these two datasets.
