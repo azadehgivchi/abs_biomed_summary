@@ -1,0 +1,18 @@
+Background: There is growing interest for interventions aiming at preventing frailty progression or even to reverse
+frailty in older people, yet it is still unclear which frailty instrument is most appropriate for measuring change scores
+over time to determine the effectiveness of interventions. The aim of this prospective cohort study was to
+determine reproducibility and responsiveness properties of the Frailty Index (FI) and Frailty Phenotype (FP) in
+acutely hospitalized medical patients aged 70 years and older.
+Methods: Reproducibility was assessed by Intra-Class Correlation Coefficients (ICC), standard error of measurement
+(SEM) and smallest detectable change (SDC); Responsiveness was assessed by the standardized response mean
+(SRM), and area under the receiver operating characteristic curve (AUC).
+Results: At baseline, 243 patients were included with a median age of 76 years (range 70–98). The analytic samples
+included 192 and 187 patients in the three and twelve months follow-up analyses, respectively. ICC of the FI were
+0.85 (95 % confidence interval [CI]: 0.76; 0.91) and 0.84 (95% CI: 0.77; 0.90), and 0.65 (95% CI: 0.49; 0.77) and 0.77
+(95% CI: 0.65; 0.84) for the FP. SEM ranged from 5 to 13 %; SDC from 13 to 37 %. SRMs were good in patients with
+unchanged frailty status (< 0.50), and doubtful to good for deteriorated and improved patients (0.43–1.00). AUC’s
+over three months were 0.77 (95% CI: 0.69; 0.86) and 0.71 (95% CI: 0.62; 0.79) for the FI, and 0.68 (95% CI: 0.58; 0.77)
+and 0.65 (95% CI: 0.55; 0.74) for the FP. Over twelve months, AUCs were 0.78 (95% CI: 0.69; 0.87) and 0.82 (95% CI:
+0.73; 0.90) for the FI, and 0.78 (95% CI: 0.69; 0.87) and 0.75 (95% CI: 0.67; 0.84) for the FP.
+Conclusions: The Frailty Index showed better reproducibility and responsiveness properties compared to the Frailty
+Phenotype among acutely hospitalized older patients.

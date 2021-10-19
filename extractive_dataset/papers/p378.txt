@@ -1,0 +1,370 @@
+Introduction
+In December 2019, an outbreak of novel coronavirus
+pneumonia (COVID-19) caused by SARS-CoV-2 was
+reported in Wuhan city, China. Since then, COVID-19
+had rapidly spread to more than 17.6 million cases, with
+over 680,000 deaths worldwide as of August 2, 2020 [1].
+A total of 84,428 cases and 4,634 deaths were reported
+in China, and approximately 81% of cases and 97% of
+deaths were from Wuhan city of August 2, 2020 [2]. As
+the hardest-hit city by the COVID-19 pandemic, Wuhan
+initiated a metropolitan-wide quarantine on January 23,
+2020, which terminated all public transportation in the
+city and intercity links. The quarantine lasted for 76 days
+and was eventually lifted on April 8, 2020 [3–6]. The metropolitan-
+wide quarantine approach had since become
+a common practice to combat the COVID-19 epidemic
+globally.
+At the peak of the epidemic, Wuhan authorities constructed
+an emergency hospital specialized in treating
+people infected with SARS-CoV-2, inspired by the prefab
+hospital erected in Beijing during the 2003 SARS outbreak.
+This emergency hospital, Huoshenshan hospital,
+was constructed within ten days and the first hospital
+specialized in treating patients with COVID-19 in the
+world [7–9]. This hospital closed on April 15, 2020, one
+week after the metropolitan-wide quarantine was lifted
+[10]. During the 73 days of operation, the hospital treated
+3,059 patients with COVID-19, of whom 2,961 recovered
+[7].
+Identifying the risk factors of COVID-19 disease progression
+and fatality provides important evidence to
+support appropriate clinical management and optimize
+medical resource allocation [11–13]. The risk factors
+for COVID-19 progression include comorbidities with
+chronic diseases (hypertension, diabetes, cardiovascular
+disease and liver disease), old age, low lymphocyte and
+albumin counts and elevated levels of lactate dehydrogenase,
+c-reactive protein, red blood cell distribution width,
+blood urea nitrogen and direct bilirubin [14]. In particular,
+patients with old age, neutrophilia, thrombocytopenia,
+higher lactate dehydrogenase and d-dimer levels
+were more likely to develop Acute Respiratory Distress
+Syndrome (ARDS) [15, 16]. Further, older age, d-dimer
+level greater than 1 μg/mL and a high Sequential Organ
+Failure Assessment score on admission would contribute
+to a higher in-hospital fatality of COVID-19 patients [17].
+Liang et al. [18], based on chest radiography abnormality
+and nine clinical indicators were able to predict the
+risk of developing critical illness with an area-underthe-
+curve of 0.88. A systematic review and meta-analysis
+examine risk factors associated with adverse clinical outcomes
+in patients with COVID-19 [19]. However, most of
+these studies were limited by their relatively small sample
+sizes, and many patients had not progressed to the study
+endpoints by the time the study was conducted, leading
+to bias and unreliable prediction for disease progression
+and fatality. Besides, some analyses of risk factors were
+not adjusted for potential confounding effects, leading to
+false associations.
+In this study, we retrospectively collected the complete
+hospitalization information from 2,433 patients
+who were admitted to Huoshenshan hospital during its
+73 days of operation. We explored on the time for disease
+progression among patients in various disease stages at
+admission and determined their risk of disease progression.
+We also identified clinical risk factors that predict
+the COVID-19 disease progression and fatality among
+these patients.
+Methods
+Study design and patients
+We established a retrospective observational study
+cohort, based on 3,059 cases admitted to the Huoshenshan
+hospital in Wuhan between February 4 and April 15,
+2020. The exclusion criteria were: (1) Patients who were
+not confirmed by a positive result of severe acute respiratory
+syndrome coronavirus 2 detection in respiratory
+specimens by the reverse transcriptase polymerase chain
+reaction assay, or in serum by the specific IgM and IgG
+antibody detection; (2) Patients who referred to other
+medical institution during hospitalization; (3) Patients
+who were admitted to the hospital multiple times; (4)
+Patients were younger than 18 years old; (5) Patients
+without laboratory data included in this study within the
+24 h after admission. This study tracked the progression
+of COVID-19 patients from admission until one of the
+endpoints (discharged or death).
+Clinical and outcome indicators
+Demographic, clinical, laboratory, treatment, and clinical
+outcome data were obtained from the hospital’s
+electronic clinical medical records. At the first clinical
+consultation, demographic, clinical and laboratory
+data were collected within the first day after admission.
+Treatment data and clinical outcomes (including the
+event of disease progression, time of each disease stages,
+fatality, duration of hospitalization and endpoint status)
+were also collected during the course from admission
+to the study endpoints. We defined the event of disease
+progression as a mild or moderate patient at admission
+would progress to severe or critical stage at the first time
+during hospitalization.
+Clinical definitions
+The severity of COVID-19 was defined according to the
+Guidance 7th edition [20]. Patients were classified as
+‘mild’ if there was no evidence of pneumonia on imaging
+nor any of the features for moderate or higher severity;
+as ‘moderate’ if they had evidence of pneumonia on
+imaging but no features of severe or higher severity;
+as ‘severe’ if they meet any of the following criteria: (1)
+respiratory distress (≥ 30 breaths/min); (2) oxygen saturation
+≤ 93% at rest on room air; (3) arterial partial pressure
+of oxygen (PaO2) or fraction of inspired oxygen
+(FiO2) ≦ 300 mmHg (l mmHg = 0.133 kPa); and as ‘critical’
+if they required mechanical ventilation, had a septic
+shock or required admission to ICU. Comorbidities were
+defined according to ICD10-CM code [21]. Detailed definitions
+for clinical symptoms were provided in the supplemental
+materials. We considered a patient progressing
+to a severe or critical disease stage when the individual
+had none of the severe or critical stages at admission
+but developed these stages for the first time during
+hospitalization.
+Patients had to meet all the following criteria before
+being discharged: (1) body temperature returned to normal
+(< 37.5 °C) for three consecutive days; (2) respiratory
+symptoms improved substantially; (3) pulmonary imaging
+showed an obvious absorption of inflammation; and
+(4) two consecutive negative nuclei acid tests, each at
+least 24 h apart.
+Statistical analysis
+We presented continuous variables as the median and
+interquartile range (IQR) and examined the differences
+between disease severity groups using the Kruskal–Wallis
+one-way ANOVA We presented categorical variables
+with the corresponding percentage and examined the differences
+using χ2 test or Fisher’s exact test. We conducted
+survival analyses on disease progression and fatality
+based on a competing risk framework. The outcome variables
+included: (1) the event of the first time disease progression
+to severe or critical disease states among mild
+or moderate patients at admission, and (2) in-hospital
+fatality among patients with severe or critical at admission.
+Discharge from the hospital was considered as a
+competing risk event. Five clinical indicators (interleukin-
+6, natriuretic peptide type B, supersensitive troponin
+I, myoglobin and procalcitonin.) with more than 30% of
+entries missing were excluded from the analysis. Data
+imputation was performed if missing percentage < 30%
+using Multivariate Imputation by Chained Equations.
+Statistically significant variables in the univariate analysis
+were ranked and further selected using LASSO
+regression [22]. The number of variables was defined
+as the number of variables when λ = λmin in LASSO,
+or the total number of events divided by 10 (event per
+variable > 10 rule)[23], whichever is smaller. Variables,
+which particularly reported in previous literatures were
+included in final analysis. The pooled set of variables were
+then included for the final multivariable cause-specific
+Cox proportional hazard model. Cumulative incidence
+curves were plotted to demonstrate the incidence of differences
+between different risk levels of key variables. A
+p value of < 0.05 was considered statistically significant.
+Statistical analyses were conducted using the R software
+(version 3.6.1).
+Results
+Demographic characteristics of patients
+After excluding 214 patients who were only diagnosed
+clinically according to the Guidance 7th edition [20],
+46 patients who referred to other medical institution,
+16 patients who were admitted to the hospital multiple
+times, six patients were younger than 18 years old.
+Further, we excluded 328 patients without laboratory
+data included in this study within the 24 h after admission,
+we included 2,433 COVID-19 patients in the final
+analysis. Fifty patients died during hospitalization, and
+2,383 were discharged, corresponding to a case-fatality
+ratio of 2.1%. Patient’s median age was 60.0 years (IQR
+50.0–68.0), and 50.2% were male (Table 1). The most
+common symptoms or signs on admission were cough
+(55.7%), fatigue (38.9%), and shortness of breath (25.0%).
+Hypertension being the most common comorbidity
+(31.6%), followed by diabetes (14.3%) and coronary
+heart disease (6.7%). During hospitalization, 847 (34.8%)
+patients received antibiotics, 1233 (50.7%) received antivirals,
+and 68 (2.8%) received non-invasive mechanical
+ventilation and 42 (1.7%) received invasive mechanical
+ventilation.
+Clinical progression and regression during hospitalization
+Among 25 mild patients at admission, 19 retained mild
+and were discharged after 6.0 (5.0–11.0) days; six patients
+who progressed to moderate severity in 3.0 (1.8–5.5)
+days, but all discharged after another 8.0 (6.8–8.8) days.
+Of 1,733 moderate patients at admission, 1,259 patients
+retained moderate and discharged after 11.0 (7.0–16.0)
+days. In contrast, 474 patients progressed to the severe
+state in 3.0 (1.0–7.0) days, but all recovered and were discharged
+after another 12.0 (6.5–18.0) days, and 9 patients
+deceased after 9.0 (2.5–19.0) days. Of 635 severe patients
+at admission, 604 patients regressed to moderate severity
+in 7.0 (5.0–11.0) days and were discharged after another
+6.0 (4.0–11.0) days. Thirty-one patients progressed to
+critical severity after 3.0 (1.8–8.0) days, and of whom
+only 10 patients were discharged after 15.5 (14.0–30.5)
+days, and 21 died after 6.0 (0.0–10.5) days. Of 40 critical
+patients at admission, 20 patients regressed to moderate
+severity after 10.5 (8.3–15.8) days and were discharged
+after another 11.5 (6.3–19.5) days, and the remaining 20
+patients died after 6.5 (4.0–16.3) days (Figs. 1 and 2).
+Across all patients, it required a median of 3.0 (1.8–5.5)
+days to progress from mild to moderate, 3.0 (1.0–7.0)
+days from moderate to severe, 3.0 (1.0–8.0) days from
+severe to critical and 6.5 (4.0–16.3) from critical to fatality.
+In contrast, it required 7.0 (5.0–11.0) days to regress
+from severe or critical to moderate severity and 6.5
+(4.0–11.0) days from moderate to discharge. The median
+admission-to-discharge time among mild, moderate,
+severe and critical patients on admission were 7.0 (5.5–
+12.0), 13.0 (9.0–19.0), 15.0 (8.0–22.0), and 25.0 (15.3–
+34.8) days, respectively.
+Contributing factors to disease progression and COVID‑19
+fatality
+Of 1,758 mild and moderate patients at admission,
+474 (27.0%) progressed to severe or critical severity
+during hospitalization. Multi-variable cause-specific
+Cox proportional hazard model (Table 2) identified
+that patients with age 60–74 years (HR = 1.26, 95%CI
+1.02–1.56), > 74 years (1.44, 1.02–2.03), respiratory
+rate > 20 times/min (1.28, 1.05–1.57), fever (temperature
+≥ 37.5 °C) (1.93, 1.21–3.08), chest tightness (1.47,
+1.12–1.92), blood glucose > 6.1 mmol/L (1.58, 1.25–
+1.98), c-reaction protein > 4 mg/L (1.45, 1.12–1.87), lactate
+dehydrogenase > 250 IU/L (1.63, 1.20–2.20), direct
+bilirubin > 8 μmol/L (1.51, 1.03, 2.21), albumin < 40 g/L
+(1.38, 1.07–1.77) and lymphocyte count < 1.1*109/L (1.44,
+1.15–1.81) were risk factors for disease progression to
+severe and critical stage (Table 2). The 21-day cumulative
+incidence of progression was 47.8% in > 74-years age
+group, followed by 32.4%, 19.8% in age groups of 60–74
+and < 60-years respectively. The cumulative incidence of
+disease progression at day 21 was also much higher in
+patients with blood glucose ≥ 6.1 mmol/L (40.8%) than
+blood glucose in range of 3.9–6.1 mmol/L (21.4%, Fig. 3a,
+b).
+Of 675 severe or critical patients at admission, 634
+(93.9%) were discharged and 41 (6.1%) died during hospitalization.
+Table 2 showed that patients with age > 74 years
+(3.41, 1.07–10.89), blood glucose > 6.1 mmol/L (3.22,
+1.54–6.73), platelets count < 125*109/L (4.39, 2.02–9.54),
+fibrinogen < 2 g/L (6.48, 1.46–28.67) and creatine kinase-
+MB > 24 IU/L (6.29, 2.51–15.80) were risk factors for
+in-hospital fatality (Table 2). The 21-day cumulative incidence
+of fatality was 13.1% in > 74 years age group, 4.6%,
+1.4% in age groups of 60–74, < 60 years respectively. The
+incidence of fatality at day 21 was four times higher in
+patients with blood glucose > 6.1 g/L (11.8%) than blood
+glucose in range of 3.9–6.1 mmol/L (2.7%, Fig. 3c, d).
+Discussion
+Our study provides unique progression and outcome
+data on a cohort of 2,433 COVID-19 patients admitted
+to Huoshenshan hospital, a hospital designed and built
+solely to provide care to patients with COVID-19. Our
+findings suggest that even among inpatients with moderately
+severe disease, the fatality was relatively low. Most
+deaths arose from patients who were critically ill on
+admission or progressed to being critical during admission.
+The risk factors we identified for death and disease
+progression are similar to previous studies with older age,
+poor systematic immune and inflammatory responses,
+and multiple organ damages [14–16, 18, 24–32]. Patients
+admitted with a greater disease severity requires longer
+to recover.
+Our report on the time for disease progression at each
+disease stages allows early preparation and intervention
+to delay disease progression (Fig. 2). Since there is no
+effective cure for COVID-19, delaying the progression
+of the disease is key for survival. Most mild or moderate
+patients (73.0%) did not progress to severe or critical
+states and recovered from COVID-19 infection in 10.0
+(7.0–15.0) days. But among those who did progress, they
+progressed to a severe or critical stage within the first 3.0
+(1.0–7.0) days after admission. This highlights the importance
+of close monitoring of key risk indicators for disease
+progression in the early stages of infection. Because,
+once a patient reaches the critical stage, the chance of
+fatality is 62.5% in a short period of 6.5 (2.0–13.3) days.
+We identified the blood glucose level to be an important
+prognostic predictor for both COVID-19 progression
+and fatality. In particular, patients with an elevated
+level of blood glucose > 6.1 mmol/L had a 58% higher risk
+of disease progression and 3.22-fold higher risk of fatality.
+This is consistent with previous reports that a high
+glucose level contributes to the development of acute
+respiratory distress syndrome in COVID-19 patients [16,
+17, 28, 29]. Uncontrolled blood glucose level also substantially
+contributes to other comorbidities, including
+atherosclerosis, diabetic nephropathy, peripheral arteriosclerosis,
+and diabetic ketoacidosis, which are also causes
+of COVID-19 related fatality [28, 33]. The underlying
+mechanism of how blood glucose interacts with SARSCOV-
+2 is currently unclear. SARS-COV-2 relies on the
+binding to membrane angiotensin-converting enzyme-2
+(ACE-2) receptor to enter pulmonary cells in the lungs.
+We speculate that diabetic patients have elevated expression
+of angiotensin-converting enzyme-2 (ACE-2) receptors,
+making them vulnerable to SARS-COV-2 infection.
+Besides, patients living with diabetes or uncontrolled
+glucose level are likely to have impaired innate immunity
+due to dysfunction of macrophage and lymphocytes,
+which may lead to an increased risk of septic shock and
+multiple organ failures. Hyperglycemia is also a potential
+indicator of pancreatic islet cell injury [33]. Effective
+glycemic monitor and management may be beneficial to
+reduce the progression and fatality of COVID-19 patients
+[34, 35].
+Our study reported important clinical indicators that
+are associated with COVID-19 disease progression and
+fatality. At the systemic level, a low lymphocyte count
+is an indication of a poor systematic immune response
+against the infection, whereas a high c-reactive protein
+level is an early indicator of systemic inflammatory
+response syndrome [36]. Besides, increased fibrinogen
+and platelets count concentrations are associated with
+increased coagulation activity in patients with infection
+or sepsis [37, 38]. This is particularly life-threatening
+for patients with pre-existing cerebro-or cardiovascular
+diseases, which is common among the elderly. In addition,
+an elevated creatine kinase-MB level, a know indicator
+for acute myocardial injury. Further, liver damage
+or dysfunction, marked by reduced albumin level and
+elevated direct bilirubin [39]. Most of the remaining
+indicators may be associated with multiple organ injury
+or failure. Lactate dehydrogenase predicts the severity
+of tissue damage. As lactate dehydrogenase is largely
+present in lung tissues, when damaged by SARS-COV-2
+infection, a large amount of lactate dehydrogenase into
+the circulation. This often clinically presents as a severe
+form of interstitial pneumonia and subsequently evolve
+into acute respiratory distress syndrome. Elevated lactate
+dehydrogenase level is also a predictor of endothelial
+damage, which caused microvascular thrombosis and
+associated with renal failure [40]. Maintaining an effective
+systemic immune response against the infection and
+prevention of multiple organ failures are, therefore, the
+priorities in treating COVID-19 patients.
+Our study has several limitations. First, this is a retrospective
+single-centre study, and almost half of patients
+did not have laboratory tests for interleukin-6, natriuretic
+peptide type B, supersensitive troponin I, myoglobin and
+procalcitonin levels within the first day after admission.
+Their role may be underestimated in the prediction of
+disease progression and fatality. Second, most patients
+on admission had moderate severity which may lead to
+a selection bias when identifying factors that affect progression
+or fatality. Additional cohort studies of patients
+with COVID-19 pneumonia from areas outside Wuhan
+are needed to confirm our results. Third, considering
+both the small number of events and the rule of thumb
+on event per variable > 10, only limited risk factors were
+included in the multivariable analysis of severe and critically
+illness at admission to fatality during hospitalization.
+Fourth, most patients were referred from other
+medical institution, and the data at diagnosis was not
+accessible to us.
+Conclusions
+In this study, we comprehensively presented stage-wise
+disease’s first progression among COVID-19 patients.
+We identified that older age, elevated glucose level,
+together with other clinical indicators associated with
+systemic responses and multiple organ failures, predicted
+both the disease progression and fatality among COVID-
+19 patients.

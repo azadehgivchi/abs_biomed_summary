@@ -1,0 +1,20 @@
+Background: The application of intermaxillary traction is often accompanied by the unexpected movement of
+dentition, especially anchorage teeth. The aim of this study was to comprehensively compare the influence of crosssectional
+shape of ribbon arch wires with edgewise and round wires on intermaxillary traction in Class II malocclusion
+treatment using FEA simulation.
+Methods: The dentofacial structure was simulated in finite element software. A retraction force of 1.5 N was applied
+to different cross-sectional orthodontic arch wires: a ribbon wire (0.025 × 0.017-in. and 0.025 × 0.019-in.), a rectangular
+wire (0.017 × 0.025-in. and 0.019 × 0.025-in.) and a round wire (Φ 0.018-in. and Φ 0.020-in.).
+Results: Among the three groups, ribbon wire (0.025 × 0.017-in. and 0.025 × 0.019-in.) exhibited the lowest displacement
+in the X-axis (12.61 μm and 12.77 μm, respectively) and Z-axis (8.99 μm and 9.06 μm, respectively). However,
+the 0.025 × 0.017-in. ribbon wire showed the highest Y-axis displacement. In the round wire group, Φ 0.020-in. wire
+displayed less rotation than Φ 0.018-in. wire, where the sagittal, frontal and occlusal rotation of Φ 0.020-in. wire was
+almost half of that of Φ 0.018-in. wire. The movement of the first molar region was intermediate between the ribbon
+arch group and the round wire group. Notably, the values of the 0.025 × 0.017-in. arch wire displacement, which were
+higher than those of any other group, peaked at 0.019 mm in the central incisor region with a spike-like shape. The
+deformation range of the Φ 0.018-in. wire group was the largest in this study.
+Conclusions: The cross-section of the arch wire influenced force delivery in Class II intermaxillary traction. With the
+same shape, a larger cross-sectional area led to less mandibular dentition movement. For the rectangular arch wire
+and ribbon arch wire groups, since the height and width were inverted, the vertical displacement of anchorage
+teeth in the ribbon wire group was reduced, but the possibility of buccal tipping in mandibular anterior teeth also
+increased.

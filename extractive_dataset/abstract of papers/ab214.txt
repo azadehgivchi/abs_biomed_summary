@@ -1,0 +1,21 @@
+Background and objectives: Diabetes mellitus is a major chronic disease that results in readmissions due to poor
+disease control. Here we established and compared machine learning (ML)-based readmission prediction methods to
+predict readmission risks of diabetic patients.
+Methods: The dataset analyzed in this study was acquired from the Health Facts Database, which includes over
+100,000 records of diabetic patients from 1999 to 2008. The basic data distribution characteristics of this dataset were
+summarized and then analyzed. In this study, 30-days readmission was defined as a readmission period of less than
+30 days. After data preprocessing and normalization, multiple risk factors in the dataset were examined for classifier
+training to predict the probability of readmission using ML models. Different ML classifiers such as random forest,
+Naive Bayes, and decision tree ensemble were adopted to improve the clinical efficiency of the classification. In this
+study, the Konstanz Information Miner platform was used to preprocess and model the data, and the performances of
+the different classifiers were compared.
+Results: A total of 100,244 records were included in the model construction after the data preprocessing and
+normalization. A total of 23 attributes, including race, sex, age, admission type, admission location, length of stay,
+and drug use, were finally identified as modeling risk factors. Comparison of the performance indexes of the three
+algorithms revealed that the RF model had the best performance with a higher area under receiver operating characteristic
+curve (AUC) than the other two algorithms, suggesting that its use is more suitable for making readmission
+predictions.
+Conclusion: The factors influencing 30-days readmission predictions in diabetic patients, including number of inpatient
+admissions, age, diagnosis, number of emergencies, and sex, would help healthcare providers to identify patients
+who are at high risk of short-term readmission and reduce the probability of 30-days readmission. The RF algorithm with the highest AUC is more suitable for making 30-days readmission predictions and deserves further validation in
+clinical trials.

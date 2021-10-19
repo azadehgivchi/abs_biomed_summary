@@ -1,0 +1,24 @@
+Background: Colon cancer is one of the leading causes of cancer deaths in the USA and around the world.
+Molecular level characters, such as gene expression levels and mutations, may provide profound information for
+precision treatment apart from pathological indicators. Transcription factors function as critical regulators in all
+aspects of cell life, but transcription factors-based biomarkers for colon cancer prognosis were still rare and
+necessary.
+Methods: We implemented an innovative process to select the transcription factors variables and evaluate the
+prognostic prediction power by combining the Cox PH model with the random forest algorithm. We picked five
+top-ranked transcription factors and built a prediction model by using Cox PH regression. Using Kaplan-Meier
+analysis, we validated our predictive model on four independent publicly available datasets (GSE39582, GSE17536,
+GSE37892, and GSE17537) from the GEO database, consisting of 925 colon cancer patients.
+Results: A five-transcription-factors based predictive model for colon cancer prognosis has been developed by
+using TCGA colon cancer patient data. Five transcription factors identified for the predictive model is HOXC9,
+ZNF556, HEYL, HOXC4 and HOXC6. The prediction power of the model is validated with four GEO datasets
+consisting of 1584 patient samples. Kaplan-Meier curve and log-rank tests were conducted on both training and
+validation datasets, the difference of overall survival time between predicted low and high-risk groups can be
+clearly observed. Gene set enrichment analysis was performed to further investigate the difference between low
+and high-risk groups in the gene pathway level. The biological meaning was interpreted. Overall, our results prove
+our prediction model has a strong prediction power on colon cancer prognosis.
+Conclusions: Transcription factors can be used to construct colon cancer prognostic signatures with strong
+prediction power. The variable selection process used in this study has the potential to be implemented in the
+prognostic signature discovery of other cancer types. Our five TF-based predictive model would help with
+understanding the hidden relationship between colon cancer patient survival and transcription factor activities. It
+will also provide more insights into the precision treatment of colon cancer patients from a genomic information
+perspective.

@@ -1,0 +1,20 @@
+Background: Rheumatoid arthritis (RA) is characterized by systemic inflammation and bone and muscle loss.
+Recent research showed that obesity facilitates inflammation, but it is unknown if obesity also increases the risk or
+severity of RA. Further research requires an accurate quantification of muscle volume and fat content.
+Methods: The aim was to develop a reproducible (semi) automated method for hand muscle segmentation and
+quantification of hand muscle fat content and to reduce the time consuming efforts of manual segmentation. T1
+weighted scans were used for muscle segmentation based on a random forest classifier. Optimal segmentation
+parameters were determined by cross validation with 30 manually segmented hand datasets (gold standard). An
+operator reviewed the automatically created segmentation and applied corrections if necessary. For fat
+quantification, the segmentation masks were automatically transferred to MRI Dixon sequences by rigid registration.
+In total 76 datasets from RA patients were analyzed. Accuracy was validated against the manual gold standard
+segmentations.
+Results: Average analysis time per dataset was 10 min, more than 10 times faster compared to manual outlining.
+All 76 datasets could be analyzed and were accurate as judged by a clinical expert. 69 datasets needed minor
+manual segmentation corrections. Segmentation accuracy compared to the gold standard (Dice ratio 0.98 ± 0.04,
+average surface distance 0.04 ± 0.10 mm) and reanalysis precision were excellent. Intra- and inter-operator precision
+errors were below 0.3% (muscle) and 0.7% (fat). Average Hausdorff distances were higher (1.09 mm), but high
+values originated from a shift of the analysis VOI by one voxel in scan direction.
+Conclusions: We presented a novel semi-automated method for quantitative assessment of hand muscles with
+excellent accuracy and operator precision, which highly reduced a traditional manual segmentation effort. This
+method may greatly facilitate further MRI image based muscle research of the hands.

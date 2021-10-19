@@ -1,0 +1,22 @@
+Background: Data collection is the most critical stage in any population health study and correctly implementing
+fieldwork enhances the quality of collected information. However, even the most carefully planned large-scale
+household surveys can encounter many context-specific issues. This paper reflected on our research team’s recent
+experience conducting surveys for a quasi-experimental evaluation of a reproductive health program in urban areas
+of Karachi, Pakistan. We aim to describe the issues encountered and lessons learned from this process, and present
+some potential solutions for conducting future household surveys in similar urban environments.
+Methods: The study followed a three-stage random sampling design. Initially, a Geographical Information System
+(GIS) was used to construct the sampling frame with union council (UC) area mapping and cluster demarcation
+followed by random selection of clusters in the selected UCs within the intervention and control sites. The second
+stage involved a complete household listing in selected clusters and the final stage was a random sampling of
+households with eligible women.
+Result: This paper describes the issues that were encountered including technical problems related to GIS
+demarcation of cluster boundaries and hand-held devices for computer assisted personal interviews (CAPI), household
+listing, interviewing respondents on sensitive topics and their expectations, and ensuring privacy during the survey.
+Conclusion: This study identifies a number of unique barriers to conducting household surveys in Karachi and
+highlights some key lessons for survey research in urban settlements. GIS mapping technology is a cost-effective
+method for developing sampling frames in resource-constrained settings. Secondly, the strategy of interviewing
+women immediately after the cluster is listed may be applied to make it easier to re-locate selected respondents and
+to reduce loss-to-follow up. Understanding local norms and developing culturally appropriate strategies to build trust
+with communities may significantly improve survey participation. Researchers should hire experienced female
+enumerators and provide continuous training on best practices for interviewing women on sensitive reproductive
+health topics in urban communities.

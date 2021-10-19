@@ -1,0 +1,14 @@
+Objectives: We aimed to identify high-risk factors for disease progression and fatality for coronavirus disease 2019
+(COVID-19) patients.
+Methods: We enrolled 2433 COVID-19 patients and used LASSO regression and multivariable cause-specific Cox
+proportional hazard models to identify the risk factors for disease progression and fatality.
+Results: The median time for progression from mild-to-moderate, moderate-to-severe, severe-to-critical, and criticalto-
+death were 3.0 (interquartile range: 1.8–5.5), 3.0 (1.0–7.0), 3.0 (1.0–8.0), and 6.5 (4.0–16.3) days, respectively. Among
+1,758 mild or moderate patients at admission, 474 (27.0%) progressed to a severe or critical stage. Age above 60 years,
+elevated levels of blood glucose, respiratory rate, fever, chest tightness, c-reaction protein, lactate dehydrogenase,
+direct bilirubin, and low albumin and lymphocyte count were significant risk factors for progression. Of 675 severe or
+critical patients at admission, 41 (6.1%) died. Age above 74 years, elevated levels of blood glucose, fibrinogen and creatine
+kinase-MB, and low plateleta count were significant risk factors for fatality. Patients with elevated blood glucose
+level were 58% more likely to progress and 3.22 times more likely to die of COVID-19.
+Conclusions: Older age, elevated glucose level, and clinical indicators related to systemic inflammatory responses
+and multiple organ failures, predict both the disease progression and the fatality of COVID-19 patients.

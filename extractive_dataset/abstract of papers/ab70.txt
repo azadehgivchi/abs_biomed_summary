@@ -1,0 +1,13 @@
+Abstract
+Background: Although the major anticancer effect of metformin involves AMPK-dependent or AMPK-independent
+mTORC1 inhibition, the mechanisms of action are still not fully understood.
+Methods: To investigate the molecular mechanisms underlying the effect of metformin on the mTORC1 inhibition,
+MTT assay, RT-PCR, and western blot analysis were performed.
+Results: Metformin induced the expression of ATF4, REDD1, and Sestrin2 concomitant with its inhibition of
+mTORC1 activity. Treatment with REDD1 or Sestrin2 siRNA reversed the mTORC1 inhibition induced by metformin,
+indicating that REDD1 and Sestrin2 are important for the inhibition of mTORC1 triggered by metformin treatment.
+Moreover, REDD1- and Sestrin2-mediated mTORC1 inhibition in response to metformin was independent of AMPK
+activation. Additionally, lapatinib enhances cell sensitivity to metformin, and knockdown of REDD1 and Sestrin2
+decreased cell sensitivity to metformin and lapatinib.
+Conclusions: ATF4-induced REDD1 and Sestrin2 expression in response to metformin plays an important role in
+mTORC1 inhibition independent of AMPK activation, and this signalling pathway could have therapeutic value.

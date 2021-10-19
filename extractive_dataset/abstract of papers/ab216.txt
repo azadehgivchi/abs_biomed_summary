@@ -1,0 +1,16 @@
+Background: Transitioning from an old medical coding system to a new one can be challenging, especially when
+the two coding systems are significantly different. The US experienced such a transition in 2015.
+Objective: This research aims to introduce entropic measures to help users prepare for the migration to a new
+medical coding system by identifying and focusing preparation initiatives on clinical concepts with more likelihood of
+adoption challenges.
+Methods: Two entropic measures of coding complexity are introduced. The first measure is a function of the variation
+in the alphabets of new codes. The second measure is based on the possible number of valid representations of
+an old code.
+Results: A demonstration of how to implement the proposed techniques is carried out using the 2015 mappings
+between ICD-9-CM and ICD-10-CM/PCS. The significance of the resulting entropic measures is discussed in the context
+of clinical concepts that were likely to pose challenges regarding documentation, coding errors, and longitudinal
+data comparisons.
+Conclusion: The proposed entropic techniques are suitable to assess the complexity between any two medical coding
+systems where mappings or crosswalks exist. The more the entropy, the more likelihood of adoption challenges.
+Users can utilize the suggested techniques as a guide to prioritize training efforts to improve documentation and
+increase the chances of accurate coding, code validity, and longitudinal data comparisons.

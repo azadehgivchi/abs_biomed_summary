@@ -1,0 +1,22 @@
+Backgrounds: Myopia has become a global public health problem. Children with early onset of myopia are at
+particular risk of complications associated with myopia. Younger children and children with greater initial myopic
+refractive errors are at a greater risk of myopia progression. Therefore, it is essential to identify subjects at high risk
+of developing myopia to facilitate myopia prevention in the early stage, especially during the preschool period. The
+purpose of this study was to determine whether premyopia and myopia in preschool children can be predicted by
+easily obtainable parameters.
+Methods: Data was collected in a population-based cohort. Comprehensive examinations included height, weight,
+refraction, axial length (AL), and corneal radius of curvature (CR), with a follow-up of 2 years. Parental myopia history
+was obtained from a questionnaire. Myopia was defined as spherical equivalent (SE)≤−0.50 D. Premyopia was
+defined as − 0.50 D < SE ≤ + 0.75 D. Multivariate linear regression models were fitted to determine the associations
+between these parameters at baseline and future SE. To predict premyopia and myopia, Cox proportional hazard
+regression analysis coupled with a nomogram was used.
+Results: A total of 830 children (433 boys and 397 girls) were included (40.83 ± 3.43 months old at baseline). A
+significantly negative relationship was observed in the multivariate analysis between baseline AL, AL/CR, two
+myopic parents, and the future SE after adjusting for age and gender (coefficient = − 0.291, coefficient = − 5.791,
+coefficient = − 0.273, respectively, both p < 0.001). Higher baseline AL, AL/CR (hazard ratio (HR) = 4.916, HR = 2.979,
+respectively, comparing the top quartile with the bottom quartile, both p < 0.001) and two myopic parents (HR =
+1.756, compared to no myopic parents, p = 0.001) were associated with a higher risk of future onset of premyopia.
+From the nomogram, AL/CR was found to have the most enormous effect on survival. Different baseline AL and
+AL/CR values (both Log Rank p < 0.001) had different survival curves.
+Conclusions: AL and AL/CR could be used as obtainable indicators for identifying subjects at high risk of developing
+premyopia and myopia in young preschool children.

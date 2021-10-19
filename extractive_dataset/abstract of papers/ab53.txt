@@ -1,0 +1,21 @@
+Background: Stable coronary artery disease (CAD) patients with myocardial damage have a poor prognosis compared to those without myocardial damage. Recently, malnutrition has been reported to afect the prognosis of
+cardiovascular diseases. However, the efects of malnutrition on prognosis of CAD patients with myocardial damage
+remains uncertain. We investigated the efects of malnutrition on prognosis of CAD patients with myocardial damage
+who received percutaneous coronary intervention (PCI).
+Methods: Subjects comprised 241 stable CAD patients with myocardial damage due to myocardial ischemia or
+infraction. Patients underwent successful revascularization for the culprit lesion by PCI using second-generation drugeluting stents and intravascular ultrasound. The geriatric nutritional risk index (GNRI), which is widely used as a simple
+method for screening nutritional status using body mass index and serum albumin, was used to assess nutritional
+status. Associations between major cardiovascular and cerebrovascular events (MACCE) and patient characteristics
+were assessed.
+Results: Mean GNRI was 100±13, and there were 55 malnourished patients (23%; GNRI<92) and 186 non-malnourished patients (77%). MACCE occurred within 3 years after PCI in 42 cases (17%), including 34 deaths (14%), and
+the malnourished group showed a higher rate of MACCE (38%) compared with the non-malnourished group (11%,
+p<0.001). Univariate Cox proportional hazards analyses showed that MACCE was associated with age [hazard ratio
+(HR), 1.04; 95% confdence interval (CI), 1.04–1.07; p=0.004], prior heart failure (HR 2.35; 95% CI 1.10–5.01; p=0.027),
+high-sensitivity C-reactive protein (HR 1.08; 95% CI 1.03–1.11; p<0.001), hemodialysis (HR 2.63; 95% CI 1.51–4.58;
+p<0.001) and malnutrition (HR 3.69; 95% CI 2.11–6.42; p<0.001). Multivariate Cox proportional hazards analysis
+revealed hemodialysis (HR 2.17; 95% CI 1.19–3.93; p=0.011) and malnutrition (HR 2.30; 95% CI 1.13–4.67; p=0.020) as
+signifcantly associated with MACCE. Furthermore, Cox proportional hazards models using malnutrition and hemodialysis revealed that patients with malnutrition and hemodialysis were at greater risk of MACCE after PCI than patients
+with neither malnutrition nor hemodialysis (HR 6.91; 95% CI 3.29–14.54; p<0.001).
+Conclusions: In CAD patients with myocardial damage, malnutrition (GNRI<92) represents an independent risk
+factor for MACCE. Assessment of nutritional status may help stratify the risk of cardiovascular events and encourage
+improvements in nutritional status.

@@ -1,0 +1,18 @@
+Background: The public health burden of undernutrition remains heavy and widespread, especially in low-income
+countries like Nepal. While predictors of undernutrition are well documented, few studies have examined the effects
+of political will and quality of policy or program implementation on child growth.
+Methods: Data were collected from two nationwide studies in Nepal to determine the relationship between a metric
+of nutrition ‘governance’ (the Nutrition Governance Index), derived from interviews with 520 government and nongovernment
+officials responsible for policy implementation and anthropometry measured for 6815 children in 5556
+households. We employed Generalized Estimating Equation (GEE) and multilevel regression models.
+Results: A higher NGI (more effective nutrition governance) is positively associated with height-for-age as well
+as weight-for-height in children over 2 years of age compared to younger children (HAZ; β = 0.02, p < 0.004, WHZ;
+β = 0.01, p < 0.37). Results from the hierarchical model show that a one-point increase in the NGI is significantly associated
+with a 12% increase in HAZ and a 4% increase in WHZ in older children (> 24 months old). Mothers’ education,
+child’s age, BMI and no fever in the past 30 days were also protective of stunting and wasting. Seven percent and 17%
+of the overall variance in HAZ and WHZ, respectively, are accounted for by variations across the 21 district locations in
+which sampled households were located. Mean HAZ differs considerably across districts (intercept = 0.116, p < 0.001).
+Conclusions: These results highlight the importance of effective management of policy-based programming and
+resource use to bring about nutrition gains on the ground. The NGI explained a non-negligible amount of variation in
+HAZ and WHZ, which underscores the fundamental role that good governance plays in promoting child nutrition and
+growth, and the value of seeking to measure it to assist governments in moving policies from paper to practice.

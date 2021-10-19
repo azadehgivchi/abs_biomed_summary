@@ -1,0 +1,276 @@
+Background
+Te use of chest computed tomography (CT) has shown a
+greater diagnostic sensitivity and specifcity compared to
+chest-X ray in patients with SARS-CoV-2 pneumonia [1].
+Tree main phenotypes on chest CT have been described
+with potential implications for clinical management:
+multiple bilateral ground glass opacities (phenotype one), 
+unhomogeneously distributed atelectasis with peribronchial infltrates (phenotype two) and development of an
+ARDS-like pattern (phenotype three)  [2]. Some studies
+[3] suggest that in the phenotype one, the compliance
+of the respiratory system is higher despite the patient’s
+hypoxemia, thus lower to moderate levels of PEEP may
+redistribute pulmonary fow and reduce shunt. In the
+phenotype two and three, a progressive predominance
+of atelectasis occurs, which might beneft to moderate to higher levels of PEEP as well as prone position to
+recruit non-ventilated lung regions although other studies reported conficting results [4, 5]. On the other hand,
+some of these studies have denied the existence of atelectasis in the SARS-CoV-2 pneumonia patient, expressing
+that they are exceptional (less than 5%), and clinically
+postulated that recruitment maneuvers are contraindicated [6]. We hypothesized that patients with SARSCoV-2 pneumonia had higher prevalence of atelectasis
+and that larger compared to smaller amount of atelectasis
+were associated with worse oxygenation and poor clinical
+outcome.
+Te present study aims to estimate the prevalence of
+atelectasis in patients with SARS-CoV-2 pneumonia
+and determine whether the amount of these atelectasis may be associated with the clinical outcome in terms
+of oxygen therapy need, Intensive Care Unit admission
+rate, length of in-hospital stay and secondly, in-hospital
+mortality.
+Patients and methods
+Study population
+Tis retrospective study was approved by the Ethical
+Committee for Medical Research of Puerta de Hierro
+Majadahonda Universitary Hospital (Madrid, Spain)
+on 29 June 2020. Te electronic medical records were
+reviewed and analyzed. All methods have been carried in
+accordance with current regulations and guidelines. All
+patients were aged>18 years and informed consent was
+obtained before performing the chest CT. We analyzed
+237 patients who underwent a contrast-enhanced chestCT pulmonary angiography (CTPA) between April 1 and
+April 30, 2020. From this group of patients, we selected
+those patients who were admitted to the hospital with
+SARS-CoV-2 pneumonia diagnosed by clinical, radiology and molecular tests in the nasopharyngeal swab
+who underwent a chest computed tomography (Fig.  1).
+CTPA examinations were performed in multi-detector
+CT scanners (Aquilion Prime SP, Canon Medical Systems
+and Somatom Sensation, Siemens Healthineers) using a
+standard CTPA protocol. Te whole chest was scanned
+from lowest hemidiaphragm to lung apex, in the supine
+position. All patients were instructed to hold breath, and
+CTPA images were acquired during a single breath-hold.
+Scan parameters were as follows: tube voltage of 120 kV,
+tube current of 100–300  mA·s, collimation of 64×0.6–
+0.625  mm, pitch of 0.937–1.0, gantry rotation time of
+0.5  s. Nonionic iodinated contrast media, (50–70  mL,
+iomeprol 400  mg/mL) was injected via an antecubital
+vein at a fow rate of 4 mL/s followed by a 25 mL saline
+fush using a mechanical power injector. Automatic
+bolus-tracking technique with the region of interest positioned at the level of the main pulmonary artery and a
+trigger threshold of 120 HU, and a fxed delay of 5 s was
+employed. Images were reconstructed at 3 mm thickness
+in axial and coronal planes. Source images were transmitted to workstations for multiplanar reconstructions and
+to picture archiving and communication systems (PACS).
+After the analysis of the CT study, the patients were
+classifed into three groups (Figs. 1, 2): (a) those who did
+not present atelectasis, (b) those who presented small
+atelectasis (laminar, subsegmentary or segmentary atelectasis with estimated size of less than 5% of the forecasted lung volume) (small atelectasis hereinafter) and
+(c) those with signifcant atelectasis (atelectasis with
+estimated size of more than 5% of the forecasted lung
+volume) or a complete lobe collapse (large atelectasis
+hereinafter). In this sense, one radiologist specialized in
+SARS-CoV-2 pneumonia performed a visual assessment
+based on the single slice in the CT with the largest atelectasis size and compared it to the estimated lung volume, classifying the patients into these three groups. We
+choose the 5% of lung surface as a cut-of point according to our capacity to detect and quantitate the % of lung
+with atelectasis. Table 1 shows basal characteristics of the
+patients that accomplished the inclusion criteria (including time from the beginning of symptoms).
+Clinical and radiological severity
+In order to assess the clinical severity of pneumonia, the
+patient’s score on the CURB 65 scale was collected upon
+hospital admission [7] [see Additional fle  1]. One radiologist (the same for all patients) specialized in SARSCoV-2 pneumonia thoracic imaging studies used a
+semi-quantitative scoring system with a visual assesment
+[8] to estimate the pulmonary involvement of all these
+abnormalities on the basis of the area involved, based on
+the chest CT fndings described by Wong et al. in 2003
+and 2004 [9, 10]. Each of the fve lung lobes was visually scored on a scale of 0 to 5: 0: no involvement; 1: less
+than 5% involvement; 2: 5–25% involvement; 3: 26–49%
+involvement; 4: 50–75% involvement; 5: more than 75%
+involvement. Te total CT score was the sum of the individual lobar scores and ranged from 0 (no involvement)
+to 25 (maximum involvement). Te patients underwent
+the chest CT study because of a respiratory worsening
+(decrease Pa/Fi O2, increase in oxygen therapy support)
+and in no circumstance for scientifc purposes.
+Oxygenation and oxygen therapy need
+Sat O2/FiO2 ratio from each patient was collected as an
+indirect estimate of lung oxygenation capacity [11] at
+two moments: at the time of the chest CT and the worse 
+ratio during the hospitalization. Te number of days that
+each patient needed to maintain the most intensive oxygen therapy (the one with the greatest fow and FiO2)
+received during admission was also collected.
+Other variables with prognostic interest
+In addition, outcome variables that have value when it
+comes to the analysis of the prognosis, such as in-hospital
+mortality, days of admission to the ICU (if required) or
+total days of hospitalization were collected. We adjusted
+in-hospital mortality based on the presence of pulmonary embolism (PE) by comparing the mortality between
+the groups with PE versus no PE (since the reason for
+inclusion in the study was the performance of a chest
+CT due to a respiratory worsening, including suspect of
+PE associated with SARS-CoV-2 pneumonia, Additional
+fle 1).
+Data storage
+After obtaining the consent of the ethics committee
+to record the data from the informatic patient’s clinical
+reports, a database using the software FileMaker Pro version 18.0.3.317 in a MacOS operating system was organized. In this database, the personal data of the patients
+were adequately encoded to guarantee data protection.
+Statistical processing
+Data from the prevalence of atelectasis, ICU admission
+rate and mortality are shown as percentage of the group.
+Lung oxygenation capacity, length of in-hospital stay and
+days with higher oxygen therapy are shown as median
+(p25, p75). For the analysis of quantitative variables, a
+normality test was carried out and then an ANOVA test
+was performed to test if there were diferences between
+the three groups (or a Kruskal Wallis test if the data set
+did not ft the normal distribution). If this analysis was
+signifcant, two-by-two post hoc comparisons (Bonferroni test or Dunn’s test) were carried out between the
+groups in order to correct for multiple comparisons.
+For the analysis of qualitative variables, after checking if
+the collected variable met the minimum characteristics
+required, a χ2
+ test was done. If this analysis was signifcant, two-by-two post hoc comparisons (χ2
+ or Fisher test)
+were carried out between the groups. Statistical analysis
+was carried out using Prism Graphpad version 8.0 software. Statistical signifcance was assumed for two-tailed
+p<0.05. Sensitive data of the patients (name, surname,
+medical record number, etc.) transferred to this software,
+were duly encoded.
+Results
+From the 237 patients analyzed, 155 patients (111 males
+and 44 females; mean age 68.8±13.9  years) met the
+inclusion criteria. Basal characteristics of the patients are
+shown in Table 1. Indeed, up to 38 patients (24%) showed
+some degree of atelectasis at chest CT: 30 (19%) patients
+showed small atelectasis in the chest CT and 8 patients
+(5%) showed large atelectasis.
+SatO2/FiO2 ratio diferences were found among the
+groups (p<0.01) (Fig. 3). In the group without atelectasis, we found a SatO2/FiO2 ratio of 357 (230 to 438), compared to 411 (331 to 453) in those with small atelectasis
+(p=0.07) and to 182 (113 to 359) in those with large atelectasis (p=0.17). SatO2/FiO2 ratio was lower in patients
+with large compared to small atelectasis (p=0.01).
+Te worst SatO2/FiO2 ratio was diferent among groups
+(p=0.03), being 300 (range 99 to 431) in the patients
+without atelectasis, 379 (range 247 to 453) in patients
+with small atelectasis (p=0.05), and 182 (range 113 to
+359) in patients with large atelectasis (p=0.37). Te
+worst SatO2/FiO2 ratio was lower in patients with large
+compared to small atelectasis (p=0.05).
+In addition, in the no atelectasis group and in the
+small atelectasis group, the need for Intensive Care
+Unit admission rate was lower compared to large atelectasis group (p < 0.01). In this sense, in the group of
+patients without atelectasis 18 patients (15%) needed
+to be admitted in the ICU, compared to 2 patients
+(7%) in the group of small atelectasis (p=0.37) and
+to 6 patients (75%) in the group of larger atelectasis
+(p < 0.01). Indeed, ICU admission rate was lower in
+patients with small atelectasis compared to large atelectasis (p < 0.01).
+Te length of in-hospital stay was diferent among
+groups (p=0.01). Patients with no atelectasis required
+15 (7 to 23) days of in-hospital admission, compared
+to 14 (6 to 23) days in patients with small atelectasis
+(p=0.99) and to 40 (17 to 54) days in patients with
+large atelectasis (p=0.02) (Fig. 4). Te length of in-hospital stay was longer in patients with large compared to
+small atelectasis (p=0.01).
+Te duration of oxygen therapy was diferent among
+groups (p=0.04). Patients without atelectasis needed
+to maintain it for 6 (3 to 10) days, compared to 5 (5 to
+10) days in patients with small atelectasis (p=0.48),
+and to 20 (4 to 37) days in those with large atelectasis (p=0.04). Furthermore, diferences were found
+between these last two groups (p=0.02).
+In-hospital mortality was not diferent among groups
+(p=0.55). Te percentage of patients who died in-hospital was 11% in patients without atelectasis compared
+to 6,7% in patients with small atelectasis and 12.5% of
+patients with large atelectasis. Adjusting for PE, (see
+Additional fle  1 for more information), in the no atelectasis group, 19% of the patients with PE deceased compared to 6.9% of mortality in those who did not
+have PE. In patients with small atelectasis, no patients
+with PE deceased (0%), while 8.3% of the patients died
+in the group without PE. In the group of patients with
+large atelectasis 33% of patients with PE died while
+none (0%) of patients without PE died in-hospital.
+Discussion
+In the present study we found that in patients with
+SARS-CoV-2 pneumonia the prevalence of atelectasis
+was 24%. Among them, 19% of the patients showed small
+atelectasis and 5% of the patients showed large atelectasis. Patients with larger compared to smaller atelectasis
+showed less SatO2/FiO2 ratio, higher rate of ICU admission and longer length of in-hospital stay. Among the few
+published studies investigating atelectasis in chest CT
+in SARS-CoV-2 pneumonia patients, our study includes
+the largest number of patients (237 patients screened, of
+whom 155 patients met all entry criteria). In our study,
+the prevalence of atelectasis was 24% which is higher
+than the previously reported (around 5%) [12]. However,
+previous studies did not focus on atelectasis but generally describing the most frequently patterns at chest CT
+scans [13, 14]. Furthermore, the greatest prevalence of
+atelectasis was mostly composed by mild, segmental or
+subsegmental atelectasis. No previous study separated
+smaller and larger atelectasis associated with the clinical
+outcome. We made this distinction based on proposed
+pathophysiology of the SARS-CoV-2 pneumonia and its
+relationship with oxygenation: it has been suggested that
+the progression of the disease would be associated with
+more severe hypoxia [15]. Currently and from anatomopathological studies carried out on patients with ARDS,
+we know that in addition to difuse alveolar injury and
+hyaline membrane formation (typical of all ARDS and
+VILI), there are areas of dead space that worsen gas
+exchange even more [16]. Moreover, the hypoxic pulmonary vasoconstriction refex (Euler-Liljestrand mechanism [17]) may further worsen ischemic and thrombotic
+phenomena in the lung. Patients with large atelectasis
+showed a tendency to a greater involvement of lung tissue by SARS-CoV-2 pneumonia than in those without
+and small atelectasis. In fact, they required a higher ICU
+admission rate, with greater need of intubation and invasive mechanical ventilation. In addition, patients with
+larger atelectasis showed worse oxygenation ratios (Sat
+O2/FiO2) during admission and had a longer in-hospital
+stay (nearly the double than in patients with small or no
+atelectasis). Previous studies reported a lower incidence
+of atelectasis in patients with COVID-19 pneumonia
+[3]. Our data suggest that the presence of large atelectasis may be a factor afecting progressive evolution to
+the ARDS [16]. Te Sat O2/FiO2 ratio and atelectasis
+detection by chest CT might be two valuable tools for
+the lung function assessment of these patients and hence
+might be helpful to predict those patients who will need
+mechanical ventilation, ICU admission and prolonged
+length of in-hospital stay. In-hospital mortality was not
+diferent among patients with no, small or large atelectasis. Tis can be explained by the fact that mortality rate
+of SARS-CoV-2 pneumonia is not only related to pulmonary injury, but also to development of multiple organ
+failures [18]. Te development of signifcant atelectasis
+favors more chances of respiratory complications and a
+higher morbidity with greater risk of ICU admission and
+need for invasive mechanical ventilation. Te establishment of an early treatment with non-invasive respiratory
+ventilation to reverse atelectasis or prevent their progression, together with intensive surveillance or in intermediate care, could prevent a progression of lung injury with
+a worse outcome in patients in which this condition is
+detected.
+Our study has several limitations to be addressed.
+First, this is a retrospective study, but in a situation of
+healthcare collapse, it was impossible to carry out prospective studies which need more time for approval
+and organization. However, our hospital has all the
+computerized medical history data, making data collection very reliable. We do recognize that a number
+of patients that were included in the study did not have
+a specifc medical record (it was even, in a number of
+cases, the frst time to come to the hospital). Second,
+we selected all the chest CT scans in the period with
+the highest incidence of SARS-CoV-2 pneumonia in
+our hospital, with high clinical suspicion of PE. Additionally, the scale we used to measure the severity of the
+pulmonary afection in chest CT ([8], shown in Additional fle 1), based on the fndings of Wong KT et al. [9,
+10], takes into account the percentage of lobar infltration and even pleural efusion, which could be logically
+associated with worst outcome. However, there were
+no diferences between the large atelectasis group and
+the other groups in this scale. Regarding atelectasis, the
+same radiologist carried out a visual quantifcation by
+lobes for every scan in order to reduce heterogeneity
+between various radiologists. Tird, the group without atelectasis might not be considered as a standard
+control group but a group of patients with signifcant
+oxygenation impairment due to several causes (including PE), hence introducing a possible selection bias as
+patients without atelectasis and mild infection would
+not be represented. However, this makes our study’s
+fndings even more relevant in relation to the diferences between the group of large atelectasis (which
+indeed is composed by a reduced number of patients, 8)
+and its relationships with outcome compared with the
+other groups. We did not evaluate complications occurring during the hospital stay, but we do know that there
+are several diferences between the groups regarding
+oxygenation, oxygen-therapy needs, ICU admission and
+days of hospitalization. Whether if these diferences are
+associated directly or indirectly to atelectasis has to be
+determined on further studies.
+Conclusions
+In patients with SARS-CoV-2 pneumonia, atelectasis might
+appear in up to 24% of patients and the presence of larger
+amount of atelectasis is associated with worse oxygenation and clinical outcome. Patients with larger atelectasis
+requires more intensive surveillance and might beneft of
+open lung techniques.

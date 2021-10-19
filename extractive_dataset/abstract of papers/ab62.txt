@@ -1,0 +1,18 @@
+Abstract
+Background: Predicting difficult airway is challengeable in patients with limited airway evaluation. The aim of this
+study is to develop and validate a model that predicts difficult laryngoscopy by machine learning of neck
+circumference and thyromental height as predictors that can be used even for patients with limited airway
+evaluation.
+Methods: Variables for prediction of difficulty laryngoscopy included age, sex, height, weight, body mass index,
+neck circumference, and thyromental distance. Difficult laryngoscopy was defined as Grade 3 and 4 by the
+Cormack-Lehane classification. The preanesthesia and anesthesia data of 1677 patients who had undergone general
+anesthesia at a single center were collected. The data set was randomly stratified into a training set (80%) and a
+test set (20%), with equal distribution of difficulty laryngoscopy. The training data sets were trained with five
+algorithms (logistic regression, multilayer perceptron, random forest, extreme gradient boosting, and light gradient
+boosting machine). The prediction models were validated through a test set.
+Results: The model’s performance using random forest was best (area under receiver operating characteristic
+curve = 0.79 [95% confidence interval: 0.72–0.86], area under precision-recall curve = 0.32 [95% confidence interval:
+0.27–0.37]).
+Conclusions: Machine learning can predict difficult laryngoscopy through a combination of several predictors
+including neck circumference and thyromental height. The performance of the model can be improved with more
+data, a new variable and combination of models.

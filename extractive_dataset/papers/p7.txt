@@ -1,0 +1,498 @@
+Background
+Childhood obesity is one of the major challenges in developed
+and developing countries where the prevalence
+of obesity amongst secondary school children has increased
+in the last few decades [1, 2]. Childhood obesity
+is a major concern for policy makers because overweight
+and obese children are likely to remain obese into adulthood
+[3]. They are also more likely to develop noncommunicable
+diseases at a younger age and have a
+shorter life expectancy. One of the main reasons behind
+the growing childhood obesity epidemic is low levels of
+physical activity. A systematic review showed a high
+prevalence of insufficient physical activity among adolescents
+needed for the maintenance and development of
+cardiovascular health and cardiopulmonary fitness [4].
+Previous literature showed evidence of a steep decline in
+physical activity among boys after primary school years,
+and low levels of activity among girls throughout
+primary and high school years, with adolescent years experiencing
+the largest declines [5, 6]. Given that adolescence
+is a crucial phase to develop and establish healthy
+lifestyle behaviours, it is important to explore potential
+interventions that focuses on increasing physical activity
+during adolescent years [7].
+A strategy that is particularly promising among adolescents
+is social norm messages [8]. This is based on the
+notion that individuals use peer norms as a standard to
+compare their own behaviours. Adolescents care about
+how they perform against their peers or whether their
+behaviour is approved by others [9], as childhood (including
+adolescence) is a formative period when friends
+are primary points of reference in deciding which behaviours
+and values are desirable and which are not [10]. In
+fact, in studies conducted with adolescents, peer influence
+was found to be a significant correlate of physical
+activity [11].
+Descriptive social norm is the perceptions about the
+prevalence of a specific behaviour. According to Social
+Cognitive Theory, perceptions of others’ behaviour lead
+to behaviour change in an individual [12]. This has been
+used to change several unhealthy behaviours, such as alcohol
+and drug use, gambling and recycling [13, 14]. Recent
+studies have used descriptive norms where study
+participants were presented with physical activity information
+of others, and found significant association between
+receiving descriptive norms and self-reported
+physical activity, intention to be active or attitude toward
+physical activity [15–17]. However, none of these studies
+used an objective assessment of physical activity (e.g.,
+steps directly extracted from pedometers) to measure
+the study outcome.
+Previous studies also showed that descriptive norms
+feedback is helpful in promoting the intended behaviour
+for individuals who are worse than the norm. However,
+this may lead to decline in intended behaviour for individuals
+who are already better than the norm [18, 19].
+Disclosing descriptive norm information with personal
+identification may overcome this problem. It was reported
+that individuals are more likely to adhere to
+norms when their behaviour is observable by other individuals
+[20, 21]. This could be explained by their desire
+to fulfil others’ expectations and their concern about
+how adherence or non-adherence to social norms may
+affect their reputation. As such, individuals who know
+that their information will be shared with others may be
+more motivated to achieve a goal visible to others, regardless
+of their state of activity.
+In this study, we tested whether providing descriptive
+norm messages with personal identification (Onymous
+Arm) increases physical activity among adolescents compared
+to providing descriptive norm messages without
+personal identification (Anonymous Arm). Adolescents
+aged 13 to 16 were randomized into one of two arms,
+and each arm consisted of 13 groups of 12 participants.
+Participants in the Anonymous Arm received information
+on the step counts of their group members ranked
+from highest to lowest, while participants in the
+Onymous Arm received the same information plus the
+full names of their group members next to the respective
+step counts. We hypothesized that the average number
+of steps taken by adolescents will be higher when descriptive
+norm message is onymous compared to when
+it is anonymous. We also investigated the trajectories of
+physical activity. We hypothesized that, among those in
+Onymous Arm, girls and those who know other participants
+in their group will be more likely to be in a trajectory
+with increasing step counts because perceived peer
+pressure tends to be stronger among females than
+among males [22, 23] and among those who know each
+other compared to those who do not [24]. The secondary
+aim of this study was to investigate the quality of life,
+depression, social support, self-efficacy and physical activity
+enjoyment of participants in both arms before and
+after the trial.
+Methods
+Recruitment and Eligibility
+Between December 2016 to December 2017, 342 participants
+were recruited on a rolling basis. Recruitment was
+achieved via a combination of different recruitment
+strategies such as newspaper advertisement and wordof-
+mouth. Individuals who were interested were asked to
+contact the study coordinator for their eligibility. To be
+eligible for the study, participants must be: (1) Singaporean
+or Singapore Permanent Resident; (2) between 13
+and 16 years old; (3) willing to wear a pedometer for 16
+weeks; and (4) English-speaking, which is the dominant
+language spoken by this age group in Singapore [25–28].
+Participants were also screened for exercise-related risks
+using Physical Activity Readiness Questionnaire (PARQ).
+A doctor’s approval was required if the participant
+answered “YES” to any of the items in PAR-Q.
+Eligible participants were invited to attend a briefing
+session by the study team at Duke-NUS Medical School
+Singapore. Informed consent was obtained according to
+the National University of Singapore-Institutional Review
+Board (NUS-IRB) protocol, both from the participant
+and one of the parents or guardians. Consenting
+participants were then issued a pedometer wristband
+and asked to complete the baseline assessment that included
+wearing the pedometer for 2 weeks and answering
+the baseline survey. The trial lasted 16 weeks and
+participants were compensated for SGD 50 (~USD
+36.23) upon completion of end-of-study survey.
+Sample Size Calculation
+The sample size calculation was powered to detect a mean
+difference of at least 0.25 standard deviations in the average
+number of steps taken by adolescents between the two
+study arms, accounting for the correlation between observations
+at the baseline and at 6 months. Based on 5% level
+of significance and a power of 80%, and by accounting for
+a potential 20% attrition, the target sample size was determined
+to be 312 (156 in each arm).
+Randomization and Intervention Design
+Randomization was performed after baseline assessment
+was completed. Of the 342 participants who registered
+for the study, 13 participants did not complete the baseline
+assessment and were excluded from the study.
+Eighteen of those who completed the baseline assessment
+were not contactable and were not included in the
+study. Participants were randomized based on gender
+and baseline step counts via block randomization. The
+randomization algorithm was pre-programmed by a statistician.
+The allocated arm was sealed in an envelope. A
+total of 311 participants who completed the baseline assessment
+(31 dropped out) were randomized to either
+Anonymous (n = 155) or Onymous (n = 156) Arms. The
+participants were informed of their allocated arms after
+they completed the baseline assessment. Since the aim
+of the intervention was to provide descriptive norm information
+about the participants, we could only start the
+intervention only when all 311 participants were recruited.
+However, since recruiting 311 participants could
+have taken us several months and we did not want participants
+who were recruited earlier in the study to lose
+interest, we decided to roll out the intervention in
+batches. A batch included one Anonymous Arm and
+one Onymous Arm, consisting of 12 participants in each
+arm. This method resulted in 13 batches in total. We
+chose 12 participants since we found this number to be
+large enough to create competition among group members,
+but small enough that participants can start the
+trial before they lose interest in the study. Figure 1
+shows the recruitment and randomization process.
+During the 16-week study period, both study arms received
+weekly notification of their physical activity performance
+from the past week via automated short
+message service (SMS). Participants were ranked according
+to the total step count accumulated in the past week
+within their group. For participants in the Anonymous
+Arm, the weekly information included step count ranked
+from the highest to lowest within all participants in the
+same group. Participants in the Onymous Arm received
+the same information plus the (real) full names of the
+participants next to the step count. To discourage lower
+levels of physical activity, those with a step count of zero
+were not included in the list for both arms.
+Participants were asked to complete a survey at both
+baseline and end of the study. The baseline survey captured
+socio-demographic information and self-reported
+physical activity. Paediatric Quality of Life (PedsQL)
+scale, Asian Adolescent Depression Scale (AADS), Social
+Support and Exercise scale, Physical Activity Self-
+Efficacy (PASES) scale, and Physical Activity Enjoyment
+Scale (PACES-8) were administered in both surveys. The
+end-of-study survey also included questions about participants’
+experience with the study and whether they
+knew participants in their group and in the study. The
+survey instruments developed for this study are provided
+as Additional File 1.
+Measures
+Steps (primary outcome)
+Steps were measured by a Fitbit Flex™ wireless pedometer.
+Fitbit devices have been validated in measuring step
+counts among healthy individuals [29]. The step counts
+recorded by the device can be easily visualized and monitored
+with a Fitbit account by synchronizing the data to
+an installed mobile phone or computer application.
+Average weekly number of steps was used for the
+analysis.
+Pediatric Quality of Life (PedsQL) Inventory Score
+Quality of life (QoL) was assessed using PedsQL™ 4.0
+Generic Core Scales, a 23-item scale that was developed
+to evaluate QoL in teenagers, and has been widely used
+in other pediatric QoL studies [30]. The scores were
+transformed on a scale of 0 to 100. Higher score indicates
+better QoL [31]. License was obtained to use this
+scale for this study.
+Asian Adolescent Depression Scale (AADS)
+Depressive symptoms were measured using AADS, a 20-
+item instrument that was developed in Singapore to 
+assess depression among adolescents [32], and has been
+successfully used in other studies [33]. The total score is
+the sum of the 20 items. Possible score for this instrument
+ranges between 20 to 100. A higher score indicates
+higher level of depressive symptoms, a total score that
+exceeds 80 is an indicator of depression [33].
+Social Support and Exercise (SSE) Survey
+Exercise-related support from family and friends was estimated
+using the Social Support and Exercise Survey
+[34]. This 13-item instrument evaluates the behaviour
+and attitude of family and friends toward their participation
+in exercise in the past 6 months with a 5-point
+Likert scale. Eleven of the 13 items measure supportive
+behaviour and attitude toward exercise, while two items
+measure negative social support associated with exercise.
+Reverse scoring was performed for the two items, measuring
+negative social support. A total score was generated
+by summing scores from both family and friends.
+Possible score for this scale ranges between 26 to 130. A
+higher positive support score reflects having received
+frequent positive support.
+Physical Activity Self-Efficacy (PASES) Scale
+This instrument contains 17 items that assess children’s
+self-efficacy in overcoming barriers to physical activity
+[35]. It is a dichotomous scale where “Yes” is coded as
+“1”, while “No” is coded as “0”. The total score ranges
+from 0 to 17. Higher score indicates a higher level of
+self-efficacy associated with physical activity.
+Physical Activity Enjoyment Scale (PACES-8)
+Enjoyment of physical activity was assessed using a set
+of 8 questions derived from an original 18-item scale to
+measure enjoyment [36]. Participants were asked to rate
+their level of exercise-related enjoyment on a 7-point
+Likert scale. Possible scores for PACES-8 range from 7
+to 57, with higher values reflecting greater enjoyment of
+physical activity.
+User experience
+Participants were asked to report their satisfaction with the
+intervention and level of participation. We also asked if they
+know anyone in the study or in their group, and their feelings
+when they ranked either the top or bottom five.
+Statistical analysis
+Analyses were done on an intention-to-treat basis for
+311 adolescents who were randomized into one of the
+arms. The missing data (i.e., zero steps) for the number
+of steps were imputed based on 30 multiple imputed
+datasets by employing predictive mean matching [37].
+Main analysis of primary outcome was conducted by
+comparing steps from the 155 participants in Anonymous
+Arm and 156 participants in the Onymous Arm.
+Secondary outcomes were analysed based on the completed
+surveys by the 138 participants in the Anonymous
+Arm and 144 participants from the Onymous Arm. For
+the secondary outcomes, scores were not computed if >
+50% of the items in the scale were missing [31]. The
+means of the completed items were imputed only if
+≥50% items were completed.
+We used a multilevel mixed-effects model to compare
+the differences between the two arms with random effects
+for groups and individual effects. In the mixedeffects
+model, we included the number of steps for the
+16 time points, comparing each week in the trial to the
+baseline.
+Group-based trajectory modelling was used to investigate
+the step trajectories over the trial period [38]. Following
+the methods from Nagin and Odgers (2010) [38]
+we identified 4 group trajectories based on the following
+considerations: 1) obtaining a minimal increase in the
+Bayes Information Criterion for an additional trajectory
+group, 2) obtaining for each trajectory group a close correspondence
+between the estimated probability of group
+membership and the proportion assigned to that group
+based on the posterior probability of group membership,
+3) ensuring that the average of the posterior probabilities
+of group membership for individuals assigned to each
+group exceeds a minimum threshold of 0.7, and 4) ensuring
+that the odds of correct classification based on
+the posterior probabilities of group membership exceed
+a minimum threshold of 5. The functional form of the
+trajectory for each group was based on the significance
+of the polynomial terms by iteratively dropping nonsignificant
+terms. Dummy variables on gender (female =
+1, otherwise = 0) and knowing other participants in the
+group (know someone = 1, otherwise = 0) were created.
+They were then interacted with the Onymous Arm
+dummy variable (Onymous arm = 1, Anonymous arm =
+0) and were used as predictors of trajectory group membership.
+All statistical analysis was performed using Stata
+15 [39].
+Results
+Table 1 presents baseline characteristics of the two study
+arms. The average age was 14.6 ± 1.0 years and most participants
+(42.9%; 95% confidence interval (CI) = 37.3–
+48.6%) were in their 4th year of secondary school. Consistent
+with Singapore’s population demographics, most
+participants were Chinese (89.4%; CI = 85.4–92.6%).
+There were more females (67.9%; CI = 62.3–73.0%) than
+males in the study. The median time spent outdoors was
+2.5 and 3.5 h per day on weekdays and weekends, respectively.
+About 45.3% (CI = 39.7–51.1%) and 36.9%
+(CI = 31–42%) reported exercising more than 1 h on
+weekdays and weekends, respectively. There were no statistically
+significant differences between baseline characteristics
+of the two arms. (p > 0.05 for all).
+Participants’ total weekly steps and p-values for each
+trial week from the multi-level mixed-effects model are
+presented in Table 2. In this model, the intervention
+arms were regarded as a fixed effect, while groups and
+individuals were regarded as random effects, with individuals
+nested in the groups. The null hypothesis was
+not rejected since the number of steps taken by adolescents
+was not higher when descriptive norm information
+was onymous compared to when it was anonymous (p >
+0.05 for all time points).
+Table 3 shows the secondary outcomes of both study
+arms. Compared to participants in the Anonymous Arm,
+participants in the Onymous Arm reported slightly
+higher QoL (PedsQL) and lower depression (AADS)
+scores. However, they reported lower social support for
+exercise (SSE), lower physical activity self-efficacy (PASE
+S) and lower physical activity enjoyment (PACES) scores
+compared to Anonymous Arm participants. None of the
+differences were statistically significant (p > 0.05 for all),
+except for physical activity self-efficacy score which was
+significant at the 10% level (p = 0.075).
+Table 4 presents the user experience reported by participants
+at the end of study. Majority of the participants
+were somewhat satisfied with this intervention, with no
+significant difference between the two study arms (Anonymous:
+63.8%, CI = 55.2–71.8%; Onymous: 63.2%, CI =
+54.8–71.1%, p = 0.774). About two-thirds of the participants
+reported wearing the pedometer nearly every day
+(Anonymous: 66.7%, CI = 58.1–74.5%; Onymous: 63.9%,
+CI = 55.5–71.7%, p = 0.542). Most participants reported
+that they checked the weekly ranking SMS sent to them
+every week (Anonymous: 67.4%, CI = 58.9–75.1%;
+Onymous: 64.6%, CI = 56.2–72.4%, p = 0.591). When
+ranked in the top five, most participants stated that they
+felt accomplished (Anonymous: 79.0%, CI = 70.9–85.3%;
+Onymous: 76.5%, CI = 68.5–83.0%, p = 0.890) or felt
+good (Anonymous: 84.7%, CI = 77.2–90.0%; Onymous:
+74.2%, CI = 66.1–81.0%, p = 0.111). When ranked in the
+bottom five, the most commonly reported response was
+‘not a big deal’ (Anonymous: 51.6%, CI = 42.8–60.3%;
+Onymous: 51.4%, CI = 43.1–59.7%, p = 0.800) or ‘did not
+care’ (Anonymous: 32.3%, CI = 24.6–41.0%; Onymous:
+31.2%, CI = 24.0–39.4%, p = 0.646). Of note, there was a
+significant difference between two arms in knowing
+someone in the same group. There were significantly
+more participants in the Onymous arm who reported
+that they knew someone in the same study group (Anonymous:
+21.7%, CI: 15.6–29.4%; Onymous: 50.7%, CI:
+42.5–58.8%).
+Figure 2 shows the trajectories of weekly steps over
+the trial course for the pooled data from both arms. Results
+show that a 4-group trajectory class was the best fit
+to the data. Group 1 consisting of 15.9% of the participants
+and Group 4 consisting of 5.7% of the participants
+made an effort to increase their physical activity. However,
+participants in Group 1 started at a much lower
+step counts at baseline and maintained the lower step
+counts when compared with other groups. In contrast,
+Group 4 logged in the highest step counts in the sample.
+Group 2 (50.3% of the participants) and 3 (28% of the
+participants) had similar step counts at baseline. Group
+2 reduced their steps in the first 4 weeks and remained
+stable for the rest of the trial. On the other hand, Group
+3 increased their steps in the first 4 weeks but decreased
+slightly in the remaining weeks. Table 5 shows the
+multinomial logit model estimates for the predictors of
+trajectory group membership. Compared with Group 1
+(reference group), Onymous Arm female participants
+were more likely to be in Group 3 (beta: 2.418, SE =
+0.706; p = 0.001) and in Group 4 (beta: 2.650, SE = 0.942;
+p = 0.005). Knowing someone in the same group in
+Onymous Arm was not a significant predictor (p > 0.05
+for all).
+Discussion
+Based on our findings, the null hypothesis cannot be
+rejected. The average number of steps taken by adolescents
+was not higher when social norm message was
+onymous compared to when it was anonymous. There
+were also no significant differences between the two
+arms in QoL, depression, social support for exercise,
+physical activity self-efficacy and physical activity enjoyment
+scores.
+The normative reference group used in the study may
+explain the lack of effectiveness of the descriptive norms
+used in our study. In this study, participants were recruited
+on an individual basis and they did not share a
+proximal social network. Although 36.5% reported that
+they knew someone in the same group, the person that
+they knew may not have been in their close social network.
+It is possible that adolescents in our sample did
+not care about being compared to other adolescents
+who were not in their close social network. In fact, majority
+of the reported reaction to being ranked at the
+bottom five of a group was that it was not a big deal or
+that they did not care. Descriptive norms might have
+been more effective in persuading subjects to adopt target
+behaviour if the normative reference group was a
+more relevant social group such as close friends, or
+peers that they interact regularly with such as classmates.
+According to social identification theory, not all
+groups are equal and an individual’s behaviour is influenced
+by the group to which he or she perceives a sense
+of belonging [40, 41]. In addition, a norm describing the
+behaviour of a relevant or salient social group leads
+people to identify more with and feel more selfefficacious
+regarding this particular target behaviour [24,
+42, 43]. Therefore, it is possible that the effect of norms
+on increasing self-efficacy in relation to physical activity
+can only be activated by increasing the saliency or relevance
+of the normative reference group.
+Although the effect of descriptive norms was not evident
+in the main analysis, further analysis using group-
+based trajectory analysis revealed that being a female in
+the Onymous Arm was a significant predictor of trajectory
+group membership with increased step counts. Females
+were more sensitive to social norm messaging at
+the beginning of the trial. This implies that social norms
+may not be effective for all adolescents, and interventions
+targeting specific groups may be more successful
+in promoting physical activity.
+One concern is that providing participant full names
+together with the step count information may lead to
+negative outcomes for adolescents. In fact, participants
+in the Onymous Arm where participants were identified
+with their full names reported slightly worse outcomes
+in social support for exercise, physical activity selfefficacy,
+and physical activity enjoyment scores compared
+to those in the Anonymous Arm. Participants who
+logged in lower step counts might have questioned their
+ability to achieve higher step counts and not enjoyed
+physical activity when they were ranked low in their
+group, knowing that others had seen this information.
+However, the differences were statistically significant at
+the 10% level only for the physical-activity self-efficacy.
+In addition, participants in both groups did not report
+significantly different responses on how they felt when
+they were ranked in the top 5 or bottom 5. These findings
+imply that providing full names did not lead to
+negative outcomes, although it did not contribute to a
+higher step count.
+Our study has several limitations. Some participants
+stopped wearing their pedometers before the study ended,
+which resulted in incomplete data. However, we conducted
+intent-to-treat analyses to account for this. Second,
+it is possible to generate step counts on pedometers
+without the user walking or running. We tried to
+minimize this possibility by asking participants to sign a
+statement of oath to log their steps accurately and honestly.
+Third, our findings were based on a very specific descriptive
+norm messaging in one type of setting. Different
+framing or methods of presenting descriptive norms with
+more relevant reference group may be more successful in
+promoting physical activity among adolescents.
+To our knowledge, this is the first study that measured
+the effect of descriptive norms objectively by using step
+count directly extracted from pedometers. Previous
+studies that used descriptive norms to promote physical
+activity have used either self-reported activity levels or
+intention to exercise as primary outcomes, which could
+potentially over-reported physician activity as a result of
+social desirability bias [44]. Although the implementation
+of descriptive norms are different between our study
+and other studies, the difference in findings suggests that
+conclusion based on subjective measures of physical activity
+may not be an accurate reflection of the actual
+physical activity as participants might have overreported
+experienced recall bias on the amount or intent
+of physical activity. In addition, this study contributes to
+the knowledge concerning whether the effect of descriptive
+norms can be amplified when the targeted behaviour
+is observable. Future studies should explore different
+framing of descriptive norms and we recommend using
+a more relevant reference group to facilitate social
+norms among adolescents.
+Conclusions
+The effect of descriptive norms messages containing personal
+identification on physical activity promotion was
+not evident in the main analysis. As adolescence is an
+important phase for the cultivation of healthy lifestyle, it
+is important to explore interventions that could motivate
+adolescents to increase their physical activity. Future
+study may consider exploring the effect of similar intervention
+among adolescents using a more relevant reference
+group.

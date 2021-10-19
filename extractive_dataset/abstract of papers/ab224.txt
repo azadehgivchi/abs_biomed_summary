@@ -1,0 +1,23 @@
+Background: Non-proportional hazards are common with time-to-event data but the majority of randomised
+clinical trials (RCTs) are designed and analysed using approaches which assume the treatment effect follows
+proportional hazards (PH). Recent advances in oncology treatments have identified two forms of non-PH of
+particular importance - a time lag until treatment becomes effective, and an early effect of treatment that ceases
+after a period of time. In sample size calculations for treatment effects on time-to-event outcomes where
+information is based on the number of events rather than the number of participants, there is crucial importance in
+correct specification of the baseline hazard rate amongst other considerations. Under PH, the shape of the baseline
+hazard has no effect on the resultant power and magnitude of treatment effects using standard analytical
+approaches. However, in a non-PH context the appropriateness of analytical approaches can depend on the shape
+of the underlying hazard.
+Methods: A simulation study was undertaken to assess the impact of clinically plausible non-constant baseline hazard
+rates on the power, magnitude and coverage of commonly utilized regression-based measures of treatment effect and
+tests of survival curve difference for these two forms of non-PH used in RCTs with time-to-event outcomes.
+Results: In the presence of even mild departures from PH, the power, average treatment effect size and coverage were
+adversely affected. Depending on the nature of the non-proportionality, non-constant event rates could further
+exacerbate or somewhat ameliorate the losses in power, treatment effect magnitude and coverage observed. No
+single summary measure of treatment effect was able to adequately describe the full extent of a potentially timelimited
+treatment benefit whilst maintaining power at nominal levels.
+Conclusions: Our results show the increased importance of considering plausible potentially non-constant event rates
+when non-proportionality of treatment effects could be anticipated. In planning clinical trials with the potential for
+non-PH, even modest departures from an assumed constant baseline hazard could appreciably impact the power to
+detect treatment effects depending on the nature of the non-PH. Comprehensive analysis plans may be required to
+accommodate the description of time-dependent treatment effects.

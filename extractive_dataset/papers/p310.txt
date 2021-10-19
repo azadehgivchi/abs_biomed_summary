@@ -1,0 +1,260 @@
+Background
+Epilepsy is one of the most common neurological disorders,
+globally as well as in Thailand. The prevalence rate
+of epilepsy in Thailand was approximately 7.2 per 1000
+population [1]. Anti-seizure medications (ASMs) are the
+mainstay of treatment. The drugs have various effect and
+adverse effect profiles, as well as mechanisms of actions.
+Among other things, they cause cognitive impairment
+[2].
+Additionally, vitamin D deficiency is another known
+adverse effect of ASMs [3] Essentially, 90% of the vitamin
+D in the human body is synthesized in the skin following
+exposure to sunlight, particularly to ultraviolet B
+with a wavelength of 209–305 nm, which is most abundant
+in sunlight between 10 am and 2 pm. Substrates in
+the skin are then converted to vitamin D3
+(cholecalciferol).
+Foods such as cod liver oil, milk fat, butter, animal
+liver, and egg yolk are another source of vitamin D, in the
+form of vitamin D2
+(ergocalciferol). Both vitamin D3
+and
+vitamin D2
+are metabolized in the liver and converted
+by 25-hydroxylases into calcidiol (25[OH]D), a prehormone
+that is the major circulating form of vitamin D
+and is used to determine an individual’s vitamin status.
+Circulating 25(OH) D is eventually metabolized in the
+kidneys to a more biologically active form known as calcitriol
+(1,25(OH)2D), which serves various functions such
+as increasing calcium and phosphorus absorption in the
+intestines, inhibiting the secretion of parathyroid hormone,
+and modulating the formation and development of
+bones and teeth [4].
+Anti-seizure medications can reduce vitamin D levels,
+increase parathyroid hormone levels, and cause hypocalcemia
+and hypophosphatemia, resulting in an increased
+risk of bone fracture in patients with long-term ASM use
+[5]. In addition, studies have found that ASMs increase
+vitamin D destruction in the liver by stimulating the
+activity of the liver enzyme cytochrome (CY)P450 [6].
+The prevalence rate of vitamin D deficiency in epileptic
+patients in the United States is reportedly 11.9% in adults
+and 25% in children aged between 3 and 17 years [7, 8].
+Comparably, it is 22.5% in children with epilepsy aged
+between 3 and 18 years in Malaysia [9]. A similar prevalence
+(23.3%) has been found among children with epilepsy
+in Thailand [10].
+In previous studies, risk factors for vitamin D deficiency
+are found to be female sex, adolescents over
+12 years of age, high BMI, developmental delay and limited
+physical activity, enzyme-inducing ASMs, polytherapy,
+using drugs over a long period of time, Indian race,
+and exposure to sunshine less than 60 min per day [7–10].
+However, there are few reports of the prevalence of
+hypovitaminosis D, including vitamin D insufficiency
+and deficiency, in pediatric epilepsy patients treated with
+different ASMs. We aim to determine the prevalence
+and risk factors of hypovitaminosis D in children with
+epilepsy.
+Methods
+This study was designed as both a cross-sectional study to
+evaluate the prevalence of vitamin D deficiency and a retrospective
+cohort study to investigate the factors affecting
+vitamin D levels in children with epilepsy who were
+treated with ASMs. Ethical approval was obtained from
+the Institutional Review Board of the Royal Thai Army
+Medical Department (R227h/60). Informed consent was
+obtained from the patients or their parents/guardians.
+We enrolled 138 pediatric epilepsy patients aged
+1–20 years at the Neurology pediatric clinic at Phramongkutklao
+Hospital from April 2018 to January
+2019. Patients that had abnormal kidney or liver function,
+received vitamin D supplements, or were on a
+ketogenic diet containing vitamin D were excluded.
+The data collected from the patients included age,
+gender, weight, height, BMI, types of seizures, and
+cause of epilepsy. Puberty status was assessed using
+Tanner staging. Daily activity abilities were divided
+into two categories; normal activity and limited activity,
+such as walking with aid, using a wheelchair, or bedridden.
+Developmental status was initially evaluated
+using the Denver II test. If developmental delay was
+suspected, patients under 6 years of age were assessed
+with Mullen Scales of Early Learning (MSEL), and the
+children older than 6 years of age were tested with the
+Wechsler Intelligence Scale for Children-Third Edition.
+The duration of sun exposure between 10 am and
+2 pm per day were assessed through an interview and
+recorded.
+The name, number, and duration of the ASM treatments
+were recorded. Participants were divided into the
+enzyme-inducing ASM (carbamazepine, phenobarbital,
+and phenytoin), valproate, and benzodiazepine (BZD)
+and newer ASMs (diazepam, clonazepam, clobazam,
+topiramate, levetiracetam, lamotrigine, zonisamide,
+vigabatrin, oxcarbamazepine, gabapentin, lacosamide,
+perampanel, and rufinamide) groups based on the type of
+ASM used.
+Serum 25(OH) D levels were used to categorize the
+vitamin D status, which was defined as vitamin D sufficiency:
+25(OH) D level > 30 ng/ml (75 nmol/L), vitamin
+D insufficiency: 25(OH) D level 20–30 ng/ml
+(50–75 nmol/L), and vitamin D deficiency. 25(OH) D
+level < 20 ng/ml (75 nmol/L) [11]. In this study, we combine
+the insufficiency and deficiency groups into the
+hypovitaminosis D group for the purpose of our analyses.
+Statistical analyses were performed using IBM SPSS
+Statistics 25.0 for Mac (IBM Corporation, Armonk, NY).
+Fisher’s exact and the chi-square test were used to analyze
+categorical data. The Mann–Whitney U test was
+used to analyze continuous data. Logistic Regression
+was used to predict risk factors of hypovitaminosis D. A
+p-value < 0.05 was considered statistically significant.
+Results
+Vitamin D status
+The prevalence of vitamin D deficiency was 23.2%
+(n = 32) and that of Vitamin D insufficiency was 47.8%
+(n = 66). Thus, 71% (n = 98) of the patients had hypovitaminosis D.
+Demographic characteristics
+The demographic characteristics of all 138 pediatric
+epilepsy patients are shown in Table 1. The mean
+age of the participants was 9.65 ± 5.09 years (range:
+1.04–19.96 years). The mean serum 25(OH) D level
+was 26.56 ± 9.67 ng/ml. The relationship between age
+and vitamin D level is shown in Fig. 1. Most patients,
+irrespective of age, had a serum 25(OH) D level less than
+30 ng/ml, and lower levels were associated with a higher
+age.
+Table 2 shows the types of ASM used, which includes
+enzyme-inducing ASMs (26 patients) such as carbamazepine
+(15 patients), phenobarbital (6 patients),
+and phenytoin (6 patients). One patient used both
+phenobarbital and phenytoin. The enzyme-inhibiting
+ASM group, which only included valproate, was comprised
+of 53 patients, whereas the BZD and newer ASMs
+group comprised 113 patients. The most commonly used
+newer ASM was levetiracetam (80 patients), followed
+by topiramate (53 patients). Seventeen and 36 patients
+received a low (less than 5 mg/kg/day) and high (5 mg/
+kg/day or more) dose of topiramate, respectively. Other
+ASMs in this group were benzodiazepines such as clonazepam,
+diazepam, and clobazam (21 patients); lamotrigine
+(5 patients); zonisamide (2 patients); vigabatrin
+(3 patients); lacosamide (10 patients); perampanel (11
+patients); and rufinamide (1 patient).
+3. Factors predicting vitamin D status (Table 3)
+Univariate logistic regression analyses revealed that the
+potential risk factors of hypovitaminosis D were puberty
+and ASM use of more than 2 years, with a 4.9- and 2.7-
+times increased risk of hypovitaminosis D, respectively
+(p < 0.05).
+Multivariate logistic regression analysis adjusted for
+other risk factors such as gender, puberty status, duration
+of sun exposure, monotherapy drug, enzyme-inducing
+ASMs, enzyme-inhibiting ASMs, newer ASMs, and more
+than 2 years of ASM use suggested that puberty status and
+ASM type were significantly related to hypovitaminosis
+D. Specifically, patients who had undergone puberty
+had a 5.4-times (95% confidence interval 1.9–15.7) higher
+risk of hypovitaminosis D than pre-pubescent patients.
+Patients who had received non-enzyme-inhibiting ASMs
+had a 3.5-times (95% confidence interval 1.1–11.5) higher
+risk of hypovitaminosis D than those who received
+enzyme-inhibiting ASMs (valproate).
+Discussion
+Which role the drugs play for the vitamin D deficiency
+is still uncertain [7–9, 11, 12]. VPA seems to exert the
+least influence, while the effect of the new generation of
+ASMs one cannot say anything certain about, based on
+the results from this study.
+We found that the prevalence rate of vitamin D
+deficiency in pediatric epilepsy patients in Bangkok,
+Thailand was 23.2%, which was similar to the rates
+reported in previous studies conducted in Thailand
+[10] and Malaysia [9]. However, when we considered
+both vitamin D deficiency and vitamin D insufficiency
+together as hypovitaminosis D, our results indicated
+that approximately two-thirds of pediatric epilepsy
+patients had hypovitaminosis D, even though Thailand
+is located in the tropical zone.
+Similar to the previous reports, we also found
+puberty status to be a key risk factor of hypovitaminosis
+D. This may be because puberty represents a critical
+period of skeletal bone mineralization, which results in
+a high rate of vitamin D utilization and increased need
+for vitamin D, leading to high rates of deficiency [13].
+The other factors included in our analyses, namely
+BMI, cause of epilepsy, physical activity status, developmental
+status, ASMs used for monotherapy or
+polytherapy, and duration of sun exposure, were not
+significantly associated with hypovitaminosis D.
+More than 2 years of ASM use was significantly associated
+with hypovitaminosis D in the univariate analysis
+but not in the multivariate analysis. This may be
+because various drugs were simultaneously studied,
+and they may affect vitamin D levels through different
+mechanisms.
+Interestingly, 53 of the 138 patients (38%) were
+receiving an enzyme-inhibiting ASM (valproate). The
+multivariate analysis revealed that those treated with
+non-enzyme-inhibiting ASMs had a 3.5-times higher
+risk of hypovitaminosis D than those treated with
+enzyme-inhibiting ASMs. This finding is similar to
+those of previous studies that found normal levels of
+active vitamin D in patients receiving valproate therapy
+[14–16]. One study found that patients receiving
+valproate monotherapy had fewer negative effects
+on bone markers and better bone density than those
+receiving enzyme-inducing ASM (phenytoin, carbamazepine)
+monotherapy [17]. However, the findings
+from studies of bone metabolism in patients receiving
+valproate are controversial, and it is difficult to make
+a comparison because of varying study designs [18].
+More evidence is needed on the effect of valproate use
+on bone health.
+Among our participants, the most commonly used
+newer ASMs were levetiracetam (57.9%) and topiramate
+(38.4%). As seen in previous studies, we found no
+statistically significant association between newer ASM
+use and vitamin D level. This may be because newer
+ASMs, except for topiramate and oxcarbazepine, do not
+affect CYP450, the enzyme that regulates the metabolism
+of vitamin D in the liver [19, 20]. Additionally,
+another study showed no association between the use
+of newer ASMs and decreased bone mineral density
+[21].
+Among newer ASMs, topiramate has unique pharmacokinetics
+in that it acts as an enzyme-inhibiting
+agent (metabolized via CYP2C19 in the liver) at low
+doses (< 200 mg/day in adults) and as an enzyme-inducing
+agent (metabolized via CYP3A4) at high doses (≥
+200 mg/day) [19, 20, 22]. Hence, we divided participants
+receiving topiramate into the low dose (< 5 mg/kg/day)
+and high dose (≥ 5 mg/kg/day) groups in our analysis.
+We found that more patients in the high dose group
+had hypovitaminosis D than in the low dose group
+(80.6 and 58.8%, respectively), although this difference
+was not statistically significant (p = 0.092, Fig. 2).
+We recognize that our study has a limitation of a
+small sample size. A multicenter study with a large
+number of participants should be conducted in the
+future to confirm our results.
+Conclusion
+Our study shows a relatively high prevalence rate of
+vitamin D deficiency and vitamin D insufficiency of
+23.2 and 47.8%, respectively, even though Thailand
+is located in the tropical zone. The key risk factors of
+hypovitaminosis D are puberty status and non-enzymeinhibiting
+ASM use. There is currently a lack of guidelines
+on the appropriate time to assess the vitamin D
+status of epilepsy patients. Our findings suggest that
+clinicians who treat pediatric epilepsy patients, especially
+those entering puberty and being prescribed
+non-enzyme-inhibiting ASMs should consider regular
+monitoring of vitamin D adequacy. In cases of hypovitaminosis
+D, clinicians should recommend prompt
+vitamin D supplementation as it is essential to prevent
+pathological fractures and osteoporosis for the patients
+in later life.

@@ -1,0 +1,271 @@
+Background
+Asthma is a respiratory disease caused by the interaction of genetic and environmental factors, known to be
+mediated by epigenetics [1]. Approximately 334  million
+people worldwide sufer from asthma. Childhood asthma
+mortality varies from 0.0 to 0.7 per 100,000 [2]. Candidate genes for asthma are wide-spread throughout the
+genome. Tere are multiple genes involved which may
+afect expression of the asthma phenotype. Diferent
+genes are related to childhood and adult asthma resulting in a diferent physiological foundation, and diferent
+methods of treatment for the two diseases [3, 4].
+Genetic variants drive the onset and development of
+asthma, including cytotoxic T-lymphocyte-associated
+protein 4 (CTLA4) and interleukin-10 (IL-10) which are
+involved in immune system regulation and infammation
+[5, 6]. DNA methylation, such as of the gene encoding
+the β-2 adrenergic receptor, is the most common epigenetic mechanism in the pathogenesis of asthma, and can
+change gene expression in asthmatic patients [7–9]. Acevedo et al. reported that regional DNA methylation and
+mRNA levels at the Gasdermin B/ORMDL sphingolipid
+biosynthesis regulator 3 locus were associated with the
+risk of childhood asthma [10]. Nicodemus-Johnson et al.
+reported that the type 2 cytokine IL-13 is a key mediator, and it is upregulated in asthma [11]. Tey found that
+a single exposure of IL-13 may induce DNA methylation
+changes in an asthmatic’s airway cells and contribute to
+various asthma phenotypes. Brand et  al. found that the
+epigenetic regulation of T cells can infuence the sensitization and progress of experimental asthma [12]. Based
+on these fndings, it is expected that biomarkers for the
+early diagnosis of asthma can be determined from the
+level of gene expression and methylation regulation.
+In a prior study, Yang et  al. demonstrated that DNA
+methylation at specifc gene loci are associated with
+asthma based on GSE40736 data set, and suggested
+that epigenetic changes might play a role in establishing
+the immune phenotype associated with asthma. However, the results of that analysis were only at the DNA
+level [13]. In the current study, we aimed to identify
+critical genes and miRNAs in the progression of childhood atopic asthma. We downloaded DNA methylation
+and gene expression data from the GEO database, and
+screened critical diferentially expressed genes (DEGs)
+with signifcant methylation changes from samples
+obtained from atopic asthmatic patients and compared
+them with samples from healthy controls. Ten we identifed the Gene Ontology (GO) function and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways of
+these DEGs and constructed a gene co-expression and
+miRNA–target gene regulatory network. Te aim of this
+study is to potentially provide novel diagnostic biomarkers in the nasal epithelia of children with atopic asthma.
+Methods
+DNA methylation and gene expression data resource
+Te DNA methylation dataset, superserie GSE40736,
+was downloaded from the National Center of Biotechnology Information Gene Expression Omnibus (GEO)
+database(https://www.ncbi.nlm.nih.gov/) [14], which
+contained two subseries (GSE40732 and GSE40576) that
+are gene expression and methylation level detection spectra, respectively. Each set contains 194 peripheral blood
+mononuclear cell (PBMC) samples of 97 children with
+atopic asthma and 97 control children. Te GSE40732
+data set was tested on the platform of Nimble Gen Homo
+sapiens Expression Array. Te GSE40576 data set was
+tested on the Illumina HumanMethylation450 BeadChip
+platform.
+Data preprocessing and diferentially expressed gene
+screening
+After downloading the original microarray data, the
+limma package in R software (version3.1.3, https://
+bioconductor.org/packages/release/bioc/html/limma.
+html) [15] was used to normalize the DNA methylation and gene expression data. DNA hypomethylation
+and hypermethylation were common cancer hallmarks.
+False discovery rate (FDR) values and fold change values
+were calculated by using the limma package to evaluate
+the DEGs and diferentially methylated genes (DMGs)
+between the disease and control groups. An FDR<0.05
+and |log2FC|> 0.5 were considered to be threshold
+values.
+Moreover, the pheatmap package (Version 1.0.8,
+https://cran.r-project.org/package=pheatmap) [16] in R
+software was used to perform the bidirectional hierarchical clustering analysis for the gene expression and methylation values based on Euclidean distance [17, 18]. Te
+pheatmap was constructed to visualize gene expression
+values.
+Gene ontology function and KEGG pathway analysis
+for DEGs and DMGs
+Initially, we compared the collection of DEGs and DMGs,
+kept the intersection of the two data sets, and analyzed
+the overall correlation between the degree of diference
+in methylation and expression levels. Te cor.test function (https://stat.ethz.ch/R-manual/R-devel/library/stats/
+html/cor.test.html) was used to calculate the Pearson
+correlation coefcient. Te expression and methylation
+level diferences in opposite directions were reserved for
+further analysis. Subsequently, the Database for Annotation, Visualization and Integrated Discovery tool, version
+6.8 [19, 20] (DAVID, https://david.ncifcrf.gov/) was used
+to perform GO function and KEGG pathway enrichment
+analysis for the mRNAs with an opposite direction of difference in expression and methylation levels. Te threshold value was considered to be P<0.05.
+Analysis of protein–protein interaction network
+String, version 10.5 [21] (https://string-db.org/), was
+used to search for the interaction between gene product
+proteins for genes with opposite expression and methylation levels, and an interactive network was built. The interactive network was visualized by Cytoscape version
+3.7.2 software [22] (http://www.cytoscape.org/). Te GO
+biological process and KEGG signal pathway analysis
+based on DAVID were then performed on the gene nodes
+that constituted the interaction network. Te threshold
+value was considered to be P<0.05.
+MiRNA–target gene regulatory network construction
+We used the Human MicroRNA Disease Database [23]
+(HMDD, http://www.cuilab.cn/hmdd) to search for miRNAs directly associated with asthma. Te target genes
+of asthma miRNAs were then screened using the starBase version 2.0 database [24] (http://starbase.sysu.edu.
+cn/). Te starBase database provides the comprehensive
+target gene prediction information from fve databases:
+TargetScan, picTar, RNA22, PITA, and miRanda. We
+selected regulatory relationships included in at least one
+of the databases as miRNA-target gene relationship pairs
+to construct a miRNA -mRNA regulation relationship.
+Cytoscape 3.7.2 was used to display the networks. Finally,
+KEGG pathway analysis for target genes was performed
+using DAVID software.
+Selection and mechanism analysis of candidate agents
+In the Comparative Toxicogenomics Database, 2019
+update [25] (http://ctd.mdibl.org/), using “asthmatic” as
+a keyword, we searched for KEGG pathways and genes
+directly related to asthma, and compared them with
+pathways in which the genes in the constructed interaction network were signifcantly involved in the relevant
+pathways. We selected disease pathways with direct
+involvement of the asthma genes, constructed this part of
+the network separately, screened genes directly related to
+the disease, and conducted mechanism research through
+the important pathways of gene participation.
+Results
+Diferentially expressed genes and methylated sites
+screening
+Expression and methylation level fles were downloaded.
+A total of 933 (239 downregulated and 694 upregulated)
+DEGs and 751 (412 hypomethylated and 339 hypermethylated) DMGs were identifed between the asthmatic
+and healthy control groups. Volcano plots for the DEGs
+and diferentially methylated sites were shown in Fig. 1a
+and b. After screening DEGs and DMGs from the gene
+expression and methylation profles, the corresponding gene expression and signal values were visualized in
+bidirectional hierarchical clustering heatmaps (Fig.  1c,
+d). As can be seen in the fgure, the diference between
+the selected DEGs and DMGs of the asthma and control groups is signifcant. Te bidirectional hierarchical
+cluster heatmap revealed that the samples were clearly
+divided into two groups based on the screened DEGs and
+DMGs.
+Gene ontology and KEGG pathway analysis
+We screened a total of 284 intersection genes that were
+diferentially expressed in the DNA methylation and
+gene expression data set, and analyzed the relationship
+between gene expression and DNA methylation changes
+by calculating the correlation coefcient (Fig. 2a). Critical gene expression levels and the DNA methylome are
+shown in Fig.  2b. We reserved 130 genes for further
+analysis whose expression and methylation levels difered
+in opposite levels. Among these, there were 35 genes with
+hypermethylation and decreased expression and 95 genes
+with hypomethylation and increased expression. GO
+and KEGG pathway enrichment analyses showed that
+the critical genes were primarily related to 24 GO terms
+and 10 pathways (Table 1). Te GO identifed genes were
+involved in cellular functions including cellular defense
+response and oxidation reduction. Te gene pathways
+were involved in multiple areas including natural killer
+cell mediated cytotoxicity, valine, leucine and isoleucine
+degradation, and steroid hormone biosynthesis.
+Protein–protein interaction network analysis
+In the protein–protein interaction network, a total of 119
+nodes were identifed. Tis included 33 hypermethylated,
+downregulated genes and 86 hypomethylated, upregulated genes with 426 pairs of co-expression interactions
+(Fig. 3).
+As shown in Table  2, these genes were signifcantly
+associated with 16 GO terms and 10 KEGG pathways.
+GO functional analysis found that these nodes were
+primarily involved in functions such as cellular defense
+response and oxidation reduction. KEGG pathways
+were primarily involved in natural killer cell mediated 
+cytotoxicity, steroid hormone biosynthesis, and neuroactive ligand-receptor interaction.
+Analysis of miRNA–target gene network
+A total of 73 miRNAs that were directly associated with
+asthma were screened. We screened the target genes of
+these 73 miRNAs, and then compared the target genes
+with 130 genes whose expression and methylation level
+difered signifcantly. A total of 635 pairs were screened,
+and the constructed miRNA-mRNA regulatory network
+contains 133 nodes and 635 connected edges (Fig. 4).
+As noted in Table  3, nine KEGG signaling pathways in the regulatory network were screened. Tese
+included valine, leucine, and isoleucine degradation
+(P=2.40e−3
+), which is annotated to HADH, PCCA, and
+ACAA1; pyrimidine metabolism (P=9.54e−3
+), which is
+annotated to ENTPD5, POLR3A, and ENTPD1; adhesion molecules (P=1.64e−2
+), which is annotated to
+NCAM1, CDH1, and SPN; neuroactive ligand-receptor interaction (P=1.65e−2
+), which is annotated to in
+S1PR2, S1PR3, S1PR1, and S1PR5; primary immunodefciency (P=1.76e−2
+), which is annotated to IL2RG, and
+RFXANK; fatty acid metabolism (P=1.99e−2
+), which
+is annotated to HADH and ACAA1; purine metabolism (P=2.05e−2
+), which is annotated to ENTPD5,
+POLR3A, and ENTPD1; cytosolic DNA-sensing pathway (P=2.63e−2
+), which is annotated to POLR3A and
+CCL4, and cytokine−cytokine receptor interaction
+(P=4.27e−2
+), which is annotated to CCL2, IL2RG, and
+CCL4.
+Construction of a pathway network directly related
+to asthma
+We screened 119 KEGG pathways and 116 genes that
+were directly associated with asthma by searching the
+CTD database. After comparison with the genes in the
+constructed regulatory network and the pathways in
+which genes participate signifcantly, an overlapping
+KEGG signaling pathway, hsa04060: cytokine-cytokine
+receptor interaction, was obtained in which the C−C
+motif chemokine ligand 2 (CCL2) gene directly related to
+asthma is involved. Tis gene is targeted by eight asthma
+related miRNAs (hsa-miR-206, hsa-miR-19a, hsa-miR-9,
+hsa-miR-22, hsa-miR-33b, hsa-miR-122, hsa-miR-1, and
+hsa-miR-23b). As noted in Fig.  5, two additional genes,
+IL2RG and CCl4, are involved in this pathway.
+Discussion
+Asthma is a complex multifactorial disease caused by
+the interaction of genetic and environmental factors.
+In our study, the hub genes were explored via an analysis of multiple data sets that included samples from
+asthmatics and healthy controls. A total of 130 critical
+DEGs that were diferentially expressed in DNA methylome were detected. In the miRNA−target gene regulatory network directly related to asthma, an overlapping
+KEGG pathway, hsa04060: cytokine−cytokine receptor
+interaction, was noted, in which the CCL2 gene directly
+related to asthma is involved, and the gene is targeted by
+8 asthma related miRNAs. Two other genes, IL2RG and
+CCL4, are known to be involved in this pathway.
+ CCL2, also known as MCP-1, is one of several
+cytokine genes clustered on the q-arm of chromosome
+17. Chemokines are a superfamily of secreted proteins
+involved in immunoregulatory and infammatory processes. CCL2 is a member of the CC subfamily which is
+characterized by two adjacent cysteine residues. It binds
+to chemokine receptors CCR2 and CCR4. Te results of
+our study also show that CCL2 and CCl4 are involved
+in the cyclokine receptor interaction signaling pathway.
+CCL2 is closely involved in the infammatory response in
+children with asthma [26]. Multiple miRNAs have been
+shown to regulate the occurrence of infammation in different diseases through CCL2. Rof et  al. reported that
+microRNA-570-3p regulates HuR and cytokine (CCL2
+and CCL4) expression in airway epithelial cells [27].
+Downregulation of CCL2 induced by the upregulation of
+microRNA206 is associated with the severity of HEV71
+encephalitis [28]. Chen et  al. reported that miR-22 is
+downregulated in PBMCs from patients with coronary
+artery disease, and that miR-22 may participate in the
+infammatory response by targeting MCP-1 [29]. Tese
+fndings are consistent with the results of this study.
+Interleukin 2 receptor subunit gamma, the protein
+encoded by IL2RG, is an important signaling component of many interleukin receptors, including IL-2, IL-4,
+IL-7, and IL-21, and is thus referred to as the common
+gamma chain [30]. Mutations in this gene cause X-linked
+severe combined immunodefciency as well as X-linked
+combined immunodefciency, a less severe immunodefciency disorder [31]. Te pathway analysis showed that
+IL2RG was involved in primary immunodefciency and
+cytokine-cytokine receptor interaction. We speculate
+that IL2RG and CCL4 might be important genes related
+to childhood atopic asthma, and together with CCL2
+participate in the cytokine receptor interaction signaling
+pathway that plays a role in childhood atopic asthma.
+Tere are some limitations in this study. Te key genes
+obtained in this study have not been further verifed.
+In addition, the samples in these two data sets are all
+PBMCs, which would be more convincing if they were
+airway epithelial cells. But our research provides new
+biological insights into the development of asthma.
+Conclusions
+In conclusion, our study identifed a total of 130 DEGs
+with signifcant DNA methylation changes. In a regulatory network directly related to asthma, the KEGG signaling pathway hsa04060:cyclokine-cyclokine receptor
+interaction was found, in which the CCL2 gene, directly
+related to asthma, is involved, and this gene is targeted by
+eight asthma related miRNAs. We speculate that IL2RG
+and CCL4, which are also involved in this pathway, might
+be critical genes related to childhood specifc asthma,
+and together with CCL2 play a role in this disease. Te
+bioinformatics analysis in this study may provide a valuable and reliable basis for determining biomarkers for the
+development of childhood atopic asthma.

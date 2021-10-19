@@ -1,0 +1,25 @@
+Background: Simultaneous multislice diffusion-weighted imaging (SMS-DWI) has been used to reduce image acquisition
+time. The purpose of this study was to investigate the feasibility of diffusion kurtosis imaging (DKI) based on the
+SMS technique in the liver and the influence of this method compared with that of conventional DWI sequences on
+image quality and DKI-derived quantitative parameters.
+Methods: Forty volunteers underwent SMS-DWI sequences with acceleration factors of 2 and 3 (SMS2-DWI, SMS3-
+DWI) and conventional DWI (C-DWI) of the liver with three b-values (50, 800, 2000 s/mm2) in a 3T system. Qualitative
+image quality parameters and quantitative measurements of the signal-to-noise ratio (SNR), mean kurtosis (MK), mean
+apparent diffusivity (MD) and apparent diffusion coefficient (ADC) for the liver were compared between the three
+sequences.
+Results: The scan times of C-DWI, SMS2-DWI, and SMS3-DWI were 4 min 11 s, 2 min 2 s, and 1 min 34 s, respectively.
+For all image quality parameters, there were no significant differences observed between C-DWI and SMS2-DWI (all
+p > 0.05) in the images with b-values of 800 and 2000 s/mm2. C-DWI and SMS2-DWI exhibited better scores than
+SMS3-DWI (all p < 0.01) in the images with b-values of 2000 s/mm2. In the images with b-values of 800 s/mm2, C-DWI
+and SMS2-DWI exhibited better scores than SMS3-DWI for artefacts and overall image quality (all p < 0.01), and C-DWI
+exhibited better scores than SMS3-DWI for the visibility of intrahepatic vessels (p < 0.001). There were no significant
+differences in the sharpness of the right lobe edge (p = 0.144), conspicuity of the left lobe (p = 0.370) or visibility
+of intrahepatic vessels (p = 0.109) between SMS2-DWI and SMS3-DWI. There were no significant differences in the
+sharpness of the right lobe edge (p = 0.066) or conspicuity of the left lobe (p = 0.131) between C-DWI and SMS3-
+DWI. For the b-value of 800 s/mm2, there were no statistically significant differences between SMS2-DWI and C-DWI
+(p = 1.000) or between SMS2-DWI and SMS3-DWI (p = 0.059), whereas SMS3-DWI had a significantly lower SNR than
+C-DWI (p = 0.024). For the DKI-derived parameters (MK and MD) and ADC values, there were no significant differences
+between the three sequences (MK, p = 0.606; MD, p = 0.831; ADC, p = 0.264).
+Conclusions: SMS-DWI with an acceleration factor of 2 is feasible for the liver, resulting in considerable reductions in
+scan time while maintaining similar image quality, comparable DKI parameters and ADC values compared with those
+of C-DWI.

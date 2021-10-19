@@ -1,0 +1,17 @@
+Background: Sepsis is a life-threatening complication of infection that rapidly triggers tissue damage in multiple
+organ systems and leads to multi-organ deterioration. Up to date, prognostic biomarkers still have limitations in predicting
+the survival of patients with sepsis. We need to discover more prognostic biomarkers to improve the sensitivity
+and specificity of the prognosis of sepsis patients. Sphingosine-1-phosphate (S1P) receptor 3 (S1PR3), as one of
+the S1P receptors, is a prospective prognostic biomarker regulating sepsis-relevant events, including compromised
+vascular integrity, antigen presentation, and cytokine secretion. Until now, no S1PR3-related prognostic gene signatures
+for sepsis patients have been found.
+Methods: This study intends to obtain an S1PR3-associated gene signature from whole blood samples to be utilized
+as a probable prognostic tool for patients with sepsis.
+Results: We obtained an 18-gene S1PR3-related molecular signature (S3MS) from the intersection of S1PR3-associated
+genes and survival-associated genes. Numerous important immunity pathways that regulate the progression of
+sepsis are enriched among our 18 genes. Significantly, S3MS functions greatly in both the discovery and validation
+cohort. Furthermore, we demonstrated that S3MS obtains significantly better classification performance than random
+18-gene signatures.
+Conclusions: Our results confirm the key role of S1PR3-associated genes in the development of sepsis, which will be
+a potential prognostic biomarker for patients with sepsis. Our results also focus on the classification performance of
+our S3MS as biomarkers for sepsis, which could also provide an early warning system for patients with sepsis.

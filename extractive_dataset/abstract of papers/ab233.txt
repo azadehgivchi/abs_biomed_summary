@@ -1,0 +1,19 @@
+Background: Experimental validation is the gold standard for the development of FE predictive models of bone.
+Employing multiple loading directions could improve this process. To capture the correct directional response of a
+sample, the effect of all influential parameters should be systematically considered. This study aims to determine the
+impact of common experimental parameters on the proximal femur’s apparent stiffness.
+Methods: To that end, a parametric approach was taken to study the effects of: repetition, pre-loading,
+re-adjustment, re-fixation, storage, and μCT scanning as random sources of uncertainties, and loading direction as the
+controlled source of variation in both stand and side-fall configurations. Ten fresh-frozen proximal femoral specimens
+were prepared and tested with a novel setup in three consecutive sets of experiments. The neutral state and
+15-degree abduction and adduction angles in both stance and fall configurations were tested for all samples and
+parameters. The apparent stiffness of the samples was measured using load-displacement data from the testing
+machine and validated against marker displacement data tracked by DIC cameras.
+Results: Among the sources of uncertainties, only the storage cycle affected the proximal femoral apparent stiffness
+significantly. The random effects of setup manipulation and intermittent μCT scanning were negligible. The 15°
+deviation in loading direction had a significant effect comparable in size to that of switching the loading configuration
+from neutral stance to neutral side-fall.
+Conclusion: According to these results, comparisons between the stiffness of the samples under various loading
+scenarios can be made if there are no storage intervals between the different load cases on the same samples. These
+outcomes could be used as guidance in defining a highly repeatable and multi-directional experimental validation
+study protocol.

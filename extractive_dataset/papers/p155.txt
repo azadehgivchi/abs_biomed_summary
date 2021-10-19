@@ -1,0 +1,544 @@
+Background
+In the U.S., staff in 15,600 nursing homes (NH) care for
+about 1.3 million older adults each day [1]. In addition
+to providing housing, three meals a day, and personal
+care, NHs also provide skilled nursing care, 24-h supervision,
+and rehabilitation services, such as physical therapy
+[2]. Frailty and serious illnesses are common in
+NHs, where 50% of older adults have dementia and
+more than 90% require assistance with bathing and other
+activities of daily living [1, 3]. Ensuring high quality care
+for NH residents continues to be a major challenge [4].
+Factors contributing to this challenge include high NH
+staff turnover, fragmented communication internal and
+external to NHs, limited resources to pay for clinical
+staff and technology tools, and the training and education
+of staff. Owing to these challenges, improving the
+quality of care of NH residents remains a high priority
+[5–7].
+Government regulations and alternative payment
+models have been important drivers of improved quality
+in NHs [8]. In 1987 the Nursing Home Reform Act
+mandated resident-level care planning in NHs and comprehensive
+inspection of NHs every 15 months [9]. In
+the early 2000s, market-based reforms, such as publicreporting
+of NH quality, were implemented to generate
+demand for NHs with higher publicly-reported quality
+indicators [10, 11]. External standards and incentives
+have contributed to the improvement of quality of care
+[12–14]; however, they are not sufficient to remedy persisting
+NH quality challenges, which include fall prevention,
+dementia care, antibiotic stewardship, and
+preventing avoidable hospitalizations, among others.
+To address quality challenges, NH leaders and researchers
+use a range of quality improvement tools,
+methods, and strategies (hereafter referred to as “QI
+strategies”) to evaluate the quality of care, identify local
+causes of quality deficits, and implement or sustain improvements
+in care [15–17]. Starting in 2014, the U.S.
+Centers for Medicare and Medicaid Services mandated
+that all NHs establish Quality Assurance and Performance
+Improvement (QAPI) programs as a requisite for
+receiving federal funding. However, little is known about
+how QI strategies are used in NHs, their effectiveness, or
+how to replicate or apply proven strategies across settings
+[18]. The large majority of evidence from QAPI
+programs and other QI work in NHs is not published.
+Prior reviews described a range of clinical problems that
+were addressed, such as patient falls, and the use of
+improvement strategies to support changes in clinical
+care [19–21]. However, these reviews are now 6–15 years
+old and omit details on the types of QI strategies that
+were used and the implementation outcomes measured.
+We address these limitations by synthesizing evidence
+across QI studies in NHs, thereby informing the design
+of future QI studies. Synthesizing evidence from QI
+studies is difficult due to variations in terminology, outcomes
+measurement, and how findings are reported
+across methodologies [21]. Thus, in this review, we
+adapted Proctor and colleagues’ widely-used “Framework
+for Implementation Research” as a guide for mapping
+the literature on QI strategies in NHs [22].
+The Framework for Implementation Research describes
+the pathway from clinical interventions, to implementation
+strategies, and then to service (e.g., safety and
+equity) and client outcomes [22]. As illustrated in Fig. 1,
+our adaptation of the framework more broadly defines
+domains in the framework for our focus on QI in NHs.
+In contrast to implementation research, which begins
+with the domain of evidence-based interventions, QI
+often begins with a problem and then transitions to one
+or more solutions to address the problem; these solutions
+may or may not be evidence-based interventions
+[23, 24]. Therefore, the first domain in our adaptation of
+Proctor’s framework includes the problem and the
+solution(s).
+In the second domain we replace “implementation
+strategies with “QI strategies.” This domain includes
+strategies that are applied to understand the problem,
+ascertain the fit of solutions to address the problem, and
+integrate those solutions into routine practice. Often referred
+to as tools, interventions, or methods, examples of
+QI strategies include root cause analysis, Plan-Do-Study-
+Act (PDSA) cycles, and others [25]. In most QI models
+(e.g., the Improvement Model), QI strategies are designed
+to engage local providers and staff and walk them
+through a systematic, multi-step approach to developing
+“fit-for-purpose solutions.” [26] The final three domains
+in the framework are three types of outcomes. These include
+“implementation outcomes”, which assess the impact
+of QI strategies on factors that determine the
+successful integration of a solution into routine practice.
+For example, “adoption” is an implementation outcome
+defined as the extent to which a solution is initiated by
+settings and providers [27, 28]. “Service outcomes” assess
+the quality of services, with quality encompassing efficiency,
+safety, effectiveness, equity, patient-centeredness,
+and timeliness [28]. The adapted framework culminates
+in changes in “resident outcomes” [22]; in other words,
+changes in the health and wellbeing of NH residents.
+Applying this adapted framework, the purpose of this
+study was to conduct a scoping review of published literature
+on QI in NHs. The intent of the review was to
+map-out how studies were using, evaluating, and reporting
+QI strategies and outcomes.
+Methods
+We conducted a scoping review with the goal of mapping
+the heterogeneity of study designs, QI approaches,
+and outcome measures rather than synthesizing findings
+on the effectiveness of specific strategies. We followed
+the PRISMA-ScR (Preferred Reporting Items for Systematic
+Reviews and Meta-Analysis extension for Scoping
+Reviews) [29].
+Data sources and searches
+We collaborated with a health sciences librarian and
+conducted a systematic literature search to identify articles
+relating to QI in NHs. We searched PubMed, CINA
+HL Plus with Full Text (EBSCO), and Embase for English
+language articles published between July 1, 2003
+through February 28, 2019. We searched for keywords
+and Medical Subject Headings related to NHs, assisted
+living facilities, housing for the elderly, skilled nursing
+facilities, or residential facilities, as well as keywords and
+subjects related to quality assurance, quality improvement,
+performance improvement, and Lean and Six
+Sigma. The full search is included in Additional File 1.
+Preset database filters were used to exclude nonresearch
+articles, such as conference abstracts, editorials,
+letters, or dissertations. The results were combined in
+EndNote and duplicate reports were removed before beginning
+the title/abstract screening in Covidence [30].
+Study selection
+Two reviewers (MT and JL) independently screened the
+titles and abstracts of 2069 articles from the initial
+search and 233 from the update (a total of 2302 articles).
+Discrepancies in the selection of articles to include were
+resolved by consensus. Articles were included if they
+were empirical studies reporting on QI projects or research
+studies conducted in NHs. The inclusion criteria
+were (1) peer-reviewed articles published in the English
+language between July 2003 and February 2019 (2), used
+the term “quality improvement” to describe their
+methods or reported using a quality improvement model
+(e.g., Six Sigma) or strategy (e.g., process mapping,
+PDSA) and (3) reported findings related to impact on either
+service and/or resident outcomes. We excluded articles
+that reported findings from only one NH as they
+generally are case reports with limited potential to
+contribute to generalizable knowledge about QI strategies
+[15].
+Data charting process
+Three reviewers (MT, JL, LF), working in pairs, reviewed
+the full text of included articles and used a standardized
+template to extract data. During the extraction process,
+we noted when authors referred to additional articles on
+their studies and added these articles to the review. The
+adapted version of the Framework for Implementation
+Research guided development of the data extraction
+template. As summarized in Table 1 and below, the research
+team drew on both the QI and implementation
+science literature to develop the terminology and definitions
+for data extracted. Data were extracted on study
+design, study setting and population, problem targeted,
+solution selected to address problem, QI strategies used,
+and outcomes (implementation, service, and resident).
+We extracted descriptions of the solutions to address
+the targeted problem, and in cases where the solution
+was an intervention, we extracted the intervention name,
+if available. We applied an iterative process to code QI
+strategies and implementation outcomes. We developed
+an initial coding strategy, derived from existing taxonomies
+and lists of QI and implementation strategies [22,
+31, 32] as well as implementation outcomes [22, 33]. We
+then applied and iteratively revised the coding strategy
+to fully capture data identified in our review.
+Synthesis of results
+Data were entered into a matrix and organized so that
+publications reporting on a single study were grouped
+together. Studies then were organized by design: cluster
+randomized and controlled trials, non-randomized and
+controlled studies, and non-randomized and noncontrolled
+studies. We used vote counting to identify the
+frequency that studies reported each type of QI strategy,
+implementation outcome, and statistically significant
+service and/or resident outcomes.
+Results
+As indicated in the PRISMA-ScR diagram (Additional
+File 2), 77 articles on 59 studies met the inclusion
+criteria; characteristics of these 59 studies are presented
+in Table 2. Studies were conducted in the US (n = 41),
+Canada (n = 7), England (n = 4), and other countries
+(n = 7). The sample size ranged from 2 to 105 NHs, with
+a median of 12 NHs. Study designs included cluster randomized
+and controlled studies (n = 12), nonrandomized
+and controlled studies (n = 12), and nonrandomized
+and non-controlled studies (n = 35).
+Studies of QI focused on 23 clinical problems in care of
+frail, older adults; most commonly, pressure ulcers (n =
+8), falls (n = 8), pain (n = 8), and hospital transfers (n =
+7). Solutions to address these problems were enacted by
+NH staff working on inter-disciplinary teams. In 56 studies
+(95%), team members included existing NH staff,
+such as physicians, nursing assistants, nurses and nurse
+practitioners, pharmacists, and social workers. In three
+studies, nurses and/or nurse practitioners were added to
+existing NH teams to deliver new care practices and
+support the work of others. In 16 studies (27%), the solution
+was a practice guideline or intervention protocol,
+such as the Falls Management Program [34]. In other
+studies (73%), the solution was reported as a synthesis of
+evidence from practice guidelines, systematic reviews,
+clinical trials, and/or pilot studies. Moreover, in some
+studies solutions included a synthesis of evidence and
+added staff members, for example, OPTIMISTIC and
+the Missouri Quality Initiative [35, 36]. Across studies,
+reports on the characteristics of solutions varied widely
+and often did not identify an intervention protocol for
+improving care.
+QI strategies
+Studies included a range of QI strategies to support uptake
+or sustainment of clinical solutions (Fig. 2); an average
+of 6 to 7 QI strategies were used in each study. The
+most frequently reported strategies were in-person training
+(n = 55), technical assistance (n = 50), tools/toolkits
+(n = 47), audit and feedback (n = 40), and implementation
+teams (n = 39). In 42 studies (71%), authors reported
+using a bundle of three QI strategies that
+included tools/toolkits, in-person training, and technical
+assistance. In contrast, other QI strategies were reported
+less frequently; PDSA cycles were reported in 20 studies
+(34%) and modifications in electronic health records systems
+were reported in 6 studies (10%).
+Implementation outcomes
+Fifty-eight studies (98%) included descriptions of implementation
+outcomes (Fig. 3), and an average of two implementation
+outcomes was reported per study. The
+most frequently reported outcome was NH staff perceptions
+of the feasibility, acceptability, or satisfaction with
+the clinical intervention and/or the QI strategies (n =
+37). Other more common implementation outcomes
+were reach to residents (n = 32), setting adoption (n =
+24), and reach to staff [20]. Comparison of these outcomes
+across studies was limited by variability in how
+outcomes were measured. For example, a common pattern
+of reporting reach to staff and reach to residents
+was the number of staff trained or residents who received
+new services, as opposed to the rate that eligible
+staff were trained or eligible residents received new services.
+Finally, the outcome, fidelity to intervention protocols,
+was rarely reported.
+Service and resident outcomes
+Articles from 49 of 59 studies (85%) included descriptions
+of service outcomes, such as improving the quality
+of falls prevention or pain prevention and management
+services. Of the 49 studies reporting service outcomes,
+37 studies included tests of statistical significance of
+change; 31 of these 37 studies (84%) indicated significant
+improvements in at least one service outcome. Across
+these 31 studies, 4 studies used randomized and controlled
+designs and 27 studies (87%) used nonrandomized
+and controlled designs or non-randomized
+and non-controlled designs. More commonly reported
+improvements in service outcomes were the quality of
+services related to pain (N = 7), pressure ulcers (N = 3),
+advance care planning or end-of-life care (N = 3), and
+changes in medication prescribing (N = 4), such as antibiotic
+or antipsychotic medication. Moreover, articles
+from 34 of 59 studies included descriptions of resident
+outcomes (e.g., falls rate and rate of pressure ulcers). Of
+these, 33 of 34 studies included tests of statistical significance;
+20 of 33 studies (61%) indicated significant improvement
+in at least one resident outcome. Among the 20 studies demonstrating significant improvement, the
+more commonly improved resident outcomes were pressure
+ulcers (N = 5), hospital transfers (N = 3), and resident
+falls (N = 2).
+Discussion
+In this scoping review of peer-reviewed articles of QI in
+NHs, we identified patterns in the types of quality problems
+addressed in NHs, solutions selected to target those
+problems, QI strategies used to implement solutions,
+and the impact that solutions and QI strategies had on
+implementation, service, and client outcomes. As discussed
+below, several features of the literature and our
+review methods limited our ability to fully map how QI
+strategies are being used in NH. Despite these limitations,
+the review provides a foundation for understanding
+how QI strategies are used and suggests practical
+steps to improve future QI and implementation studies
+in NHs.
+Limitations
+The potential for publication bias was a major limitation
+in this review. A large majority of QI work in NHs is not
+meant for publication and is not reflected in this review,
+which was limited to peer-reviewed articles reporting on
+QI studies. Moreover, many published reports likely had
+external funding and may not be generalizable to QI
+across NHs. Another limitation is that terminology is inconsistently
+applied in the QI literature and this limits
+efforts to extract data and synthesize findings across
+studies. In this review, we opted to be broadly inclusive
+in both our study selection and data extraction. As result,
+we included a diversity of studies, including studies
+of intervention effectiveness that a more conservative
+definition of quality improvement studies might have excluded.
+This fit the goal of the scoping review, which
+was to map how QI methods are being used in published
+research in NHs. In extracting data, we were particularly
+liberal in our classification of implementation outcomes.
+For example, when studies reported the number of NH
+residents that received new services, we classified this as
+the implementation outcome “reach,” even when authors
+did not identify it as an outcome or did provide other elements
+of reach, such as the reporting on the proportion
+of eligible residents who received the service. Furthermore,
+we encountered challenges in our use of the
+Framework for Implementation Research to categorize
+attributes of QI reports. While some aspects of QI and
+implementation science overlap, the distinction between
+“what” investigators choose to implement (solutions/interventions)
+and “how” they implement it” (implementation
+strategies) is not always a characteristic of QI.
+Authors frequently integrated reports of clinical solutions
+and QI strategies which made is difficult to extract
+the two as separate phenomenon. Further, authors often
+presented evidence of multiple service and/or resident
+outcomes; we coded outcomes as effective if evidence
+that at least one outcome indicated improvement; thus,
+our findings may over-state study outcomes. Several
+strengths of our study procedures reduced the occurrence
+and the impact of these risks of error; for example,
+we used an evidence-informed codebook to categorize
+solutions, QI strategies, implementation, service, and
+resident outcomes. Further, two investigators independently
+coded all reports and disagreements in coding decisions
+were resolved in discussion. Finally, we used a
+team process to generate and describe patterns in the
+synthesis of study findings; this included reviews of data
+in our data matrix, study tables and figures, and the narrative
+report of study findings.
+A summary of review findings and the fit of findings
+with prior research are described below.
+Problems addressed
+The 59 studies addressed a range of care problems in
+NHs, with pressure ulcers, falls, pain, and hospital transfers
+among the problems most frequently addressed.
+Many enduring NH care problems were under-studied,
+such as antibiotic stewardship [37] and support for
+people living with dementia [38–40]. Similarly, our study
+did not capture any studies on the topic of isolation and
+only one study of quality of life, suggesting opportunities
+for future improvement programs.
+Solutions selected to target problems
+Most articles included few details about the solution and
+solutions were reported as a synthesis of evidence from
+multiple sources. Indeed, only 27% of studies examined
+improvement with specific interventions or practice
+guidelines; for example, in a QI program to improve
+pain management, Kaasalainen et al. reported the use of
+a protocol based on clinical practice guidelines published
+by the American Medical Directors Association and the
+American Geriatrics Society [41]. The lack of information
+on solutions limits the ability of others to replicate
+or compare solutions across studies. One explanation is
+that QI historically has focused on generating local solutions
+that are not intended to be generalized [17, 23]. As
+such, the intent of many QI reports is to share the
+process used to arrive at the solution rather than the solutions
+themselves. This was reflected in our finding that
+descriptions of clinical solutions and QI strategies frequently
+were reported together.
+QI strategies used to implement solutions
+Authors described using an average of 6–7 QI strategies
+to implement solutions and address clinical problems.
+Authors were more likely to describe the strategies used by research teams and others external to the NH (e.g.,
+tools, training, and technical assistance) than they were
+to describe the strategies used by staff internal to the
+NH (e.g., implementation teams, process mapping, root
+cause analysis, and PDSA cycles). With the exception of
+implementation teams, our findings indicate that internal
+NH strategies were used in less than half the studies.
+These findings are consistent with earlier research in
+NHs [19–21] and prior reviews on the limited use of
+PDSA cycles in QI studies in other settings [26, 42].
+The disproportionate focus on QI strategies used by
+those external to NHs, as compared to those used by
+staff in NHs, may be an area for improvement. QI studies
+are time-limited and, at the end of the study, those
+providing training, technical assistance, and other externally
+delivered strategies often move on to the next
+study. For changes in NHs to be sustained over time,
+NH staff must be able to engage in QI strategies and
+continue monitoring a problem and its solution and
+overcoming barriers over time [43]. Greater attention to
+NH internal strategies also has the potential to build
+capacity of NH staff to apply QI when new problems
+arise [44]. Describing internal QI strategies also is critical
+to understanding the causal pathway through which
+external QI strategies affect change in service and client
+outcomes [45]. For example, to what extent do NH staff
+who participate in a QI collaborative complete the recommended
+internal QI strategies (e.g., conduct PDSA
+cycles to iteratively develop and test potential solutions)?
+Among reviewed studies, Hartmann and colleagues exemplify
+the value of studying both external and internal
+QI strategies. The study team trained NH staff to conduct
+QI cycles using the “LOCK” model (Look for bright
+spots, Observations by everyone, Collaborate in huddles,
+and Keep it bite sized) [46]. The study team also evaluated
+staff use of the LOCK model. Findings indicated
+this approach helped staff appraise the advantages of
+new care practices and learn how to apply them with
+NH residents [40].
+Implementation outcomes
+On average, studies reported findings on two implementation
+outcomes, with 63% of studies reporting on NH
+staff perceptions of participating in QI programs or
+using new solutions, 54% of studies reporting on the
+reach of new care practices (solutions) to residents, 41%
+reporting on NH adoption, and 3% reported on fidelity
+to written protocols. These findings accord with evidence
+in reviews of QI studies in other settings [15, 21];
+for example, fidelity was described in fewer than half of
+reports on randomized trials of QI initiatives to improve
+management of chronic kidney disease [47].
+Evaluating the impact of QI strategies on implementation
+outcomes is necessary to answer questions about
+when and how QI strategies work in NHs [17, 28, 48].
+For example, how many and what types of NH staff
+must be reached for QI strategies to improve service and
+resident outcomes? What type and dose (e.g., duration
+and frequency) of QI strategies increase the proportion
+of eligible residents reached by a clinical solution and
+promote equitable reach across subpopulations? In this
+review, exemplars of the practical utility of measuring
+implementation outcomes included a study of Zimmerman
+and colleagues, who reported a successful QI program
+in 6 NHs to reduce antibiotic prescribing [37]. The
+outcomes of this program were in part attributed to the
+wide reach of antibiotic stewardship training, which
+reached more than half of the physicians and nurses
+providing care in the NHs. Consistent with prior literature
+[18], rigorous measurement of implementation outcomes
+provided essential data to explain the impact of
+QI strategies on service and resident outcomes.
+Service and resident outcomes
+A major challenge for studying QI is that the observational
+design of most studies may not account for factors
+outside of investigator control that influence the impact
+of solutions on outcomes; moreover, few are designed
+with sufficient power to avoid a type I or type II error
+[49]. Thus, findings in this review, which suggest that
+half of QI studies significantly improved service or resident
+outcomes, likely include substantial risk of bias.
+These findings support earlier research in NHs [20, 21].
+However, the findings should be interpreted cautiously,
+recognizing that QI is usually focused on incremental
+changes to overcome local problems, and not statistical
+power. An additional limitation in studies was the tendency
+to compare outcomes before and after the start of
+the QI program, when analysis of change over time,
+using run charts and other longitudinal approaches, may
+provide more accurate data about performance [17].
+Recommendations for future research and practice
+Review findings suggest several implications for future
+research and practice. First, reporting of results would
+be improved by following the SQUIRE or other guidelines
+for reporting QI studies [48, 50]. Of note, the
+SQUIRE guidelines define “interventions” broadly to include
+both clinical interventions and QI interventions
+(i.e., QI strategies). To avoid confusion, we recommend
+that authors clearly distinguish between clinical and QI
+intervention activities and provide a summary of the evidence
+in support of their clinical interventions, including
+citations to prior relevant studies. Efforts to replicate
+and synthesize the findings from QI studies also may
+benefit from recent advances in implementation science.
+Guidelines for reporting implementation strategies could
+also be applied to QI strategies, including recommendations to report the actor (who enacted the
+strategy), action (specific activities involved), and action
+target (the specific barrier or facilitator that the action is
+intended to change) [51]. In reporting QI strategies, we
+further recommend that authors distinguish between the
+strategies enacted by intermediaries external to the NH
+and those enacted by staff internal to the NH [52].
+Lastly, we recommend that authors of QI studies consider
+using existing taxonomies of implementation outcomes
+to improve consistency in how they are named,
+defined, and operationalized [28, 33].
+In addition to recommendations for improving the
+reporting of QI studies, our findings suggest several
+opportunities for future research. First, NHs are required
+to develop Quality Assurance Programs Improvement
+programs (QAPI); yet, little is known
+about the extent to which NHs have developed QAPI
+infrastructure or how it varies. Research is needed to
+understand how QAPI in NHs is functioning so that
+QI initiatives can be designed to align with, build,
+and leverage existing QI capacity; for example, evidence
+in a national QAPI registry could be used to
+describe and evaluate of QAPI programs. Second,
+studies in this review used multiple QI strategies and
+those strategies were enacted by both NH staff and
+intermediary organizations. Multi-level research studies
+are needed to understand how these strategies
+interact and to identify which bundles of strategies
+are most effective under what circumstances [53].
+Moreover, future systematic reviews may be needed
+to describe multi-level strategies and improvement related
+to specific problems, such as falls, pain, and
+hospital transfers. Third, if evidence-based practitioners
+are going to spread findings from QI studies,
+there must be a way to measure and report how the
+QI was implemented even though that is not a typical
+part of the methodology. For example, new approaches
+for evaluating and reporting fidelity and
+adaption are needed to identify whether clinical interventions
+and QI strategies were delivered as intended
+as well as how and why they were adapted. This information
+is key to understanding how clinical interventions
+and QI strategies work and to identify
+opportunities for further refinement [54, 55]. Fourth,
+as noted in previous research [44, 56], future studies
+are needed that assess the sustainment of improvement
+over time. Studies also are needed to
+characterize the context of care in NHs and describe
+contextual factors that interact with QI programs and
+influence outcomes [57], for example, NH administration,
+organizational structure, health records systems,
+and coordination with medical staff. Finally, future reviews
+of QI in NHs are needed to describe (1) QI
+programs that are not in peer-reviewed publications
+(2), involvement of family caregivers in QI (3),
+sources of funding and author affiliations for published
+studies, and (4) the extent to which SQUIRE
+guidelines are followed.
+Conclusions
+The purpose this review was to map-out QI research in
+NHs and to offer preliminary guidance for future studies
+designed to promote the replication and synthesis of
+promising solutions. This review also provides recommendations
+for refining procedures for more effective
+improvement work in NHs. While the reports of QI in
+NHs and elements of this review had limitations, QI was
+observed as a promising approach to improve care for
+older adults in NHs.

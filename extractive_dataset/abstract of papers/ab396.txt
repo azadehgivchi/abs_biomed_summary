@@ -1,0 +1,17 @@
+Background: Assessing lactate (LT) or anaerobic thresholds (AT) in athletes is an important tool to control training
+intensities and to estimate individual performance levels. Previously we demonstrated that ECG-based assessment
+of cardiac repolarization instability during exercise testing allows non-invasive estimation of AT in recreational
+athletes. Here, we validate this method in professional and amateur team sports athletes.
+Methods: We included 65 team sports athletes (32 professionals and 33 amateur athletes; 51 men, 14 women,
+mean age 22.3 ± 5.2 years) undergoing a standardized incremental cycle exercise test. During exercise testing a
+high-resolution ECG (1000 Hz) was recorded in Frank-leads configuration and beat-to-beat vector changes of
+cardiac repolarization (dT°) were assessed by previously established technologies. Repolarization-based AT (ATdT°)
+was estimated by its typical dT°-signal pattern. Additionally, LT was detected in accordance to methods established
+by Mader (LTMader) and Dickhuth (LTDickhuth).
+Results: All athletes performed exercise testing until exhaustion with a mean maximum workload of 262.3 ± 60.8 W
+(241.8 ± 64.4 W for amateur athletes and 283.4 ± 49.5 W for professional athletes). Athletes showed ATdT° at 187.6 ±
+44.4 W, LTDickhuth at 181.1 ± 45.6 W and LTMader at 184.3 ± 52.4 W. ATdT° correlated highly significantly with LTDickhuth
+(r = 0.96, p < 0.001) and LTMader (r = 0.98, p < 0.001) in the entire cohort of athletes as well as in the subgroups of
+professional and amateur athletes (p < 0.001 for all).
+Conclusions: ATdT°, defined by the maximal discordance between dT° and heart rate, can be assessed reliably and
+non-invasively via the use of a high-resolution ECG in professional and amateur athletes.

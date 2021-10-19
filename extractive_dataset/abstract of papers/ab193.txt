@@ -1,0 +1,14 @@
+Background: Host genetic factors such as single nucleotide variations may play a crucial role in the onset and
+progression of HBV-related acute-on-chronic liver failure (ACLF). However, the underlying genomic copy number variations
+(CNVs) involved in the pathology are currently unclear.
+Methods: We genotyped two cohorts with 389 HBV-related ACLF patients and 391 asymptomatic HBV carriers
+(AsCs), and then carried out CNV-based global burden analysis and a genome-wide association study (GWAS).
+Results: For 1874 rare CNVs, HBV-related ACLF patients exhibited a high burden of deletion segments with a size of
+100–200 kb (P value = 0.04), and the related genes were significantly enriched in leukocyte transendothelial migration
+pathway (P value = 4.68 × 10–3). For 352 common CNVs, GWAS predicted 17 significant association signals, and
+the peak one was a duplication segment located on 1p36.13 (~ 38 Kb, P value = 1.99 × 10–4, OR = 2.66). The associated
+CNVs resulted in more copy number of pro-inflammatory genes (MST1L, DEFB, and HCG4B) in HBV-related ACLF
+patients than in AsC controls.
+Conclusions: Our results suggested that the impact of host CNV on HBV-related ACLF may be through decreasing
+natural immunity and enhancing host inflammatory response during HBV infection. The findings highlighted the
+potential importance of gene dosage on excessive hepatic inflammation of this disease.

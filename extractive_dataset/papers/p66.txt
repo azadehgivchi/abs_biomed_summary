@@ -1,0 +1,494 @@
+Background
+Monitoring tissue perfusion is important for the management
+of critically ill patients in intensive care units
+(ICUs), since insufficient oxygen delivery to peripheral
+tissues is strongly associated with organ dysfunction in
+many conditions such as sepsis and postsurgical organ
+failure [1–3]. In contrast to hemodynamic parameters
+that can be measured by pulmonary artery catheters and
+ultrasound techniques, only few measurements that can
+evaluate tissue perfusion are clinically available. Sublingual
+videomicroscopy can measure tissue perfusion in a
+real-time manner; however, these devices are expensive
+and not easily applied to clinical use [4, 5].
+Capillary refill time (CRT) is a simple, fast, and noninvasive
+method for evaluating tissue perfusion. This
+method has been used in the field of disaster medicine
+as a triage tool [6, 7]. A recent clinical trial demonstrated
+that inclusion of CRT measurement in septic
+shock management at ICUs can reduce mortality risk
+[8]. Although CRT may be affected by inter-examiner
+differences [9, 10], a recently developed device can
+measure CRT quantitatively by using a pulse oximeter
+[11]. Our recent validation studies discovered a significant
+correlation between venous blood lactate levels and
+quantitative CRT (Q-CRT), as measured via the pulse
+oximeter-based device, in a cohort of ICU patients and
+emergency department (ED) patients [11, 12]. Q-CRT in
+23 ICU patients was demonstrated to be statistically correlated
+with lactate levels (Spearman’s rank correlation
+coefficient, 0.681; p < 0.001) [11]. In addition to Q-CRT,
+we developed the delta Ab (ΔAb) measure, which is
+based on the amount of light absorbed into finger tissue
+and blood flow by subtracting the light quantity input
+value from the output value. ΔAb is assumed to reflect
+overall peripheral oxygen delivery and integrates blood
+flow, oxygenation, and hemoglobin concentration [12].
+Liver transplantation is widely performed for endstage
+liver failure. Advances in surgical procedures and
+immunosuppressive therapy significantly improved the
+outcomes of liver transplantation [13–15]. Postsurgical
+management of liver transplantation is of great importance
+in critical care medicine, because large amounts of
+fluid administration is frequently necessary to maintain
+intravascular volume and adequate portal vein blood
+flow to the grafted liver. Although the blood lactate level
+is utilized to evaluate oxygen delivery to peripheral tissues
+in managing septic shock, alterations in lactate
+levels are influenced by factors other than peripheral hypoperfusion,
+including liver dysfunction [16, 17]. Several
+studies reported on the benefit of lactate reduction as a
+clinical parameter for monitoring early graft function
+following liver transplantation [18–20]. So, far, no study
+has assessed the clinical application of Q-CRT in liver
+transplantation, although we previously evaluated QCRT
+in septic patients. This prospective observational
+study was performed in order to examine whether QCRT
+and ΔAb values measured following liver transplantation
+are associated with postoperative outcomes.
+Methods
+Patient population and study design
+In this single-center prospective cohort study, we enrolled
+patients who received liver transplantation and
+who were admitted to the ICU of the University of
+Tokyo Hospital between June 2018 and July 2019.
+Orthotopic liver transplantation followed the standardized
+procedure in all cases with the living donor partial
+liver or the deceased donor whole liver. Intraoperative
+porto-caval shunt was never created in this series. All
+18 years old or older patients were eligible, and patients
+who did not agree to participate and/or who demonstrated
+missing data were excluded. The study protocol
+adhered to the Declaration of Helsinki and was approved
+by the institutional review board of the University of
+Tokyo. Informed consent was obtained from each
+participant.
+Regarding postoperative management, chest and abdominal
+radiographs, and abdominal and cardiac ultrasonography
+examinations were performed at least daily
+until POD14. Treatment with diuretics such as furosemide,
+spironolactone, and human atrial natriuretic peptide,
+albumin preparations, and vasopressors was administered
+at the physician’s clinical discretion.
+Q-CRT and ΔAb measurements
+Measurements of Q-CRT and ΔAb were performed
+based on the principle of pulse oximetry. The measurement
+principle and device wearing method are described
+in detail, in our previous report [12]. Briefly, transmitted
+light quantity was measured by a pulse oximeter (OLV-
+3100, Nihon Kohden Corporation, Tokyo, Japan)
+equipped with an SpO2 sensor. This device has not been
+approved for clinical use yet. Mechanical pressure with
+500 mmHg lasting for 5 s was applied to the patient’s
+nail bed of the index or middle finger. The values of QCRT
+and ΔAb were determined as the average of five
+measurements. The ICU room temperature was kept between
+24 °C and 26 °C, and the room lighting was on
+during the measurement.
+Quantitative CRT was defined as the time in seconds
+from the release of the pressure to the time when the
+blood flow reached 90% of the original flow, which was
+measured for 5 s at the beginning of the test before applying
+pressure. Transmitted light quantity measured by
+a pulse oximeter is equivalent to the amount of light
+absorbed into finger tissue and blood flow and equivalent
+to the amount of light absorbed into finger tissue
+only under compression. The quantity of light dimmed
+by blood only defines the ΔAb (delta Ab), which is the
+difference between the quantity of light dimmed under
+infrared light and that dimmed under red light. In short,
+ΔAb can be determined by oxidized hemoglobin levels
+(oxygen saturation), hemoglobin concentration, and tissue
+thickness with blood flow (peripheral circulation
+blood volume) [12].
+Data collection
+The following patient characteristics and clinical data
+were collected from the medical records: age, sex, body
+temperature, height, weight (before transplantation),
+amount of ascites, and underlying liver disease. Preoperative
+model for end-stage liver disease (MELD) and
+Child–Pugh scores were calculated. Donor information
+such as age, sex, weight, and graft size were collected.
+The following clinical variables were evaluated as intraoperative
+factors: operative time, bleeding volume, intraoperative
+fluid balance, anhepatic time, and ischemic
+time of graft.
+At ICU admission after liver transplantation surgery,
+Q-CRT and ΔAb measurements were performed. Other
+clinical parameters, including vital signs, usage of vasoactive
+agents, and measurements of central venous pressure
+(CVP), were also obtained. Additionally, laboratory
+data recorded at ICU admission included blood lactate,
+hemoglobin (Hb), total bilirubin, and prothrombin time
+international normalized ratio (PT-INR). We performed
+hepatic blood flow assessment twice daily, determining
+the amount of fluid volume based on the results of echocardiography
+and CVP monitoring. Q-CRT, ΔAb, and
+blood lactate were also measured at postoperative day 1
+(POD1).
+Daily ascites was defined as the total amount of ascites
+through the abdominal tube and exudate. Abdominal
+drain tubes were routinely inserted near the surface of
+the donor graft, behind the graft hilum, and into the rectovesicular
+(Douglas) pouch. In cases with simultaneous
+splenectomy, an additional drain tube was placed into
+the left sub-phrenic cavity. In patients with pleural effusion,
+drainage was performed by the placement of thoracic
+catheter. The total amount of discharge was
+recorded, including pleural effusion.
+Sample size estimation
+As a small pilot study, we compared the Q-CRT at ICU
+admission between five liver transplant patients with
+massive ascites (ascites volume > 1000 ml/day on POD
+14) and five liver transplant patients with non-massive
+ascites. The estimated difference of the mean and standard
+deviation were 0.55 and 0.41, respectively, using logtransformed
+data. On this basis, the sample size was calculated
+as being 10 patients with massive ascites and 10
+patients with non-massive ascites, assuming a type I
+error rate of 0.05, a power of 0.8, an anticipated effect
+size d = difference of means/ standard deviation = 1.34.
+Statistical analysis
+Continuous variables were presented as medians with
+interquartile ranges, and categorical variables were presented
+as percentages. Categorical data were compared
+by the chi-square or Fisher’s exact test, while continuous
+data were compared by Student’s t test or Wilcoxon’s
+rank-sum test. Correlations between variables were analyzed
+using Spearman’s rank correlation. All continuous
+parameters with a skewed distribution were entered into
+these models as log-transformed variables using the natural
+logarithm to the base e. A multivariable logistic regression
+model was used to evaluate the independent
+contribution of Q-CRT or ΔAb to the outcomes by
+adjusting predefined preoperative (MELD score) and operative
+(blood loss during surgery) factors. The cut-off
+point was determined using receiver operating characteristic
+(ROC) analysis with Youden-index. All statistical
+analyses and calculations were performed using the
+JMP® Pro software (version 14.2.0; SAS Institute, Cary,
+NC). A two-tailed probability (p) value < 0.05 was considered
+statistically significant for all tests.
+Results
+Patient characteristics
+We enrolled a total of 33 patients with liver transplantations.
+Table 1 shows characteristics and clinical parameters
+at ICU admission after surgery. Hyperlactemia and
+hyperbilirubinemia were observed. Additional file 1 summarized
+the preoperative baseline characteristics, graft
+conditions, surgery-related factors of the study population,
+and other clinical parameters at ICU admission
+after surgery.
+Q-CRT and ΔAb at ICU admission
+Figure 1a and b show the values of Q-CRT and ΔAb at
+ICU admission, respectively. Significant correlations
+were observed for Q-CRT and ΔAb with regard to mean
+arterial pressure (MAP) (Fig. 1c), portal vein (PV) velocity
+(Fig. 1d), while no significant correlation of Q-CRT
+or ΔAb with blood lactate, heart rate (HR), CVP,
+hemoglobin, and hepatic artery (HA) velocity was observed
+(Additional file 2).
+Postoperative data
+Four patients developed early allograft dysfunction
+(EAD) [21], and one patient had graft failure 6 months
+following transplantation. The Q-CRT and ΔAb values
+showed no difference between the EAD and the non-
+EAD patients (data not shown). One year later, all patients
+were still alive.
+The median lengths of ICU and hospital stay were 13
+days (IQR 9–18) and 47 days (IQR 30–71), respectively.
+With regard to the length of ICU stay and post-surgery
+hospitalization, significant correlations were observed for
+both Q-CRT and ΔAb (Fig. 2a-b). The median total ascitic
+discharge at 7 and 14 days was 20.6 L (IQR 10.3–
+36.9) and 45.4 L (IQR 21.9–72.7), respectively. Both QCRT
+and ΔAb showed significant correlations with the
+total amount of ascites discharge 7 and 14 days after the
+surgery (Fig. 2c-d). Portal vein, not hepatic artery and
+vein, blood flow measured just after the surgery demonstrated
+significant correlation with ascites discharge 7
+and 14 days after surgery (Additional file 3).
+Based on the preoperative ascites volume, the patients
+were divided into three groups (a no ascites group, a
+non-massive ascites group: 1–999 ml, and a massive ascites
+group: > 1000 ml). Patients who had preoperative
+massive ascites displayed the largest amount of postoperative
+ascites (Additional file 4). The enrolled patients
+were divided into two groups using a cutoff value of the
+total amount of ascitic discharge of 1000 mL/day at
+POD14, based on the diagnostic criteria for small-forsize
+syndrome and previous reports [22–24] (Table 2
+and Additional file 5). The group exhibiting more ascitic
+discharge showed significantly longer Q-CRT and lower
+ΔAb values at ICU admission. The Q-CRT and ΔAb cutoff
+values, the area under the curve (AUC), and the 95%
+confidence interval (CI) for each outcome in patients
+with massive ascites are shown (Additional file 6). Multiple
+regression analysis demonstrated that Q-CRT and
+ΔAb at ICU admission were significantly associated with
+the length of ICU stay, length of post-surgery
+hospitalization, and total amount of ascitic discharge for
+14 days after surgery, even after adjusting confounding
+factors of preoperative MELD score and intraoperative
+blood loss (Table 3).
+Serial measurements of Q-CRT and ΔAb
+Quantitative CRT and ΔAb were measured at POD1.
+Due to missing data, three patients were excluded from
+the analysis. No significant correlations for Q-CRT at
+POD1 were observed between these measurements and
+length of ICU stay, post-surgery hospitalization, or total
+amount of ascites for 14 days after surgery. ΔAb at
+POD1 did not significantly correlate with length of ICU
+stay or post-surgery hospitalization but with the total
+amount of ascitic discharge for 14 days after surgery
+(Fig. 3). The absolute changes in Q-CRT from ICU admission
+to POD1 failed to show any significant association
+with these outcomes. The absolute changes in ΔAb
+from ICU admission to POD1 did not show any significant
+correlation with length of ICU stay or number of
+days of hospitalization after surgery but with the total
+amount of ascitic discharge for 14 days after surgery
+(Additional file 7). We also evaluated a possible correlation
+between Q-CRT and ΔAb and the change of
+MELD score before and after the transplantation surgery.
+No significant correlation was found in perioperative
+changes of the MELD score with Q-CRT and ΔAb
+(data not shown). Maximum lactate values during surgery,
+ICU admission, 12 h after admission, and POD1
+are shown in Fig. 4a. No significant correlation between
+the absolute changes in Q-CRT and ΔAb from ICU admission
+to POD1 with lactate clearance was observed
+(Fig. 4b-c). No significant correlation was observed between
+the lactate clearance and 14 days total discharge,
+length of ICU stay, and length of hospitalization after
+surgery (data not shown). The enrolled patients were divided
+into two groups by the change in Q-CRT and ΔAb
+from ICU admission to POD1, but no significant difference
+in the outcomes between the two groups was observed
+(Table 4).
+Discussion
+This study evaluated tissue perfusion in patients with
+postoperative liver transplantations by a quantitative
+CRT method using a pulse oximeter. Significant associations
+between Q-CRT and length of ICU and hospital
+stays and large postoperative ascitic discharge were observed.
+The newly developed parameter of ΔAb, which is
+expected to reflect the total oxygen delivery to the peripheral
+tissues, was also significantly associated with
+these outcomes. These observations suggest that the
+newly developed Q-CRT method might be helpful to
+detect tissue perfusion abnormalities influencing organ
+function of the grafted liver in postoperative period. This
+suggestion may be supported by the observation that QCRT
+and ΔAb were significantly correlated with portal
+and hepatic vein blood flow rate measured using ultrasound.
+Q-CRT technique is expected to be accomplished
+more easily than blood flow measurement using ultrasound.
+It should be addressed that a single measurement
+of peripheral tissue perfusion was associated with the
+outcomes; however, many related mechanisms are presumed
+to be involved in these significant associations.
+This study suggested that a simple evaluation method of
+Q-CRT may be useful for clinical management in liver
+transplantation patients, and further evaluation is absolutely
+necessary.
+CRT is a simple and non-invasive test used to assess
+peripheral perfusion at the bedside. Although CRT can
+be used without any equipment, intra-examiner differences
+and poor reproducibility, even by the same observers,
+were reported [9, 10, 25]. CRT can be affected
+by the surrounding environment such as temperature
+and lightning [10, 26], unifying measurement condition
+is an important point. To overcome this problem, several
+investigations were conducted. Kawaguchi and
+colleagues developed a device that can be adjusted for
+pressing strength and time using an electric actuator
+and strength and color sensors [27, 28]. Shinozaki and
+colleagues used fingernail video recording and image
+analysis software for calculating CRT [29]. We developed
+a new device that can measure CRT quantitatively by
+using the pulse oximeter. This new device automatically
+compresses the finger with a constant pressure of 500
+mmHg [11] and was applied to patients with suspected
+sepsis at ED [30]. Another study also evaluated quantitative
+CRT using a pulse oximeter in ED patients [31].
+Our device demonstrates the advantage of measuring
+not only Q-CRT but ΔAb, an index of integrated peripheral
+oxygen delivery status, because pulse oximetry
+enables the measurement of transmitted light quantities
+under red and infrared light [12]. In this study, both QCRT
+and ΔAb showed significant associations with post
+liver transplantation outcomes. Further investigation is
+necessary to identify which of these parameters would
+serve the patients better in other specific situations such
+as septic shock, post-cardiac surgery, and severe trauma.
+Liver transplantation is expected to reduce portal
+hypertension and associated ascites transudation. However,
+massive ascites is one of the most frequent
+complications and poor prognostic factors in liver transplantation
+[32–34]. Several clinical risk factors for considerable
+amounts of postoperative ascites include
+preoperative MELD score, large blood loss volume, and
+small-sized grafts [35–37]. Our previous study reported
+that 48% of patients receiving living donor liver transplants
+developed massive postoperative ascites (> 1000
+mL/day at POD14), and it also reported that preoperative
+ascites, intraoperative blood loss, and duration of
+anhepatic phase were associated with considerable
+amounts of postoperative ascites [22]. This study also disclosed
+that patients with a particularly high amount of
+preoperative ascites tended to have more postoperative ascites.
+The amount of ascites noted in this study was similar
+to our previous report [22] and other studies [33, 38].
+Values and rates reflecting postoperative total bilirubin,
+acute rejection, and length of hospital stay were significantly
+higher in patients with massive ascites, although no
+significant impact of massive ascites on the 5-year survival
+rate was observed [22]. In this study, all the patients survived
+for the observation period of 1 year. Large amounts
+of diuretics including furosemide, spironolactone, and human
+atrial natriuretic peptide and albumin administration
+together with intensive evaluation of intravascular volume
+are required to control massive ascites.
+In patients with a large amount of ascites, close
+monitoring of the in–out balance and optimal adjustment
+of fluid administration, which can be
+achieved in the ICU, is necessary. This may explain
+the correlation between the length of ICU stay and
+the amount of ascites present. Although management
+regarding ICU stay may differ in each country, several
+Japanese studies reported similar lengths of ICU
+and hospital stays to this study [39, 40]. It should be
+noted that other treatments, such as colloid and
+pressor administration, nutritional support, and antimicrobial
+agents against infection, should be conducted
+properly, in addition to a large of fluid
+resuscitation for perioperative management in liver
+transplantation.
+This study demonstrated that Q-CRT and ΔAb measured
+immediately after transplantation surgery could
+identify the patients who would potentially require
+highly intensive care due to the development of considerable
+postoperative ascites. Furthermore, it was shown
+that portal blood flow was associated with Q-CRT and
+ΔAb, and that the closer to normal range was, the less
+postoperative ascites. Several possible mechanisms may
+explain this finding. First, Q-CRT and ΔAb can detect a
+decrease in peripheral perfusion resulting from preoperative
+liver failure. It is known that a reduction in
+systemic vascular resistance due to primary arterial vasodilatation
+in the splanchnic circulation is observed in patients
+with liver cirrhosis [41, 42]. Activated vasodilator
+factors such as nitric oxide [43] and endogenous cannabinoids
+[44] before surgery might exhibit some impact
+even immediately after transplantation surgery on peripheral
+tissue perfusion. Second, Q-CRT and ΔAb may
+indicate the progress of normalization of portal blood
+flow, and detect the reduced perfusion caused by endotoxin.
+It is recognized that portal vein blood flow is normalized
+as the function of the graft liver is restored [45].
+A high portal pressure is strongly associated with poor
+liver transplantation outcomes [46, 47]. A high portal
+venous pressure reportedly increases gut-related
+bacteremia in living donor patients with liver transplantations
+[48] and increases blood endotoxin levels [49,
+50]. Several mechanisms such as a vulnerable intestinal
+barrier [51], changes in the intestinal microbiota [52],
+and decreased endotoxin clearance in the liver [53] were
+reported. Hepatic ischemia reperfusion injury negatively
+affects allograft function following liver transplantation.
+Although many different involved cell types (sinusoidal
+endothelial cells, hepatocytes, Kupffer cells, neutrophils,
+and platelets) and mechanisms (toll-like receptor signaling,
+micro-RNA expression, production of reactive oxygen
+species, autophagy, and activation of hypoxiainducible
+factors) were reported so far [54], it is uncertain
+whether Q-CRT can detect hepatic ischemia reperfusion
+injury. It should be noted that many pathological
+mechanisms, other than ischemia reperfusion injury, are
+deemed to contribute to poor outcomes for liver
+transplantation.
+Elevated blood lactate levels traditionally were considered
+a signal of tissue hypoxia. The third international
+consensus definitions for sepsis and septic shock (Sepsis-
+3) defines septic shock as a clinical construct of sepsis
+with persisting hypotension requiring vasopressors to
+maintain a MAP ≥65 mmHg and exhibiting a serum lactate
+level > 2 mmol/L despite adequate volume resuscitation
+[55]. Our earlier study found that ΔAb was
+significantly associated with high lactate levels [12], and
+we observed a significant correlation between Q-CRT
+and ΔAb and mean artery pressure in this study,
+although we did not find any correlation between QCRT
+and ΔAb with the blood lactate level. The liver
+plays a major role in systemic lactate clearance, and
+hyperlactatemia is related to impaired hepatic clearance
+in advanced cirrhosis [56]. The patients in this study experienced
+an anhepatic period of approximately 2 h duration.
+It assumed that blood lactate and Q-CRT and
+ΔAb were reflecting different conditions of the patients
+immediately following liver transplantation surgery; elevated
+blood lactate was largely influenced by insufficient
+liver function, and Q-CRT and ΔAb were reflective of
+peripheral perfusion. The lactate value decreased following
+perfusion, supporting the lactate clearance function
+in the liver.
+In contrast to Q-CRT and ΔAb values measured immediately
+after surgery, those measured at POD1 were
+not significantly associated with the outcomes. Changes
+from immediately post- surgery to POD1 demonstrated
+no significant association; however, serial measurements
+would have provided more information than just single
+measurements. Several clinical interventions, such as
+fluid administration, optimizing sedation depth, and
+mechanical ventilation settings with spontaneous breathing,
+may affect Q-CRT and ΔAb measurements. It is
+known that a reliable analysis of respiratory changes in
+arterial pressure is possible in patients who are sedated
+and mechanically ventilated with conventional tidal volumes
+[57, 58]. Intraoperative measurements may provide
+a more accurate prediction of postoperative outcomes,
+as hemodynamics, sedative status, and ventilation are
+more homogenously managed during general anesthesia.
+Further assessment during surgery is necessary in order
+to demonstrate this conjecture.
+Several limitations that might affect the results of this
+study should be acknowledged. First, this study was performed
+at a single ICU, and the number of patients was
+relatively small. Second, no evaluation study of Q-CRT
+and ΔAb using the widely accepted gold standard of
+hemodynamic assessment such as cardiac output, oxygen
+delivery (DO2) and oxygen consumption (VO2) has
+been conducted to date. Third, Q-CRT and ΔAb measurements
+were recorded only at ICU admission and
+POD1. As discussed above, adding intraoperative and
+preoperative measurements may have provided more
+useful information. Presumably, the hypoperfusion evaluated
+by Q-CRT and ΔAb measurement reflects hypoperfusion
+of the grafted liver, and hypoperfusion to the
+liver might have induced massive ascites. Further investigation
+is necessary to clarify the pathophysiological
+mechanism causing massive ascites after liver transplantation.
+Finally, an earlier study reported CRT longer than
+3 s was not predictive of mortality in patients complicated
+with malarial anemia [59], although no patients
+manifested severe anemia in our- study.
+Conclusion
+This prospective observational study found that Q-CRT
+with a pulse oximeter was significantly associated with
+postoperative outcomes in patients receiving liver transplantations.
+Q-CRT may be relevant as a new noninvasive
+monitoring tool for patients treated in ICUs
+upon validation by several different ICU patient cohorts
+such as post-cardiac surgery, heart failure, and patients
+with multiple organ failures.

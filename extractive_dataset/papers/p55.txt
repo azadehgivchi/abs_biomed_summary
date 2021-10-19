@@ -1,0 +1,239 @@
+Background
+Most pediatric patients receiving cancer treatments experience bothersome symptoms that are poorly documented and often not treated [1, 2]. Symptom control is
+important as there is a strong correlation between increasing symptom burden and inferior quality of life [1].
+Improving symptom control is likely to require multiple
+approaches including systematic symptom screening,
+symptom feedback to healthcare professionals and adherence to symptom management clinical practice
+guidelines (CPGs) [3, 4]. To address symptom screening,
+we developed the Symptom Screening in Pediatrics Tool
+(SSPedi), which measures the degree of bother for 15
+symptoms considered most important by patients [5–7].
+We then developed Supportive care Prioritization, Assessment and Recommendations for Kids (SPARK),
+which is a web-based application that consists of a
+symptom screening component centered on SSPedi and
+a supportive care CPG component [8–10].
+To test whether SPARK can improve symptom control and quality of life for pediatric patients with cancer, we were awarded operating grants from the
+National Institutes of Health (1R01CA251112) and
+the Canadian Institutes of Health Research (PJT
+169165) to perform a cluster randomized trial of 20
+institutions in the United States. This trial will
+randomize 10 sites to intervention and 10 sites to
+control (usual care) groups. The intervention will include prompts to complete self-reported symptom
+screening three times weekly for 8 weeks for newly
+diagnosed pediatric patients with cancer (both inpatients and outpatients), symptom feedback to the primary healthcare team and adaptation of care
+pathways for symptom management. The care pathways will be adapted by each intervention site from
+generic pathways we developed using a standardized
+process to identify relevant CPGs [11]. Thus, intervention sites will need to adapt and implement
+evidenced-based care pathways. Planning of the trial
+started concurrent with the coronavirus disease pandemic (COVID-19) [12, 13] thus adding potential
+barriers.
+There were limited reports on barriers to implementation of evidence-based care in pediatric oncology. For
+the care pathways to be successfully incorporated into
+routine practice, understanding implementation barriers
+was essential. We hypothesized that there would be barriers relevant to the planned trial including care pathway
+implementation, and that understanding those barriers
+would facilitate development of strategies to improve
+implementation. Thus, we circulated a survey to sites
+that had committed to the trial at the grant submission
+stage from which the 20 participating sites would be
+chosen. Objectives were to describe barriers to pediatric
+cancer symptom management care pathway implementation and the impact of the COVID-19 pandemic on
+clinical research evaluating their implementation.
+Methods
+Sites
+The study was approved by the Research Ethics Board of
+The Hospital for Sick Children and the clinical trial
+registration number was NCT04614662. The sites were
+25 hospitals providing care for pediatric oncology patients in the United States that supported a grant submission to conduct a cluster randomized trial focused
+on improving symptom control in pediatric cancer patients. The institutions were chosen to reflect variation
+in pediatric vs. mixed adult and pediatric sites and based
+upon previous research collaborations.
+Purpose of survey, survey creation and survey
+distribution
+One component of the intervention is the institutionspecific adaptation of symptom management care pathways that are based upon CPGs. The purposes of the
+baseline survey were to facilitate site selection (20 of the
+25 potential sites would be chosen), to measure baseline
+characteristics of participating sites and to anticipate
+barriers and facilitators to trial conduct and care pathway implementation that could influence implementation processes. The trial will enroll 444 patients at 20
+sites to demonstrate a difference of 3 points in total
+SSPedi scores between intervention and control patients,
+assuming alpha 0.05, power at least 80%, intraclass correlation coefficient 0.021 and SSPedi score standard
+deviation 8.8.
+CPGs are statements developed to facilitate
+healthcare-related decisions; they are the foundations for
+translating evidence to clinical practice [14]. Rigorously
+developed CPGs must include a systematic review of the
+literature and convene a panel that weighs the benefits
+and harms of different treatment options to arrive at
+recommendations [14–16]. Care pathways are tools that
+can improve CPG implementation. They can be defined
+as “structured multidisciplinary care plans which detail
+essential steps in the care of patients with a specific
+clinical problem.” [17].
+The survey (Additional file 1) measured baseline characteristics including institution, patient and healthcare
+professional characteristics. In order to understand potential barriers to symptom management care pathway
+implementation, we used three approaches. First, we
+used the Consolidated Framework for Implementation
+Research (CFIR) [18, 19]. The CFIR is a conceptual
+framework that includes factors that may influence
+intervention implementation. We focused on the inner
+setting measures that include the following constructs:
+culture, culture stress, culture effort, implementation climate, learning climate, leadership engagement and available resources. Culture may be described as a stable
+attribute of an organization that reflects its norms and
+values [20]. Of these constructs, implementation climate
+was central to our aims and thought to be especially important to successful implementation given its specificity
+to the task. It has been identified as being important to
+influencing implementation in practice [18, 21, 22]. Each
+of the questions was rated on a 5-point Likert scale consisting of 1 = “strongly disagree”; 2= “disagree”; 3= “neutral”; 4= “agree”; and 5 = “strongly agree”. We
+dichotomized those who agreed (score of 4 or 5) vs.
+those who were neutral or disagreed (score of 1, 2 or 3).
+We also used a second set of questions that were specific to the proposed study and asked if the lack of the
+following were potential barriers to symptom management care pathway adaptation and implementation:
+person-time to create care pathways and champion their
+use; education and mentorship around care pathway use;
+hospital leadership support; interest from physicians;
+interest from allied health; information technology resources; and collaboration between different disciplines.
+These were rated on a 5-point Likert scale representing
+the degree to which they were a barrier: 1 = “not at all”;
+2 = “a little”; 3= “somewhat”; 4= “a lot”; and 5 = “extreme”. We focused on any barrier defined as those that
+were somewhat, a lot or extreme barriers, and severe
+barriers defined as those that were a lot or extreme barriers. Third, given the timing of the COVID-19 pandemic related to full grant funding (R01 notice of award
+July 2020), we also asked about the impact of the pandemic across the spectrum of clinical research activities.
+The primary outcomes were related to support, recognition and prioritization of symptom management care
+pathway implementation from the CFIR implementation
+climate construct. The survey was piloted internally
+prior to distribution. It was disseminated to the participating sites by email and completed in REDCap. The respondents were the site principal investigators; they
+could consult with other institutional personnel to facilitate survey completion. Reminders were sent weekly up
+to three times in the event of non-response.
+Statistics
+Descriptive statistics were used to summarize baseline
+characteristics and potential barriers to symptom management care pathway implementation. We compared
+institutional characteristics of those that agreed that
+their department supports, recognizes and prioritizes the
+implementation of symptom management care pathways
+vs. those that did not agree using the Wilcoxon rank
+sum test. Analyses were performed using R studio version 3.6.1, The R Foundation for Statistical Computing.
+Results
+Of the 25 sites who supported grant submission, one
+withdrew because of institutional resource constraints
+and one did not complete the survey, leaving 23 institutions included in the analysis. The survey was completed
+between August 5, 2020 and September 9, 2020. Table 1
+describes institutional, patient and healthcare professional characteristics. Within all institutions, health care
+professionals create orders in the electronic health record for symptom prevention and management. The median number of new pediatric cancer patients diagnosed
+annually was 90 (interquartile range (IQR) 63 to 200).
+All institutions were described as not-for-profit. The
+median number of physician full time equivalents was 9
+(IQR 5 to 13).
+Table 2 shows the results of the inner setting measures
+from the CFIR. Across most constructs, at least 70% of
+institutions agreed that the culture, climate, leadership
+and resources facilitated symptom management care
+pathway implementation. With respect to the implementation climate construct, less than 70% of respondents
+agreed or strongly agreed with the following positively
+framed statements: “department staff gets the support
+they need to implement care pathways for symptom
+management” (57%), “department staff gets recognition
+for implementing care pathways for symptom management” (39%) and “implementing care pathways for
+symptom management is a top priority of the department” (61%). Respondents from 35% of institutions indicated that “staff members often showed signs of stress
+and strain”.
+Table 3 shows additional barriers to implementing
+symptom management care pathways among respondents. The most common barriers (somewhat, a lot or
+extreme barrier) were as follows: lack of person-time to
+create care pathways and champion their use (35%), lack
+of interest from physicians (30%) and lack of information
+technology resources (26%). Severe barriers (a lot or extreme barrier) were rare and the most common was the
+lack of person-time to create care pathways and champion their use (9%).
+Table 4 illustrates the impact of the COVID-19 pandemic on research activities at the institutions. Most
+sites reported no negative impact of the pandemic across
+research activities. The most common activities that
+were a lot more difficult or almost impossible were executing contracts (9%), study activation (9%) and accessing patients in person (9%).
+Table 5 compares the attributes of sites who agreed
+that symptom management care pathway implementation was supported, recognized and prioritized vs. those
+who did not agree with these statements. Sites with
+fewer newly diagnosed cancer patients and those with
+fewer physician, nurse practitioner and physician
+assistant full time equivalents were significantly more
+likely to agree that their staff are supported. Sites with a
+larger percentage of black patients were significantly
+more likely to agree that their staff receives recognition
+for implementing symptom management care pathways
+and that implementation is a priority.
+Discussion
+In this study, we found that few survey respondents anticipated challenges with care pathway implementation.
+However, potential barriers that were reported lay within
+the implementation climate construct of CFIR and were
+lack of support, recognition and prioritization at the participating institutions. Lack of person-time to create care
+pathways and champion their use, lack of physician
+interest, and lack of information technology were other
+important potential barriers reported with respect to developing and implementing symptom management care
+pathways. However, the COVID-19 pandemic did not
+appear to be perceived as a major barrier to research
+conduct.
+We found that unfavorable implementation climate
+may be a potential barrier to care pathway implementation. Other studies have also identified this construct as
+a potential problem in program implementation [23, 24].
+It is interesting that smaller sites reported receiving
+more support for care pathway implementation. It is
+possible that smaller sites are more likely to provide verbal and non-verbal support of initiatives in general and
+if this is true, identifying ways to provide this type of
+support across institutions could be important. Such
+support could include wide availability of research staff
+to address questions and provide educational materials.
+It may also be important to identify site champions who
+can provide this type of support locally. More specifically, our proposed strategy will focus on enhancing support and recognition for care pathway implementation
+although these elements will primarily arise extrinsic to
+the institution and be provided by the study team.
+The finding of greater support at institutions with a
+greater percentage of black patients may be spurious. It
+also may reflect additional supports given to institutions
+that are minority based, such as those participating in
+the National Cancer Institute Community Oncology
+Research Program (a program aimed at sites with greater
+representation of racial/ethnic minorities or rural residents). We also found that lack of physician interest was
+a potential barrier to developing and implementing
+symptom management care pathways. Future qualitative
+research could explore reasons behind lack of interest
+and identify potential interventions to mitigate or address the issue.
+We found that the COVID-19 pandemic was not
+perceived as a major barrier to research conduct. This
+finding is in contrast to a recent meta-analysis
+suggesting that trial delays and cessation were common and were a direct consequence of the pandemic
+[25]. Our findings may differ because the survey was
+distributed later in the pandemic, when many institutions had adapted to it. Further, some institutions
+have made distinctions based upon whether research
+activities are in person vs. not in person and whether
+they are essential vs. not essential. Given that our
+trial could be conducted entirely remotely, and since
+some could consider this type of trial essential, respondents may have anticipated fewer barriers
+compared with other research studies. Lastly, respondents to our survey may not have had personal experience surmounting the logistical and bureaucratic
+barriers to the conduct of research created by the
+COVID-19 pandemic and, thus, may have not fully
+appreciated its impact. While our findings are unique
+to this particular project, they offer useful insight into
+institutional support of research during the pandemic.
+The strengths of this study include the utilization of
+an established framework (CFIR) in addition to studyspecific items in order to identify potential barriers to
+care pathway implementation. This will allow important contextual elements to be evaluated for their future relationship to implementation strategies and
+outcomes. Another strength is the evaluation of the
+impact of the COVID-19 pandemic on clinical research, a timely and important question. However,
+the study is limited as two institutions either dropped
+out or did not complete the survey; they are likely to
+be different than the 23 institutions that did complete
+the survey. In addition, these questions were mainly
+answered by a single individual, namely the site principal investigator. While input from other colleagues
+could have been accessed, perspectives of other
+healthcare professionals at the site were not fully represented. Also, sites agreed to provide support at the
+grant submission stage, suggesting they believe that
+symptom management is important. Thus, participating sites are likely a positively biased cohort and the
+“typical” site may report more barriers to care pathway implementation. Finally, evaluation of characteristics of sites who agreed that their department
+supports, recognizes and prioritizes the implementation of symptom management care pathways vs. those
+who did not agree should be considered hypothesis
+generating.
+Conclusions
+In conclusion, respondents at pediatric oncology institutions expected few barriers to symptom management
+care pathway implementation at their institutions. The
+most commonly reported barriers to implementation
+were lack of support, recognition and prioritization. The
+COVID-19 pandemic may not be a major barrier to clinical research activities in pediatric oncology. These results were limited by being conducted at sites that have
+prioritized supportive care. Future work should use this
+information to improve care pathway implementation.

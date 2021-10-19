@@ -1,0 +1,607 @@
+Unwarranted variations in the delivery of health care are
+widespread [1, 2]. These variations have manifested in
+systematically poorer quality or lower availability of care
+for patients for reasons including their gender, age, ethnicity,
+and socioeconomic circumstances [3]. Examples
+of such inequalities include patients of Hispanic or
+South Asian ethnic backgrounds reporting poorer experience
+of their doctors than majority white patients in
+the USA and UK [4–7], and delays in cancer diagnosis
+(associated with poorer survival) being reported more
+frequently for older patients and patients in adverse socioeconomic
+circumstances compared to younger and
+majority white patients in the UK [8, 9]. Evidence on
+how such variations arise and persist is required to inform
+improvement efforts. Proposed drivers of variations in the delivery of care include individual healthcare provider
+perceptions or behaviours – such as the presence
+of implicit bias [10] – as well as variations in patient expectations
+or behaviours [11]. Differences in how decisions
+are reached as providers and patients interact may
+also contribute to persistent variations in care [12].
+These explanations are widely proposed in many areas
+where variations are identified, but robust evidence often
+remains lacking or inconclusive [13, 14]. Obtaining actionable
+insights into the judgements, activities and behaviours
+of individuals within health care systems is
+challenging. It is even more challenging when the situations
+under scrutiny are rare, occur in complex settings,
+or raise difficult ethical questions [15]. Experimental vignette
+studies offer one methodological approach to
+tackling this challenge.
+A vignette is a short, carefully constructed depiction of
+a person, object, or situation, representing a systematic
+combination of characteristics [16]. First used in ethnographic
+fieldwork to prompt informants for more detailed
+reflection [17], hypothetical scenarios were
+subsequently adopted by experimental psychologists to
+examine cognitive processes [18, 19]. Vignette approaches
+have since been taken up in diverse fields including
+social science [15, 20, 21], organisational
+research [22, 23], applied and social psychology [24],
+business ethics [25], information studies [26], and nursing
+research [27].
+In experimental vignette studies, vignettes are used to
+explore participants’ attitudes, judgements, beliefs, emotions,
+knowledge or likely behaviours by presenting a
+series of hypothetical yet realistic scenarios across which
+key variables have been intentionally modified whilst the
+remaining content of the vignette is kept constant [22,
+26]. Such studies seek to generate inferences about
+cause-and-effect relationships by considering the nature
+of each vignette, and participants’ subsequent responses
+to these vignettes [28, 29]. Vignettes themselves may be
+presented using a variety of modalities, including text,
+pictures, video or by using actors in simulated or real
+clinical environments. Studies are often factorial in design,
+with vignettes created to represent all possible
+combinations of pre-defined factors of interest, and a
+random sample of vignettes subsequently presented to
+each participant [18, 27, 30]. Experimental vignette studies
+provide a ‘hybrid’ approach between conventional
+surveys and observations of real-life practice. The
+intentional manipulation of vignettes in experimental
+designs to compare the causal effects of variables enhances
+internal validity, whilst the survey sampling approaches
+available to researchers conducting vignettebased
+studies enhances external validity [16, 22, 31].
+Opponents to vignette studies commonly note that
+they are not studying real life [26, 32]. Several validation
+studies have examined how vignettes perform against alternative
+methods of assessing the delivery of care, often
+using medical records and standardised patients as comparators
+[33–35]. Whilst each method inevitably has
+strengths and weaknesses, well designed vignette studies
+may have advantages in certain scenarios. Health care
+professionals’ choices of care in clinical vignettes have
+been found to reflect their stated intentions and behaviours
+more closely than data extracted from medical records
+or from recordings of real consultations [33–35].
+Biases or inaccuracies may arise from observations of actual
+clinical practice in a number of ways. For example,
+evidence suggests that physicians may under-report clinical
+activities within medical records, possibly due to
+time constraints [33]. Additionally, key actions can be
+missed in recording doctor-patient consultations; body
+language is omitted from analyses of audio recordings,
+whilst off-camera events are missed in video recordings
+[36, 37]. As a result, observational studies alone may not
+provide sufficient depth of evidence to inform successful
+efforts to reduce variations in care; experimental vignette
+studies offer an alternative lens through which to identify
+key drivers of variations.
+In our experience of conducting experimental vignette
+studies, there is a lack of methodological and practical
+guidance available on how to design and conduct these
+studies robustly. Unlike other study types, there is no
+universal checklist to ensure vignette studies are understandable,
+transparent and of high quality [38]. The aim
+of this scoping review was to locate, methodologically
+evaluate, and synthesise the contribution of experimental
+vignette studies that seek to identify drivers of unwarranted
+variations in the delivery of healthcare. In doing
+so, we hope to provide an overview of how to do such
+studies well, and what we can learn from them.
+Methods
+We conducted a scoping review in accordance with
+PRISMA-ScR guidelines [39].
+Eligibility criteria
+We aimed to locate primary empirical studies that used
+an experimental vignette design to examine drivers of
+variation in the delivery of healthcare. The review focused
+on drivers of variation and therefore excluded
+those that only sought to describe variations, as the
+measurement of variations is feasible using records or
+observation of real healthcare delivery See supplementary
+file 1 for full inclusion and exclusion criteria.
+Information sources and search strategy
+The search strategy was developed in collaboration with
+an experienced information specialist (IK), and used text
+words and synonyms for vignettes and variations in
+healthcare (supplementary file 1). The following databases
+were searched from January 2007 to April 2019:
+MEDLINE (via Ovid), Embase (via Ovid), Web of Science,
+and CINAHL (via EBSCO). The search was limited
+to 2007 because the majority of methodological reviews
+of vignettes were published since this date (see supplementary
+file 2). The search strategy was developed in
+MEDLINE and adapted for other databases as
+appropriate.
+Study selection
+We used a phased approach to title/abstract screening.
+First, an automated search of key words in titles and abstracts
+was undertaken using Stata15 [40] to exclude
+studies that were clearly of no relevance (e.g. studies
+published in planetary journals). We undertook manual
+checks of automated Stata screening exclusions to refine
+terms (for example, initially terms connected with education
+were used to exclude studies on students but removed
+when they were identified as excluding papers
+referring to qualified physicians). Next, JS manually
+screened the remaining titles and abstracts to exclude
+papers that did not examine healthcare variations using
+vignettes, or that measured rather than sought to identify
+drivers of variation. JB double screened 10% of the
+full sample to confirm accuracy and clarify inclusion criteria.
+Inter-rater agreement was assessed using Cohen’s
+kappa for a subset of papers. Prior to consensus discussions,
+Kappa was 66%, which can be interpreted as moderate
+agreement [41].
+Full-text screening was conducted by JS with 10%
+double screening by JB. For both title/abstract and fulltext
+screening, all differences were resolved by
+discussion.
+Data extraction
+Data were extracted by JS, with 10% double extraction
+by JB, using a tool developed and piloted for the purposes
+of this study, covering setting, respondents, healthcare
+setting, medical condition under scrutiny, patient
+characteristics, drivers of variation under scrutiny, and
+vignette modality.
+Methodological assessment
+There is no existing standardised approach to evaluating
+the robustness of experimental vignette studies. We
+therefore conducted a review of methodological reviews
+of vignette studies within and beyond healthcare. Synthesising
+insights from all included methodological papers
+[26, 32, 42–46], we developed a framework to
+appraise the design and conduct of experimental vignette
+studies within this review: see supplementary file
+2 for full details of this review of reviews and the framework
+development.
+Within this framework, we identified factors considered
+important in maximising internal and external validity
+of experimental vignette studies in two broad areas:
+(A) the design and description of vignettes used, and (B)
+the wider study design and methods within which vignettes
+are employed, as outlined below (Table 1) [46,
+50, 52].
+A. Vignette design
+Six key considerations were identified as important in
+the construction and use of robust vignettes: vignette
+credibility, number, variability, mode, evaluation, and description.
+These are described in more detail in Table 1.
+We use the term vignette to refer to the overall description
+or depiction of each situation as presented to the
+participants. Within each vignette, experimental factor/s
+represent the variable/s of interest which have been
+intentionally modified and manipulated (such as gender
+or ethnicity); the representation of experimental factor/s
+refers to the varying ways in which each experimental
+factor is represented across the vignettes (e.g. the multiple
+ways in which ethnicity or gender have been presented
+to the participant).
+B. Wider study design
+Four considerations were identified as important in
+the overall design of experimental vignette studies: concealment,
+realism, sampling and response rates, and analysis
+(Table 1). In almost all cases, experimental vignette
+studies are a form of survey, and thus principles of good
+survey design (including standards for good questionnaire
+design) should be followed.
+We applied this framework to all included studies to
+appraise the way in which they were conducted. We
+generated a scoring system to reflect how well studies
+had met eight of the ten methodological considerations.
+For four considerations (vignette credibility, evaluation,
+description and study analysis) the scores primarily
+reflected the extent to which sufficient methodological
+detail was provided. For two considerations (vignette
+variability and study realism) the score primarily
+reflected whether optimal choice in the design of the
+study was made. For two considerations in the wider
+study design (concealment and sampling/response), the
+scores reflected both provision of methodological detail
+and the quality of study execution. The sampling/response
+consideration was weighted most heavily in the
+scoring system (maximum of 6 marks) because we
+judged it of key importance to the credibility and validity
+of studies seeking to report on inequalities. Two considerations
+were not given a score; mode of vignette delivery
+and whether multiple vignettes were provided. Both
+these considerations - while important for researchers to
+consider when designing vignettes – are not, intrinsically,
+markers of quality.
+Adding up assessments across each methodological
+consideration, studies were then assigned to one of three
+groups: good, moderate or low overall methodological
+quality (see Table 3 and supplementary file 2 for full details
+of categorisation). The cut-offs were agreed by JB
+and JS in part determined by their overall score and in
+part determined by their performance on key considerations.
+Studies were considered moderate rather than
+high quality when overall their design and reporting was
+good enough overall but where there were significant
+flaws in at least one dimension. The distinction between
+moderate and low quality was made where we judged
+studies to be too flawed to inform wider understanding
+of healthcare inequalities.
+Data synthesis
+Studies were synthesised narratively, paying particular
+attention to how studies yielded insights into variations
+in healthcare delivery. We excluded studies judged to be
+of low methodological quality from this synthesis.
+Registration
+As a methodological scoping review, the study was not
+eligible to be registered on PROSPERO.
+Results
+Study selection and characteristics
+We identified 23 papers and 21 unique studies for inclusion
+within the review (see PRISMA flowchart, Figure 1).
+Most studies related to primary care settings (see Table
+2 for details). Studies were most frequently based in the
+USA (n=14), with England (n=2), Portugal (n=1),
+Sweden (n=1), the Netherlands (1), France (1) and
+multi-country settings (n=3) also represented. Vignette
+participants were almost exclusively healthcare providers
+(20/23), predominantly doctors (n=14). Only three studies
+examined public perspectives on healthcare delivery
+[58, 62, 74].
+Most studies (17/21) sought to examine drivers of variations
+in healthcare in relation to patient ethnicity.
+Drivers of variation were also examined in relation to
+patient gender (n = 9), socioeconomic circumstances
+(n = 7) and age (n = 9). No studies examined unwarranted
+variations by other characteristics protected in legislation
+in some countries, such as disability and
+sexuality.
+Methodological assessment
+We assessed ten studies as being of good methodological
+quality (Table 3). We focused on these studies in exploring
+how vignettes may produce insights into drivers of
+variations of care. Seven studies were assessed as moderate
+quality, with lower certainty about the insights they
+could provide into drivers of healthcare variation. Four
+studies were assessed as low methodological quality, primarily
+because flaws in their sampling and response
+rates led to the possibility of significant biases that
+would compromise the validity of their findings, no matter
+how well their vignettes were designed and executed.
+More details on how the 21 included studies were designed
+and conducted are given below.
+Vignette design
+Credibility
+Most studies provided comprehensive descriptions of
+how vignettes were constructed. Higher quality studies
+described how input from clinicians or patients influenced
+content and delivery. For example, Burt et al.
+based vignettes on previously video-recorded patientclinician
+encounters [42]. In a three studies, content was
+based on national guidelines [65, 72, 75].
+Number
+Just over half (12/21) of studies showed participants
+more than one vignette.
+Variability
+Eight high and one moderate quality study used variants
+of experimental factors, depicting the same experimental
+characteristic using more than one actor, photo or video
+or simulated case.
+Modality
+In six studies, vignette information was purely textual;
+here, manipulated characteristics and their variations
+were therefore stated clearly to participants. In 12 studies,
+vignette information was visual, either pictorial (n=
+6) or video-based (n=6). Here, manipulated characteristics
+were communicated non-verbally and may (or may
+not) have been inferred by the participants. In three
+studies, vignettes were presented interactively, with one
+study each using online, telephone and in-person standardised
+patient approaches. In interactive modalities
+the content of the vignette could vary across participants,
+as the vignette evolved in response to respondent
+behaviours, such as the questions they asked [42].
+Evaluation
+Three high quality studies comprehensively reported how
+their vignettes performed, most commonly in tests of
+credibility [58, 60, 68]. Mckinlay et al., Hirsh and Lutfey et
+al. used post-study quantitative surveys of participants to
+find out whether vignette 'patients' were typical of the real
+patients they encountered [64, 66, 68]. McKinlay reported
+that 91% of participants viewed the vignettes as typical of
+their patients [68]. Burt et al reported the expert clinical
+raters’ scores of their high and low performing vignette
+consultations as an indication of their credibility [58].
+Vignettes performance was evaluated in other ways too.
+For example, Sheringham et al. had developed an online
+interactive vignettes application specifically for the study
+[72]. The authors quantified system errors that occurred
+when the software could not answer a question entered by
+a participant. System errors occurred on average in just
+under 5% of all participant interactions. Analysis was adjusted
+to examine whether system errors could have been
+responsible for the findings and this was found not to be
+the case [72]. Description of any kind of vignette evaluation
+were largely absent from lower quality studies.
+Description
+Thirteen out of 21 studies presented or facilitated access
+to an entire example vignette. Access to video or interactive
+vignettes in a journal article is not straightforward,
+but five out of the nine video or interactive papers did
+include sufficient aspects (e.g. using video stills [60]) or
+online links (e.g. to a multimedia demonstration [72]) to
+enable readers to judge vignettes’ quality and credibility.
+Wider study design
+Concealment
+While eleven papers reported that the study’s purpose
+was not divulged to participants, only seven high quality
+described strategies they actively employed to conceal it.
+These included: stating a wider or different purpose in
+study information, including a ‘distractor’ (either an unrelated
+vignette or unrelated tasks during the study), and
+using free-text response options as opposed to a predetermined
+selection (n = 8) to reduce the risk of priming
+and response bias.
+Three studies illustrated that participants’ awareness
+of the study purpose could affect the findings [54, 63,
+66]. Lutfey et al. (2009) alerted half their sample to the
+potential of CHD as a diagnosis; primed doctors made
+different decisions on the same vignettes to those not
+explicitly primed [66]. Green et al (2007) found a strong
+relationship between physicians’ implicit bias scores and
+thrombolysis decisions for black patients in participants
+unaware of the study’s aim; the relationship was reversed
+in participants aware of the aim [63]. Finally, ethnic bias
+in the assessment of autism, found when clinicians’ were
+asked to give a spontaneous clinical judgement, disappeared
+when clinicians were asked to specifically rate the
+likelihood of autism [54].
+Active strategies for concealment were not described
+in any of the low or moderately rated studies.
+Realism
+Six of the moderate and high quality studies sought to
+collect data in settings that replicated aspects of healthcare
+delivery, for example by collecting data in physicians’
+offices during clinic times [61, 66, 68]. Such data
+collection was not always achieved as planned; Sheringham
+et al. sought to conduct an online study in clinic
+settings between appointments, but due to limited clinic
+IT facilities many participants completed the study at
+home [72].
+Sampling and response rate
+Risk of bias was common due to sampling flaws, low or
+unreported response rates. It was not limited to low
+quality studies. Eight studies - two higher, two moderate
+and all the lower quality studies - lacked explanations or
+justification of sampling selection, recruitment strategy
+or representativeness of the final sample. Only eight out
+of 21 studies reported response rates. Of these, three
+reported response rates of less than 30%. Several
+studies were unable to report the total population
+contacted for the study due to the method used to
+approach participants, such as distribution via clinical
+networks. Insights were also on occasion limited due
+to challenges of recruitment. Johnson-Jennings et al.
+sought to examine the extent to which ethnic
+concordance between clinician and patient was a
+driver of variations, but insights were limited as they
+were only able to recruit 33 Native American physicians
+[75].
+Analysis
+Where studies presented respondents with more than
+one vignette, most sought to control for potential effects
+of a particular depiction by including the vignette as a
+covariate in multivariable analysis. Appropriate analytical
+methods were used to account for clustering. Only two
+studies sought to examine variation between participants:
+Bories et al. used clustering to identify characteristics
+of physician behaviour patterns across vignettes,
+whilst Hirsh et al. analysed decisions at the level of the
+individual [56, 64]. This individual-level analysis showed
+that only a minority of nurses displayed non-clinical variations
+in decisions, but such variations were sufficiently
+large to influence the aggregate analyses.
+New insights from vignette studies into the drivers of
+healthcare variations
+Studies contributed to understanding variations in care
+in two ways. Firstly, most of the moderate or high-quality
+vignette studies (14/17) sought to test specific hypotheses
+which might explain observed disparities in
+care – hypotheses which are challenging to examine
+using real patients. Secondly, studies aimed to provide
+insights into poorly understood decision-making processes
+underlying disparities in care. Many papers served
+both purposes (testing specific hypotheses and providing
+new insights), with just three focussing only on insights
+into decision-making [53, 70, 72].
+Vignette studies may both lend support to, or challenge,
+hypotheses for how inequalities in healthcare
+arise. For example, clinicians frequently make decisions
+amongst competing demands in chaotic working conditions,
+which result in a background of high cognitive
+load, and the potential for subsequent variations in care.
+It is clear that research assessments of decision-making
+recorded in quiet environments without time constraints
+do not replicate this pressure. One study provided evidence
+that bias is more likely to arise in high pressure
+situations: increasing cognitive load through the
+provision of a competing task to do under time pressure
+altered ethnic inequalities in physicians’ prescribing patterns
+[57]. This supports not only the notion that cognitive
+load leads to variations in care, but that such
+variations may be systematically biased against certain
+patient characteristics. Of note, additional cognitive load
+altered inequalities in prescribing in different ways for
+male and female physician, highlighting the complexity
+of contextual influences on disparities in care [57].
+Two papers used hypotheses generated from real patient
+data as the basis for tests with parallel vignette
+studies [54, 68]. Combining insights from observational
+and vignette data may be particularly helpful in clarifying
+the relevance of research findings to policy or practice.
+As an example, in an initial descriptive analysis of case
+records, Begeer et al. identified that minority ethnic
+groups were under-represented in autism institutions
+[54]. In a contemporaneous vignettes study, they found
+that physicians’ ethnic biases in diagnosing autism disappeared
+when they were specifically prompted to consider
+autism. The authors suggest the use of structured
+prompts in clinical assessments may decrease variations
+in diagnosis and subsequent care [54].
+Whilst such insights lend credibility to prior hypotheses,
+vignette studies may also bring insights that challenge
+proposed drivers of reported variations in
+healthcare. For example, Burt et al. noted that certain
+minority ethnic groups report lower patient experience
+scores compared to the majority population across a
+wide variety of settings [58]. One proposed explanation
+for this is that minority ethnic patients receive similar
+care to the majority white patients, but have higher or
+different expectations of care. To test this hypothesis,
+Burt et al. presented respondents with video vignettes of
+GP-patient consultations to gauge their expectations of
+care. They found South Asian respondents consistently
+rated GPs’ communication skills higher than white respondents,
+thus challenging the hypothesis that poorer
+reported experiences of care in South Asian patients
+relative to White British patients arise from higher expectations
+of care [58].
+As noted above, vignette approaches may provide insights
+into decision-making processes. Three studies in
+this review sought to obtain new insights into how ethnic
+disparities arise during healthcare encounters. Obtaining
+generalisable evidence on this is rarely feasible in real life
+due to the specific dynamics of individual clinician-patient
+pairs. Adams et al. asked physicians to reflect on video
+consultations about depression, analysing these narratives
+in detail to identify micro-components of clinical decision
+making [53]. This approach, which yielded rich data on
+the cues physicians reported using and the inferences they
+drew from them, in fact suggested there was little ethnic
+bias in physicians’ decision-making processes. Such findings,
+however, rely on the accuracy of physicians’ retrospectively
+constructed narratives. More recently, two
+studies used elements of simulation to explore in real time
+how interactions between patients and healthcare professionals
+may lead to variations in care [60, 72]. For example,
+Elliot et al. coded video recordings of encounters
+between physicians and standardised patients, and demonstrated
+that variations in healthcare arose during consultations
+through differences in non-verbal interactions [60].
+Studies within this review were able to test hypotheses
+and generate new insights into decision-making processes
+through their deliberate divergence from real life
+situations, involving the manipulation of vignette characteristics
+and the contexts in which data were collected.
+As highlighted by many of the studies above, vignette
+approaches have been particularly useful to date in
+examining ethnic disparities in care, with researchers
+circumventing the obstacles experienced in real life of
+finding sufficient numbers of patients or clinicians of
+rare ethnicities to undertake studies in this area. The vignette
+approach also enables standardisation and isolation
+of characteristics of interest. Such standardisation
+helps to eliminate the possibility that observed ethnic
+variations in healthcare delivery were caused by individuals’
+cultural and linguistic, rather than ethnic group,
+differences.
+Discussion
+Main findings
+Experimental vignette studies have been used in a number
+of innovative ways to examine drivers of unwarranted
+variations in healthcare delivery. They can test
+hypotheses proposed to explain variations in care that
+are not possible using real-life data through the manipulation
+of vignette characteristics or the context in which
+data were collected.
+By applying a novel methodological framework for
+conducting vignette studies to this review, we demonstrated
+that their insights have been limited in many
+cases by a lack of evaluation of the credibility of vignettes
+and flaws in their wider study design.
+Strengths and limitations
+The volume of literature retrieved from the search for
+empirical studies was large, and in many cases obviously
+not relevant to the study question. To manage this volume,
+we instigated an automated screening process, and
+used limited double screening. As a result, we may not
+have captured an exhaustive set of all experimental vignette
+studies identifying drivers of unwarranted variation
+in healthcare quality. However, our methods were
+sufficient for our purposes, which were to identify a set
+of studies of sufficient quality to illustrate the range of
+ways in which vignette designs have been used and identify
+areas in which the potential of vignette methods
+could be maximised to provide further insights into
+drivers of unwarranted variations in health care.
+There were flaws in almost all of the studies retrieved
+by our search. In most studies, aggregate analyses of decision
+making were presented, which may mask heterogeneity
+between physicians’ (or patients’) perceptions or
+decision-making behaviour. A number of studies reported
+findings that were unexpected or counter to findings from observational studies. Without searching
+discussion about why unexpected findings occurred,
+such vignette studies may have poor credibility and limited
+capacity to influence future research or policy. More
+broadly, studies often had severe limitations in their
+wider design, notably due to biased or incompletely described
+samples.
+What this study adds
+The application of a novel methodological framework
+to appraise vignette studies illustrated the variation in
+quality and conduct of such studies. The framework
+also adds to existing methodological reviews by consolidating
+guidance into one source and considering
+the range of modalities – beyond text and video -
+that can be used to depict vignette content [42, 43,
+45]. This is important because choice of vignette delivery
+mode determines what research questions it is
+possible to answer. For example, if a study seeks to
+examine events during a clinical encounter, static vignette
+modalities will not capture these [43]. By illustrating
+the heterogeneity in reporting in this field, it
+provides evidence of the need for standard reporting
+guidelines reflecting the full range of possible vignette
+modalities to enhance the transparency and quality of
+vignette studies in health services research.
+While developed for appraising studies examining
+drivers of inequalities, it may have wider applicability
+to assess the methodological rigour of other experimental
+vignette studies. This is because most dimensions
+of the framework – namely considerations of
+vignette credibility, evaluation and description and the
+wider study design - are central to vignette studies
+with any purpose. One dimension - the need to conceal
+the study purpose – may be more specific to inequalities
+or to studies seeking to examine behaviours
+or views that participants feel are undesirable. However,
+we caution against uncritical application of the
+scoring system developed for this paper. The scores
+were weighted to reflect the importance of dimensions
+considered important in this discipline and may
+well require adaptation for other fields.
+Conclusions
+Understanding how unwarranted variations in healthcare
+arise is challenging. Experimental vignette studies
+can help with this, but they need careful design and
+effort to be conducted to a high standard. To date,
+most experimental vignette studies have concerned
+themselves with exploring the attitudes and behaviour
+of healthcare professionals. There is scope for a
+greater focus on patient attitudes, experiences and behaviours,
+and the interactions between patients and
+providers, in determining how variations arise and
+persist.
+The framework developed in this paper to appraise vignette
+studies covers dimensions of relevance beyond inequalities.
+Wider application and adaptation is required
+to determine the extent to which it can ultimately benefit
+researchers across scientific disciplines.

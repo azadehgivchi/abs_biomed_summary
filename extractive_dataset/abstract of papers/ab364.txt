@@ -1,0 +1,16 @@
+Background: Suicide is a complex issue. Due to the relative rarity of the event, studies into risk factors are regularly
+limited by sample size or biased samples. The aims of the study were to find risk factors for suicide that are robust
+to intercorrelation, and which were based on a large and unbiased sample.
+Methods: Using a training set of 5854 suicides and 596,416 control cases, we fit a logistic regression model and
+then evaluate the performance on a test set of 1425 suicides and 594,893 control cases. The data used was microdata
+of Statistics Netherlands (CBS) with data on each inhabitant of the Netherlands.
+Results: Taking the effect of possible correlating risk factors into account, those with a higher risk for suicide are
+men, middle-aged people, people with low income, those living alone, the unemployed, and those with mental or
+physical health problems. People with a lower risk are the highly educated, those with a non-western immigration
+background, and those living with a partner.
+Conclusion: We confirmed previously known risk factors such as male gender, middle-age, and low income and
+found that they are risk factors that are robust to intercorrelation. We found that debt and urbanicity were mostly
+insignificant and found that the regional differences found in raw frequencies are mostly explained away after
+correction of correlating risk factors, indicating that these differences were primarily caused due to the differences
+in the demographic makeup of the regions. We found an AUC of 0.77, which is high for a model predicting suicide
+death and comparable to the performance of deep learning models but with the benefit of remaining explainable.

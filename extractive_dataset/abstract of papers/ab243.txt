@@ -1,0 +1,16 @@
+Background: Post-translational modifications (PTMs) are at the heart of many cellular signaling events, which
+changes the function of protein. Crotonylation, one of the most important and common PTMs, plays a crucial role
+in the regulation of various biological processes. However, no study has evaluated the role of lysine crotonylation
+modification in chronic renal failure (CRF) patients.
+Methods: Here, we comparatively evaluated the crotonylation proteome of normal controls and chronic renal
+failure patients using liquid chromatography-tandem mass spectrometry (LC-MS/MS) coupled with highly sensitive
+immune-affinity purification.
+Results: A total of 1109 lysine modification sites were identified, of which 772 sites were up-regulated and 69 sites
+were down-regulated. This suggested that crotonylation modification maintains high levels in the patients with
+chronic renal failure. Gene ontology(GO) enrichment analysis showed that the crotonylated proteins were
+significantly enriched in the platelet alpha granule lumen, platelet degradulation, and cell adhesion molecule
+binding. In addition, Kyoto Encyclopedia of Genes and Genomes (KEGG)-based functional enrichment analysis in the
+Kyoto encyclopedia showed that crotonylated protein was enriched in CD36, which is closely linked to renal failure.
+Conclusions: This is the first report of the global crotonylation proteome in chronic renal failure patients.
+Crotonylation of histone and non-histone may play important roles in delaying the continuous deterioration of
+renal function in patients with chronic renal failure.

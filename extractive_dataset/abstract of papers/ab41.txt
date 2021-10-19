@@ -1,0 +1,15 @@
+Background: Cervical cancer is a common malignancy of the female genital tract. Treatment options for cervical
+cancer patients diagnosed at FIGO (2009) stage IB2 and IIA2 remains controversial.
+Methods: We perform a Bayesian network meta-analysis to directly or indirectly compare various interventions for
+FIGO (2009) IB2 and IIA2 disease, in order to improve our understand of the optimal treatment strategy for these
+women. Three databases were searched for articles published between 1971 and 2020. Data on included study
+characteristics, outcomes, and risk of bias were abstracted by two reviewers.
+Results: Seven thousand four hundred eighty-six articles were identified. Thirteen randomized controlled trials of FIGO
+(2009) IB2 and IIA2 cervical cancer patients were included in the final analysis. These trials used six different interventions:
+concomitant chemoradiotherapy (CCRT), radical surgery (RS), radical surgery following chemoradiotherapy (CCRT+RS),
+neoadjuvant chemotherapy followed by radical surgery (NACT+RS), adjuvant radiotherapy followed by Radical surgery
+(RT + RS), radiotherapy alone (RT).SUCRA ranking of OS and Relapse identified CCRT+RS and CCRT as the best
+interventions, respectively. Systematic clustering analysis identified the CCRT group as a unique cluster.
+Conclusion: These data suggest that CCRT may be the best approach for improving the clinical outcome of cervical
+cancer patients diagnosed at FIGO (2009) stage IB2/IIA2. Phase III randomized trials should be performed in order to
+robustly assess the relative efficacy of available treatment strategies in this disease context.

@@ -1,0 +1,19 @@
+Background: Oroscomucoid 3 (ORMDL3) has been linked to susceptibility of childhood asthma and respiratory viral
+infection. Polyinosinic-polycytidylic acid (poly I:C) is a synthetic analog of viral double-stranded RNA, a toll-like receptor
+3 (TLR3) ligand and mimic of viral infection.
+Methods: To investigate the functional role of ORMDL3 in the poly I:C-induced inflammatory response in airway
+epithelial cells, ORMDL3 knockdown and over-expression models were established in human A549 epithelial cells and
+primary normal human bronchial epithelial (NHBE) cells. The cells were stimulated with poly I:C or the Th17 cytokine
+IL-17A. IL-6 and IL-8 levels in supernatants, mRNA levels of genes in the TLR3 pathway and inflammatory response
+from cell pellets were measured. ORMDL3 knockdown models in A549 and BEAS-2B epithelial cells were then infected
+with live human rhinovirus (HRV16) followed by IL-6 and IL-8 measurement.
+Results: ORMDL3 knockdown and over-expression had little influence on the transcript levels of TLR3 in airway
+epithelial cells. Time course studies showed that ORMDL3-deficient A549 and NHBE cells had an attenuated IL-6 and
+IL-8 response to poly I:C stimulation. A549 and NHBE cells over-expressing ORMDL3 released relatively more IL-6 and
+IL-8 following poly I:C stimulation. IL-17A exhibited a similar inflammatory response in ORMDL3 knockdown and overexpressing
+cells, but co-stimulation of poly I:C and IL-17A did not significantly enhance the IL-6 and IL-8 response.
+Transcript abundance of IFNB following poly I:C stimulation was not significantly altered by ORMDL3 knockdown or
+over-expression. Dampening of the IL-6 response by ORMDL3 knockdown was confirmed in HRV16 infected BEAS-2B
+and A549 cells.
+Conclusions: ORMDL3 regulates the viral inflammatory response in airway epithelial cells via mechanisms independent
+of the TLR3 pathway.

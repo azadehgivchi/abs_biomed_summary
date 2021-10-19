@@ -1,0 +1,450 @@
+Background
+According to the most recent estimates of the World
+Health Organization (WHO), in 2015 alone malaria
+caused 438,000 deaths with estimated 214 million new
+cases [1]. Infections with Plasmodium falciparum are responsible
+for more than 90% of malaria-related deaths,
+particularly in African countries [1]. Drug resistance of P.
+falciparum is the greatest challenge in the fight against
+malaria, as the parasite has developed resistance to most
+of the drugs presently used for the treatment of malaria.
+These factors have led to the earnest need to discover new
+molecular targets and identify new drug leads against
+those targets [2].
+Post-translational modifications are necessary for the progression
+of P. falciparum life cycle [3, 4]. Among these
+modifications, protein ubiquitylation plays an important
+role. Ubiquitylation of proteins can be proteasomedependent
+or independent. Proteasome-dependent ubiquitylation
+pathway involves various biological processes comprising
+specific components, which make this pathway a
+potential therapeutic target to develop new anti-malarial
+drugs. Ubiquitin system participates in various cellular
+functions as well as host-parasite interactions [3]. Ubiquitin
+is a highly conserved 76 amino acids’ polypeptide that covalently
+attaches to target proteins through the combined action
+of three classes of enzymes namely, the ubiquitinactivating
+enzyme (E1), the ubiquitin-conjugating enzyme
+(E2) and the ubiquitin-protein ligase (E3) [5]. At the onset,
+the ubiquitin-activating enzyme (E1) activates ubiquitin
+through an ATP-dependent reaction. In this reaction, the
+terminal glycine residue of ubiquitin is adenylated and
+transferred to an internal cysteine residue to generate a
+high-energy thiol ester intermediate. The activated ubiquitin
+is then transferred to the ubiquitin-conjugating enzyme
+(E2), forming another thiol-ether intermediate, which then
+specifically binds to the ubiquitin-protein ligase (E3). Lastly,
+E3 ligase transfers the activated ubiquitin from E2 to the
+side chain of a lysine residue of the target protein [3, 5].
+Protein ubiquitylation can be monoubiquitylation (attachment
+of one ubiquitin), multiubiquitylation (several ubiquitin
+molecules attached to different lysine residues) or
+polyubiquitylation (polyubiquitin chain generation) [4].
+Ubiquitin E1 and E2, the two enzymatic components of
+ubiquitylation system, are highly conserved within eukaryotes
+[4]. However, P. falciparum E3 ubiquitin ligases are
+considerably diverse and thus may serve as promising targets
+for new antimalarial discovery [5]. The hypothesis behind
+this study is that targeting the E3 ligases functions of
+ubiquitin system would selectively kill the malaria parasite
+and would be less toxic to the mammalian cells. A set of
+standard E3 ligase inhibitors was tested against the chloroquine
+(CQ)-sensitive P. falciparum D6 strain (PfD6) and
+CQ-resistant P. falciparum W2 strain (PfW2) in vitro. The
+selective antimalarial inhibitors were further investigated
+to analyze the effect of E3 ligase inhibitors on intraerythrocytic
+P. falciparum asexual life cycle development.
+These studies suggest ubiquitin E3 ligases as potential
+antimalarial drug targets and support previous reports
+that the ubiquitin proteosomal degradation pathway may
+be essential for the survival of the malarial parasite [4, 5].
+Methods
+Cell cultures
+CQ-sensitive (D6, Sierra Leone) and -resistant (W2, Indochina)
+strains of P. falciparum cultures were obtained from
+Malaria Research and Reference Reagent Resource Center
+(MR4), USA and maintained at 5% hematocrit in complete
+culture medium (RPMI 1640 supplemented with 60 μg/mL
+amikacin, 27 mM NaHCO3 and 10% heat-inactivated normal
+human type A+ serum). The medium of the culture
+was replaced every 48 h, flushed with a gas mixture of
+90% N2, 5% CO2 and 5% O2 and incubated at 37 °C.
+Vero cells and THP1 cells were maintained in RPMI
+1640 supplemented with 10% fetal bovine serum (FBS)
+at 37 °C in an incubator with 5% CO2. Both, Vero cells
+and THP1 cells were obtained from American Type Culture
+Collection (ATCC), USA having catalogue number
+ATCC® CCL-81™ and ATCC® TIB-202™ respectively and
+were subcultured twice a week.
+Chemicals
+Eight E3 ligase inhibitors namely, thalidomide, proTAME,
+NSC 66811, Nutlin 3, HLI 373, JNJ 26854165, SMER 3
+and NSC 146109 were used in the study. Thalidomide targets
+cereblon (CRBN), which makes an E3 ubiquitin ligase
+complex with damaged DNA-binding protein 1 (DDB1)
+and cullin-4A (Cul4A). Thalidomide binds with CRBN
+and inhibits the associated ubiquitin ligase activity [6, 7].
+ProTAME, a cell-permeable prodrug, converts to an active
+molecule, tosyl-L-arginine methyl ester (TAME) and inhibits
+the ubiquitin ligase activity of the anaphasepromoting
+complex/cyclosome (APC/C) [8, 9]. NSC
+66811 and Nutlin 3 have been reported as MDM2 (Murine
+Double Minute 2) E3 ligase inhibitors [10, 11]. JNJ
+26854165 and HLI 373 are HDM2 (Human Double
+Minute 2) E3 ligase antagonists. SMER 3 is an inhibitor of
+a yeast SCF family E3 ubiquitin ligase (SCFMet30).
+Thalidomide, NSC6811, NSC 146109 and SMER 3 were
+purchased from Tocris Bioscience. Nutlin 3, JNJ 26854165
+and ProTAME were purchased from Selleckchem, USA,
+Axon Medchem, Netherland and Boston Biochem, Inc.
+USA respectively. Chloroquine (CQ) was used as the positive
+control, and dimethyl sulfoxide (DMSO) was used as
+vehicle control in this study. CQ and DMSO were obtained
+from Sigma-Aldrich, USA.
+Antimalarial SYBR Green I-based fluorescence assay
+CQ-sensitive P. falciparum D6 strain (Pf D6) and CQresistant
+P. falciparum W2 strain (Pf W2) were grown in
+RPMI 1640 medium supplemented with amikacin (60 μg/
+mL), NaHCO3 (27 mM) and 10% heat-inactivated normal
+human type A+ serum. Only ring stages of the parasite
+were counted and adjusted to 2% parasitemia with 2%
+hematocrit. Stock solutions (10 mM) of the test inhibitors
+were prepared in DMSO. The compounds were serially diluted
+in serum-free RPMI-1640 medium for testing at eight
+concentrations. The maximum concentrations of E3 ligase
+inhibitors and CQ used in the assay were 50 μM and 500
+nM respectively. The plates were incubated at 37 °C in 5%
+CO2, 5% O2, and 90% N2 environment for 48, 72, 96 and
+120 h. After incubation, SYBR green with RBC lysis buffer
+was added to each well, and the plates were incubated for
+1 h in the dark at room temperature. The standard antimalarial
+agent, CQ was tested as the positive control, and
+DMSO was tested as vehicle control. Standard fluorescence
+was measured Fluostar Galaxy microplate reader (BMG
+Lab Technologies) at excitation wavelength of 485 nm and
+emission wavelength of 535 nm [12]. The anti-malarial
+activity (expressed as IC50 values) was determined by the
+dose-response analysis with XLfit©.
+In vitro cytotoxicity assays against Vero and transformed
+THP1 cells
+The E3 ligase inhibitors were also tested against Vero cells
+(African green monkey kidney epithelial cells) and transformed
+non-dividing human monocytic (THP1) cells. The
+methods described earlier were used to measure cytotoxicity
+for Vero and THP1 cells [13, 14]. In brief, four days’
+old Vero and THP1 cell cultures were diluted with RPMI
+medium to 25,000 cells/mL. Vero cells (100 μL per well)
+were seeded in a clear 96 well culture plate and incubated
+for 24 h at 37 °C in a 5% CO2 incubator to obtain confluent
+cells. Phorbol 12-myristate 13-acetate (PMA) (25 ng/
+mL) was added to THP1 cell culture to transform the cells
+to adherent macrophages [15]. PMA treated THP1cells
+were dispensed into clear 96 well culture plates (200 μL/
+well; 25,000 cells/mL) and incubated at 37 °C in a 5% CO2
+incubator for overnight. The test compounds were prepared
+in DMSO at 10 mM concentration. The compounds
+were serially diluted in RPMI medium with 2% FBS in the
+separate daughter plates, for testing at eight concentrations.
+The cells were washed with culture medium, replaced
+with the fresh medium and test compounds were
+added. The maximum concentration of E3 ligase inhibitors
+and CQ used in these assays were 50 μM and 500 nM
+respectively. DMSO was tested as vehicle control in these
+assays. The plates were incubated further in a CO2 incubator
+at 37 °C for 48 h. After 48 h, 10 μL of AlamarBlue®
+was added to each well, and the plates were incubated in a
+CO2 incubator at 37 °C for overnight. Standard fluorescence
+was measured on a Fluostar Galaxy microplate
+reader (BMG Lab Technologies) at 544 nm ex, 590 nm
+em [13]. IC50 values were computed by analyzing doseresponse
+curves with XLfit©.
+Analysis of effect of E3 ligase inhibitors on P. falciparum
+development (stage specific imaging analysis: antimalarial
+assay)
+The stage-specific activity of the lead compounds was
+tested against Pf D6. The parasite culture was grown in
+RPMI-1640 medium supplemented with amikacin
+(60 μg/mL), NaHCO3 (27 mM) and 10% heat-inactivated
+normal human type A+ serum. The culture was synchronized
+by 5% sorbitol treatment as previously described
+[16]. The synchronized culture of PfD6, with
+~6% parasitemia and >90% of the parasite in ring stage,
+was used for these assays. Stock solutions (10 mM) of
+the test inhibitors were prepared in DMSO. CQ and active
+antimalarial inhibitors namely, Nutlin 3, JNJ
+26854165 and HLI 737 were tested at 50 nM, 35 μM,
+5 μM and 5 μM concentration respectively for the stagespecific
+antimalarial assay. These concentrations were
+almost equivalent to the IC90 of the inhibitors against
+PfD6 at 48 h. The effect of the compounds was monitored
+after every 8 h (0, 8, 16, 24, 32, 40 and 48 h) by
+preparing thin smears of the infected erythrocytes. The
+slides were stained with Giemsa, and digital images of
+the parasite were captured with Nikon Eclipse microscope
+under bright field using NIS-element imaging software.
+The images were analyzed for the parasite stages
+and morphological changes (if any) in the parasite. The
+levels of parasitemia and differential parasitemia (relative
+percentage of different parasite stages) counts were also
+measured. At least one thousand erythrocytes (total- infected
+& uninfected) were counted from each slide for
+determination of the the level of parasitemia and differential
+parasite stage counts.
+Statistical analysis
+Two-way ANOVA followed by Tukey and Sidak multiple
+comparison test with GraphPad Prism 6 was used to
+compare IC50 values of the inhibitors, the parasitemia
+and also percentage of individual parasite stages.
+Results
+In vitro antiplasmodial activity of standard E3 ubiquitin
+ligase inhibitors
+The antimalarial activity of a set of E3 ubiquitin ligase
+inhibitors was evaluated in vitro against PfD6 and PfW2
+at eight different concentrations of each compound and
+at four different time points (48, 72, 96 and 120 h)
+(Table 1). Among the eight E3 ligase inhibitors tested
+(Fig. 1), thalidomide and proTAME did not show noticeable
+antimalarial activity against PfD6 and PfW2 up to
+50 μM concentration and 120 h of exposure. E3 ligase
+inhibitors, namely NSC 66811, SMER 3 and Nutlin 3
+showed moderate antimalarial activity against both
+PfD6 & PfW2. Antimalarial activity of above three inhibitors
+against PfD6 was not significantly different
+from the activity against PfW2 except SMER 3. SMER 3
+showed significantly better antimalarial activity at 72 h
+(p < 0.05) against PfW2 as compared to PfD6. NSC
+146109, JNJ 26854165 and HLI 373 showed lower IC50
+values (below 6 μM) against both PfD6 and PfW2 and
+exhibited early growth inhibition. The IC50 values of
+HLI 373 against PfD6 were significantly different and
+were almost 2 fold higher against PfW2 as compared to
+PfD6 at 48 (p < 0.05), 72 (p < 0.01), 96 (p < 0.01) and
+120 h (p < 0.01). The antimalarial activity of JNJ
+26854165 against PfD6 was significantly higher (lower
+IC50 values) in comparison to PfW2 at 72 h (p < 0.05).
+Similarly, NSC 146109 showed significantly better antimalarial
+activity against PfW2 as compared to PfD6 at
+48 (p < 0.0001) and 72 h (p < 0.001).
+In vitro cytotoxicity of standard E3 ligase inhibitors
+against Vero and THP1 cells-
+The E3 ligase inhibitors tested for in vitro antimalarial
+activity were also tested against Vero cells (African green
+monkey kidney epithelial cells) and non-proliferating
+THP1 (transformed human monocytic) cells for mammalian
+cell cytotoxicity (Table 1). CQ, thalidomide, pro-
+TAME, NSC 66811, Nutlin 3 and HLI 373 were not
+toxic at the highest concentration tested. SMER 3 and
+NSC 146109 were toxic against Vero cells, and their
+IC50 values were not considerably different from corresponding
+IC50 values against PfD6 and PfW2. However,
+JNJ-26854165 was significantly less toxic to mammalian
+cells as compared to PfD6 (p-value <0.001) and PfW2
+(p-value <0.001). Therefore Nutlin 3, HLI 373 and JNJ-
+26854165 were identified as selective antimalarial E3 ligase
+inhibitors. CQ, thalidomide, and proTAME were not
+toxic against THP1 cells at the highest concentration
+tested. NSC 146109 and SMER 3 were toxic against
+THP1 cells, and IC50 values of NSC 146109 was not
+considerably different from corresponding IC50 values
+against PfD6 and PfW2. The IC50 value of SMER 3 was
+not considerably different from corresponding IC50
+values against PfD6, although significantly different than
+corresponding IC50 values against PfW2 (p-value <0.05).
+NSC 66811 was not toxic against THP1 cells. Nutlin 3,
+HLI 373 and JNJ-26854165 were considerably less toxic
+against THP1 cells as compared to PfD6 (p-value <0.001,
+<0.001 and <0.001 respectively) and PfW2 (p-value
+<0.01, <0.001 and <0.001 respectively). Thus Nutlin 3,
+HLI 373 and JNJ-26854165 were identified as selective
+antimalarial E3 ligase inhibitors.
+Evaluation of antimalarial ubiquitin ligase inhibitors on
+growth and development of P. falciparum
+The effects of lead antimalarial ubiquitin ligase inhibitors
+namely, JNJ 26854165, HLI 373 and Nutlin 3 were
+further tested against the asexual intra-erythrocytic development
+of P. falciparum. These inhibitors showed
+early effects on the parasite growth (Table 1) and therefore
+were tested up to 48-h incubation period. The results
+show the effects of inhibitors on overall levels of
+the parasitemia (Fig. 2), and relative percentages of different
+parasite stages namely rings, trophozoites and
+schizonts (Fig. 3). Any morphological and cellular
+changes in parasite development were determined by
+analysis of digital images of the parasite exposed to these
+inhibitors. The representative digital images of the parasite
+stages and modifications in parasite morphology are
+presented in Fig. 4. CQ was tested as a positive control,
+and DMSO was tested as a vehicle control in this assay.
+At 0 h the PfD6 cultures had ~ 6% overall parasitemia
+and > 90% of the parasites were in ring stage. In PfD6
+culture treated with vehicle control majority of the parasites
+were transformed into trophozoites at 8 to 48 h,
+The ratio of schizonts increased from 0 to 24 h and declined
+at after 32 h (Fig. 3a). The overall level of parasitemia
+did not change considerably in vehicle treated
+PfD6 culture up to 48 h, as compared to 0 h (5.28% vs.
+5.98%) (Fig. 2). CQ treatment significantly decreased the
+overall parasitemia at 40 (p < 0.001) and 48 (p < 0.01)
+hours, as compared to the vehicle control (Fig. 2a). In
+CQ treated PfD6 cultures, around 50% of the parasites
+were arrested at ring stage at 16 h post-treatment. Likewise,
+more than 50% of the parasites were arrested at
+ring stage at 40 and 48 h. Only a few parasites matured
+into schizonts, which further declined after 32 h (Fig. 3b).
+The change in differential parasite counts in CQ-treated
+cells, at 48 h post-treatment, were statistically not significant
+compared to control vehicle treated PfD6 culture,
+due to large individual variations. However, the
+rings detected in CQ-treated PfD6 cultures were apparently
+healthy, but the trophozoites were shrunk (Fig. 4).
+These results indicate that CQ kills the malarial cells by
+blocking the growth of parasite at ring/schizont stage.
+This reduction in parasitemia by JNJ 26854165 was
+comparable to that of CQ at 40 (1.90% vs 2.40%) and
+48 h (1.76% vs 1.92%), and was markedly reduced as
+compare to control at 40 (1.9 vs 6.90; p < 0.0001) and
+48 (1.76% vs 5.28%; p < 0.01) hours of treatment
+(Fig. 2a and b). The parasites treated with JNJ
+2648544858 apparently showed a different life-cycle
+stage development pattern as compared to control.
+The majority (~90% at 0 h) of the rings stage parasite
+matured to trophozoites at 8 h. At 16 and 24 h the
+majority of P. falciparum parasites were in ring and
+trophozoite stages, and again trophozoites became
+dominant at 40 and 48 h (Fig. 3c). The change in differential
+parasite counts in JNJ2648544858 treated
+cells at 48 h post-treatment were statistically not significant
+compared to controls and CQ-treated PfD6
+cultures due to large individual variations (Fig. 3).
+However, distorted rings, trophozoites, and schizonts
+were seen in PfD6 cultures treatment with JNJ
+2648544858 at 40 and 48 h post-treatment (Fig. 4).
+HLI 373 showed a significant reduction in parasitemia
+at 40 h (p < 0.05) as compared to control (Fig. 2c). The
+P. falciparum culture treated with HLI 373 showed
+ring stages in the majority (~90%) at 0 h, while at the
+remaining time points after the treatment (8, 16, 24,
+32 and 40) majority of the parasite cells were at
+trophozoite stage. Most of the parasite cells were at
+schizont stage at 48 h after the treatment with HLI
+373 (Fig. 3d). However, the change in differential parasite
+counts in HLI 373 treated cells at 48 h posttreatment
+were statistically not significant compared
+to controls and CQ-treated PfD6 cultures due to large
+individual variations (Fig. 3). The parasitemia was significantly
+reduced in Nutlin 3 treated P. falciparum
+culture as compared to control at 40 h (p < 0.001)
+(Fig. 2d). In P. falciparum cultures treated with Nutlin
+3 trophozoites were in the majority at 8, 16 and 40 h
+post-treatment, whereas trophozoites and schizonts
+were the dominating stages at 32 and 48 h posttreatment
+(Fig. 3e). The change in differential parasite
+counts in Nutlin 3 treated cells at 48 h post-treatment
+were statistically not significant compared to controls,
+and CQ-treated PfD6 cultures due to large individual
+variations (Fig. 3). However, A large number of distorted
+trophozoites and schizonts were observed in
+HLI 373, and Nutlin 3 treated P. falciparum culture at
+40 and 48 h post-treatment (Fig. 4).
+Discussion
+The ubiquitin system of P. falciparum is involved in numerous
+cellular functions and host-pathogen interaction
+[3]. The functions of ubiquitin system are essential for
+progression of the malaria parasites’ life cycle [3]. The P.
+falciparum genome contains more than 100 genes,
+which putatively encode for the component associated
+with the ubiquitin system. The P. falciparum ubiquitin
+system contains four ubiquitins (PFL0585w, PF14_0027,
+PF13_0346, and PF08_0067), eight ubiquitin-activating
+enzymes (specific for ubiquitin and ubiquitin-like
+moieties), 14 ubiquitin-conjugating enzymes and more
+than fifty E3 ubiquitin-protein ligases. The proteomic
+analysis of P. falciparum ubiquitome has shown that the
+level of ubiquitin was more in rings and trophozoites
+than in schizonts [4], which suggested that ubiquitylation
+of proteins occurred more prominently in schizonts’
+and might be necessary for schizonts’ maturation and
+their further differentiation into invasive merozoites [4].
+Among the components of ubiquitin pathway, E3
+ubiquitin-protein ligase is the most variable and divergent
+within eukaryotes and highly specific to the P. falciparum
+parasite [4]. Thus, targeting essential parasite-specific E3 ligases
+would be a promising approach for molecular targetbased
+new antimalarial drug discovery [5]. E3 ubiquitinprotein
+ligase catalyzes the transfer of activated ubiquitin to
+the specific target protein. E3 ubiquitin-protein ligases are
+divided into three main classes on the basis presence of
+specific domains namely, Homologous to E6-associated
+protein C-terminus (HECT), Really Interesting New Gene
+(RING) and U-box [3]. The standard E3 ligase inhibitors
+tested in this study showed an early antimalarial effect after
+the treatment, which was consistent up to 120 h. This suggests
+that these inhibitors kill the parasites in the first asexual
+cycle. However, some classes of drugs – specifically,
+antibiotics like chloramphenicol, clindamycin, rifampin,
+tetracycline, telithromycin and quinupristin-dalfopristin
+show delayed killing of the malaria parasite in the second
+cycle of parasite’s asexual reproduction [17]. These antibiotics
+inhibit the protein synthesis in general, and the primary
+target of antibiotic antimalarials in Plasmodium sp.
+seems to be in the apicoplast. By inhibiting protein synthesis
+and the apicoplast, these antibiotics cause a delayed
+death phenomenon [17–20].
+The E3 ligase inhibitors namely, JNJ 26854165, HLI 373
+and Nutlin 3 were found to be active against both CQsensitive
+PfD6 and CQ-resistant PfW2 and were less cytotoxic
+against Vero and transformed THP1 cells. The two
+E3 ligase inhibitors namely, JNJ 26854165 and HLI 373
+are HDM2 antagonists. HDM2 is a RING finger E3-
+ubiquitin ligase that acts as the predominant negative
+regulator of p53 [10, 21–23]. JNJ 26854165, also known as
+Serdemetan, is a tryptamine derivative and interrupts the
+HDM2-p53 binding and is in phase 1 clinical trial for the
+treatment of multiple myelomas [21, 22, 24]. Nutlin 3 is
+an inhibitor of MDM2 (Murine Double Minute 2), an
+oncogene and a negative regulator of the tumor suppressor
+protein p53. Nutlin 3 blocks MDM2-p53 interaction
+with potency in sub-nanomolar range with Ki value 36
+nM [10, 25]. Like Nutlin 3, NSC 66811 also is an MDM 2
+inhibitor with Ki value 120 nM but showed less prominent
+activity against PfD6 and PfW2 as compare to Nutlin 3
+[11]. ProTAME is a cell-permeable prodrug, which is converted
+to its active parent molecule TAME. The parent
+molecule inhibits the ubiquitin ligase activity of the APC/
+C by preventing its activation by Cdc20 and Cdh1 [8, 9].
+The antimalarial active E3 ligase inhibitors arrested
+the parasite growth at trophozoites stages resulting in
+accumulation of distorted trophozoites and immature
+schizonts. These observations are in agreement with previous
+reports [5], which showed more predominant expression
+of E3 ligase in trophozoites and early schizonts.
+The ubiquitin/proteasome function may be essential for
+maturation of P. falciparum trophozoites.
+Conclusions
+E3 ligase inhibitors namely, JNJ 26854165, HLI 373 and
+Nutlin 3 showed prominent antimalarial activity against
+both CQ- sensitive PfD6 and -resistant PfW2 strains. JNJ
+26854165 showed considerably different activity against
+PfD6 as compared to PfW2 at 72-h post treatment. Similarly,
+the antimalarial activity of HLI 373 was considerably
+different against PfD6 as compared to PfW2 at 48,
+72, 96 and 120 h. However, Nutlin 3 did not show considerably
+different activity against PfD6 as compared to
+PfW2 at all four-time points. The inhibitors namely, JNJ
+26854165, HLI 373 and Nutlin 3 were selectively active
+against P. falciparum, and did not show cytotoxicity
+against Vero and transformed THP1 cells. JNJ 26854165,
+HLI 373 and Nutlin 3 apparently arrest the development
+of P. falciparum growth at the trophozoites and schizonts
+stage and cause accumulation of distorted trophozoites
+and immature schizonts.
+These results suggest that the function of ubiquitin/proteasome
+may be crucial for schizont maturation in P.
+falciparum parasite. Antimalarial E3 ligase inhibitors apparently
+block trophozoites and schizonts maturation and
+inhibit the intraerythrocytic development of malaria parasite.
+Further investigations on the lead antimalarial E3 ligase
+inhibitors would promise new understanding and
+importance of E3 ligase function in the malaria parasite. It
+may also provide a viable antimalarial-target and new classes
+of antimalarial drug leads.

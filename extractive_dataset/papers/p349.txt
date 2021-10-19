@@ -1,0 +1,435 @@
+Background
+Early-life experiences can have long-term effects on
+health across the lifespan [1]. Sexual abuse and physical
+abuse are strongly associated with depression [2–5].
+These types of abuse are highly prevalent [6, 7] and are
+associated with depression onset, suboptimal treatment
+response and poor prognosis [8–12]. Current depressive
+symptoms may magnify or otherwise alter the recall of
+early events [13]. However, retrospective self-reporting
+of abuse by adults has been found to be reliable [14].
+Sexual abuse and physical abuse are not reported more
+often during a depressive episode [14]. Despite extensive
+literature documenting the association between childhood
+sexual/physical abuse with adult depression, there
+are relatively few studies on effects on individual depressive
+symptoms and potential sex differences.
+Previous studies have reported association between
+abuse and suicidal behaviours in individuals with or
+without depression [15–18]. Meta-analyses of adults and
+young people report that sexual abuse and physical
+abuse are associated with two- to three-fold increased
+risk for suicide attempts [19, 20]. There are fewer studies
+of associations between sexual/physical abuse and other
+depressive symptoms. One study of homeless women
+suggested that sexual and physical abuse are associated
+with low self-esteem [21]. Evidence also suggests that
+sexual and physical abuse are both associated with increased
+appetite, weight gain, and hypersomnia in adults
+[22]. Studies of individual depressive symptoms are lacking.
+Studying symptom-level associations is important
+because depression is a phenotypically heterogenous
+condition. Symptom-level associations may provide clues
+to mechanism of effect.
+Depression is more common in women than men [23]
+but the role of biological sex in the association between
+sexual/physical abuse and depression is unclear. It is
+possible that sex may have no mechanistic role beyond
+higher rates of victimisation among females [24]. On the
+other hand, it is possible that sex-specific physiological
+responses to sexual/physical abuse may influence risk for
+mental health disorders among adults [25]. For example,
+stress-response pathways may not be the same in both
+sexes such that the effects of immune activation may be
+greater in women than men [26]. Revealing a common
+pattern of sex-specific adversity-related symptoms may
+be clinically beneficial when considering the most appropriate
+treatment option for depression. We know of no
+population-based studies examining associations between
+sexual/physical abuse and individual depressive
+symptoms in men and women. While a number of studies
+from the UK Biobank have examined the association
+between childhood adversity and depression [27–31], no
+studies from this sample have investigated the effects of
+childhood sexual/physical abuse on individual depressive
+symptoms, and potential sex differences for these
+associations.
+Using the UK Biobank, we explored associations of
+childhood sexual and physical abuse with individual depressive
+symptoms in adults. In particular, we tested (i)
+the strength of associations before and after adjusting
+for potential covariates; (ii) the consistency and potential
+sex differences in these associations by assessing the effect
+of sexual and physical abuse in both men and
+women; and (iii) we attempted to minimise the possible
+impact of recall bias by controlling for current depressive
+symptoms in associations between sexual/physical
+abuse and lifetime depression.
+Methods
+Description of cohort and sample
+The UK Biobank is a long-term UK-based study comprising
+over 500,000 participants aged between 40 and
+69 at baseline, recruited from 22 assessment centres
+across the United Kingdom between 2006 and 2010 [32].
+Informed consent was obtained from participants at
+recruitment. The UK Biobank contains results of clinical
+examinations, assays of biological samples, self-reported
+health behaviour, genome-wide genotyping, and is
+supplemented by linkage with electronic health records.
+Details of the UK Biobank resource can be found at
+www.ukbiobank.ac.uk. UK Biobank received ethical approval
+from the National Health Service National Research
+Ethics Service (reference 11/NW/0382). The
+current analyses were conducted under approved UK
+Biobank project no. 26999.
+The risk set for our analysis comprised 155,223 unrelated
+participants who answered questions regarding
+childhood sexual and physical abuse in 2016–2017
+(Fig. 1). Of these individuals, 152,447 had data on
+current depressive symptoms and 151,396 participants
+had complete data for exposure, outcome, and covariates.
+The complete cases formed the basis of our main
+analysis.
+Assessment of childhood sexual and physical abuse
+Childhood sexual and physical abuse were assessed in
+2016–2017 using an online mental health questionnaire
+which included information on childhood adversity.
+Childhood experiences were assessed using the Childhood
+Trauma Screener [33]. The questionnaire consists
+of five-point Likert scale items: zero (never true), one
+(rarely true), two (sometimes true), three (often true),
+and four (very often true). We used threshold values derived
+from the validation study [33] to define presence/
+absence of sexual and physical abuse. Sexual abuse refers
+to being sexually molested by someone and was defined
+as: 0 = never true; and 1 = rarely/sometimes/often/very
+often true. Physical abuse refers to being hit so hard by a
+family member that it leaves bruises or marks and was
+defined as 0 = never/rarely true; and 1 = sometimes/
+often/very often true.
+Assessment of current depressive symptoms in adulthood
+Depressive symptoms over the past two weeks were selfassessed
+in 2016–2017 using the Patient Health Questionnaire
+(PHQ)-9 as part of the online mental health
+questionnaire. PHQ-9 scores the nine DSM-IV criteria
+for depressive symptoms (anhedonia, psychomotor
+change, change in appetite/weight, fatigue, sleep disturbance,
+low mood, concentration difficulties, low selfesteem,
+suicidal behaviours) as zero (not at all), one (several
+days), two (more than half the days) or three (nearly
+every day) [34]. A binary variable was created for each of
+the nine symptoms (0 = not at all/several days, 1 = more
+than half the days/nearly every day) [34].
+We summed the nine individual items to create a total
+score (0–27) and used a cut-off score of 10 or more to
+indicate current depressive symptoms [34, 35]. A metaanalysis
+of over 17,000 participants found that the combined
+sensitivity (88%; 95% CI = 83–92%) and specificity
+(85%; 95% CI = 82–88%) of PHQ-9 for detecting major
+depression was maximised at a cut-off score of 10 or
+above [36]. Current depressive symptoms score was used
+as the outcome measure in our analysis.
+Assessment of lifetime depression
+We defined adult lifetime depression as self-reported
+probable moderate and severe major depression, as
+previously used in UK Biobank [37]. Binary measures
+of probable moderate and severe major depression
+were derived from a touchscreen questionnaire
+assessed at UK Biobank Assessment Centres at baseline
+[37]. Table 1 demonstrates how (i) a single episode
+of probable major depression, (ii) probable
+moderate major depression, and (iii) probable recurrent
+severe major depression were defined [37]. We
+used lifetime depression as an alternative depression
+phenotype (with depressive symptoms score as a
+control).
+Assessment of covariates
+We adjusted for the following covariates: sex, age, ethnicity,
+Townsend deprivation index (TDI), BMI, and childhood
+sexual or physical abuse. All covariates were
+recorded at recruitment (2006–2010), except childhood
+sexual/physical abuse which were retrospectively reported
+in 2016–2017.
+Sex (female or male) was acquired from NHS records
+but updated by participants in some cases. Age was
+based on self-reported date of birth at recruitment. Age
+(years) was calculated by subtracting year of birth from
+2017, i.e. the last year in which online mental health
+questionnaires were conducted. BMI was calculated as
+body weight in kilograms divided by height in meters
+squared. BMI measurements at recruitment (2006–2010)
+and in 2016–2017 were strongly correlated (beta = 0.94;
+SE = < 0.01; p = < 0.001). Age and BMI were used as continuous
+measures.
+Ethnicity was originally recorded as White, Mixed,
+Asian/Asian British, Black/Black British, Chinese, and
+Other. Given the relatively homogenous nature of the
+sample, we used ethnicity as a binary variable (White or
+any other ethnicity).
+We included TDI as a proxy for socioeconomic status.
+TDI is a continuous measure of material deprivation
+which incorporates unemployment, non-car ownership,
+non-home ownership, and household overcrowding [38].
+These variables are measured in a given area, combined
+and standardised to produce an overall score for that
+area. Higher scores represent greater deprivation.
+Statistical analysis
+All analyses were carried out using R version 3.6.1. Regression
+models were estimated before and after adjusting
+for potential covariates. We examined potential sex
+differences by: (i) stratifying the sample by sex, and (ii)
+adjusting regression models for sex.
+Associations with individual depressive symptoms and PHQ-
+9 depressive symptoms score
+The PHQ-9 current depressive symptoms score distribution
+was skewed (skew = 2.4; kurtosis = 7.4) and could
+not be normalised via transformation. We therefore used
+current depressive symptoms as a measure using a cutoff
+score of 10 [34–36] .
+Logistic regression was used to calculate odds ratios
+(OR) with 95% confidence intervals (CI) for individual depressive
+symptoms and current depressive symptoms
+score. ORs represent the odds of the depressive symptoms
+measure for individuals exposed to abuse compared with
+unexposed. Holm-Bonferroni P-value correction was performed
+to correct for multiple testing [39].
+To test for interaction with sex, we ran adjusted logistic
+regression with current depressive symptoms score as
+the outcome and included interaction terms with sex for
+all of the covariates and exposures listed in Table 2.
+Sensitivity analysis: association between childhood sexual/
+physical abuse and adult lifetime depression
+To examine possible impact of recall bias, we controlled
+for current depressive symptoms in logistic regression
+models testing associations between sexual/physical
+abuse and lifetime depression. In this way we considered
+whether reported abuse was associated with later depression
+and whether this was altered by considering current
+mood i.e. depressive symptoms score.
+Results
+Characteristics of the sample
+The total sample used for analysis (N = 155,223) predominantly
+comprised individuals of White ethnicity
+(97.2%) and low deprivation (TDI mean = − 1.7; SD =
+2.8) (Table 2). Both childhood sexual and physical abuse
+were experienced by 1.8% of the sample. Sexual abuse
+was almost twice as common in women (11.1%) than
+men (5.8%). Physical abuse was more common in men
+(8.3%) than women (8.0%). Lifetime depression was
+more common in women (24.5%) than in men (15.1%).
+Current depressive symptoms score was also higher in
+women (mean = 3.0; SD = 3.8) than men (mean = 2.4;
+SD = 3.5).
+There was evidence of interaction with sex for TDI
+(p < 0.01) and BMI (p = 0.01). There was little evidence
+of interaction with sex for other variables (age: p = 0.74;
+ethnicity: p = 0.58; physical abuse: p = 0.41; sexual abuse:
+p = 0.08).
+Association between childhood sexual/physical abuse and
+adult current depressive symptoms score
+In the total sample (N = 151,396), sexual abuse was
+associated with increased risk for current depressive
+symptoms score after adjusting for potential covariates
+(adjusted OR = 1.74; 95% CI = 1.63, 1.85)
+(Table 3). In sex-stratified analysis, sexual abuse was
+associated with current depressive symptoms score
+in both men and women (Table 3). ORs were similar
+between the sexes.
+Physical abuse was also associated with current depressive
+symptoms score in adulthood after adjusting for
+potential covariates (adjusted OR = 2.17; 95% CI = 2.04,
+2.31) (Table 4). Physical abuse as a child was associated
+with current depressive symptoms score in men and
+women (Table 4). ORs were similar between the sexes.
+All associations were robust to Holm-Bonferroni P-value
+correction for multiple testing (Table S1).
+Association between childhood sexual/physical abuse and
+adult individual depressive symptoms
+In the total sample (N = 151,396), sexual abuse was
+associated with all individual depressive symptoms
+(Table 3). In women, sexual abuse was most strongly
+associated with suicidal behaviours, concentration difficulties,
+and psychomotor change, with adjusted ORs
+ranging from 1.75 to 2.08 for women (Table 3). In
+men, sexual abuse was most strongly associated with
+suicidal behaviours, low self-esteem, and psychomotor
+change, with adjusted ORs ranging from 1.84 to 2.46
+(Table 3).
+Physical abuse was also associated with all individual
+depressive symptoms (Table 4). Physical abuse
+was most strongly associated with suicidal behaviours,
+psychomotor change, and low self-esteem in women,
+with adjusted ORs ranging from 2.06 to 2.94. Physical
+abuse was most strongly associated with change in
+suicidal behaviours, psychomotor change, and low
+mood in men, with adjusted ORs ranging from 2.15
+to 3.01 (Table 4).
+All associations remained after covariate adjustment
+and Holm-Bonferroni P-value correction for multiple
+testing (Table S1).
+Sensitivity analysis: association between childhood
+sexual/physical abuse and adult lifetime depression
+In the total sample of participants with data on lifetime
+depression (N = 40,829), sexual abuse was associated
+with lifetime depression (OR = 2.12; 95% CI = 1.97, 2.29)
+(Table 5). Evidence for this association remained after
+adjusting for potential covariates including current depressive
+symptoms score (adjusted OR = 1.58; 95% CI =
+1.46, 1.72). In sex-stratified analysis, sexual abuse was associated
+with lifetime depression in both men and
+women even after adjusting for current depressive symptoms
+score. ORs were similar between the sexes.
+In the total sample (N = 40,829), physical abuse was associated
+with lifetime depression (OR = 2.00; 95% CI =
+1.85, 2.16) (Table 5). Evidence for this association
+remained after adjusting for potential covariates including
+current depressive symptoms score (adjusted OR =
+1.45; 95% CI = 1.33, 1.58). In sex-stratified analysis, physical
+abuse was associated with lifetime depression in
+both men and women even after adjusting for current
+depressive symptoms score. ORs were similar between
+the sexes.
+Discussion
+The aim of this study was to explore the well-established
+relationship between sexual and physical abuse and adult
+depression at the symptom level. To our knowledge, this
+is one of the first studies to consider the effect of childhood
+sexual/physical abuse on multiple depressive symptoms
+in both men and women. Our results indicate
+three key findings. First, childhood sexual and physical
+abuse were both associated with all depressive symptoms.
+Second, childhood sexual and physical abuse were
+particularly strongly associated with suicidal behaviours.
+Three, the pattern of association, regarding ORs and effects
+on depressive symptoms, was similar between the
+sexes.
+Recent UK Biobank studies have considered heterogeneity
+within the depression syndrome in its association
+with childhood sexual and physical abuse [27–31]. A
+cross-sectional study suggested that atypical depression
+(classed as hypersomnia and weight gain) is more
+strongly associated with sexual and physical abuse than
+typical depression [27]. This adversity-related subtype
+also exhibited sociodemographic differences; atypical depression
+was associated with female sex, earlier onset of
+illness, and lower income [27]. Moreover, genetic studies
+from the UK Biobank indicate that heterogeneity within
+the depression syndrome is a function of environmental
+exposures, such as childhood adversity [29, 30]. For example,
+genetic contribution to depression appears to be
+greater when childhood adversity is present [30]. We
+have added to this literature by investigating sexual/physical
+abuse, individual depressive symptoms and potential
+sex differences.
+Our results confirm that environmental factors, such
+as childhood sexual/physical abuse, play an important
+role in the onset of depressive symptoms [40]. We found
+that both childhood sexual and physical abuse were
+strongly associated with all depressive symptoms, particularly
+suicidal behaviours. Consistent with our findings,
+an observational study of adolescents found that
+70% of participants who had experienced sexual abuse
+and physical abuse also experienced suicidal thoughts
+[41]. Experiences of childhood sexual/physical abuse
+may lead to feelings of entrapment, habituation to pain,
+and reduced fear for death which may result in greater
+capacity for suicidal behaviours as a means of escape
+[19]. A recent study has suggested that adverse social relationships
+during childhood can also contribute to depressive
+symptoms including suicidal behaviours [42].
+For example, a study of 1277 students reported that violent
+treatment of the mother is associated with almost
+four-fold increased risk in attempted suicide [43]. Identifying
+and treating adults and children who have experienced
+sexual/physical abuse and other forms of adversity
+may help prevent the onset of depressive symptoms including
+suicidal behaviours. Adults with depression and
+history of abuse often do not respond to combined treatment
+with anti-depressant medication and psychological
+therapy, but could be given more intensive alternative
+interventions [12]. Children exposed to abuse could be
+screened for symptoms and given appropriate support
+and therapy [44], which may help to decrease the risk of
+future adverse health consequences.
+Childhood sexual and physical abuse may become
+“biologically embedded” in the body via stress-response
+pathways [45, 46]. Hypothalamic-pituitary-adrenal
+(HPA) axis dysregulation, leading to high cortisol reactivity,
+may contribute to the somatic symptoms of depression.
+For example, HPA axis dysregulation may
+result in changes in appetite/weight via emotional eating
+mechanisms that serve to dispel unwanted distress [47].
+The psychological consequences of exposure to sexual/
+physical abuse may lead to HPA axis dysregulation, inflammation,
+and subsequent psychological depressive
+symptoms [45–47]. Inflammation is implicated in
+depression [48, 49], and may be particularly relevant in
+the context of childhood adversity [50, 51]. For example,
+reward sensitivity, a process facilitated by inflammatory
+cytokines, is blunted by sexual and physical abuse [46,
+52]. These types of abuse have also been associated with
+blunted cortisol in children as well as alteration to immune
+and inflammatory responses and increased risk for
+infection [53]. Longitudinal studies that consider the
+temporality of sexual/physical abuse, HPA axis dysregulation,
+inflammation, and depressive symptoms are
+required.
+We found no evidence that the association between
+childhood sexual/physical abuse and adult depressive
+symptoms differs between men and women. This is
+consistent with the idea that biological sex has no mechanistic
+role other than higher rates of victimisation
+among females [24]. Indeed, in our sample childhood
+sexual abuse was almost twice as common in women
+than in men. Depression has also been reported to affect
+women twice as often as men [54]. Consistently, over
+50% more women in our sample had lifetime depression
+than men. A greater percentage of women in
+our sample also experienced sleep disturbance, fatigue,
+change in appetite/weight, low self-esteem, and
+low mood. A recent study suggested that this disparity
+in risk for depression between men and women
+peaks in adolescence [55], although it is unclear how
+much childhood sexual/physical abuse contributes to
+this disparity. A study of adolescents reported that females
+with a history of sexual/physical abuse were
+more depressed than males with a history of sexual/
+physical abuse [41]. Conversely, we found that odds
+ratios for associations between sexual/physical abuse
+and depression were generally larger (although not
+significantly) for men than women. It is possible that
+covariates explained a greater amount of the association
+between childhood sexual/physical abuse and
+depression in women than in men. Alternatively, this
+finding might be a type one error.
+A key limitation of this study is its cross-sectional
+design. A longitudinal approach would have been
+helpful to better understand trajectories from childhood
+sexual/physical abuse to depressive symptoms in
+adulthood. The nature of UK Biobank data collection
+meant this was not possible. Furthermore, the use of
+self-reported recall of childhood sexual/physical abuse
+by adults could introduce some level of recall bias.
+We attempted to minimise the impact of recall bias
+by adjusting for current mood. We found that differential
+recall of negative events by depressed individuals
+was not the sole explanation for the association
+between sexual/physical abuse and depressive symptoms,
+but other factors could still contribute to bias.
+Another limitation is that we did not take into account
+the duration, frequency or severity of abuse;
+longer periods of abuse may have a more profound
+effect on specific depressive symptoms than single
+events. In addition, the depressive symptoms assessed
+could be part of medical or psychiatric conditions
+other than depression. Finally, residual confounding
+may still explain the association between sexual/physical
+abuse and subsequent depressive symptoms.
+Childhood sexual and physical abuse are both robust
+risk factors for all depressive symptoms, regardless of
+sex. Suicidal behaviours was particularly strongly associated
+with these types of abuse. Longitudinal studies with
+large sample sizes are required to investigate biopsychosocial
+mechanisms affecting the relationship between
+childhood sexual/physical abuse and depressive symptoms
+in men and women.

@@ -1,0 +1,523 @@
+Background
+The public health burden of undernutrition remains
+heavy and widespread, especially in low-income countries
+like Nepal, where rates are still very high, particularly
+in certain subgroups of the population [1]. The
+odds of stunting are four times higher in children born
+in low-income households compared to those from
+higher income households, which highlights inequalities
+not just in income, but also in access to, and use of
+health and nutrition services [2]. A recent anthropometric
+assessment found that 41% of pre-school children in
+the Mountains of Nepal were stunted compared with 19%
+of preschool children in the lower-elevation Terai (plains
+of Nepal), indicating significant geographic differences in
+the etiology of malnutrition. The prevalence of wasting in
+children under 5 years of age is estimated at 6.1% in the
+Mountains, 6.4% in the Hills, but 12.2% in the Terai [3].
+A study by Shively et al., showed that “for each 1000 m
+gain in elevation, height-for-age Z-scores (HAZ) declined
+by between 0.1 and 0.2 points for an average child and by
+between 0.35 and 0.42 points for a child with the characteristics
+of those living at the highest elevations” [4].
+The authors cited several factors beyond economic isolation
+as potentially contributing to the high stunting rates
+observed in the mountains, including differences in agricultural
+production and micronutrient deficiencies (zinc
+and iron). Poor sanitation and hygiene, and a low proportion
+of children receiving the minimum acceptable diet
+[5], are some of the factors associated with high wasting
+rates in the Terai relative to the other two regions.
+Intermediate and underlying factors associated with
+stunting include the duration of breastfeeding, low size
+of baby at birth, low socio-economic status, economic
+isolation, and low and unpredictable rainfall. Other factors
+include seasonality, low maternal body mass index,
+lack of access to an improved water source, lower birth
+order, poor maternal education, and a high exposure to
+enteropathogens as evidenced by the levels measured in
+children’s stools [6–9]. Few studies have examined metrics
+of political will and quality of policy implementation
+relevant to nutrition, and their potential to support
+actions targeting factors associated with stunting. Given
+the enormous dependence of the public sector on health
+and nutrition services in Nepal, it is critical to elucidate
+whether the quality and intensity of government-supported
+actions aimed at improving nutrition play any
+measurable role in outcomes at the household level.
+The concept of good governance (defined as “the effective
+implementation of national policies”) provides a
+platform for questioning the long menu of institutional
+changes and capacity building initiatives that are important
+and essential for development [10]. Good governance
+for nutrition entails four key elements including
+efficiency, accountability, transparency, and participation
+[11–13]. Most studies on nutrition governance have
+focused on evidence at a national or global level and the
+role of governance, focused on nutrition improvements,
+at the sub-national level has received limited attention. A
+critical gap remains in understanding the effectiveness of
+nutrition governance with a focus on the role of capacity,
+resources, information, coordination, and collaboration
+in achieving nutrition gains at the sub-national level [14].
+This paper seeks to explore the association between the
+effectiveness of nutrition governance at national and subnational
+levels and key nutrition indicators such as stunting
+and wasting in Nepali children under 5 years of age.
+The paper is organized as follows: we start by presenting
+the study design for the two surveys used in this analysis.
+Then the Generalized Estimating Equation (GEE) model
+and multilevel model methods are described, before
+presenting results, including findings from regression
+analyses for both statistical approaches. We end the paper
+with discussion of the findings, articulation of study limitations,
+and recommendations for further research.
+Measuring the quality of nutrition governance
+Measuring the quality of ‘governance’ is challenging.
+There is no consensus on a single theoretical definition of
+governance, thus it is difficult to determine what to measure.
+Yet there is need for governments to know if they are
+on track in improving governance systems in order to
+assess impact at the grassroots level and/or identfiy areas
+for improvement. To address this gap, several metrics
+have been proposed, including the World Governance
+Index [15] and the Hunger and Nutrition Commitment
+Index (HANCI) [16] among others, each with advantages
+and disadvantages. One study by Felismino et al. [17],
+explored types of national and sub-national governance
+(good versus not good) and their relationship with nutritional
+status of children in the Philippines. They collected
+data from focal point personnel in 30 municipalities and
+cities and created a single score out of four domains: 1)
+nutrition policies and programs, 2) organizational structure
+and resources for nutrition, 3) efficiency, and 4)
+accountability, transparency and participation. Cities
+and municipalities with a score above the median were
+defined as communities with “good governance”, that
+is, a governance structure supportive of nutrition. Furthermore,
+these good governance communities also had
+significantly lower underweight and stunting levels compared
+to those communities with lower scores (or poor
+governance structures). While these findings are in line
+with those of previous authors’ [18], the results obtained
+were based on bivariate analyses, thus were not robust
+because they did not account for possible confounding
+factors.
+More recently, Namirembe et al. [19] developed a
+Nutrition Governance Index (NGI) that captures the
+effectiveness of nutrition governance at a sub-national
+level. The authors discussed at length the value of the
+NGI for uncovering relationships between the quality of
+governance and nutrition outcomes in children under
+five. This novel metric is an aggregate of five domains, as
+follows: i) understanding of nutrition and responsibilities
+by policy implementers, ii) collaboration, iii) financial
+resources, iv) capacity, and v) institutional support.
+The domains used to create the NGI have been emphasized
+as important in facilitating improved nutrition outcomes
+[20–22]. For instance, the ‘knowledge’ domain has
+been found to be associated with height-for-age Z-scores
+(HAZ) in children under 5 years of age in Ghana [23].
+Nutrition knowledge may arise from scholarly pursuits
+or community and societal engagements, supported by
+government and non-governmental initiatives. In Nepal,
+several initiatives provide nutrition knowledge as an
+intervention to improve nutrition. Examples of these
+include the USAID-funded SUAAHARA project and the
+Multi-sector Nutrition Plan (MSNP) [24], which sought
+to improve mother’s infant and young child feeding
+knowledge and behaviors, provide nutritional counseling
+and raise awareness regarding better health and nutrition
+practices, among other objectives to fight malnutrition
+in Nepal. The SUAAHARA project was initiated in
+twenty districts of Nepal from 2011 to 2016. The goal of
+the project was to improve nutrition, maternal, newborn,
+and child health services, reproductive health or family
+planning services, water, sanitation and hygiene, and
+home-based gardening. The MSNP project spanned from
+2013 to 2017 with a similar aim of improving nutrition
+outcomes. Some of the objectives included setting action
+points for implementing nutrition-sensitive policies and
+strategies that encompass agriculture and public health,
+and reducing stunting in children and undernutrition in
+women [25].
+The importance of technical knowledge for nutrition is
+clear. However, the scope of such interventions needs to
+be widened to include the relevant local leadership that is
+tasked with enforcing adherence to, and implementation
+of, protocols. Regarding the importance of collaboration,
+support and commitment, various authors have studied
+the role of inclusiveness of multiple professions on health
+outcomes, highlighting their importance in encouraging
+workers to speak up and participate in problem-solving
+and advancing shared goals [26–28]. These interventions
+can contribute to changes in children’s nutrition outcomes
+so we found it necessary to adjust for their influence,
+especially because there is an overlap between the
+time of their implementation and our study duration.
+Methods
+Study design and data collection
+Data used here are derived from two separate but related
+studies: the Policy and Science for Health, Agriculture
+and Nutrition (PoSHAN) Community study, and the
+PoSHAN Policy study. The PoSHAN Community study
+was a nationally representative household panel study
+that was conducted annually from 2013 to 2016 in Village
+Development Communities (VDCs) across the three
+agroecological zones of Nepal (Mountains, Hills and
+Terai) [29]. At the time of the surveys, VDCs were the
+lowest administrative units in Nepal. The PoSHAN Policy
+study utilized the same study design and timeframe
+but focused on institutional respondents within VDCs.
+Thus, the PoSHAN Policy study sampled government
+and non-government officials while the PoSHAN Community
+study surveyed households, and women and children
+within these households. The PoSHAN Policy study
+targeted relevant offices and organizations within VDCs
+based on their defined responsibilities in implementing
+Nepal’s Multisector Nutrition Plan (MSNP). The MSNP
+is a collaborative multi-national partnership spearheaded
+by the government of Nepal to improve maternal and
+child nutrition and reduce chronic malnutrition, largely
+through evidence-based nutrition interventions [30].
+Additional details regarding the PoSHAN Community
+study have been published elsewhere [29]. Briefly,
+seven VDCs were sampled from the three agroecological
+regions of Nepal (Mountains, Hills and Terai), resulting
+in twenty-one VDCs. From each VDC, three wards
+(roughly equivalent to neighborhoods) were selected
+at random. Households eligible for inclusion in the
+PoSHAN Community study were those with a child
+younger than 5 years or with a woman who was married
+within the past 2 years. The 2016 survey of the PoSHAN
+Community study included 5556 households from 64
+wards, and 6815 children in total. The 2014 PoSHAN
+Policy study collected data at the ward level and included
+523 participants. Questionnaires for both the POSHAN
+Community study and the POSHAN Policy study are
+publicly available [31]. The Tufts University Social
+Behavioral and Educational Research Board (SBER) and
+the Nepal Health Research Council (NHRC) provided
+human subjects research ethical approval.
+To construct the dataset for this analysis, we matched
+the 2014 Policy data to the 2016 PoSHAN Community
+data by VDC. Although the Policy study sampled the
+same wards as the Community study, the selection of
+participants was not representative of the wards within
+the Community study. To correct for this imbalance, we
+aggregated NGI scores to the VDC level, which is the
+smallest administrative and geographic unit available for
+matching the two studies.
+Statistical analysis
+The statistical analysis focuses on two child anthropometric
+measures: height-for-age Z-score (HAZ) and
+weight-for-height Z-score (WHZ). These nutrition indicators
+were calculated using WHO’s age- and sex-specific
+growth standard references [32]. We utilized Generalized
+Estimating Equation (GEE) models and Multilevel
+(also known as hierarchical) regression models for the
+multi-variate analyses. Both approaches provide advantages
+over conventional regression models in the context
+of our study design, where errors and outcomes for units
+are clustered within sample frames. Conventional regression
+models may underestimate the standard error of the
+mean and easily reject the null hypothesis because they
+do not account for this study design effect. In this situation
+a GEE model provides robust estimates of the variances
+of regression coefficients [33] and provides other
+benefits [34]. A multilevel regression approach provides
+the advantage of estimating variances at each level (in
+this case the child and the VDC), which avoids overweighting
+realizations of the NGI that are repeated for all
+children within a VDC. All estimates were adjusted for
+distance to the market, child’s age, sex, diet diversity [35],
+fever in the past 30 days, mother’s education, mother’s
+BMI (Body Mass Index), maternal age, Food Insecurity
+and Access Scale [36], MSNP and SUAAHARA districts.
+All analyses were conducted in SAS v 9.4. Both models
+satisfied tests for normality and absence of multicollinearity
+among regressors. Unless otherwise specified,
+associations are reported as statistically significant based
+on p < 0.05.
+Generalized estimating equation (GEE) models
+The Generalized Estimating Equation model (GEE)
+is an extension of generalized linear regression models
+(GLM). As estimated, the GEE models included as
+explanatory variables those known from past studies to
+be associated with stunting and wasting in Nepalese children
+under 5 years of age [8, 37]. Child-specific variables
+included age, sex, diet diversity, report of any fever in the
+past 30 days, breastfeeding status, and whether the child
+received healthcare. Age squared was included to account
+for any non-linearity in the relationship between age and
+outcome. Mother-specific variables included duration of
+formal schooling, BMI and age. Household-specific food
+insecurity scores were also included as direct measures as
+well as indirect controls for household wealth.
+Multilevel regression models
+The multilevel models were fitted using the maximumlikelihood
+estimation method, allowing intercepts to vary
+across VDCs. To judge model fit, we relied on the Akaike
+Information Criterion (AIC). Lower values imply better
+fit [38]. In the multilevel regression, children are nested
+within VDCs. Accordingly, child outcomes constitute the
+primary level of analysis and the VDC constitutes the second
+level. We began analysis with a null model without
+predictors to determine whether mean HAZ and WHZ
+differed significantly across the 21 VDCs. The multilevel
+model further tests the alternative hypothesis that VDClevel
+predictors are correlated with HAZ and WHZ. We
+tested this hypothesis using the intra cluster correlation
+(ICC) value. The ICC indicates the extent to which children
+in the same VDC are similar based on their HAZ
+and WHZ relative to the total variation in HAZ and
+WHZ measured across all VDCs. If the within-cluster
+variance is high, then the resulting ICC is expected to
+be low. Koo et al. [39] states that an ICC less than 0.5 is
+poor. Although a multilevel model approach may not be
+ideal if the ICC indicates clustering by VDC is not substantial,
+this approach allows us to investigate VDC-level
+effects (NGI) on child-level outcomes (HAZ and WHZ).
+Figure 1a and b illustrate the variances in mean HAZ and
+WHZ across VDCs.
+Successive models included child-level predictors and
+VDC-level predictors respectively. These models control
+for the nested design of the data by permitting VDC
+intercepts to vary while estimating fixed effects.
+The Null model equation is:
+Substituting Eq. 2 into Eq. 1 results in estimating the
+Null equation:
+Yij = 0j + rij (1)
+0j = 00 + μ0j (2)
+where
+Yij is the HAZ or WHZ outcome for child i within VDC
+j
+β0j is the average HAZ or WHZ for each VDC
+ϒ00 is the grand mean of VDC intercepts
+μ0j is the variance of the intercepts
+rij is the within-group variance in the outcome for each
+VDC
+The successive random intercept and fixed slope, and
+interaction equations are denoted by:
+in WHZ were due to the NGI and its cross-level interaction
+respectively.
+Discussion
+This paper measured the association between the effectiveness
+of nutrition governance and nutrition outcomes
+using a Nutrition Governance Index. After adjusting
+for other known predictors of stunting and wasting, we
+found that this relationship was positive for children
+over 2 years of age. This may reflect that policy actions
+rolled out in Nepal improve nutrition over time via multisectoral
+nutrition-sensitive pathways that typically
+benefit older children. More targeted nutrition-specific
+interventions are largely designed to affect pregnancy
+and post-pregnancy outcomes, usually delivered through
+health services alone. It may also reflect the lagged effects
+of changes in trainings or practice that may enhance the
+effectiveness of implementation over time. Since the
+NGI captured the effectiveness of nutrition governance
+at societal and community levels, it could reflect aggregate
+gains at those levels rather than shorter-term gains
+accruing specifically to mothers and infants. It has been
+shown that agriculture, education and infrastructure
+investments most likely support improvements in older
+children in Nepal who are already consuming the family
+diet as compared to babies and infants [40].
+The results presented here underscore the point that
+factors associated with the child’s nutritional status are
+complex, ranging from individual to the community level.
+Individual and community-level variables explained 19%
+of the variation in HAZ and 42% in WHZ. Child-level
+variables were strong predictors of both outcomes and
+their effects persisted throughout the series of models
+that adjusted for higher-level variables, highlighting their
+importance in addressing malnutrition. This finding echoed
+findings in Bangladesh and Nigeria that showed the
+predominance of these factors in predicting stunting and
+wasting in children [41, 42]. Smith and Shively reported
+significant but relatively smaller overall contributions
+from community-level factors, although their investigation
+focused on district-level factors and did not address
+governance directly. They found that approximately 6%
+of total variance and 22% of explained variance in heightfor-
+age Z-scores occurred between districts [43].
+That between-VDC variance was relatively low in our
+null model reflects the fact that since Nepal’s VDCs are
+larger geographic units than wards, individual variability
+within these groups can be expected to be higher compared
+to smaller units. That said, Smith and Shively found
+that adding additional ward-level variables to a multilevel
+model of HAZ did not increase the explained proportion
+of second-level variance substantially [43].
+We found a negative relationship between HAZ in
+older children and the ‘knowledge about nutrition’
+domain of the NGI, which is surprising but an indication
+that there is need to improve nutrition knowledge acquisition.
+Our findings were in line with Saaka [23] who
+found a significant association between HAZ and maternal
+childcare knowledge. The counterintuitive direction
+for the magnitude of effects for the NGI domains on
+both nutrition outcomes could be attributed to two possible
+explanations: the deficits of using a cross-sectional
+approach and a lack of specificity in the nutrition knowledge
+domain. Cunningham et al. [44] studied predictors
+of changes in nutritional outcomes in Nepal from 1996
+to 2011 and found that “health services were the single
+largest contributor to LAZ change,” with an estimated
+increase of 0.15 in LAZ over a 15-year period. This suggested
+that the impacts attributed to good governance,
+of which access to health services is a crucial component,
+occured after a long period. It is possible that our
+analyses, which were limited to a 2-year period, were
+not able to capture any measurable effects. The knowledge
+domain at its core measured an understanding of
+nutrition (nutrition problems and strategies to address
+any issues) and personal responsibilities in their roles as
+relevant officials that are key to interpreting and implementing
+nutrition policies. A negative relationship with
+HAZ may imply that this domain is not specific enough
+to capture the true effect of nutrition knowledge that may
+include knowledge of nutritious diets, agricultural and
+WASH practices that have been established as important
+factors associated with stunting. The negative relationship
+between the Support domain and WHZ was surprising
+and should be investigated further.
+One limitation of this study was the reliance on one
+second-level variable to represent community-level
+predictors due to a small sample of VDCs and minor
+observed variation in nutrition outcomes between VDCs.
+However, when we estimated models using other community-
+level variables, such as distance to market, estimates
+and interpretations remained similar and model fit
+statistics did not improve. In addition, the Policy Process
+study recruited various office holders as participants in
+the study. Over time, some of these individuals changed
+offices or departments. Because the study design focused
+on the position, rather than the individual, the NGI may
+not have captured long-established governance practices,
+rendering its association with nutrition outcomes
+inaccurate.
+Although our findings are based on two time points,
+the design used is multi cross-sectional so we cannot
+account for temporal trends that are likely to affect nutrition
+outcomes. However, the two statistical approaches
+used were appropriate in seeking to understand factors
+associated with stunting and wasting in Nepal. These
+results may not be generalizable to other contexts, as the
+questionnaire was adapted for Nepal although some of
+the questions can cut across all nutrition-relevant offices.
+Magnusson et al. [45] revealed that assuming independence
+of errors associated with baseline indicators
+used in the creation of the World Governance Indicator
+[15] resulted in an inaccurate indicator. The NGI was
+modeled with the same assumption about measurement
+errors. We therefore recommend further investigation
+into alternative methodologies that relax this assumption
+and a reassessment of NGI in relation to nutrition
+outcomes.
+Conclusions
+In Nepal, through an innovative set of analyses, we found
+that better nutrition governance was positively associated
+with nutrition outcomes (HAZ and WHZ) in children
+over 2 years of age. This result was obtained using
+two robust statistical approaches. Our findings underscore
+the importance not just of targeted interventions,
+but also of effective management of those interventions
+in the context of translating policies into practice. The
+multilevel approach revealed that NGI explained a nonnegligible
+amount of variation in HAZ and WHZ, which
+underscores the fundamental role that good governance
+plays in promoting child nutrition and growth.
+where
+Yij is the HAZ or WHZ outcome for child i within
+VDC j
+ϒ00 is the grand mean of the outcomes across VDCs
+and children
+ϒ10 is the regression coefficient associated with Xij
+ϒ01 is the regression coefficient associated with Wj
+ϒ11 is the regression coefficient associated with the
+interaction term XijWj
+Wj is the VDC-level predictor (NGI)
+μ0j is the variance of the intercepts
+μ1j is the variance of the slopes
+rij is the within-group variance in the outcome for each
+VDC
+Results
+Sample characteristics
+The sample characteristics for women and infants participating
+in this study are presented in Table 1. The average
+Nutrition Governance Index (NGI) score was 52.36 (95%
+CL: 50.21–54.50) in 2014. The median distance to any
+market within VDCs was 0.52 miles. Regarding women’s
+characteristics, the average age was 27 years and the
+mean amount of time spent in school was 3.61 years (95%
+CL: 2.60–4.61) in 2014. Forty-seven percent of children
+were female. The average child’s age was 35.60 months
+in 2014. Average child’s weight was 11.20 kg (95% CL:
+10.97–11.43). The prevalence of stunting and wasting
+was estimated at 34.0% (95% CL: 33–35%) and 14.0%
+(95% CL: 13–15%) respectively. Seventy-two percent of
+the households were food secure in 2014; slightly more
+households were food secure in 2016 (79.10%).
+NGI was positively associated with HAZ and WHZ in
+older children (> 2 years old) compared to younger children
+(HAZ; β = 0.02, p < 0.004, WHZ; β = 0.01, p < 0.37)
+as seen in Table 2. Mothers’ education, her age and BMI,
+Yij = 00 + μ0j +rij (3)
+Yij = 00 + 10Xij + 01Wj + μ0j + rij (4)
+(5)
+Yij = 00 + 01Wj + 10Xij + 11XijWj + μ0j + μ1jXij + rij
+and absence of fever in the child during the past 30 days
+were all positively associated with HAZ and WHZ. Distance
+to the market and child’s diet diversity were negatively
+associated with HAZ and WHZ.
+The NGI score was aggregated from its five constituent
+domains. Estimates for its interaction with child’s age are
+presented in Table 3. Collaboration, financial resources
+and support domains were significantly and positively
+associated with HAZ in older children as was the knowledge
+domain for WHZ. We observed an unexpected negative
+and significant relationship between the nutrition
+knowledge domain with HAZ and support domain with
+WHZ in children over 2 years old.
+Results from the multilevel models are shown in
+Table 4. Because HAZ variation across VDCs was small
+(Fig. 1a and b) and the VDC-level analysis must be based
+on a small set of observations (21 VDCs), we investigated
+VDC-level effects using only one community-level
+variable, NGI. Interpretation of results was restricted to
+Model 4 for both outcomes as it was the best-fit or most
+improved model based on possessing the smallest AIC
+estimate. This means that adjusting for NGI together
+with its interaction with age, improved model fit for both
+outcomes.
+From Model 1, we calculated a significant ICC of 0.07
+(95% CI, 0.04, 0.12) for HAZ and an ICC of 0.17 (95% CI,
+0.10, 0.28) for WHZ. This indicates that 7 and 17% of the
+overall variances in HAZ and WHZ were accounted for
+by variations across VDCs. When the NGI was zero, the
+average estimated HAZ for all VDCs was -1.49 and the
+average estimated WHZ was -0.75. The covariance estimates
+for both the intercept and residual were significantly
+different from zero. This implies that average HAZ
+differed considerably across VDCs (intercept = 0.116,
+p < 0.001) and there was more variation in HAZ among
+children within VDCs (residual = 1.555, p < 0.0001) as
+reflected in the low ICC estimate.
+The positive and significant relationship between NGI
+and HAZ in older children, that was also observed in the
+GEE model, was observed across both outcomes (Fig. 2a
+and b). That is, a one-point increase in the NGI was significantly
+associated with a 12% higher average HAZ and
+a 4% higher WHZ in older children (> 24 months old).
+No reported fever, maternal education and maternal BMI
+were all positively associated with HAZ and WHZ.
+The covariance parameters for the intercept in Model 4
+were unchanged compared to previous conditional models
+for the same outcome. This minimal decrease in variance
+meant that NGI and its cross-level interaction with
+age, explained only a small portion of the between-VDC
+variations in HAZ and WHZ. Specifically, 19% (0.116–
+0.094/0.116) of the explainable variation in mean HAZ
+and 42% (0.199–0.115/0.199) of the explainable variation

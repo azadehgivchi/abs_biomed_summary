@@ -1,0 +1,43 @@
+
+Abstract
+Background: Proton beam therapy (PBT) is a new-emerging cancer treatment in China but its treatment costs are
+high and not yet covered by Chinese public medical insurance. The advanced form of PBT, intensity-modulated
+proton radiation therapy (IMPT), has been confirmed to reduce normal tissue complication probability (NTCP) as
+compared to conventional intensity-modulated photon-radiation therapy (IMRT) in patients with oropharyngeal
+cancer (OPC). Herein, we evaluated the cost-effectiveness and applicability of IMPT versus IMRT for OPC patients in
+China, aiming at guiding the proper use of PBT.
+Methods: A 7-state Markov model was designed for analysis. Base-case evaluation was performed on a 56-year-old
+(median age of OPC in China) patient under the assumption that IMPT could provide a 25% NTCP-reduction in
+long-term symptomatic dysphagia and xerostomia. Model robustness was examined using probabilistic sensitivity
+analysis, cohort analysis, and tornado diagram. One-way sensitivity analyses were conducted to identify the cost-
+effective scenarios. IMPT was considered as cost-effective if the incremental cost-effectiveness ratio (ICER) was
+below the societal willingness-to-pay (WTP) threshold.
+Results: Compared with IMRT, IMPT provided an extra 0.205 quality-adjusted life-year (QALY) at an additional cost of
+34,926.6 US dollars ($), and had an ICER of $170,082.4/ QALY for the base case. At the current WTP of China ($33,558 /
+QALY) and a current IMPT treatment costs of $50,000, IMPT should provide a minimum NTCP-reduction of 47.5, 50.8,
+55.6, 63.3 and 77.2% to be considered cost-effective for patient age levels of 10, 20, 30, 40 and 50-year-old, respectively.
+For patients at the median age level, reducing the current IMPT costs ($50,000) to a $30,000 level would make the
+minimum NTCP-reduction threshold for “cost-effective” decrease from 91.4 to 44.6%, at the current WTP of China (from
+69.0 to 33.5%, at a WTP of $50,000 / QALY; and from 39.7 to 19.1%, at a WTP of $100,000 / QALY).
+© The Author(s). 2021 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+* Correspondence: qianchn@sysucc.org.cn
+2State Key Laboratory of Oncology in South China and Collaborative
+Innovation Center for Cancer Medicine, Sun Yat-sen University Cancer
+Center, 651 Dongfeng East Road, Guangzhou, Guangdong 510060, P. R.
+China
+9Department of Radiation Oncology, Guangzhou Concord Cancer Center,
+Guangzhou, Guangdong 510045, P. R. China
+Full list of author information is available at the end of the article
+Li et al. BMC Cancer          (2021) 21:944 
+https://doi.org/10.1186/s12885-021-08638-2
+Conclusions: Cost-effective scenarios of PBT exist in Chinese OPC patients at the current WTP of China. Considering a
+potential upcoming increase in PBT use in China, such cost-effective scenarios may further expand if a decrease of
+proton treatment costs occurs or an increase of WTP level.

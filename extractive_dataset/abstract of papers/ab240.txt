@@ -1,0 +1,17 @@
+Background: Hypertension (HT) is associated with adverse outcomes in kidney transplant (KTX) recipients. Blunting
+of physiological decrease in nighttime compared to daytime blood pressure (non-dipping status) is frequent in
+this setting. However, weather non-dipping is independently associated with renal function decline in KTX patients is
+unknown.
+Methods: We retrospectively screened KTX outpatients attending for a routine ambulatory blood pressure monitoring
+(ABPM) (T1) at a single tertiary hospital. Patients had two successive follow-up visits, 1 (T2) and 2 (T3) years later
+respectively. Routine clinical and laboratory data were collected at each visit. Mixed linear regression models were
+used with estimated glomerular filtration rate (eGFR) as the dependent variable.
+Results: A total of 123 patients were included with a mean follow-up of 2.12 ± 0.45 years after ABPM. Mean age
+and eGFR at T1 were 56.0 ± 15.1 and 54.9 ± 20.0 mL/min/1.73m2 respectively. 61 patients (50.4%) had sustained HT
+and 81 (65.8%) were non-dippers. In multivariate analysis, systolic dipping status was positively associated with eGFR
+(p = 0.009) and compared to non-dippers, dippers had a 10.4 mL/min/1.73m2 higher eGFR. HT was negatively associated
+with eGFR (p = 0.003).
+Conclusions: We confirm a high prevalence of non-dippers in KTX recipients. We suggest that preserved systolic
+dipping is associated with improved renal function in this setting independently of potential confounders, including
+HT and proteinuria. Whether modification of dipping status by chronotherapy would preserve renal function remains
+to be tested in clinical trials.

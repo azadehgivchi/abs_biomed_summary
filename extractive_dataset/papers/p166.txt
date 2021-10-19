@@ -1,0 +1,482 @@
+Introduction
+External genital warts are common. In the UK in 1998
+there were 111,000 reported new cases in clinics of genitourinary
+medicine [1]. Genital warts are the commonest
+sexually transmitted infection, affect mainly younger
+people, and usually caused by human papillomavirus
+genotypes 6 or 11. These genotypes are not normally involved
+with cancers. Association with human papilloma-
+virus genotypes 16 and 18 can give rise to subclinical
+lesions associated with cervical intraepithelial neoplasia
+and squamous cancer.
+A variety of methods have been used to treat external
+genital warts, and the primary goal of treatment before
+1997 was the physical removal of symptomatic warts [2].
+Methods used included excision, laser vaporisation, electrocautery,
+cryotherapy, caustic agents like trichloroacetic
+acid, podophyllin resin and intralesional interferon.
+Many of these are painful, which may result in undertreatment,
+whilst overtreatment can cause scarring or
+other complications. These treatments can also be expensive,
+as a number of outpatient visits may be required
+for a satisfactory result [2], and many have high rates of
+recurrence [2].
+Guidelines for diagnosis and treatment have been published
+[3] and promulgated [4]. These guidelines are
+themselves based on earlier advice in the UK [5] and USA
+[6,7]. The involvement of primary care physicians in the
+treatment of genital warts is increasingly encouraged [4].
+Choice of therapy depends on morphology of, and extent
+of the warts, as well as patient and professional choice, as
+outlined in a treatment algorithm used in Los Angeles
+[2]. Availability and cost may also be considerations.
+There are two choices for home treatment, imiquimod
+and podophyllotoxin gel [6].
+This systematic review was performed in order to quantify
+the benefits and harms of imiquimod, and to provide
+fuller information upon which choice can be based. The
+intention was, where possible, to pool information on
+important clinical outcomes and to generate not only statistical
+significance between imiquimod and control, but
+also to provide measures of treatment efficacy, such as
+numbers needed to treat (NNT). NNT is treatment specific.
+It describes the difference between active treatment
+and control in achieving a particular clinical outcome
+[8]. Low NNTs indicate high treatment-specific efficacy.
+An NNT of 1 says that a favourable outcome occurs in
+every patient given the treatment but in no patient in a
+comparator group. This would be the 'perfect' result in,
+say, a therapeutic trial of an antibiotic compared with
+placebo with a sensitive organism. NNTs of 2 to 5 are indicative
+of high efficacy (as, for instance, with analgesics
+in acute pain [9]).
+Imiquimod is a potent stimulator of cytokines, particularly
+interferons. A review of the mechanism of action of
+imiquimod is beyond the scope of this article, but there is
+an excellent account by Stanley [10].
+Methods
+The search strategy is described in supplementary file 1.
+Electronic searches were supplemented with information
+from reviews [2, 10]. QUORUM guidelines were followed
+[11]. Included were full publications of
+randomised trials that investigated imiquimod in the
+treatment of genital warts, and which had efficacy or
+safety data. Excluded were reviews with clinical information
+published in a fuller form elsewhere, studies with
+purely biochemical or immunological information, abstracts,
+or studies that used imiquimod for treating conditions
+other than genital warts.
+Each report was scored for quality using a three item, 1-
+5 score, quality scale [12]. Points were awarded to studies
+according to whether they were randomised and double
+blind and mentioned withdrawals or drop-outs from the
+study. An additional point was awarded if both the method
+of randomisation and double blinding was described
+and was appropriate.
+From each trial was extracted the number of patients
+treated per group, dosing regimes, study design, and the
+number of patients with efficacy and/or safety outcomes.
+RAM extracted the data into tables, and these were then
+read and checked by other authors. Prior definitions of
+outcomes of interest included those describing treatment
+efficacy (wart clearance) and those describing adverse
+events. For adverse events, treatment-related
+adverse event withdrawal has been shown to be the most
+commonly reported, and probably most useful measure
+[13], but the intention was also to combine information
+for particular local and systemic adverse events if reported
+in ways that allowed this. Three main efficacy outcomes
+and three harm outcomes were therefore sought
+from the trials, using the denominator of the number of
+patients randomised so that results were on an intention-
+to-treat basis. The main outcomes sought were the
+number of patients with:
+• Complete clearance of warts present at the start of
+treatment.
+• At least 50% reduction in wart area.
+• Complete clearance of warts and no recurrence thereafter.
+• Patients withdrawing from the study because of (reported)
+treatment-related adverse effects.
+• Patients withdrawing from the study because of lack of
+efficacy.
+• Patients with particular adverse effects.
+There were additional minor outcomes of interest. One
+was the number of new warts that appeared after treatment
+started, and the clearance of these warts during
+treatment; clearly this could not be done on an intentionto-
+treat basis. Recurrence was also reported as the rate of
+recurrence in those patients with initial complete clearance.
+Again, this could not be analysed on an intentionto-
+treat basis.
+Confidence intervals (95%) for single samples were calculated
+for proportions [14]. Relative benefit and relative
+risk estimates were calculated with 95% confidence intervals
+using a fixed effects model [15]. Heterogeneity
+tests were not used as they have previously been shown
+to be unhelpful [16]. Publication bias was not assessed
+using funnel plots as these tests have been shown to be
+unhelpful [17, 18]. The number needed to treat (NNT)
+and number needed to harm (NNH) with confidence intervals
+were calculated by the method of Cook and Sackett
+[19]. Relative benefit or risk was considered to be
+statistically significant when the 95% confidence interval
+did not include 1. NNT or NNH values were only calculated
+when the relative risk or benefit was statistically significant,
+and are reported with the 95% confidence
+interval. Statistical significance of any difference between
+numbers needed to treat for different doses or between
+men and women was assumed if there was no
+overlap of the confidence intervals, and additionally tested
+using the z statistic [20].Calculations were performed
+using Microsoft Excel 98 on a Power Macintosh G4.
+Results
+A literature search found 16 reports for which full copies
+were obtained and read. Of these, 10 were excluded (supplementary
+file 2) because they did not meet the inclusion
+criteria. A number of these were review or other
+articles with clinical information duplicated in other
+publications, but always with attribution. Where information
+on the same patients was available in duplicate
+reports, we used studies with the fullest amount of clinical
+information.
+Details of the six included studies are given in supplementary
+file 3. All six studies were conducted in the setting
+of home administration after initial professional
+examination and advice. Five of the studies were explicit
+that not other treatment was allowed within at least four
+weeks of the start of the trial. Wart location was predominantly
+vulvar or perianal in women, and penile or perianal
+in men. Five studies were conducted in North
+America or the UK using 5% or 1% imiquimod cream
+(Aldara, 3M Pharmaceuticals) [21,22,23,24,25], and one
+[26] was conducted in Pakistan using a 2% cream manufactured
+locally. This latter study was included despite
+lack of clarity about the formulation or nature of what
+was being applied (the title of the article indicated an imiquimod
+analogue was used). The prior intention,
+though, was to perform sensitivity analysis, particularly
+with regard to dose. Four studies used application schedules
+of 6-10 hours overnight three times a week [21,
+23,24,25], one for 24 hours three times a week [22], and
+the other (2% cream) applied twice a day for five consecutive
+days with a two-day rest period before repeat treatment.
+Duration of treatment was predominantly for 16
+weeks (one study was 8 weeks with 24 hours duration for
+each application [22]), with a further follow up of 10 to 16
+weeks to check for recurrence.
+All the trials were described as randomised and double
+blind. No study described the randomisation process,
+and two disclosed that treatment and placebo were visually
+identical. All adequately described the number and
+reasons for withdrawals or dropouts from the trials.
+Quality scores were therefore 3 in four and 4 in two studies
+(supplementary file 3) out of a maximum possible
+score of 5 and a minimum possible score of 1.
+All the studies described the diagnostic procedures to diagnose
+genital warts. This was usually (four of five studies)
+a combination of clinical examination supplemented
+by biopsy and histology. One study used genetic techniques
+to identify HPV 6 and 11 [26]. In all studies but
+one wart area was assessed by inspection and mapping,
+and by photography, so that warts present initially could
+be identified and their area calculated and measured
+over time, and any new warts similarly identified and
+area measured [26].
+The study populations were all adults. Five included men
+and women, though one had more than 90% men [22].
+One study examined only women [26]. HIV seronegativity
+was a requirement in five studies, and the other examined
+only patients with HIV infection [24].
+Efficacy
+Complete wart clearance
+Pooling of data was considered for all the five studies
+with immunocompetent patients (and excluding the one
+study with HIV-infected patients [24]). Sensitivity analyses
+were performed by concentration of imiquimod,
+and by sex (using Beutner et al, 1998b [22] as data for
+men, who constituted over 90% of the population investigated).
+There was neither sufficient information (in
+terms of number of trials) nor difference in treatments
+(duration, intensity, and subsequent follow up for recurrence)
+to justify separate analyses.
+Complete clearance of warts was reported in all five trials
+of HIV negative patients (Figure 1). This was achieved in
+51% of patients (95% confidence interval 45% to 56%)
+treated with the highest concentration of imiquimod (2%
+in one trial, 5% in four), but in only 6% (3% to 8%) of patients
+treated with placebo cream. The NNT was 2.2
+(95% confidence interval 2.0 to 2.6). This means that two
+patients have to be treated with 2% or 5% imiquimod for
+8 to 16 weeks for one of them to have warts completely
+cleared (Table 1). The results for 5% imiquimod in four
+trials were similar. Substantially fewer patients were
+cured with 1% imiquimod in two trials, and for this concentration
+the NNT was 9.5 (5.9 to 25). In three trials results
+were more favourable for women (mean 72%
+clearance) than men (mean 37% clearance).
+Imiquimod 5% cream was significantly more effective
+than imiquimod 1% cream for complete wart clearance
+(Table 1), with no overlap of confidence intervals of the
+NNTs (z = 6.5, p < 0.001). Imiquimod was more effective
+in women (72% of whom had complete wart clearance by
+the end of treatment) than in men (37%); there was no
+overlap of confidence intervals of the NNTs (z = 4.2, p <
+0.001).
+At least 50% reduction in wart area
+This outcome was reported in four trials with imiquimod
+5%, where 72% (67% to 78%) of patients had the outcome,
+compared with 20% (15% to 25%) with placebo.
+The NNT was 1.9 (1.7 to 2.2). This means that two patients
+have to be treated with 5% imiquimod for 8 to 16
+weeks for one of them to have wart area reduced by at
+least 50% (Table 1). Substantially fewer patients were
+cured with 1% imiquimod in two trials, and for this concentration
+the NNT was 8.1 (4.7 to 30). The number of
+trials and patients available for analysis by sex was small
+(Table 1), and results were more favourable for women
+(mean 85% with at least 50% reduction) than men (mean
+68%).Imiquimod 5% cream was significantly more effective
+than imiquimod 1% cream in producing at least 50%
+reduction in wart area (Table 1), with no overlap of confidence
+intervals of the NNTs (z = 7.1, p < 0.001). Imiq-uimod was more effective in women (85% of whom had
+at least a 50% reduction in wart area) than in men (37%);
+there was overlap of confidence intervals of the NNTs.
+There were too few trials to give confidence to this conclusion,
+however (Table 1).
+Warts completely cured and not recurred
+Because the object of treatment is clearance of warts
+without recurrence, this outcome was sought. Three trials
+with 5% imiquimod reported the number of patients
+randomised, the number completely cleared at the end of
+treatment, and the number of those who were completely
+clear at the end of treatment and in whom new warts
+were observed in the subsequent 10-16 weeks. Consequently
+the number of patients fulfilling this outcome
+could be calculated, with the number of patients randomised
+as the intention to treat denominator.
+Warts were completely cured and did not recur in 37%
+(31% to 43%) of patients treated with imiquimod 5%, and
+4% (2% to 6%) of patients treated with placebo. The NNT
+was 3.0 (2.5 to 3.8). This means that three patients have
+to be treated with 5% imiquimod for 8 to 16 weeks for one
+of them to have warts completely cleared, and for them
+not to recur (Table 1). Substantially fewer patients were
+cured with 1% imiquimod in two trials, and for this concentration
+the NNT was 10 (6.4 to 26).
+Imiquimod 5% cream was significantly more effective
+than imiquimod 1% cream in ensuring that warts were
+completely cleared by the end of treatment and did not
+recur (Table 1), with no overlap of confidence intervals of
+the NNTs (z = 5.2, p < 0.001).
+New warts
+Three studies also reported on the number of new warts
+that appeared after the start of the study and before the
+end of treatment. New warts appeared in 30% (24% to
+36%) of those treated with imiquimod 5%, 48% (41% to
+55%) of those treated with imiquimod 1%, and 48% (42%
+to 55%) of those treated with placebo. The proportion of
+new warts appearing since the study started and which
+had completely cleared by the end was 39% (24% to 54%;
+41 patients) with 5% imiquimod, was 21% (12% to 30%;
+78 patients) with placebo, and the NNT was 5.4 (2.8 to
+91) (Table 1). This means that for every five patients with
+new warts appearing after the trial started, one more had
+the new warts cleared by the end of treatment than with
+placebo.
+Recurrence
+Recurrence (defined as the number of patients with new
+warts when previously completely cleared) in the 10-16
+weeks after the end of the treatment phase was reported
+in three trials. Recurrence occurred in 18/112 patients
+(16%; 95% confidence interval 9% to 23%) of those treated
+with imiquimod 5%, 2/30 (7%; 2% to 16%) of those
+treated with imiquimod 1%, and 1/13 (8%; -7% to 22%)
+of those treated with placebo. For the three large trials
+[21,22,23] 121/254 patients had warts cleared at the end
+of treatment with 5% imiquimod, and only 27/121 (22%)
+of these had a recurrence or reinfection.
+Using random effects
+Because studies were clinically homogeneous a fixed-effects
+model was used to calculate relative benefits. Using
+a random effects model would have made no appreciable
+difference, apart from the outcome of the number of patients
+with 50% reduction in wart area with 1% imiquimod.
+The relative benefit of 1.5 (1.1 to 2.1) found with a
+fixed effects model would have changed to 1.5 (1.0 to 2.4)
+by using random effects.
+Adverse events
+In supplementary file 4 details of how adverse events
+were measured are shown, together with adverse events
+and withdrawals. Most of the studies assessed local skin
+reactions at the site of cream application using patient
+and physician scales, though not all of the outcomes were
+reported uniformly.
+Commonly reported adverse events were localised itching,
+erythema, burning and erosion or excoriation. The
+rates of moderate or severe adverse effects are given in
+supplementary file 4. They were not pooled because it
+was not clear that the outcomes were the same, the numbers
+of patients included as the denominator was unclear,
+and information was not always given for
+imiquimod and placebo. Numbers needed to harm could
+not be calculated, nor could an overall weighted percentage
+of patients with moderate or severe reactions. Studies
+indicated that when local reactions caused problems,
+a temporary "holiday" from treatment reversed them,
+upon which treatment began again.
+Withdrawals and the reason for withdrawals were clearly
+described. All causes of withdrawal were given, predominantly
+with assignment to treatment group. Treatmentrelated
+withdrawal included withdrawal because of adverse
+effects, and because of lack of effect. Adverse effect
+withdrawals were also given, so that withdrawal rates because
+of lack of effect could be calculated.
+For adverse event withdrawal, there was no difference
+between placebo and imiquimod at all concentrations
+(relative risk 1.7; 95% confidence interval 0.4 to 9.9) or
+5% cream (relative risk 1.9; 0.4 to 10, Table 2). Withdrawal
+because of lack of efficacy was described in five
+studies, and pooling information from the highest concentration
+of imiquimod in each trial (2% or 5%) showed
+that 1.7% (0.3% to 3.1%) of patients withdrew because of
+lack of effect with imiquimod, compared with 7.4% (4.3%
+to 11%) with placebo. The relative risk was 0.3 (0.1 to 0.7)
+and the NNH was -18 (-11 to -48). This means that for
+every 18 patients treated with imiquimod 2% or 5%, one
+fewer will discontinue treatment because of lack of effect
+than would have happened with placebo.
+Imiquimod in hiv-infected patients
+The single study that was conducted in this setting [24]
+showed little benefit in terms of warts completely cleared
+(supplementary file 3). The proportion with warts area
+reduced by at least 50% was 38%, significantly better
+than with placebo at 14% (supplementary file 3). New
+wart appearance was similar. Adverse events were similar
+to non-HIV infected individuals, though one man had
+swelling and soreness of the prepuce and glans penis sufficient
+to necessitate circumcision.
+Discussion
+This quantitative systematic review demonstrates that
+imiquimod is effective in the self-treatment of genital
+warts at home, at the cost of some adverse effects associated
+with enhanced inflammatory reactions that were reversible
+when treatment was stopped temporarily.
+Studies were clinically homogeneous in terms of patient
+inclusion criteria and those who were excluded. For instance,
+the five studies used for data pooling all excluded
+patients with HIV infection. They were also homogeneous
+in terms of the treatment periods (8-16 weeks). Most
+used thrice-weekly applications though one [26] used
+daily application for five days with a two-day rest. In the
+latter case the maximum number of applications was 60,
+as compared to 48 in most others. The exception was a
+study that used a 24-hour application three times a week
+[22], but in that case the duration was only eight weeks.
+Maximum exposure to imiquimod was therefore similar.
+A possible source of heterogeneity was the source of the
+imiquimod used in the trials. For five trials this was the
+formulation produced by 3M Pharmaceuticals, at 1% or
+5% strength. One trial used a different strength (2%)
+[26], and unclear formulation. Sensitivity analysis therefore
+examined the highest concentration of imiquimod in
+all trials, that is data on 2% or 5% creams (Figure 1), and
+with 5% and 1% imiquimod creams separately.
+Outcomes used to demonstrate efficacy were also homogeneous.
+These were patients with warts completely
+cleared, or with wart area reduced by half. Wart measurement
+was uniformly objective, with mapping and
+even with photographs to ensure objectivity. One outcome
+not reported, but one that could be inferred, was
+that of patients with warts completely cleared by the end
+of treatment, and with no recurrence of warts during the
+10-16 weeks of follow up.
+Numbers needed to treat for these outcomes were 2
+(complete clearance or at least 50% reduction in wart area)
+or 3 (warts completely cleared by the end of treatment,
+and with no recurrence). This occurred despite
+very different absolute percentages of patients achieving
+the outcome, because placebo rates were high (20%)
+with the easiest outcome (at least 50% reduction in wart
+area) and as low as 4% with the hardest (warts completely
+cleared by the end of treatment, and with no recurrence).
+This is shown in Figure 2. Complete wart
+clearance by the end of treatment was 40-50% with 5%
+imiquimod (Figure 2, Table 1), with application three
+times a week. This is slightly less than the 62% clearance
+rate seen in a small non-randomised open study comparing
+this application strategy with daily application [27]
+published after searching had been completed.
+There was a clear concentration-response, with 5% imiquimod
+consistently achieving higher clearance rates and
+lower NNTs than 1% (Table 1). Results for women were
+consistently better than for men for complete clearance,
+though not for at least 50% reduction in wart area (Table
+1).
+Recurrence of warts was described for patients in whom
+warts had cleared. The results of the pooled analysis tell
+us that about 50% of patients will have their warts
+cleared with 5% imiquimod, and that 40% will have
+warts cleared and there will be no recurrence. The implication
+is that for 4 out of 5 patients in whom warts clearance
+is achieved, no recurrence will occur. For the three
+large trials [21,22,23] 121/254 patients had warts cleared
+at the end of treatment with 5% imiquimod, and only 27/
+121 (22%) of these has a recurrence. It is unclear whether
+this recurrence rate of 22% can be compared with the
+higher recurrence rates (up to 95% with laser therapy)
+quoted for other treatments [7].
+Adverse events were well recorded, especially withdrawal
+due to lack of effect and adverse events [13], and the
+methods used to collect adverse event information given
+in the five large trials (supplementary file 4). Adverse
+events were actively sought at clinic visits in most studies,
+and diaries and prompts can lead to increased reporting
+of adverse events [28]. Local events related to
+enhancement of the inflammatory response, erythema,
+itching, burning, irritation and tenderness were common
+(supplementary file 4), even at a moderate or severe intensity.
+Adverse events caused few patients to withdraw
+(about 2%), and this was not significantly different from
+placebo. Fewer patients given imiquimod withdrew because
+of lack of efficacy (Table 2).
+The quality of the evidence was good on several counts.
+Not only was there clinical homogeneity, but the quality
+scores were 3 or 4, and scores of 3 or more have been
+shown [29, 30] to be associated with less likelihood of bias.
+Moreover for most of the efficacy outcomes there was
+enough data and a large enough effect to make it likely
+that the results would be free of any chance effects [31].
+Efficacy was robust to sensitivity analysis, and there was
+a dose-response.
+What the review cannot tell us is whether there are different
+patient groups (other than men and women) who
+might differentially benefit. For instance, there was no
+opportunity to perform an analysis based on the severity
+of the warts by number or area. That analysis could only
+be done using detailed information on individual patients.
+Nor was it possible to derive any information on
+the many practical issues that surround management of
+genital warts, such as personal hygiene, the ability to see
+the warts to adequately apply the treatments, unprotected
+sexual intercourse, clothing or other infections. Many
+of these practical problems may be beyond the scope of
+randomised trials, and therefore reviews of them.
+The results of this systematic review complement guidelines
+for the diagnosis and treatment of genital warts in
+primary care [3, 4]. They demonstrate imiquimod to be
+effective in home application, though not in patients with
+HIV infection with the evidence presently available [24].
+Rates of first attacks of genital warts have been rising for
+a decade [32], and an average primary care group of
+100,000 population will have about 240 such cases a
+year, with as many again of recurrences and reregistered
+cases [32]. Pressures on hospital-led clinics, or their inaccessibility
+in rural areas, together with the availability
+of treatments like imiquimod that can be used at home,
+makes recognition of its role in primary care sensible [4].
+Practitioners often want information about the relative
+efficacy and harm of different treatments for the same
+complaint, and, increasingly, about relative cost-effectiveness.
+We could not find any systematic review of other
+treatments for genital warts in this setting,
+particularly for podophyllotoxin.

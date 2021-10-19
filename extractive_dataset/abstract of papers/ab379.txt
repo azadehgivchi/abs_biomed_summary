@@ -1,0 +1,19 @@
+Background: Asthma is a chronic infammatory disorder of the airways involving many diferent factors. This study
+aimed to screen for the critical genes using DNA methylation/CpGs and miRNAs involved in childhood atopic asthma.
+Methods: DNA methylation and gene expression data (Access Numbers GSE40732 and GSE40576) were down‑
+loaded from the Gene Expression Omnibus database. Each set contains 194 peripheral blood mononuclear cell
+(PBMC) samples of 97 children with atopic asthma and 97 control children. Diferentially expressed genes (DEGs) with
+DNA methylation changes were identifed. Pearson correlation analysis was used to select genes with an opposite
+direction of expression and diferences in methylation levels, and then Gene Ontology (GO) function and Kyoto
+Encyclopedia of Genes and Genomes (KEGG) pathway analysis were performed. Protein–protein interaction network
+and miRNA–target gene regulatory networks were then constructed. Finally, important genes related to asthma were
+screened.
+Results: A total of 130 critical DEGs with DNA methylation changes were screened from children with atopic asthma
+and compared with control samples from healthy children. GO and KEGG pathway enrichment analysis found that
+critical genes were primarily related to 24 GO terms and 10 KEGG pathways. In the miRNA–target gene regulatory
+networks, 9 KEGG pathways were identifed. Analysis of the miRNA–target gene network noted an overlapping KEGG
+signaling pathway, hsa04060: cytokine-cytokine receptor interaction, in which the gene CCL2, directly related to
+asthma, was involved. This gene is targeted by eight asthma related miRNAs (hsa-miR-206, hsa-miR-19a, hsa-miR-9,hsamiR-22, hsa-miR-33b, hsa-miR-122, hsa-miR-1, and hsa-miR-23b). The genes IL2RG and CCl4 were also involved in this
+pathway.
+Conclusions: The present study provides a novel insight into the underlying molecular mechanism of childhood
+atopic asthma.

@@ -1,0 +1,528 @@
+Medical diagnoses and procedures are reported using
+standardized codes that are updated periodically to keep
+up with the latest clinical knowledge and practices. Transitioning
+from an old medical coding system to a new
+one can be challenging, especially when the two systems
+are significantly different. One such transition took
+place in the United States (US) in 2015 when the country
+switched from the 9th revision of the International Classification
+of Diseases (ICD) Clinical Modification (ICD-
+9-CM) to the 10th revision (ICD-10-CM). This newer
+revision was accompanied by a very different procedure
+coding system (PCS) (ICD-10-PCS), as compared to the
+ICD-9-CM procedure coding system (Volume 3, abbreviated
+here as Vol. 3). For example, each ICD-10-PCS
+procedure is made of 7 multi-axial characters where each
+axis encompasses up to 34 alphanumeric values [1]. This
+arrangement is a significant departure from the procedure
+code structure in ICD-9-CM Vol. 3, where all codes
+are numeric and can only be between 2 and 4 characters
+long. In 2015, ICD-10-PCS had about 72,000 procedure
+codes as compared to only about 4000 codes in ICD-
+9-CM Vol. 3. The diagnosis codes between these two
+revisions of ICD are also quite different. For example, all
+diagnosis codes in ICD-10-CM are alphanumeric and can
+be 3 to 7 characters long, whereas ICD-9-CM diagnosis
+codes are mostly numeric and can only be between 3 and
+5 characters long. In 2015, there were about 14,500 diagnosis
+codes in ICD-9-CM as compared to about 69,800
+codes in ICD-10-CM [2]. Given these differences, some
+analysts had predicted a costly and challenging transition
+from ICD-9-CM to ICD-10-CM/PCS [3]. Indeed, some
+of the feared problems did materialize after the changeover,
+such as the loss in productivity [4, 5], the lack of
+readiness of computer systems, the inability to find some
+ICD-9-CM concepts in the ICD-10-CM system, and difficulties
+mapping ICD-10-CM to other coding systems
+such as SNOMED-CT [6]. Some ICD-10-CM clinical
+classes were also found to have more coding deficiencies
+than others, such as the class of external causes of morbidity
+(V00-Y99) [7]. In one post-ICD-10 implementation
+audit, it was found that one of the most significant challenges
+for coders was selecting the correct character in
+the 3rd position (Root Operation), the 4th position (Body
+Part), and the 5th position (Approach) of an ICD-10-PCS
+code [8]. While little evidence exists to suggest that reimbursement
+was significantly impacted by the transition,
+in some practices, a statistical increase in the codingrelated
+denials was noted [9]. A few of the post-transition
+qualitative studies concluded that training and education
+were critical in overcoming many of the previously anticipated
+challenges [6, 10]. Besides the US, other countries
+have also faced challenges while transitioning to new
+medical coding systems. The issues ranged from coding
+errors to discrepancy problems when the same condition
+was coded in both coding systems. For example, in
+one analysis [11], it was found that the Swiss transition
+from ICD-9 to ICD-10 resulted in the initial increase of
+the number of coding errors for co-morbidities, but, over
+time, the accuracy improved as the learning curve waned.
+In one Canadian study [12], the authors were interested
+in assessing the validity of ICD-10 codes after switching
+from ICD-9. While the authors did not find much difference
+in the validity of the codes from these two systems,
+the discrepancy was apparent for some conditions
+(e.g., HIV/AIDS, hypothyroidism, and dementia). The
+authors also observed that the quality of data had not yet
+improved in ICD-10 as originally expected.
+Now that many countries are preparing to migrate
+from ICD-10 to ICD-11 [13], one can expect similar transition
+challenges to occur, as these two coding systems
+have different code structures [14], and the equivalence
+is at times lacking [15]. This research aims to introduce
+entropic measures to help users prepare for the migration
+to a new medical coding system by identifying and
+focusing preparation initiatives on clinical concepts with
+more likelihood of documentation deficiencies, coding
+errors, and longitudinal data comparison issues.
+Related work
+Not many studies have considered how to quantify the
+complexity of codes between two medical coding systems.
+In some studies, the equivalence in the number
+and structure of the codes between two coding systems
+is considered, but without accompanying measures of
+the dissimilarity in the codes [15]. In a few studies, an
+attempt is made to address the complexity between two
+medical coding systems. For example, in Boyd et al. [16,
+17], the authors proposed using the science of networks
+to evaluate the difficulties of transitioning from ICD-
+9-CM to ICD-10-CM in the US. The authors used general
+equivalence mappings (GEMs) to create graphs where
+diagnoses were nodes, and the relationships in the GEMs
+were edges. From their analysis, the authors derived
+directional motifs and identified convoluted mappings,
+where multiple medical codes from both coding systems
+shared complex, entangled, and non-reciprocal mappings.
+The authors concluded that clinical classes with
+convoluted mappings were more likely to be challenging
+to code and costly to implement after the changeover to
+the new medical coding system. Besides, these authors
+also anticipated that clinical classes with a high ratio of
+ICD-10-CM to ICD-9-CM codes were more likely to
+affect a smooth transition. Another study that considered
+the complexity of transitioning between two coding
+systems relates to the work of Chen et al. [18], where the
+authors leveraged Shannon’s entropy to develop a mapping
+framework between ICD-10 and ICD-11 coding
+systems. The authors proposed three entropy-based metrics
+of standardizing rate (SR), uncertainty rate (UR), and
+information gain (IG) to validate information changes
+between ICD-10 and ICD-11. The authors obtained the
+UR measure by M
+i=1 pi log 1/pi , where M was the number
+of ICD-11 candidate codes for a single ICD-10 code,
+and pi was the probability of each ICD-11 code. In a special
+case of a uniform distribution, the authors suggested
+utilizing the average probability of 1/M to measure UR,
+which implied that UR = logM . Among other conclusions,
+the authors recommended verifying ICD-10 codes
+with high UR measures as these codes were more likely
+to hinder a smooth transition to ICD-11.
+Contributions
+This research complements previous studies highlighted
+in the Related Work section. For example, as in Chen
+et al. [18], this research proposes to apply Shannon’s
+entropy to study the complexity of the transition between
+two medical coding systems. Unlike in this previous
+study, the entropic measures in this research account for
+the variation in the alphabets of candidate codes. Besides,
+Shannon’s entropy is also used to create a measure of
+coding complexity that considers not only the number of
+candidate codes (as in the UR measure [18]) but also the
+number of combinations of these codes. As shown later,
+failure to account for the latter information may underestimate
+or overestimate the related coding complexity.
+It should also be mentioned that the proposed methods
+have an advantage over convoluted measures suggested
+in Boyd et al. [16, 17]. Unlike in the convoluted approach,
+where a code is classified as either being involved in a
+convoluted relationship or not, the proposed methods
+provide non-dichotomous complexity measures of each
+code.
+Materials and methods
+Methods
+A motivating problem
+It is imagined that a manager of a given medical care
+facility is preparing to transition from an old medical
+coding system X to a new medical coding system Y. The
+forward ( X  Y ) and backward ( X  Y ) mappings
+between X and Y are provided. The manager is unsure
+about employing these mappings to identify clinical concepts
+that are more likely to be challenging to translate
+into the new medical coding system. Some of the benefits
+of knowing this information include being able to formulate
+targeted training efforts for coding and clinical documentation
+to foster the validity of the data in the new
+coding system. Besides, understanding complex translations
+may help take the necessary steps to ensure longitudinal
+data comparisons. This research aims to suggest
+the techniques that the manager could use to solve this
+dilemma.
+Model and assumptions
+Given forward mappings ( X  Y ), the old medical
+coding system X is termed the source system, while the
+new coding system Y is termed the target system. In the
+backward mappings ( X  Y ), the source and target terminologies
+are reversed. For model development, only
+forward mappings are considered here since the backward
+mappings would obey the same logic. From the
+prescribed forward mappings ( X  Y ), it is assumed
+that code x  X corresponds to m number of candidate
+codes y  Y . This relationship, referred to here as a map,
+is symbolized as x  y1, y2, . . . , ym or as in the following
+matrix form: where each code in the map yi , for i : 1, . . . ,m , has n
+fixed number of characters (also called alphabets) aij ,
+for j : 1, . . . , n . If necessary, padding may be added to a
+particular code to ensure a constant length of n as this
+approach may simplify calculations. Each column represents
+an axis or simply a position of an alphabet in a
+code. The columns of a map are assumed to be independent.
+Each row of a map represents a valid code y  Y . A
+set of more than one code in a map may be necessary
+to represent code x  X . If m = 0 , code x has no match
+in Y, which implies data loss in the new coding system.
+If m = 1 , code x  X has a one-to-one relationship
+with code y  Y . In this case, the coding complexity is
+expected to be zero since little surprise exists about what
+the new code should be. If m > 1 , the coding complexity
+will be greater than zero as there is more than one
+candidate code in Y, thus more complexity and chances
+of coding or translation errors. In this research, a coding
+error is defined as the selection of a code where at least
+one alphabet is wrong or the selection of a set of codes
+where at least one of the codes is incorrect or missing.
+The expected coding complexity of a given clinical concept
+in X is characterized in terms of the uncertainty in
+the rows and columns of a map, which is measured here
+in bits units of Shannon’s entropy [19].
+Two major sources of coding complexity are assumed
+here, namely source A, which captures the variation in
+the alphabets of a map, and source B, which relates to
+the combinations of the rows of a map. The entropy for
+source A, or H(A), is calculated as:where kj  m is the number of unique alphabets in column
+aj of matrix (1) and pij is the probability of alphabet
+i in position j. The more the H(A) measure, the more requisite
+detailed documentation to express all the alphabets
+of a map. Likewise, the more the number of code alphabets
+that must be chosen separately, the more complex
+and time-consuming the coding.
+Regarding source B, the corresponding entropy H(B) is
+obtained by:
+where v = m0 +s
+i=1m−m0
+j=1 mij . Here, s is the total
+number of possible scenarios and m0 represents the
+number of stand-alone codes and, for a given scenario i,
+mi1, . . . ,mi(m−m0) denote the number of candidate codes
+in Y that must be combined to represent code x  X .
+As before, m is the total number of candidate codes in a
+map. If a map only includes stand-alone codes, where no
+combinations of codes are required, Eq. 3 becomes H(m),
+which is comparable to the UR measure introduced in
+Chen et al. [18]. The more the H(B) measure, the more
+complex the coding due to the need for more coding
+memory and time, since more than one candidate code
+in the target system is going to be required to represent a
+single code from the source system. See Appendix A for
+more details on the derivation of Eqs. 2 and 3.
+Implementation
+It is recommended that both H(A) and H(B) entropic
+measures be normalized into Z() and Z() , as exemplified
+in Appendix A, to allow for the comparison and
+ranking of complexity from different sources. If H(A) and
+H(B) measures (or their normalized counterparts) are to
+be utilized to prepare for the transition (e.g., documentation
+improvement), they should be weighed using relevant
+empirical distribution (e.g., historical frequencies of
+codes in a given medical facility or general practice area).
+Accordingly, if, say, a particular facility never performs
+heart transplants, it shouldn’t have to spend too much
+training efforts on the documentation of this clinical concept.
+Algorithm 4.1 shows the steps that one can take to
+implement the suggested entropic methods.
+Algorithm 4.1 Computing entropic measures
+Step 1: Calculate H(A), the entropy of the columns of
+a map, to estimate the coding complexity due
+to the variation in the alphabets of the columns
+of a map.
+Step 2: Calculate, H(B), the entropy of the rows of a
+map to estimate the coding complexity due to
+the uncertainty in the number of valid code
+representations in the map.
+Step 3: Normalize H(A) and H(B) by centering these
+measures and then dividing them by their
+standard deviations. The normalized measures
+are symbolized here as Z() for H(A) and Z()
+for H(B).
+Step 4: If empirical data, based on historical visits or
+future forecasts, were available, one would
+adjust Z() and Z() measures by multiplying
+them with the probability of a corresponding
+clinical concept.
+Step 5: Use the adjusted or unadjusted entropic measures
+to prioritize transition initiatives between
+two medical coding systems.
+Materials
+Algorithm 4.1 can be applied to evaluate entropic measures
+between any two medical coding systems, provided
+mappings or crosswalks exist. For demonstration, the
+2015 US transition from ICD-9-CM to ICD-10-CM/PCS
+medical coding systems is considered. For a brief background,
+when the US was preparing to migrate from
+ICD-9-CM to ICD-10-CM/PCS, forward and backward
+general equivalence mappings (GEMs) were made available
+to users [2, 20]. A user could determine the number
+of candidate codes in the target system from these mappings,
+given a code in the source system. These files also
+allowed users to apply the given supplemental five digits
+codes (referred to as flags) to determine valid combinations
+of candidate codes in a map. For example, a flag
+code of 00000 or 10000 was used to represent a one-toone
+relationship. The flag code of 00000 signified the
+exact equivalence, whereas a flag code of 10000 represented
+the approximate equivalence. If the relationship
+were one-to-many, the third character in the flag code
+would be 1 (instead of 0), and the fourth and fifth characters
+would specify combinations of candidate codes.
+The fourth character enumerated the number of scenarios,
+while the fifth character established the order
+that combinations were carried out in each scenario. The
+data used in this paper can be obtained directly from the
+CMS website at https:// www. cms. gov/ Medic are/ Coding/
+ICD10/ Archi ve- ICD- 10- CM- ICD- 10- PCS- GEMs. The
+2015 GEMs, instead of the newer GEMs, are utilized here
+since they were the most updated mappings available to
+users to prepare for the transition from ICD-9-CM to
+ICD-10-CM/PCS in 2015.
+Demonstration
+Appendix E demonstrates a Python code to implement
+Algorithm 4.1. Figure 1 exhibits the application
+of this algorithm on map 0052. This map relates to an
+ICD-9-CM Vol.3 code of 00.52 for the implantation or
+replacement of transvenous electrode into left ventricular
+coronary venous system.
+Results
+Algorithm 4.1 was applied to both forward and backward
+GEMs between ICD-9-CM and ICD-10-CM/PCS.
+Tables 1 and 2 display the corresponding descriptive statistics
+for H(A), H(B), and UR entropic measures. Codes
+without match in the target system were excluded from
+these statistics. For comparison purposes, the normalization
+of the UR measure [18] is symbolized as Z(UR).
+To implement Step 5 of Algorithm 4.1, clinical concepts
+were ranked by their entropic measures. Figures 2 and 3
+show ranked clinical classes from the least to the most
+sum of Z() , Z() , and Z(UR) measures. The classes in
+these figures were also ranked separately using each
+entropic measure. As expected, the resulting rankings
+based on Z() , Z() , and Z(UR) measures were not
+always consistent. To assess how much the rankings of these entropic measures agreed, the Kendall tau correlation
+coefficients were assessed, and the results are presented
+in Table 3. The closer to 1 the Kendall tau value
+(the greener the color), the more the given entropic
+measures agreed. An alternative approach to implementing
+Step 5 of Algorithm 4.1 is performing outlier and
+pattern analysis and then segregate concepts that should
+receive more attention during the transition. An example
+of how such an analysis may be conducted is shown in
+Fig. 4. To extract thematic descriptions of the outlier
+maps, network analysis techniques suggested in Niyirora
+and Aragones [21] were applied after removing stopwords
+[22] and residual words (e.g., other, unspecified,
+etc.). Communities of words in Fig. 4c, d (distinguished
+by different colors) were isolated using the modularity
+algorithm in Gephi [23]. To gauge the frequency (or significance) of words in the outlier maps, a word cloud
+analysis was undertaken, where the bigger the word
+meant, the more significant the word (see Fig. 4e, f).
+Discussion
+In 2015, ICD-10-PCS had a significantly greater number
+of procedure codes (n = 71,924), as compared to ICD-
+9-CM Vol.3 (n = 3,672) (see Table 1). Equally, Table 2
+shows more diagnosis codes for ICD-10-CM vis-à -vis
+ICD-9-CM. This fact alone implies that more specific
+information was likely to be gained by migrating from
+ICD-9-CM to ICD-10-CM/PCS, assuming complete
+clinical documentation and accurate coding. The mean
+statistics in these tables reveal that all the entropic measures
+are higher in the forward mappings than the backward
+mappings. This revelation further certifies that, on
+average, more information was gained in ICD-10-CM/
+PCS as compared to ICD-10-CM. The quartile statistics
+with a value of zero suggest the minimum percentage of
+one-to-one mapping from the source system (e.g., a 75%
+quartile of zero indicates that at least 75% of codes in the
+source system has a one-to-one relationship with the target
+system). A one-to-one relationship implies that no
+information is gained since log(1) = 0 . In other words,
+one-to-one codes may structurally look different, but if
+they represent the same clinical concept, then no information
+is gained. To a computer, a one-to-one mapping
+is a simple translation, but, of course, to a human coder,
+more complicated code structures may be more challenging
+to extract and translate.
+The scale of the information gained (or lost) between
+ICD-9-CM and ICD-10-CM/PCS can be appreciated by
+clinical classes depicted in Figs. 2 and 3. For example,
+Fig. 2a indicates that in the procedural forward mappings,
+the most information was gained in the class of
+the Operations on Musculoskeletal System (76–84). The
+related box plot in Fig. 2b suggests that all three entropic
+measures relatively agreed on the characterization of
+class 76–84, given the small interquartile range. For diagnoses,
+Fig. 3a suggests that the class of the Injury and
+Poisoning (800–999) carried more forward information
+in ICD-10-CM followed by the class of Pregnancy and
+Childbirth (630–679). Remarkably, Fig. 3c implies that
+an ICD-10-CM class related to Pregnancy and Childbirth
+(O00-O9A) also resulted in backward information gain in
+ICD-9-CM. These conflicting results are due to the convoluted
+nature of the mappings between these two medical
+coding systems [16].
+From Figs. 2 and 3, one notices that some clinical
+classes have negative entropic measures. This observation
+implies that little, or no information, would be
+gained in the target system. For example, Fig. 2a indicates
+that for the procedure class of the Diagnostic & Therapeutic
+Procedures (87–99), not much forward information
+was gained in ICD-10-PCS. Likewise, little, or no
+backward information was gained in ICD-9-CM Vol.
+3 about the procedure class of Medical and Surgical (0)
+(see Fig. 2c). However, the entropic measures somewhat
+disagree on the latter suggestion, given a large interquartile
+range of class (0) in Fig. 2d. Regarding diagnosis
+codes, Fig. 3a suggests that little, or no information, was
+gained in ICD-10-CM about the ICD-9-CM class of Supplementary
+Classification Of External Causes Of Injury
+And Poisoning (E000-E999). In an apparent contraction,
+Fig. 3c points to the lack of information gained in the
+backward mapping about ICD-10-CM classes of Injury,
+poisoning and certain other consequences of external
+causes (S00-T88) and External causes of morbidity (V00-
+Y99). Again, this ambiguity results from the complex
+relationship between ICD-9-CM and ICD-10-CM/PCS
+coding systems [16].
+It is noteworthy that, despite a greater number of codes
+in ICD-9-CM/PCS, the backward max statistics in both
+Tables 1 and 2 are not zero. This finding implies that, for
+some clinical concepts, ICD-9-CM captured more information
+vis-à-vis ICD-10-CM/PCS (e.g., class (F) in Fig. 2c
+and class (O00-O9A) in Fig. 3c). The implication is that
+some ICD-9-CM information was lost in ICD-10-CM/
+PCS, which created issues with longitudinal data comparisons.
+This dilemma also likely produced problems
+with verifying ICD-10-CM/PCS codes’ validity, especially
+for classes where the information was gained in both forward
+and backward mappings (bidirectional) (e.g. in the
+pregnancy and childbirth clinical class). Additional challenges
+resulting from the bidirectional information gain
+include conflicting documentation requirements, primarily
+if the new coding system collects different clinical
+information than what is commonly documented. Naturally,
+coding errors are likely to ensue if clinical documentation
+is lacking or inconsistent.
+To prepare for the transition to a new medical coding
+system, the user can utilize the proposed entropic
+measures as a guide to orient training efforts. To this
+end, clinical classes can be ranked to gauge where most
+information is likely to be gained or lost. Of course, the
+user would have more confidence if the rankings of these
+entropic measures agreed. Regarding the transition from
+ICD-9-CM to ICD-10-CM/PCS, the proposed methods
+tend to provide similar rankings. This fact is particularly
+true in the forward mappings from ICD-9-CM Vol.3 to
+ICD-10-PCS, where, as highlighted in Table 3, Kendall
+tau correlation coefficients between the methods are
+either 1 or very close to 1. However, in some instances,
+such as in the backward mappings from ICD-10-CM to
+ICD-9-CM (see Table 3), the methods may disagree. Significant
+differences between H(A) (the entropy of the
+alphabets or columns of a map) and H(m) (the entropy of
+the rows of a map) typically cause this disagreement. The
+entropic measures will always agree in cases of a single
+candidate code in the map ( m = 1 ) since the entropy is
+zero for all measures. As the number of candidate codes
+m increases, H(m) increases as expected, which should
+also increase H(A). While such a mutual increase in both
+H(A) and H(m) occurs in most maps, a few maps exhibit
+more variation in the codes’ alphabets relative to the
+corresponding number of candidate codes or vice versa.
+An example here is map 721 (Low forceps operation
+with episiotomy) where H(A) = 6, but H(m) = 0.5 since
+there are only two candidate codes. In this map, H(B)–
+the entropy of the valid combinations (v) of m candidate
+codes–is zero since v = 1 . In map 7392 (Replacement of
+prolapsed umbilical cord), the opposite divergence exists.
+There are more codes ( m = 3 ) relative to the corresponding
+variation in the alphabets. As a result, H(m) = 1.59
+whereas H(A) = 0.92. Besides the disparity between H(m)
+and H(A), H(B) and H(m)–two entropic methods that
+mostly agree–may also significantly diverge when there is
+a significant difference in the number of candidate codes
+m and the number of valid combinations v. Examples
+include map 0050 (Implantation of cardiac resynchronization
+pacemaker without mention of defibrillation, total
+system [CRT-P]) where v = 216 but m = 16 and map 688
+(Pelvic evisceration) where v = 2 but m = 16 . Regardless
+of the source, a divergence in the entropic measures’
+rankings complicates implementing the proposed
+methods in actual settings. Unless one method proved
+superior to others, clinical concepts or classes where
+the rankings of entropic measures significantly disagree
+should be audited by medical providers and coding
+professionals. Subsequently, training efforts for clinical
+documentation and medical coding should be adjusted
+as appropriate. Given this recommendation, during the
+transition from ICD-9-CM to ICD-10-CM/PCS, audits
+of clinical classes 0, B, and F (in Fig. 2b) and O00–O9A
+and ST00–T88 (in Fig. 2d) would have been necessary to
+ascertain any transition challenges and training needs.
+Besides ranking maps or clinical classes by their
+entropic measures, the user may also prioritize transition
+efforts from outlier and pattern analysis. That is,
+instead of working with predefined clinical classes, the
+user would try to assess the impact of the transition using
+major themes or ontological groups from the descriptions
+of outlier maps. Many thematic analysis [24] and
+ontological learning methods [25, 26] are applicable
+here. For demonstration purposes, a simple graph was
+constructed and patterns were examined using network
+algorithms [21, 27] (see Fig. 4). For example, a close
+examination of Fig. 4c, d reveal a collection of terms that
+relate to the vascular, skeletal, integumentary, and cardiac
+body systems. In terms of the eigenvector centrality, the
+most central words were tissue, graft, subcutaneous, skin,
+repair, and incision. Combining these keywords, one
+may conclude that the procedures for the musculoskeletal,
+integumentary, and cardio-vascular systems likely
+involved significant complex coding in ICD-10-PCS, a
+deduction that is consistent with the results in Fig. 2a.
+Conclusion
+Transitioning from an old medical coding system to a
+new one can be challenging, especially when the two
+coding systems are significantly different. This research
+aimed to propose methods that could help users prepare
+for the transition by identifying and focusing preparation
+initiatives on clinical concepts with more likelihood of
+transition challenges. To this end, two entropic measures
+of coding complexity were introduced. The first measure
+was a function of the variation in the map’s alphabets,
+and the second measure was based on the possible number
+of valid combinations of candidate codes in a map.
+The primary assumption was that the more entropy, the
+more likelihood of coding errors. So, more prudent documentation
+was recommended for clinical concepts with
+high rankings of entropic measures, not only to increase
+the chances of accurate coding but also code validity and
+longitudinal data comparisons. It was also recommended
+that the resulting entropic measures be normalized and
+adjusted by the probability of a given code before isolating
+clinical concepts of interest. Medical professionals
+should conduct audits to ascertain transition challenges
+and training needs, particularly in the instances of
+diverging entropic measures. The proposed techniques
+are suitable for establishing coding complexity between
+any two medical coding systems, provided mappings or
+crosswalks exist. A demonstration of how to implement
+the proposed entropic measures was carried out using
+the 2015 forward and backward mappings between ICD-
+9-CM and ICD-10-CM/PCS.

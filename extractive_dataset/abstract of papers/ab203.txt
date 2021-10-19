@@ -1,0 +1,21 @@
+Background: We aimed to construct an artificial intelligence (AI) guided identification of suspicious bone metastatic
+lesions from the whole-body bone scintigraphy (WBS) images by convolutional neural networks (CNNs).
+Methods: We retrospectively collected the 99mTc-MDP WBS images with confirmed bone lesions from 3352 patients
+with malignancy. 14,972 bone lesions were delineated manually by physicians and annotated as benign and malignant.
+The lesion-based differentiating performance of the proposed network was evaluated by fivefold cross validation,
+and compared with the other three popular CNN architectures for medical imaging. The average sensitivity,
+specificity, accuracy and the area under receiver operating characteristic curve (AUC) were calculated. To delve the
+outcomes of this study, we conducted subgroup analyses, including lesion burden number and tumor type for the
+classifying ability of the CNN.
+Results: In the fivefold cross validation, our proposed network reached the best average accuracy (81.23%) in identifying
+suspicious bone lesions compared with InceptionV3 (80.61%), VGG16 (81.13%) and DenseNet169 (76.71%).
+Additionally, the CNN model’s lesion-based average sensitivity and specificity were 81.30% and 81.14%, respectively.
+Based on the lesion burden numbers of each image, the area under the receiver operating characteristic curve (AUC)
+was 0.847 in the few group (lesion number n ≤ 3), 0.838 in the medium group (n = 4–6), and 0.862 in the extensive
+group (n > 6). For the three major primary tumor types, the CNN-based lesion identifying AUC value was 0.870 for lung
+cancer, 0.900 for prostate cancer, and 0.899 for breast cancer.
+Conclusion: The CNN model suggests potential in identifying suspicious benign and malignant bone lesions from
+whole-body bone scintigraphic images.
+Conclusions: Whole-tumour radiomics feature of T1WI_
+NGTDM_Strength and tumour location were potential predictors
+of the efficacy of S-1 and for the precision selection of S-1 as adjuvant chemotherapy regimen for PDAC.

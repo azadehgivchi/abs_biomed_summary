@@ -1,0 +1,20 @@
+Background: Outcomes among hospitalized patients with severe vision impairment or blindness have not been
+extensively explored. This study sought to determine clinical and resource utilization outcomes in patients with
+severe vision impairment/blindness (SVI/B). Because obesity is very common among those who are hospitalized, we
+also sought to understand its impact among patients with SVI/B.
+Methods: We conducted a retrospective study using the National Inpatient Sample for the year 2017; hospitalized
+adults with and without SVI/B were compared. In addition, for all patients with SVI/B, we compared those with and
+without obesity. Multiple logistic regression and linear analysis were used to evaluate mortality, disposition, length
+of stay, and hospital charges; the analyses were adjusted for multiple variables including age, sex, and race.
+Results: 30,420,907 adults were hospitalized, of whom 37,200 had SVI/B. Patients with SVI/B were older (mean age ±
+SEM: 66.4 ± 0.24 vs. 57.9 ± 0.09 years, p < 0.01), less likely to be female (50 % vs. 57.7 %, p < 0.01), more frequently
+insured by Medicare (75.7 % vs. 49.2 %, p < 0.01), and had more comorbidities (Charlson comorbidity score ≥ 3: 53.2 %
+vs. 27.8 %, p < 0.01). Patients with SVI/B had a higher in-hospital mortality rate (3.9 % vs. 2.2 %; p < 0.01), and had lower
+odds to be discharged home after hospital discharge (adjusted Odds Ratio {aOR} =0.54, [Confidence Interval (CI) 0.51–
+0.58]; p < 0.01) compared to those without SVI/B. Hospital charges were not significantly different (adjusted Mean
+Difference {aMD} = $247 CI [-$2,474-2,929]; p = 0.85) but length of stay was longer (aMD = 0.5 days CI [0.3–0.7]; p < 0.01)
+for those with SVI/B. Patients with vision impariment who were also obese had higher total hospital charges compared
+to those without obesity (mean difference: $9,821 [CI $1,375-$18,268]; p = 0.02).
+Conclusions: Patients admitted to American hospitals in 2017 who had SVI/B had worse clinical outcomes and greater
+resources utilization than those without SVI/B. Hospital-based healthcare providers who understand that those with
+SVI/B may be at risk for worse outcomes may be optimally positioned to help them to receive the best possible care.

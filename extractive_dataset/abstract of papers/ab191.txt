@@ -1,0 +1,22 @@
+Background: COVID-19 is a respiratory viral infection with unique features including a more chronic course and
+systemic disease manifestations including multiple organ involvement; and there are differences in disease severity
+between ethnic groups. The immunological basis for disease has not been fully characterised. Analysis of wholeblood
+RNA expression may provide valuable information on disease pathogenesis.
+Methods: We studied 45 patients with confirmed COVID-19 infection within 10 days from onset of illness and a
+control group of 19 asymptomatic healthy volunteers with no known exposure to COVID-19 in the previous 14 days.
+Relevant demographic and clinical information was collected and a blood sample was drawn from all participants
+for whole-blood RNA sequencing. We evaluated differentially-expressed genes in COVID-19 patients (log2 fold
+change ≥ 1 versus healthy controls; false-discovery rate < 0.05) and associated protein pathways and compared these
+to published whole-blood signatures for respiratory syncytial virus (RSV) and influenza. We developed a disease score
+reflecting the overall magnitude of expression of internally-validated genes and assessed the relationship between
+the disease score and clinical disease parameters.
+Results: We found 135 differentially-expressed genes in the patients with COVID-19 (median age 35 years; 82% male;
+36% Chinese, 53% South Asian ethnicity). Of the 117 induced genes, 14 were found in datasets from RSV and 40 from
+influenza; 95 genes were unique to COVID-19. Protein pathways were mostly generic responses to viral infections,
+including apoptosis by P53-associated pathway, but also included some unique pathways such as viral carcinogenesis.
+There were no major qualitative differences in pathways between ethnic groups. The composite gene-expression
+score was correlated with the time from onset of symptoms and nasal swab qPCR CT values (both p < 0.01) but was
+not related to participant age, gender, ethnicity or the presence or absence of chest X-ray abnormalities (all p > 0.05).
+Conclusions: The whole-blood transcriptome of COVID-19 has overall similarity with other respiratory infections but
+there are some unique pathways that merit further exploration to determine clinical relevance. The approach to a
+disease score may be of value, but needs further validation in a population with a greater range of disease severity.

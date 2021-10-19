@@ -1,0 +1,357 @@
+Background
+Diffusion kurtosis imaging (DKI), first proposed by
+Jensen et al. [1], has been widely used to evaluate the
+degree of liver fibrosis, tumour characteristics, and
+treatment responses [2–4]. This imaging method
+requires ultrahigh b-values (1500–2000 s/mm2) to
+facilitate the successful capture of non-Gaussian behaviour
+[5, 6]. However, ultrahigh b-value DWI results in
+a decrease in the signal-to-noise ratio (SNR) and an
+increase in anatomic distortions. To obtain good image
+quality, increasing the average time for ultrahigh b-values
+is essential and leads to relatively long scan times.
+Therefore, the technique of reducing the scan time is
+very important for promoting the routine application of
+DKI sequences for the liver.
+Recently, simultaneous multislice DWI (SMS-DWI)
+has been used to reduce the image acquisition time
+[7–10]; SMS-DWI is based on the excitation of multiple
+slices simultaneously and subsequent antialiasing to
+reconstruct the magnitude images. Slices are separated
+using information about coil sensitivities from phased
+array coils, gradients, or radiofrequency encoding. The
+SMS technique shortens the scan time by increasing
+the number of acceleration factors (AFs), and it was
+initially used in the brain [11]. In recent years, several
+studies have reported that the SMS technique shortens
+the scan time of DWI in the liver, pancreas, prostate,
+rectum, breast, and kidney [12–16]. A limited number
+of studies have focused on intravoxel incoherent
+motion (IVIM) analysis based on SMS-DWI sequences
+and found a significant scan time reduction [13, 17]. Phi
+Van et al. reported slight systematic deviations in the
+IVIM parameters with increased AFs [17]. However,
+no studies have examined the impact of DKI parameter
+calculations based on SMS techniques in the liver.
+Therefore, the purpose of our study was to investigate
+the feasibility of DKI based on the SMS technique
+in the liver and the influence of this method compared
+with conventional DWI sequences on image quality and
+DKI-derived quantitative parameters.
+Methods
+Subjects
+A total of 40 volunteers (23 females and 17 males; age
+range 24–53 years, mean 37 years) without a known
+history of alcohol or drug abuse, viral hepatitis, or prior
+liver surgery were enrolled.
+DWI protocols
+All DWI data were acquired on a 3.0T whole-body MRI
+scanner (MAGNETOM Prisma, Siemens Healthcare,
+Erlangen, Germany). An 18-channel phased-arrayed
+body coil in combination with 12 elements of a
+32-channel spine coil was used.
+In all the participants, SMS-DWI sequences with
+acceleration factors of 2 and 3 (SMS2-DWI and SMS3-
+DWI, respectively) and conventional DWI (C-DWI)
+were scanned. DWI was acquired in axial slice orientation
+with a slice thickness of 6 mm in free breathing
+without respiratory compensation techniques such as
+respiratory triggering and navigator triggering. Diffusion
+gradients were applied in four-scan traces with
+b-values of 50, 800 and 2000 s/mm2. Fat suppression
+with a spectral attenuated inversion recovery (SPAIR)
+technique was used. Table 1 provides detailed sequence
+parameters, including scan time.
+Image assessment
+Qualitative analysis of image quality
+All the images were transferred to a workstation (Syngo.
+via, VB10; Siemens Healthcare, Erlangen, Germany).
+The quality of the images with b-values of 800 s/mm2
+and 2000 s/mm2 was independently evaluated by two
+radiologists with 5 and 12 years of experience in liver
+MRI. The two radiologists were blinded to the sequence
+information.
+A five-point Likert scale was used to rate the image
+quality with respect to the following aspects (sharpness
+of the right lobe edge, conspicuity of the left lobe,
+visibility of intrahepatic vessels, absence of artefacts
+and overall image quality), with higher scores indicating
+better image quality (5 = excellent, 4 = good,
+3 = moderate, 2 = poor, 1 = not diagnostic). Regarding
+the occurrence of artefacts, 5 = no artefacts, 4 = mild
+artefacts, 3 = moderate artefacts, 2 = severe artefacts,
+and 1 = severe artefacts representing no diagnosis. The
+image quality scores of conventional DWI, SMS2-DWI
+and SMS3-DWI sequences assigned by the two radiologists
+were recorded for each participant.
+Quantitative analysis of signal‑to‑noise
+The signal-to-noise (SNR) ratio was calculated as the
+ratio between the average signal intensity of the liver
+parenchyma and the standard deviation of the signal
+intensity of the air for images with b-values of 800 and
+2000 s/mm2 by the following formula:
+where SIliver
+is the mean signal of the liver parenchyma
+and SDbackground
+is the standard deviation of the background
+noise on the outside sides of the body in the
+phase-encoding directions.
+Quantitative analysis of DKI parameters and ADC values
+All the images were postprocessed using prototypic
+software (Body Diffusion Toolbox; Siemens Healthcare,
+Erlangen, Germany) to extract DKI parameter and ADC
+maps.
+The apparent mean kurtosis (MK) maps and apparent
+mean diffusivity (MD) maps were calculated using all 3
+b-values according to the following equation:
+where MK is the mean kurtosis coefficient (a unitless
+parameter that represents the deviation of water motion
+from the Gaussian distribution) and MD is a corrected
+mean ADC without a Gaussian bias.
+The ADC maps were calculated using all 3 b-values
+with the following equation:
+Regions of interest (ROIs) were placed by a radiologist
+with 12 years of experience in abdominal MRI. ROIs with
+a diameter between 2 and 4 cm were manually placed in
+liver parenchyma segment V at the portal hilum level on
+the b 50 s/mm2 images of C-DWI and then copied to the
+corresponding MK, MD and ADC maps of the C-DWI,
+SMS2-DWI and SMS3-DWI sequences at the same
+level and position, making sure to avoid large vessels
+and severe artefacts. The radiologist performed the first
+measurement within 2 days after the completion of the
+S(b)/S(0) = exp(−b × MD + b2 × MD2 × MK/6).
+S(b)/S(0) = exp(−b × ADC).
+DWI examination and then performed a second measurement
+3 weeks later. Eventually, the average of all the
+measurements was adopted for analysis.
+Statistical analysis
+Statistical analyses were performed using SPSS version
+26.0 software (IBM Corp., Armonk, NY USA) and Med-
+Calc Software version 18.2.1 (MedCalc Software bvba,
+Mariakerke, Belgium). P values of less than 0.05 were
+considered statistically significant.
+Image quality parameters among the three DWI
+sequences (C-DWI, SMS2-DWI, and SMS3-DWI) were
+compared using the Friedman test. If the Friedman test
+showed statistical significance, the Dunn-Bonferroni post
+hoc test was performed to analyse all pairwise comparisons.
+The interobserver agreement on image quality was
+analysed by calculating linear weighted Cohen’s kappa,
+with kappa values of 0.01–0.20 representing slight agreement,
+0.21–0.40 fair, 0.41–0.60 moderate, 0.61–0.80
+good, and 0.81–1.00 almost perfect agreement.
+The differences in the SNR, DKI-derived quantitative
+parameters and ADC values between the three sequences
+were compared using one-way ANOVA, and pairwise
+Bonferroni post hoc tests were performed if the ANOVA
+showed a significant difference. The distribution and concordance
+of DKI parameters and ADC values between the
+three sequences are shown in a Bland–Altman plot. The
+mean difference and 95% limits of agreement were reported.
+Results
+All the sequences were successfully scanned, and the specific
+absorption rate (SAR) remained below individual
+limits in all sequences without the need for switching to
+the first-level mode.
+Scan time
+The acquisition times of C-DWI, SMS2-DWI, and
+SMS3-DWI were 4 min 11 s, 2 min 2 s, and 1 min 34 s,
+respectively.
+Compared with C-DWI, SMS2-DWI significantly
+reduced the scan time by 51%, and compared with
+C-DWI, SMS3-DWI significantly reduced the scan time
+by 63%. Three b-value images of C-DWI, SMS2-DWI,
+and SMS3-DWI are shown in Figs. 1 and 2.
+Qualitative analysis of image quality
+The interobserver agreement of the two readers was good
+for image quality assessment, with к values of 0.714 (95%
+confidence interval [CI], 0.634–0.795) for C-DWI, 0.639
+(95% CI 0.554–0.725) for SMS2-DWI, and 0.653 (95% CI
+0.579–0.726) for SMS3-DWI. The average image quality
+scores of the three sequences are shown in Table 2.
+For all image quality parameters, there were no significant
+differences observed between C-DWI and SMS2-
+DWI in all b-value images (all p > 0.05) (Table 2). As
+shown in Figs. 1 and 2, compared with C-DWI, SMS2-
+DWI exhibited equivalent image quality and no artefacts.
+There were no significant differences between SMS2-
+DWI and SMS3-DWI in the sharpness of the right lobe
+edge (p = 0.144), conspicuity of the left lobe (p = 0.370) or
+visibility of intrahepatic vessels (p = 0.109). SMS2-DWI
+exhibited better scores than SMS3-DWI for artefacts and
+overall image quality (all p < 0.01) in the images with a
+b-value of 800 s/mm2. For the images with a b-value of
+2000 s/mm2, SMS2-DWI exhibited better scores than
+SMS3-DWI for all image quality parameters (all p < 0.01).
+There were no significant differences between C-DWI
+and SMS3-DWI in the sharpness of the right lobe edge
+(p = 0.066) or conspicuity of the left lobe (p = 0.131).
+C-DWI exhibited better scores than SMS3-DWI for the
+visibility of intrahepatic vessels, artefacts, and overall
+image quality (all p < 0.01) in the images with a b-value of
+800 s/mm2. For the images with a b-value of 2000 s/mm2,
+SMS2-DWI exhibited better scores than SMS3-DWI for
+all image quality parameters (all p < 0.05).
+Artefacts of the liver could be observed in the high
+b-value (800 and 2000 s/mm2) SMS3-DWI images, and
+the artefacts became more obvious with increasing b-values
+(Figs. 1, 2).
+Quantitative analysis of signal‑to‑noise
+The SNR values measured in the three DWI sequences
+are shown in Table 3. There were no statistically significant
+differences in the SNR between the three sequences
+in images with a b-value of 2000 s/mm2 (p = 0.110). For
+the images with a b-value of 800 s/mm2, there were no
+statistically significant differences between SMS2-DWI
+and C-DWI (p = 1.000) and no statistically significant
+differences between SMS2-DWI and SMS3-DWI
+(p = 0.059), whereas SMS3-DWI had a significantly lower
+SNR than C-DWI (p = 0.024).
+Quantitative analysis of DKI parameters and ADC values
+The MK values of C-DWI, SMS2-DWI and SMS3-DWI
+were 0.67 ± 0.15, 0.68 ± 0.11, and 0.70 ± 0.18, respectively.
+The MD values of C-DWI, SMS2-DWI and SMS3-
+DWI were 1.19 ± 0.15 × 10−
+3 mm2/
+s, 1.17 ± 0.21 × 10−
+3
+mm2/
+s, and 1.17 ± 0.18 × 10−
+3 mm2/
+s, respectively.
+The ADC values of C-DWI, SMS2-DWI and SMS3-
+DWI were 0.85 ± 1.12 × 10−
+3 mm2/
+s, 0.81 ± 1.24 × 10−
+3
+mm2/
+s and 0.80 ± 1.56 × 10−
+3 mm2/
+s, respectively. There
+were no statistically significant differences between the
+three sequences (MK, p = 0.606; MD, p = 0.831; ADC,
+p = 0.264) (Fig. 3). Although there were no statistically
+significant differences in the DKI parameters between
+SMS2-DWI and C-DWI in this study, increased MK
+values and decreased MD values were observed with
+increased AFs in the liver. With an increase in the acceleration
+factor, the ADC values of the liver parenchyma
+showed a decreasing trend. The results from Bland–Altman
+plots are demonstrated in Fig. 4.
+Discussion
+In the present study, SMS-DWI with an acceleration
+factor of 2 obviously decreased the scan time without
+a negative impact on the image quality and maintained
+comparable DKI parameters and ADC values compared
+with those of C-DWI. Although the scan time was significantly
+shortened for SMS3-DWI sequences, it had a
+negative impact on the image quality, especially at a high
+b-value of 2000 s/mm2.
+The DKI model potentially reflects the non-Gaussian
+diffusion behaviour of water diffusivity in tissues using
+ultrahigh b-values above 1000 s/mm2 (1500–2000 s/mm2
+in body imaging) [5, 6, 18]; thus, DKI could provide further
+information on tissue characteristics and has additional
+value in the prediction of microvascular invasion
+(MVI) of hepatocellular carcinoma (HCC) and in the
+assessment of post-therapeutic response in hypervascular
+HCC [3–5]. Obtaining ultrahigh b-value DWI images
+will induce a decreased SNR, increased distortion, susceptibility
+artefacts, and increased scan time [19].
+In conventional diffusion acquisition, a single slice is
+excited, whereas in SMS-DWI, multiple slices are excited
+simultaneously, and the corresponding read-out contains
+these multiple slices. This permits the TR to be
+decreased, thus shortening the acquisition time, or allows
+more slices with thinner slice thicknesses to be scanned
+under the same TR [7, 9, 10]. Notably, the maximum
+number of simultaneous acquisition slices depends on
+the number of coil channels [7]. In theory, image acquisition
+in SMS-DWI can be accelerated to a large extent by
+increasing the applied acceleration factors. However, an
+arbitrary increase in the acceleration factors is expected
+to be associated with a decrease in image quality.
+Our research indicates that SMS can shorten the scan
+time without reducing the image quality even in images
+with ultrahigh b-values of 2000 s/mm2 if an acceleration
+factor of 2 is used. Although there were no statistically
+significant differences in the DKI parameters between
+SMS-DWI and C-DWI in this study, SMS3-DWI should
+not be chosen in future studies due to the obviously
+decreased image quality and pronounced artefacts, especially
+in images with high b-values of 2000 s/mm2.
+The MK values (unitless) of the DKI parameters reflect
+complex tissue microenvironments, such as tumour cells,
+necrosis, and inflammation. The MD values are the diffusion
+coefficients (unit: 10−
+3 mm2/
+s) related to Gaussian
+behaviour and similar to the ADC values that decrease
+with restricted diffusion. MK is determined by the SI
+decay curvature away from the plot that would be predicted
+by a monoexponential fit, whereas MD is determined
+by the slope of the SI decay plot as b approaches
+0. Decreases in MD values and increases in MK values
+indicate abnormal diffusion behaviour in the organs.
+Although there were no statistically significant differences
+between the three sequences, with an increase in
+the acceleration factors, MK values showed an increasing
+trend and MD and ADC values showed a decreasing
+trend in the liver. This result could be due to a decrease
+in image quality that potentially affects the signal accuracies
+and influences the DKI parameter calculations in the
+SMS-DWI sequences.
+Several studies have indicated that ADC values
+decrease when using SMS-DWI compared with C-DWI
+in the liver, pancreas and kidney [12, 15, 20]. One possible
+reason for the lower ADC values with higher acceleration
+factors is the shorter repetition time (TR) of the
+SMS sequence. In the present study, the TR was 5200,
+2400, and 1800 ms for C-DWI, SMS2-DWI, and SMS3-
+DWI, respectively. The lower TR may lead to a reduced
+signal due to T1 saturation effects, particularly with the
+high b-value images that had higher AFs, resulting in
+decreased ADC values.
+Obele et al., who investigated the SMS technique with an
+acceleration factor of 2 in free breathing, noted that there
+were slightly lower ADC values compared with those of a
+conventional DWI sequence without statistical significance
+in the liver [12]. Another reason may be that we scanned the
+3 b-values together, which induced an increase in TE and led
+to a lower SNR in the 2000 s/mm2 b-value images, which also
+influenced the ADC values to some degree. When the ADC
+value was used for diagnosis in the liver, there were possibly
+lower ADC values in SMS sequences. Considering scan time,
+image quality and ADC values, an acceleration factor of 2
+would be the best option for a clinical workflow in the liver.
+There are several limitations of the study. First, the
+SMS-DWI and C-DWI sequences were scanned during
+free breathing and without respiratory-triggered techniques
+in our study. Respiratory motion and hepatic local
+motion may impact the image quality and challenge the
+reliability of the computation of DKI parameters to some
+degree. Several studies have indicated that compared
+with conventional DWI, SMS-DWI combined with respiratory
+triggering could improve image quality in the
+liver and kidney [21–23]. SMS-DWI sequences with
+respiratory compensation techniques should be implemented
+in the future.
+Second, a comparison and assessment of DKI parameters
+using SMS-DWI were performed in relatively
+young and healthy participants. The diffusion coefficients
+can differ in normal tissues, diseased tissues, and focal
+lesions. Thus, the DKI parameters based on SMS-DWI
+for evaluating diffusive diseases, such as liver fibrosis, cirrhosis,
+and focal lesions, need to be further studied.
+Conclusion
+In conclusion, compared with conventional DWI
+sequences, SMS-DWI using an acceleration factor of
+2 could reduce the scan time significantly and without
+negative effects on image quality and comparable DKI
+parameters and ADC values. Based on the present study
+results, SMS-DWI can promote DKI sequences in clinical
+settings. Further studies are needed to investigate the
+clinical diagnostic performance of DKI based on the SMS
+technique for evaluating diffuse diseases and focal lesions
+of the liver.

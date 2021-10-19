@@ -1,0 +1,464 @@
+Introduction
+Many countries in Europe have long humanitarian tradition
+of receiving and resettling forcibly displaced individuals
+[1] and should provide equitable healthcare
+services to an increasingly diverse population [2].
+Responding to changes in demographics and attaining
+equity in health can be viewed as a public health investment.
+However, for many European countries this is
+hampered by the lack of reliable knowledge of the health
+status and health needs of forced migrants in the early
+phase of resettlement [3]. Without adequate information,
+many resettlement-countries are unable to assess
+whether services are accessible for forced migrants and
+if needs are efficiently met [2].
+The utilization of healthcare services is a multidimensional
+process that combines need for, and access to
+care. In an optimal scenario, use of services should be
+proportional to ones need [4]. Even though access of
+and use of services are inter-related, they are distinct
+parts of the health delivery process where utilization presumes
+access [5]. Factors related to access to services
+have been conceptualized in many ways, and commonly
+includes aspects on both the provider side and the user
+side such as accessibility, affordability, availability and
+appropriateness [6]. Both access and use of healthcare
+services is hence influenced by context, meaning that
+even where entitlements are formally established and financial
+barriers are lifted, access and use are influenced
+by resources required for good health, such as social
+support, education, and health literacy. Likewise, one
+might argue that additional factors related to the migration
+experience affect the use of health care services for
+forced migrants given the risk of exposure to external
+factors such as persecution, food insecurity, and violence.
+Exposures that can shape the forced migrants’
+health profile and subsequently their need for care [7].
+This, however, has scarcely been researched.
+The Syrian refugee crisis remains the largest displacement
+crisis in the world, with 5.6 million registered refugees
+seeking transient safety in neighboring countries
+[8]. While in transit, healthcare services are often characterized
+by high privatization, fragmented between
+many different providers, making access to care difficult
+and costly [9]. For undocumented migrants, economic
+barriers are further aggravated with fear of detention or
+deportation if seeking healthcare [9]. Upon arrival in
+Norway, refugees are invited to a general health assessment,
+and have the same rights and entitlements to services
+as the resettlement country population. The
+Norwegian health care system offers universal coverage
+with relatively small out-of-pocket expenses. The general
+practitioner (GP) serves as a gatekeeper to secondary
+care, regulating the access to specialist and hospital care
+[10]. Primary care services are thus patient-driven while
+influx into secondary care is managed by healthcare
+providers.
+Through the resettlement process, refugees move from
+one set of health risk factors to another and can face
+multiple additional healthcare challenges along their
+journey. Few studies have focused on this change of context
+and environment, how it affects subsequent use of
+health care and whether adverse conditions affecting
+health and the use of health care services pre-arrival persists
+post migration. Applying a longitudinal design
+allowing a trajectory perspective, our study aimed to: (a)
+describe patterns of health care service use in Lebanon
+and Norway, (b) identify pre-arrival sociodemographic
+and migration-related predictors of health care service
+use post migration and (c) identify post-arrival factors
+associated with health care service use in the resettlement
+country.
+Methods
+Study design, participants, and data collection
+This is a two-time points follow-up study which is part
+of the Changing Health and health care needs Along the
+Syrian Refugees’ Trajectories to Norway (CHART) project
+[11], assessing health of Syrian refugees in Norway.
+Methods were carried out in accordance with the
+Strengthening the Reporting of Observational Studies in
+Epidemiology (STROBE) Statement guidelines and with
+national and European privacy legislation.
+In this paper, we focus on persons recognized as refugees
+by the United Nations High Commissioner for Refugees
+(UNHCR) accepted for third-country resettlement
+[1]. The methods have already been described elsewhere
+[12]. In brief, a baseline self-administered survey was
+conducted in Lebanon in 2017–2018, followed by a
+follow-up survey in Norway after one year. A total of
+514 Syrian nationals from 16 and above attending the
+mandatory Norwegian Cultural Orientation Programme
+(NORCO) in the given period were included in the study
+in Lebanon. The Arabic baseline questionnaire was distributed
+during course time under the guidance of crossculturally
+responsive bilingual trainers. Follow-up measurements
+post-arrival were gathered through structured
+telephone interviews in Arabic. A total of 506 eligible
+subjects completed the baseline survey (98 %), of which
+464 (92 %) were confirmed resettled in Norway and 353
+completed the second questionnaire (70 %) (Supplementary
+Fig. 1).
+Dependent variables
+The main outcomes for this study are the utilization of a
+GP, emergency care (EC), outpatient and/or specialist
+care as well as hospitalization during the previous 12
+months. These four main outcomes were assessed
+through the following questions: ‘During the last 12
+months, have you visited any of the following: a general
+practitioner, emergency care, outpatient care, specialist
+care (yes/no)’ and ‘Have you been admitted to the hospital
+the last 12 months? (yes/no)’. Given similarities in
+outpatient and specialist care in Norway, where the main
+point is to be assessed by a medical specialist, these two
+variables were merged into one. The two items are based
+on questions from The Nord-Trøndelag Health Study
+(HUNT) [13].
+Independent variables
+Self-rated health (SRH) was measured as an indicator of
+the need for healthcare at both time points. We used a
+validated single-item question: “How do you consider
+your health at the moment?”, with a five-point Likert
+scale ranging from very poor to very good. The item was
+dichotomized merging ‘very poor’ and ‘poor’ indicating
+poor SRH versus non-poor SRH. The SRH-item has
+shown acceptable validity and reliability among Arabic
+speakers and in refugee populations [14, 15]. Additionally,
+we measured quality of life (QoL) using the WHO
+Quality of Life Scale (WHOQOL-BREF), a transcultural
+instrument previously validated in Arabic [16], which includes
+a total of 26 questions on physical health, mental
+health, social relationships, and environment [17]. Each
+item is rated on a five-point Likert scale with a higher
+score indicating a better QoL. Raw scores were transformed
+creating domain scores within the range of 4–20
+by multiplying the average of the items in each domain
+by four, in accordance with the user’s manual [17].
+Perceived social support was measured with the 7-item
+ENRICHD Social Support Instrument (ESSI) [18]. A total
+score is the sum of all items with higher scores indicating
+better social support. A binary measure for high social
+support defined as having answered > 2 on at least two
+items and a total score of > 18 was created, based on the
+definition of low-social support [18]. ESSI has previously
+been validated among Syrian refugees [19].
+Sociodemographic variables encompassed age, gender,
+primary language spoken, marital status and level of
+education. In addition, we assessed Health Literacy
+through the single-item literacy screener (SILS): “How
+often do you need help reading written material from
+your doctor or pharmacy?” With a five-point Likert
+scale. Scores higher than 2 point to difficulties with
+reading health-related material. We also inquired on
+migration-related factors such as time since the flight
+from Syria, migrating alone or with family, residence
+permit in Lebanon, and possible exposure to traumatic
+events with The Single General Trauma Item [20].
+The entire questionnaire was in Arabic; it contained
+questions already translated and validated and those sections
+that were not went through a standardized translation
+process [21].
+Statistical analysis
+We present sociodemographic and migration-related
+characteristics as counts and proportions for categorical
+variables, medians, and interquartile ranges (IQR), and
+means and standard deviations (SD) for continuous variables
+(Table 1). Selection bias between the cohort and
+the loss-to-follow-up group was assessed using χ2-statistics
+and independent group’s t-tests (Supplementary
+Table 1).
+We used a Sankey chart to visualize the changes in use
+of services before arrival and after resettlement by creating
+trajectory variables with the proportions going from
+use to no use and vice versa or no change in outcomes
+(Fig. 1). Changes in the use of health services from baseline
+to follow-up were also analyzed using generalized
+estimating equations (GEE) with data in long format
+with two observations per individual and “wave” as a
+binary covariate (Table 2). We applied a log-link and binomial
+distribution and reported exponentiated regression
+coefficients as risk ratios (RR) with 95 % CI.
+We used multivariate analysis to evaluate factors associated
+with the use of healthcare services in Norway
+looking at selected sociodemographic and migrationrelated
+factors as well as self-perceived health status and
+QoL at baseline and follow-up. First, we looked at baseline
+characteristics in Lebanon as predictors for the use
+of services after arrival in Norway. Thereafter, we looked
+at characteristics while in Norway and associations with
+the use of services in Norway. We used log-binomial regression
+analysis reported as risk ratios with 95 % confidence
+intervals in two models; (1) unadjusted (2)
+adjusted for potential confounders for the total effect of
+each characteristics on the outcome based on results
+from a directed acyclic graph (DAG) depicted in supplementary
+Fig. 2. The DAG was constructed using the
+software DAGitty [22]. For instance, for the total effect
+of health literacy at baseline on use of health services in
+Norway, age, gender, and education were potential confounders,
+while SRH at baseline was considered as a mediator
+and not adjusted for. In cases where convergence
+was not achieved in log-binomial regression analysis,
+Poisson regression was used with robust error variance
+(Table 3) [23].
+Missing values were handled through listwise deletions.
+An alpha value of 0.05 was considered statistically
+significant. We analyzed the data using STATA/IC software,
+version 16.0, (StataCorp LLC, Texas, USA).
+Results
+Characteristics of the study population
+Sociodemographic characteristics and self-perceived
+health and QoL of this cohort has been published elsewhere
+but are stated in Table 1 for the sake of clarity.
+We included data from 353 participants in the final
+analysis (supplementary Fig. 1). The respondents did not
+differ from the loss-to-follow-up group in terms of age
+or gender but had higher health literacy (supplementary
+Table 1).
+Use of healthcare services and changes in use from
+Lebanon to Norway
+Of the 353 participants, 33 % visited a GP in Lebanon,
+32 % visited outpatient/specialist care, 16 % were hospitalized,
+and 10 % used EC in the 12 preceding months at
+baseline (Table 2). In Norway, the use of a GP increased
+to 85 % and the use of EC to 18 % while hospitalizations
+remained the same and outpatient/specialist care visits
+dropped to 16 %. In Fig. 1, we present Sankey charts
+showing trajectories of healthcare service use. Most participants
+did not use EC, outpatient/specialist care, or
+hospital care neither at baseline nor at follow-up. There
+were 16 % new reports of EC use at follow-up, while 9 %
+used this in Lebanon but not in Norway. For specialist/
+outpatient care, 10 % reported new use while 26 % reported
+using this in Lebanon but not in Norway. The
+biggest change in trajectory is the increase in the use of
+GP from pre-arrival to after resettlement with 58 % new
+reports of use.
+Pre-arrival predictors of use of health care services in
+Norway
+Increasing age was significantly associated with the use
+of EC services and hospitalization after arrival (Table 3).
+No other significant associations between pre-arrival
+sociodemographic factors and the use of healthcare services
+at follow-up were found. With regards to health status pre-arrival, we found that poor SRH was significantly
+associated with increased risk of EC use after arrival,
+while lower scores in the social relationships’
+domain of QoL (i.e., poorer social relationships) were
+significantly associated with use of EC after arrival. With
+regards to migration-related factors, not having a residence
+permit in the transit country was significantly associated
+with the use of EC after arrival.
+After-arrival factors associated with the use of health care
+services in Norway
+When in Norway, increasing age was still significantly associated
+with use of EC services and hospitalization
+(Table 3). Likewise, increased health literacy was significantly
+associated with use of GP, EC and hospitalization.
+Similarly, high social support (ESSI) was significantly associated
+with increased risk of EC use, use of outpatient/specialist
+care and hospitalization, and increasing education
+level was associated with hospitalization. When looking at
+health status, we found that poor SRH was significantly
+associated with the use of both EC and hospitalizations.
+Generally, lower scores in the different QoL dimensions
+were associated with higher use of services. However,
+higher scores in the environmental domain of QoL were
+significantly associated with use of a GP.
+Discussion
+This study provides data on health care utilization before
+and after resettlement assessed at two different locations
+and time points following the journeys of the same participants
+and therefore incorporates factors from the
+pre-arrival context as possible predictors for later use.
+We find that not having a residence permit and having
+poor health status pre-arrival predict the use of services
+after resettlement. Poor SRH was significantly associated
+with use of services both in Lebanon and in Norway suggesting a stable association along the migration path.
+For the post migration stage, we find a significant association
+between the use of healthcare services and increasing
+health literacy (SILS), high social support (ESSI),
+education and poor QoL. These factors did not seem to
+influence future health care behavior while in transit,
+suggesting phenomena subjected to change with time
+and context. Also, we find an increase in GP and EC use
+after resettlement and a decrease in outpatient/specialist
+care while hospitalization rates do not change pre- and
+post-resettlement, probably mirroring the health care
+system in the country of stay at each period.
+Use of GP services more than doubled pre- and postresettlement.
+This rate (85 %) is slightly higher than that
+of the resettlement country population in Norway, where
+75 % reported use of GP in the last 12 months in
+population-based data [24]. Comparing numbers between
+surveys is encumbered with uncertainties, but we
+believe some of the differences in GP utilization between
+our sample and the resettlement country population can
+be explained by the fact that in some Norwegian municipalities,
+the general health assessment upon arrival is
+performed by a GP. Despite having a separate question
+for the general health assessment, we assume some participants
+might have had difficulties distinguishing between
+the two alternatives as both entails contact with a
+primary care doctor. Another possibility is that some refugees
+were derived to a second visit by the GP at the
+first encounter for their general health assessment. In
+any case, it is important to acknowledge the key opportunity
+GPs have in responding to the need of the refugee
+patient in early resettlement as the first point of contact.
+Previous studies have argued that refugee primary care
+services might reduce unnecessary EC use [25], showing
+that refugees who receive a health assessment shortly
+after arrival will be less likely to have an acute care visit
+in this period [26]. Furthermore, we found an increase
+in EC use from 10 % before arrival to 16 % after resettlement,
+which is similar to the utilization rates of the resettlement
+country population [27].
+On the other hand, the use of outpatient/specialist
+care dropped from 32 % in Lebanon to 16 % in Norway.
+This decrease might be explained at the system level,
+since outpatient/specialist care services in Norway require
+a referral, usually from a GP, while other routes
+are available to access such care in Lebanon given a
+highly privatized health sector. When comparing with
+population-based data from the Norwegian population,
+36 % reported having had contact with outpatient/specialist
+care the last 12 months [24]. A number twice as
+high as that of our population, but not adjusted for morbidity,
+so potential under-or overuse is not possible to
+determine with certainty. Furthermore, some of our respondents
+might have been referred by their GPs to
+secondary care, but still waiting for their appointments
+with a specialist at the time of the follow-up survey.
+However, the doctor-patient interaction is key in identifying
+patients needing a referral [28]. Previous research
+has shown that not speaking the same language is associated
+with decreased symptom reporting, fewer referrals
+to specialist care [29] and shorter consultation time [30],
+which also could explain our results. An inverse socioeconomic
+gradient in terms of utilization of outpatient/
+specialist care has also been documented in Norway [31]
+that confirms privileged groups are those that avail most
+of services [32]. However, utilization of GP and hospital
+admissions, which is easier to access, was found to be
+equitable [33]. Similarly, a systematic review across Europe
+showed that outpatient visits for specialized care
+were generally used less often by migrants [34]. In our
+sample, hospital admissions did not change pre- and
+post-resettlement, which could point to hospital admissions
+having similar access thresholds across countries.
+Finding pre-migration predictors for use of health care
+in Norway can be of key importance to adequately prepare
+health services to the new migrant population. One
+novel finding in this study is that not having a residence
+permit in the transit country and having poor social relationships
+in transit was associated with higher use of
+emergency care the first year after resettlement. Generally,
+the lack of recognized documentation in a country
+complicates the availability of healthcare and one can assume
+that acute and/or chronic diseases left uncared for
+contribute to higher use of care post-resettlement.
+Hence, securing minimum acceptable living conditions
+for refugees in transit countries should be a priority concern
+globally.
+The strongest correlation we found was the one between
+poor SRH and health care utilization, signifying
+the concordance between need for care and use of care.
+Perceived poor health status seems to be a stable factor
+as it holds for both pre-arrival health status and after resettlement,
+even though the association after resettlement
+is stronger. While the association between health
+need and health care utilization is well-known [35], our
+study highlights the stability of this association along the
+migration trajectory. Post-migration, we found associations
+between use of services and higher health literacy,
+higher education, higher social support (ESSI), and low
+levels of QoL. High health literacy drops from 56 % in
+Lebanon to only 7 % in Norway, pointing to challenges
+with a new language and a different health care system,
+while high social support (ESSI) somewhat unexpectedly
+increases from 35 % in Lebanon to 60 % in Norway. This
+increase might be explained by the fact that most quota
+refugees are resettled as families and some are re-united
+with extended family members preceding them to the
+resettlement country. Easier access to online communication and established support networks upon
+arrival can also explain this increase. Why persons with
+high health literacy, higher education and high social
+support have increased probability of use while in
+Norway but not in transit is difficult to answer but we
+assume these factors become more important in a context
+where there is universal health coverage, and no
+economic barriers to health care.
+For the concept of social support and social relationships,
+we found associations pointing in opposite directions.
+Poor social relationships measured with
+WHOQOL-BREF while in Lebanon was associated with
+use of EC after arrival. When in Norway, high social
+support (ESSI) was associated with use of EC, outpatient/
+specialist care and hospitalizations. Likewise,
+poor social relationships (WHOQOL-BREF) were associated
+with outpatient/specialist care and hospitalizations.
+We believe some of this can be explained by measurement
+differences in social support instruments, not capturing
+the exact same phenomenon. The social
+relationships domain in WHOQOL-BREF as part of
+QoL only consists of three questions (satisfaction with
+relationships, satisfaction with support from friends and
+satisfaction with sexual relationships) and has the concept
+of satisfaction in it while ESSI consist of 7 questions
+and asks directly if you have someone available to talk
+to, receive advice, emotional support, receive help with
+daily chores etc. without assessing satisfaction.
+The environmental domain of QoL describes feeling of
+safety, satisfaction of living place, enough money to meet
+needs, and satisfaction with transportation. Interestingly,
+we found that higher scores in this domain were associated
+with use of a GP. This also confirms the inverse
+care law [32].
+Strengths and limitations
+Working with a cohort with similar background arriving
+at the same time minimizing influence of contextual factors
+as well as a high response rate and the use of validated
+instruments add to the strengths of this study.
+However, certain limitations need to be considered when
+interpreting our data. We did not assess frequencies of
+contact with the healthcare services, only yes/no for use
+at least once. Because of this we are not able to separate
+between frequent users and persons who have only used
+the service once. This study has an explorative nature
+with a high number of statistical tests, which increases
+the risk of Type 1 error. We can therefore not rule out
+that some of the significant results are chance findings,
+especially those with p-values close to 0.05 (marked with
+one asterisk in Table 2). In addition, the variable health
+literacy is assessed with only one question (SILS) which
+is limited and has to our knowledge not been validated
+in a refugee population with poor language skills upon
+resettlement. Moreover, we deliberately changed mode
+of data collection from self-completion to structured interviews
+between the two time points which can introduce
+a possibility of interviewer bias, but in that way, we
+achieved a high response rate. Further, we should ideally
+have had a longer follow-up time to better assess
+changes with time. However, previous research has
+highlighted that we especially lack data on the first 5
+years after resettlement [36]. Last, utilization of care is
+not equal with appropriate care or equality in quality of
+care, which we are unable to evaluate with the current
+study design.
+Despite these limitations, we believe our findings add
+important knowledge to the field of health services research
+for refugees, a group that is understudied in
+health system research. Based on our findings, we encourage
+resettlement countries to enhance primary care
+services in providing diversity-sensitive care given their
+role as first port of call. Possible under-use of specialist/
+outpatient care among refugees and reasons for such differences
+warrants further research. People with undocumented
+status before arrival should be subjected to extra
+awareness to secure healthcare needs being effectively
+met at the primary care level. Social support and health
+literacy can be possible targets for future interventions
+to enhance accessibility of care. In conclusion, the use of
+healthcare for refugees clearly changes from the preand-
+post resettlement phase. Apart from entitlements
+and need, health care utilization is impacted by sociodemographic
+factors and migration-related factors.

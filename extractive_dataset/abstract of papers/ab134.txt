@@ -1,0 +1,18 @@
+alcoholic
+fatty liver disease (NAFLD) in recent years, but few related studies are available. Thus, clarifying the association
+between the WHtR and NAFLD may be beneficial to the prevention and treatment of NAFLD.
+Methods: The cross-sectional study population was from a large-scale health examination programme called ‘human
+dock’ in Japan. In this study, 14,125 participants in this health examination programme were included. To understand
+the association between the WHtR and NAFLD more intuitively, we grouped the WHtR values into quintiles and used
+a multivariable logistic regression model to assess WHtR and its quintile with NAFLD risk. Moreover, we used the generalised
+additive model to model the association between WHtR and NAFLD to explore their non-linear relationship.
+Results: The prevalence of NAFLD among participants in this study was 17.59%, with an average age of
+43.53 ± 8.89 years. After adjusting for all non-collinear covariables, we observed a 66% increase in the NAFLD risk per
+SD increase in WHtR. Furthermore, in the quintile groups of WHtR, the participants in quintile 2, quintile 3, quintile 4,
+and quintile 5 had 3.62-fold, 5.98-fold, 9.55-fold, and 11.08-fold increased risks of NAFLD, respectively, compared with
+those in quintile 1 (Ptrend < 0.0001). Non-linear relationship analysis revealed threshold and saturation effects between
+WHtR and NAFLD in which a WHtR of approximately 0.4 might be the threshold effect of NAFLD risk, 0.6 might be the
+saturation effect of NAFLD risk. Additionally, subgroup analysis showed that the interaction between WHtR and BMI
+was significant.
+Conclusions: Our results suggest that in adults, the WHtR is associated with NAFLD, and the association is not purely
+linear but non-linear, with significant threshold and saturation effects.

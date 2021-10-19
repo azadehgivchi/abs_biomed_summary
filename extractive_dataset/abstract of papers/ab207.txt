@@ -1,0 +1,14 @@
+Background: Coronary heart disease is one of the diseases with the highest mortality rate. Due to the important
+position of cardiovascular disease prevention and diagnosis in the medical field, the segmentation of cardiovascular
+images has gradually become a research hotspot. How to segment accurate blood vessels from coronary
+angiography videos to assist doctors in making accurate analysis has become the goal of our research.
+Method: Based on the U-net architecture, we use a context-based convolutional network for capturing more
+information of the vessel in the video. The proposed method includes three modules: the sequence encoder module,
+the sequence decoder module, and the sequence filter module. The high-level information of the feature is extracted
+in the encoder module. Multi-kernel pooling layers suitable for the extraction of blood vessels are added before the
+decoder module. In the filter block, we add a simple temporal filter to reducing inter-frame flickers.
+Results: The performance comparison with other method shows that our work can achieve 0.8739 in Sen, 0.9895 in
+Acc. From the performance of the results, the accuracy of our method is significantly improved. The performance
+benefit from the algorithm architecture and our enlarged dataset.
+Conclusion: Compared with previous methods that only focus on single image analysis, our method can obtain
+more coronary information through image sequences. In future work, we will extend the network to 3D networks.

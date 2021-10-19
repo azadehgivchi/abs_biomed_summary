@@ -1,0 +1,336 @@
+Background
+Ganglioneuroma (GN) is a rare benign tumor which
+originates from neural crest cells. It is mainly composed
+of mature Schwann cells, ganglion cells and nerve fibers.
+GN may arise anywhere along the paravertebral
+sympathetic plexus. The retroperitoneum and posterior
+mediastinum are the two most common locations of GN
+[1–4]. Although GN is regarded as an uncommon tumor,
+more and more GNs have been detected with the dramatically
+increased use of computed tomography (CT)
+and magnetic resonance imaging (MRI). Though GNs
+are benign tumors, they may cause pain and compression
+symptoms and recurrence or malignant transformation
+has been reported [2, 5, 6]. Due to these characteristics,
+surgical resections and postoperative monitoring are recommended
+for GN patients.
+There have been several studies describing the radiological
+appearances of GN [2, 7–16], but the reported
+case series are relatively small. To date, few studies have
+focused on the primary non-adrenal retroperitoneum
+GN. The precise diagnosis of non-adrenal retroperitoneum
+GN prior to surgery remains challenging. The
+non-invasive diagnosis of GN is important, because
+the surgical strategy and surgical approach can be different
+for benign and malignant tumors. Prior to the
+surgical procedure, CT and MR images can demonstrate
+important features of the tumors and help to narrow
+the differential diagnosis. Moreover, CT and MR
+images enable a multiplanar evaluation revealing the
+exact localization of the lesion and could heip to accurately
+evaluate the association of the mass with adjacent
+structure. Therefore, preoperative imaging of GNs
+could substantially facilitate preoperative planning. In
+this study, we reviewed a relatively large series of histopathological
+proved non-adrenal retroperitoneum
+GN cases at our institution and interpreted the CT and
+MRI features of them. Furthermore, we analyzed risk
+factors of increased surgical blood loss based on radiographic
+images for the first time.
+Methods
+This study was a single-center retrospective study
+approved by the Committee on Ethics of Medicine of
+Changhai hospital and the study was carried out in
+accordance and relevant guidelines and regulations.
+The requirement to obtain written informed consent
+was waived by the Committee on Ethics of Medicine of
+Changhai hospital. Computerized patient record systems
+and the laboratory, pathology and radiology databases
+were searched from January 2012 to June 2019. The
+inclusion criteria were as follows: pathologically proven
+retroperitoneum GN; undergone contrast-enhanced CT
+or MRI before surgery. The exclusion criteria were: adrenal
+GN cases; absence of a presurgical contrast-enhanced
+CT or MRI record in our hospital; not undergoing surgical
+resection of tumors. Follow-up data were obtained
+by searching medical records in our hospital and making
+phone calls to the patients. The written informed consents
+were obtained from all patients.
+Patients
+A total of 35 patients (18 male, 17 female) were pathologically
+diagnosed with retroperitoneum GN during the
+7-years-period in our hospital. Their age ranged from 14
+to 66 (median, 40 years). All of them were treated operatively.
+The mean time interval from preoperative imaging
+to surgery was 5 days (range, 0–27 days).
+Modalities
+Among them, 24 patients had undergone CT scans and
+19 patients had undergone MR examination before treatment.
+The CT scans were carried on by a 320-multidetector
+row CT system (Toshiba Medical Systems, Tokyo,
+Japan). The CT scan parameters were as follows: 120 kV,
+150 effective mAs, a matrix of 350 × 350, and a gantry
+rotation time of 0.5 s. The intravenous iodinated contrast
+agent (Iopamiro, Bracco Sine Pharmaceuticals, Shanghai,
+China) was administered for contrast media enhancement.
+The contrast-enhanced CT scans were performed
+in arterial (20–25 s) and venous (60–70 s) phases after the
+contrast agent injection. MR imaging was performed by a
+1.5 T MR system (GE Medical System, USA) with a body
+coil. The MR protocol contained horizontal T1 (repetition
+time (TR) 2.58 ms, echo time (TE) 1.18 ms) and T2
+weighted (TR 6316 ms, TE 87 ms) images, coronal T2
+weighted images (TR 7000 ms, TE 1230 ~ 1270 ms) and
+diffusion-weighted imaging (DWI) (TR 5000 ms, TE
+of 80 ms, b = 800). Images were obtained with a field of
+view of 440 × 440 mm, an image matrix of 224 × 270,
+and a slice thickness of 5 mm. Gadolinium-diethylenetriamine
+pantaacetic acid (Gd-DTPA, Magnevist, Berlin,
+Germany) was intravenously administrated for contrast
+media enhancement. The delayed time was 30 and 70 s
+after injection of contrast agent.
+Image analysis
+The images were reviewed by two experienced radiologists
+(Zhang & Yang) independently, and discrepancies
+were resolved by consensus. The two readers were
+blinded to the operation records. The following radiological
+characteristics were assessed: tumor size (maximal
+diameter measured on axial and coronal 2D images),
+shape (round, oval or irregular), calcification (present
+or absent), density (CT)/ signal (MR) features, pre-contrast
+appearance (homogeneous or heterogeneous), the
+pattern of enhancement, specific signs including vessel
+encasement and whorled sign. The vessel encasement
+sign represented that the tumor showed the trend to surround
+major blood vessels (> 180°). The vessel encasement
+signs are categorized into 3 types: tumor encasing
+the origin of the coeliac axis, and/or of the superior mesenteric
+artery; tumor encasing one or both renal pedicles;
+tumor encasing the aorta and/or vena cava [17, 18]. The
+whorled sign was evaluated on MR T2-weighted images.
+The manifestation of the whorled sign was that the tumor
+was predominantly high intensity on T2-weighted image
+and an interlaced or nodular low-signal part can be seen
+within the tumor (Fig. 1). The whorled sign corresponded
+to the microscopic interlacing patterns of Schwann cells
+and collagen fibers within the tumor [10, 19]. All the
+clinical details, laboratory, pathological and follow-up
+data were also documented.
+Statistical analysis
+The statistical analyses were performed with Predictive
+Analysis Software 18.0 (IBM, Armonk, New York, USA).
+Two-tailed P values were computed and a P value of less
+than 0.05 was considered to be statistically significant.
+All data were checked up with the Kolmogorov–Smirnov
+test to assess the normality. Continuous variables were
+showed as mean ± standard deviation (SD), while categorical
+variables presented as numbers or percentages.
+Differences between groups were assessed using
+the independent samples t test for continuous variables
+if they are conformed to the normal distribution and the
+Mann–Whitney U-test for those were not normally distributed.
+Logistic regression analysis was performed to
+examine associations between characteristics and surgical
+outcomes.
+Results
+Basic characteristics
+Thirty-five retroperitoneum GN patients were enrolled in
+this study, including 18 male and 17 female patients. The
+baseline characteristics were displayed in Table 1, including
+age, gender, histological tumor size, symptoms, surgical
+blood loss, postoperative hospital stay. In detail, the
+mean age of the involved patients was 40 years, ranging
+from 14 to 66 years. The documented histological tumor
+size was 10.12 cm ± 4.56 cm for average. As for clinical
+manifestations, the tumor was asymptomatic in 25
+patients (71.4% of the cases). The remaining 10 patients
+(28.6% of the cases) suffered from abdominal pain or
+discomfort (n = 7) and back pain (n = 3). Among the 25
+asymptomatic patients, 21 cases were incidentally discovered
+by health check-ups, and 4 cases were detected
+when checking for other diseases such as cholecystitis,
+ureteral calculi and lumbar fracture. The adrenal hormonal
+levels of all the patients were within the normal range.
+Image findings
+Twenty-four patients had undergone CT scans and 19
+patients had undergone MR imaging. Eight patients
+had both CT and MR records. The imaging features
+were described in Tables 2 and 3 separately. In 17 cases,
+tumors tend to surround major blood vessels but without
+invasion or occlusion. None of the cases showed evidence
+of regional lymph node enlargement and visceral
+metastasis.
+Twenty-four patients had undergone enhanced CT
+scans (Table 2). GNs presented hypodense on pre-contrast
+CT images, with a mean attenuation density of
+32.11Hu (range, 19.4–53.2Hu). They were homogenous
+in 15 of 24 patients and heterogeneous in the remaining
+9 patients. Punctate calcifications were found in 8 cases.
+After contrast, the progressive delayed enhancement was
+seen in 20 of 24 cases, while slightly contrast washout
+was observed in one case. In 3 cases, the tumor did not
+enhance at all. The enhancement pattern was shown in
+Fig. 2.
+Nineteen patients had undergone enhanced MR imaging
+(Table 3). GNs revealed hypointense signals on
+T1-weighted images and heterogeneous hyperintense
+signals on T2-weighted images in all 19 patients. The
+whorled appearance was observed in 14 patients. GNs
+presented delayed heterogeneous enhancement in 12
+patients and relatively homogenous enhancement in 6
+patients. In one case, no enhancement was seen.
+Surgical findings and outcomes
+Complete tumor resection was carried out in 34 cases
+(97.1%), and partial excision in 1 patient (2.9%) because
+the patient refused to take risks of nephrectomy. One
+patient underwent distal pancreatectomy and one underwent
+nephrectomy because of tumor adhesion. The
+median blood loss during surgery was 200 ml, ranging
+from 20 ml to 4000 ml. The estimated blood loss was over
+or equal to 400 ml in 15 cases and less than 400 ml in
+20 cases. Severe surgical complications occurred in one
+patient (patient no.13) because of postoperative rebleeding
+that led to hypoperfusion. The patient died of multiple
+system organ failures on the 18th postoperative
+day. Follow-up data were available for 28 patients and
+the median follow-up duration was 22 months (range,
+10–81 months). No recurrence or metastasis was found
+in these patients. Six patients were lost of follow-up
+because of the wrong phone number.
+Risk factors of increased blood loss during surgery
+Maximal tumor size measured on axial image, maximal
+tumor size measured on coronal image, calcification,
+encasing one or both renal pedicles, encasing the aorta
+and/or vena cava and whorled sign on MRI showed significant
+difference between the blood loss ≥ 400 ml and
+blood loss < 400 ml group (Table 4A, B). Logistic regression
+revealed that maximal tumor size measured on
+axial images (OR: 1.12; 95% CI: 1.02–1.24; P = 0.023) and
+encasing one or both renal pedicles (OR: 22.39; 95% CI:
+1.35–372.99; P = 0.030) were independently correlated
+with surgical blood loss (Table 5). Age, gender, encasing
+the origin of celiac axis, and/or of the superior mesenteric
+artery and CT value demonstrated no significant
+difference between the two groups.
+Discussion
+To our knowledge, this study is the largest case series of
+retroperitoneum GNs and this was the first study evaluating
+imaging-based risk factors of increased surgical
+blood loss. In this case series, retroperitoneum GNs were
+recognized to be hormonally inactive, mostly incidentally
+discovered and with satisfying outcomes after surgery.
+Since GNs are mostly hormone-silent and asymptomatic
+and retroperitoneum space is deep and extensive, they
+can be huge when detected. These findings were consistent
+with previous studies [1, 4, 20]. The gender incidence
+of GN varies in literature [7, 8, 14, 21, 22]. In our
+experience, we found a similar GN morbidity between
+females and males.
+Retroperitoneum GNs in our study displayed as welldefined
+hypodense masses on unenhanced CT images,
+mostly homogenous. Punctate calcifications were
+found in 33.3% cases. The sight or moderate progressive
+enhancement was observed in most patients. On
+MR images, GNs often presented to be hypointense on
+T1-weighted images, heterogeneous hyperintense on
+T2-weighted images and hyperintense on DWI images.
+These imaging features were similar to previous literature
+reports [1, 3, 4, 8, 9, 11, 13, 14, 19, 23]. The whorled sign,
+as previously reported, was considered as a specific sign
+of GN [9, 10, 19]. In our study, the whorled sign could
+be seen in 73.7% patients and it was in accordance with
+the pathological components of GN. The large amount
+of myxoid stroma presented predominantly high signal
+intensity on T2-weighted images. The cellular components,
+including Schwann cells and ganglions, may
+be responsible for the interlaced or nodular low signal
+intensity [1, 3, 7]. Interestingly, retroperitoneum GNs
+tend to extend along the inter-vessel space and partially
+or wholly surround major blood vessels, with nearly half
+of the patients (17/35) presented with vessel encasement
+signs. Under this circumstance, the GNs could be confused
+with malignant tumors.
+The differential diagnosis of GN includes many malignant
+and benign tumors, including neuroblastoma (NB),
+ganglioneuroblastoma (GNB), schwannoma, lymphangioma
+and so on. NB, GNB and GN originate from the
+ganglion cells. The three tumors differ in their degree
+of cellular and extracellular maturation. NB are highly
+malignant lesions and GNB has intermediate malignant
+potential. NB are more aggressive and occur in younger
+patients (median age, under 2 years). NB and GNB often
+present as irregularly shaped, unencapsulated lesions
+and tend to be inhomogeneous owing to tumor necrosis
+and hemorrhage. They have the trend to invade
+adjacent organs and adjacent vessels and tend to metastasize
+to bone, bone marrow, liver and lymph nodes [1].
+Regional invasion of paraspinal musculature and psoas
+may occur, and invasion of the neural foramen into the
+epidural space is also frequent. In our retroperitoneum
+GN cases, no invading of the vessels and organs was
+observed, which suggested benign tumors. Moreover,
+metastasis was rarely seen in GNs. Schwannomas arise
+from the nerve sheath and constitute the majority of neurogenic
+retroperitoneum neoplasms. They are commonly
+diagnosed in patients in the 2nd to 5th decades of life.
+Schwannomas are composed of alternating Antony A and
+Antony B areas and degenerative parts [24]. Schwannomas
+are encapsulated masses and extend along the nerve
+course. Large schwannomas may present prominent
+cystic degeneration and calcification. Schwannomas have
+been reported to exhibit a target-like appearance, i.e.,
+peripheral high-signal intensity and central low-signal
+intensity, on T2 weighted images [25]. Retroperitoneal
+lymphangiomas can present at any age and are common
+in males. They often present as unilocular or multilocular
+thin-walled cysts with no enhancement.
+Surgical treatment is the optimal choice for the treatment
+of retroperitoneum GNs [2, 26]. According to the
+experience of our institution, complete rection was possible
+for most patients. However, since GNs may adhere
+to tissues nearby and surround the major adjacent vascular
+structures [12], the resection can be complex and
+surgical risks should not be underestimated. In this study,
+the estimated blood loss was over or equal to 400 ml in
+15 cases during the operation, with the maximum blood
+loss as 4000 ml. A large amount of bleeding may lead to
+blood transfusion, even to organ ischemia–reperfusion
+injury, shock and death. As a result, preoperative radiological
+interpretations of retroperitoneum GNs are crucial.
+Importantly, we have found that larger tumor size
+measured on axial images and encasing one or both renal
+pedicles (Fig. 3) may lead to increased blood loss during
+surgery. Moreover, we have found that the maximal
+diameters measured on coronal 2D images of retroperitoneum
+GNs were more extensive than those measured
+on axial images in 68.6% (24/35) cases, which was in
+accordance with the potential of GNs to grow vertically
+from the sympathetic ganglia [2]. These findings may
+help the surgeon to predict surgical risk, select surgical
+technique, and carry out surgical treatment. Our followup
+data, consistent with previous studies [15, 16], indicated
+the good prognosis of retroperitoneum GNs after
+surgical procedure.
+We acknowledged that our study had several limitations.
+First, this was a single-center retrospective study,
+which may lead to the bias of data. Also, those patients
+who did not receive surgery were not enrolled, which
+could limit the representation of our case series. Despite
+these limitations, we believe that our data indeed provided
+valuable information on retroperitoneum GN. And
+studies with large sample sizes will be carried out for further
+verification.
+Conclusions
+In summary, CT and MR displayed vital roles in the diagnosis
+and pre-operative evaluation of GNs. Though GNs
+are uncommon tumors, they should be taken into consideration
+when specific features are presented. These
+features are as follows: (a) relatively low density on unenhanced
+CT images, (b) the whorled sign on T2-weighted
+images, (c) the possible tendency to surround major vessels
+but with no narrowing, (d) the delayed progressive
+enhancement on enhanced CT and MR images. Preoperative
+images could provide image-defined risk factors for
+surgery. Larger tumor size measured on axial images and
+encasing one or both renal pedicles may lead to increased
+blood loss during surgery.

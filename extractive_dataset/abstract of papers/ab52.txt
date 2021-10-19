@@ -1,0 +1,18 @@
+Background: Frailty has been associated with a risk of adverse outcomes, and mortality in patients with various
+conditions. However, there have been few studies on whether or not frailty is associated with mortality in patients
+with accidental hypothermia (AH). In this study, we aim to determine this association in patients with AH using
+Japan’s nationwide registry data.
+Methods: The data from the Hypothermia STUDY 2018&19, which included patients of ≥18 years of age with a
+body temperature of ≤35 °C, were obtained from a multicenter registry for AH conducted at 120 institutions
+throughout Japan, collected from December 2018 to February 2019 and December 2019 to February 2020. The
+clinical frailty scale (CFS) score was used to determine the presence and degree of frailty. The primary outcome was
+the comparison of mortality between the frail and non-frail patient groups.
+Results: In total, 1363 patients were included in the study, of which 920 were eligible for the analysis. The 920
+patients were divided into the frail patient group (N = 221) and non-frail patient group (N = 699). After 30-days of
+hospitalization, 32.6% of frail patients and 20.6% of non-frail patients had died (p < 0.001). Frail patients had a
+significantly higher risk of 90-day mortality (Hazard ratio [HR], 1.64; 95% confidence interval [CI], 1.25–2.17; p < 0.001).
+Based on the Cox proportional hazards analysis using multiple imputation, after adjustment for age, potassium level,
+lactate level, pH value, sex, CPK level, heart rate, platelet count, location of hypothermia incidence, and rate of
+tracheal intubation, the HR was 1.69 (95% CI, 1.25–2.29; p < 0.001).
+Conclusions: This study showed that frailty was associated with mortality in patients with AH. Preventive
+interventions for frailty may help to avoid death caused by AH.

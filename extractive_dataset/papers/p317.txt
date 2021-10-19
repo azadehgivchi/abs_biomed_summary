@@ -1,0 +1,251 @@
+Introduction
+Household food insecurity (FI) — a household’s experience
+of inadequate or insecure access to sufficient, safe
+and nutritious food because of income or finances — is
+a major public health problem [1, 2]. Household food insecurity
+is associated with poor child health outcomes,
+even at marginal levels [3–5]. Previous research also
+shows that families with marginal food security are more
+like food-insecure households than food-secure households
+[6].
+Families affirming one or both of the first 2 items of
+the 18-item U.S. Household Food Security Screening
+Module (HFSSM), are considered marginally food secure
+[6, 7]. The first item measures uncertainty about having
+enough food and the second item measures uncertainty
+about exhausting their food supply. Developed in the
+U.S., these items comprise the 2-item Hunger Vital
+Sign™ (HVS) [8], now advocated for use as a screening
+tool for marginal food security in clinical practice and
+embedded into the electronic medical record system
+along with clinical and billing codes in some areas. However,
+the 2 items on the HVS™ are from the adult module
+in the 18-item HFSSM, which may not apply to
+children [9]. Furthermore, a 1-item child-specific screen
+for use in paediatric primary care practice may have
+greater utility in identifying marginal food security in
+families with young children.
+The Nutrition Screening Tool for Every Preschooler
+(NutriSTEP®) is a valid and reliable 17-item parentcompleted
+questionnaire developed in Canadian children
+addressing multiple domains of nutrition risk [10, 11]. A
+single item addressing FI may be a useful child-specific
+screening tool. The 17-item NutriSTEP® has an area
+under the curve of 84.6% compared with a dietitiancompleted
+assessment [10, 11]. However, the accuracy of
+the FI question is unknown. We aimed to examine the
+diagnostic test properties of the single NutriSTEP® FI
+question.
+Methods
+This cross-sectional study enrolled healthy children 18
+months to 5 years of age during scheduled health supervision
+visits at primary care practices in Toronto,
+Canada participating in a research network called TARGet
+Kids! (www.targetkids.ca). TARGet Kids! is an ongoing,
+open, longitudinal cohort enrolling healthy
+children from birth to age 5 years. The profile of this cohort
+has been previously described [12]. Study participants
+were recruited by trained research personnel
+embedded in participating practices. Informed consent
+was obtained from parents of participants, who completed
+standardized questionnaires including the FI
+screens. For the purpose of this study, children were included
+if they had complete data on both the HVS™ and
+NutriSTEP® questionnaires. All methods were performed
+in accordance with the relevant guidelines and regulations
+and approved by Research Ethics Boards at the
+Hospital for Sick Children and St. Michael’s Hospital,
+Toronto.
+Parents completed the HVS™, the first 2 items of the
+18-item HFSSM; this brief 2-item measure has 97% sensitivity
+and 83% specificity for identifying marginal food
+security, using the HFSSM as the criterion measure [8].
+The HVS™ questions are: “Within the past 12 months,
+we worried whether our food would run out before we
+got money to buy more” and “Within the past 12
+months, the food we bought just didn’t last and we
+didn’t have money to buy more” with response options
+“Was that often true, sometimes true or never true for
+your household in the past twelve months?” According
+to convention, both items were coded as an affirmative
+response if either “often true” or “sometimes true” was
+selected [7, 8]. By definition, families affirming one or
+both items were classified as having marginal food
+security.
+Parents also completed the 17-item NutriSTEP® which
+included the FI question: “I have difficulty buying food I
+want to feed my child because food is expensive” with
+response options: “most of the time”; “sometimes”;
+“rarely”; “never”. Using the same convention as for the
+HVS™ questions, this single item was coded as an
+affirmative response if “most of the time”, “sometimes”,
+or “rarely” was selected. We included “rarely” as an affirmative
+response as we reasoned that families struggling
+to meet their needs, may either choose not to
+disclose or select “rarely” due to stigma or shame [13].
+Families affirming this single item were classified as having
+marginal food security.
+We examined the diagnostic test properties (including
+sensitivity and specificity) of the 1-item Nutri-
+STEP® FI question using the 2-item HVS™ as the
+criterion measure. We then examined convergent
+construct validity (the correspondence between the 1-
+item NutriSTEP® screen and theoretically related variables,
+e.g. self-report family income) using multiple
+logistic regression. Convergent construct validity was
+tested by comparing the multiple logistic regression
+models for the 1-item NutriSTEP® with those of the
+2-item HVS™ evaluating the associations of these FI
+measures with variables considered predictors of marginal
+food security (family income, maternal education
+and parent employment status) adjusting for covariates.
+Missing covariate data (< 15% missing) were handled
+using multiple imputation. Statistical significance
+was defined as p < 0.05, and all statistical tests were
+2-sided. Statistical analysis was conducted using SAS
+version 9.4 (SAS Institute).
+Results
+Participants
+Of 1753 children recruited to the TARGet Kids! cohort,
+1174 children had complete data on the HVS™ and
+NutriSTEP® questionnaires. Of these, 53 (4.5%) children
+were living in families with marginal food security as determined
+by the 2-item HVS™. Compared with families
+not at risk for food insecurity, a higher proportion of
+children in families at risk for food insecurity had a
+lower family income, a mother with high school education
+or less, 1 or both parents were unemployed, and
+were from a single-parent family (Table 1).
+Diagnostic test properties of the 1-item NutriSTEP®
+The diagnostic test properties of the single FI Nutri-
+STEP® question, compared with the 2-item HVS™ as the
+criterion measure were: sensitivity 84.9% (95% CI: 72.4,
+93.3), specificity 91.2% (95% CI: 89.4, 92.8), false positive
+rate 8.8% (95% CI: 7.2, 10.8), positive predictive value
+31.3% (95% CI: 26.7, 36.2), negative predictive value
+99.2% (95% CI: 98.5, 99.6). An affirmative response indicating
+marginal food security on the 1-item screen was
+9.6 times more likely (LR+ = 9.6; 95% CI: 7.7, 12.0) for
+those with marginal food security as determined by the
+2-item HVS™ (Table 2).
+An affirmative response to the single NutriSTEP® FI
+question was associated with higher odds of family income
+less than CAD $40,000 (adjusted odds ratio
+[aOR]: 7.4; 95% CI: 3.4, 16.1; p < 0.001), lower maternal
+education (high school or less, aOR: 1.8; 95% CI:
+0.9, 3.7; p = 0.09; college/trades certificate, aOR: 1.7;
+95% CI: 1.0, 2.8; p = 0.049), and both parents being
+unemployed (aOR: 3.3; 95% CI: 1.1, 10.4; p = 0.04).
+These associations were similar to (perhaps somewhat
+weaker than) the corresponding associations for the
+HVS™ (Table 3).
+Discussion
+In this large healthy child cohort recruited in urban
+Canadian primary care practice, the 1-item NutriSTEP®
+FI question demonstrated strong diagnostic test properties
+and good construct validity. This single question
+may be an effective screening tool for identifying young
+children living in families with marginal food security in
+primary care settings. Furthermore, increasingly recognized
+is the importance of nutrition security, defined as
+‘having consistent access, availability, and affordability of
+foods and beverages that promote well-being and prevent
+disease’ [14]. When using the 17-item NutriSTEP
+in healthy toddlers and preschoolers in community settings,
+this single question provides clinicians with a valid
+measure of marginal food security, as well as nutrition
+risk.
+Marginal household food security is associated with
+poor educational outcomes and emotional and behavioural
+problems in children, as well as maternal major
+depression and anxiety [3–5]. Sociodemographic characteristics
+of households reporting marginal food security
+(affirming 1 or 2 items) are more similar to those experiencing
+more severe food insecurity (affirming > 2 items)
+than food secure households (affirming 0 items) [3–5].
+Such evidence of associations of marginal food security
+and both immediate and long-term adverse health outcomes
+in young children highlights the importance of
+screening for social needs in paediatric primary care
+practice in an empathic and efficient manner.
+There are study limitations. First, we did not use the
+18-item HFSSM as our criterion measure, so we could
+not examine associations between the single question
+and more severe household FI. However, because we
+were evaluating a brief measure of marginal food security
+suitable for screening in healthcare settings, the
+HVS™ is considered the gold standard and therefore is
+the more appropriate criterion measure. In addition, detection
+of marginal food security is an appropriate target
+for a clinical screening tool. Second, our sample had a
+relatively high family income, which may not be representative
+of other families. However, because FI screening
+tools are likely to perform better in low income
+populations, it is important to evaluate them in an economically
+diverse population [9].
+The 1-item NutriSTEP® FI question is an alternative
+brief measure of marginal food security and one that is
+child-specific, which is suitable for screening for marginal
+food security in families with children in clinical
+settings. While no previous study has examined this single
+item on the NutriSTEP® as a food security screen,
+others have examined the validity of a single item measure
+of food security. Nolan et al. [15] validated the single
+question “In the past 12 months, were there any times
+that you ran out of food and couldn’t afford to buy
+more?” using the HFSSM as the criterion measure in a
+random sample of households in three low income regions
+in Australia, including 56% with children under
+age 18 years. The question had high specificity (96%) but
+low sensitivity (56.9%). Urke et al. examined each question
+in the 18-item HFSSM with the purpose of developing
+a rapid assessment of food security among Inuit
+adults and children. They identified one child item (“In
+the last 12 months, were there times when it was not
+possible to feed the children a healthy meal because
+there was not enough money?”) with strong diagnostic
+test properties using an affirmative response to any 2
+HFSSM questions as their criterion measure [9]. Our
+study differs from Urke et al. in several ways. Our study
+was conducted in an urban primary care setting, with an
+anticipated lower prevalence of FI than seen in the remote
+Arctic setting. In addition, we used the HVS™ as
+the criterion measure, a measure of marginal food security,
+rather than the more severe problem of food insecurity.
+It is possible that the 1-item NutriSTEP® FI
+question (“I have difficulty buying food I want to feed
+my child because food is expensive”) may more effectively
+target marginal food security, which is a more appropriate
+target for primary care screening efforts.
+Future research should empirically examine this
+hypothesis.
+While healthcare providers recognize the importance
+of identifying poverty in clinical settings, they
+identify time constraints and multiple competing demands
+as barriers to integrating social needs screening
+into healthcare [16]. Using a single question to
+measure marginal food security may be more feasible
+than using a 2-item tool in a busy practice and would
+allow clinicians to intervene on unmet social needs by
+linking families to community-based services or financial
+assistance programs including tax benefits to
+which they may be entitled. Despite the clear importance
+of social determinants to child health, limited
+research has addressed clinical implementation of social
+needs screening. However, the importance of
+identification of caregiver needs and priorities, and referral
+to appropriate community supports have been
+highlighted [17, 18]. Furthermore, caregivers experiencing
+food insecurity report feeling ashamed or embarrassed
+in reporting FI and that health care provider
+empathy, concern and empowerment can mitigate
+these challenges [13]. This single question may be
+useful for opening a dialogue in the context of a
+trusting relationship with a health care provider, thus
+facilitating linkage of families with needed resources.
+Conclusion
+The single NutriSTEP® question may be an effective
+screening tool in clinical practice to identify marginal
+food security in families with young children and to link
+families with community-based services or financial assistance
+programs including tax benefits.

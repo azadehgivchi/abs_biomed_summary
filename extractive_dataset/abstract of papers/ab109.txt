@@ -1,0 +1,16 @@
+Background: The utilization of ambulances in low- and middle-income countries is limited. The aim of this study
+was to ascertain frequency of ambulance use and characteristics of patients brought into emergency departments
+(EDs) through ambulance and non-ambulance modes of transportation.
+Methods: The Pakistan National Emergency Departments Surveillance (Pak-NEDS) was a pilot active surveillance
+conducted in seven major tertiary-care EDs in six main cities of Pakistan between November 2010 and March 2011.
+Univariate and multivariate logistic regression was performed to investigate the factors associated with ambulance use.
+Results: Out of 274,436 patients enrolled in Pak-NEDS, the mode of arrival to the ED was documented for 94. 9%
+(n = 260,378) patients, of which 4.1% (n = 10,546) came to EDs via ambulances. The mean age of patients in the
+ambulance group was significantly higher compared to the mean age of the non-ambulance group (38 ± 18.4
+years versus 32.8 ± 14.9 years, p-value < 0.001). The most common presenting complaint in the ambulance group
+was head injury (12%) while among non-ambulance users it was fever (12%). Patients of all age groups were less
+likely to use an ambulance compared to those >45 years of age (p-value < 0.001) adjusted for gender, cities,
+hospital type, presenting complaint group and disposition. The adjusted odds ratio of utilizing ambulances for
+those with injuries was 3.5 times higher than those with non-injury complaints (p-value < 0.001). Patients brought
+to the ED by ambulance were 7.2 times more likely to die in the ED than non-ambulance patients after adjustment
+for other variables in the model.

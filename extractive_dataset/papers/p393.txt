@@ -1,0 +1,620 @@
+Background
+Exercise-induced muscle damage (EIMD) is associated
+with various negative symptoms, such as delayed
+onset muscle soreness, impaired muscle function, and
+increased inflammation [1, 2]. Consequently, the use of
+recovery interventions purported to accelerate recovery
+has become increasingly prevalent. There is an emerging
+interest in the effects of the non-nutritive compounds
+(poly)phenols as recovery aids following strenuous exercise.
+As such their popularity as a nutritional aid has
+increased in athletes and recreational exercisers, likely
+because these plant-based bioactive compounds have
+numerous additional health benefits [3].
+The term (poly)phenol refers to a variety of bioactive
+compounds including flavonoids, stilbenes, phenolic
+acids and lignans [4]. The largest subclass, flavonoids, can
+be further classified into flavonols, flavanols, flavanones,
+anthocyanins, flavones and isoflavones. Of these subclasses,
+the majority of research has focused on flavanols
+with particular attention on cocoa, not only because of
+the palatability of chocolate [5] but due to the high proportion
+of monomers such as catechin, epicatechin and
+gallocatechin; collectively referred to as cocoa flavanols
+(CF). These monomers are found in the largest quantities
+in cocoa when compared with other flavanol containing
+foodstuffs such as tea and fruits; however, the
+amounts vary considerably. For cocoa, the flavanol content
+depends on the bean, such as the seed it grows from
+[6], the manufacturing process, such as heavy alkalisation
+and temperature of roasting [7], and the final product,
+(e.g., milk chocolate versus dark chocolate) [8].
+Cocoa flavanols have been shown to possess antiinflammatory
+and antioxidant effects, with epicatechin
+the most potent monomer of the flavanol group [9]. Currently,
+cardiovascular benefits, such as improved flow
+mediated dilation and reduced blood pressure, have
+been observed following various doses of CF, such as,
+918 mg [10], 701 mg [11], 750 mg [12], and 917 mg [13]
+and epicatechin intakes as low as 25 mg [14] and 46 mg
+[15]. Regarding epicatechin, greater efficacy has been
+reported at higher epicatechin doses (see review [16]).
+These benefits have been observed following supplementation
+periods ranging from the same day of testing [11,
+13], to seven days [10], and 30 days [12]. Additionally,
+CF may be beneficial for reducing markers of oxidative
+stress (defined as an imbalance in the generation of various
+reactive species and antioxidants [17]) and inflammation
+[18, 19]. The role of CF in modulating inflammation
+may stem from their capacity to influence signalling
+cascades, i.e., via an alteration to eicosanoid production
+[20], and reducing the activation of certain inflammatory
+transcription factors, e.g., nuclear factor kappa-beta [21].
+Given that exercise-induced muscle damage (EIMD) is
+thought to partly stem from inflammation and oxidative
+stress, CF may be able to attenuate functional symptoms
+that impede athlete recovery, such as muscular soreness
+and deficits in muscle function [19, 22].
+Reactive oxygen species (ROS) are produced as part
+of normal metabolic processes, such as cellular respiration,
+and in certain scenarios, such as exercise, ROS
+are produced in high amounts [2]. Various ROS molecules
+are involved in a plethora of functions at a cellular
+level, including, growth and proliferation [23],
+immune response [24] and apoptosis [25]. Additionally,
+it is believed that ROS act as signalling molecules in
+various tissues; however, this is still not fully understood
+due to the numerous ROS produced at rest and during
+exercise [26]. Antioxidant defence systems maintain a
+balance between ROS production and neutralisation; if
+the production of ROS outweighs their neutralisation,
+then proteins, lipids and DNA may be oxidised altering
+their function [27]. This process is typically referred
+to as oxidative stress. Alternatively, if cells are exposed
+to low levels of ROS, such as during moderate intensity
+exercise, they may act as signalling molecules for skeletal
+muscle adaptations [28]. Such adaptations include an
+increase in endogenous antioxidants such as superoxide
+dismutase, glutathione peroxidase and catalase, reduced
+oxidative damage from exercise and an improved resistance
+to oxidative stress [29]. The mechanisms by which
+CF modulate redox metabolism and oxidative stress are
+not entirely clear, but activation of the nuclear factor
+erythroid 2-related factor 2 (Nrf2) transcription pathway,
+which activates a battery of cytoprotective protein with
+antioxidant and anti-inflammatory functions is a potential
+candidate [30]. For example, it has been observed
+that supplementation with catechin results in an increase
+in the expression of heme-oxygenase 1, an enzyme with
+antioxidant and anti-inflammatory functions (31), via
+upregulation of Nrf2 activity [30]. Moreover, cells treated
+with CF induced an increase in glutathione peroxidase
+and glutathione reductase, likely via Nrf2 activation [32].
+In addition, CF treatment has been shown to prevent
+a depletion in reduced glutathione and replenish glutathione
+peroxidase, as well as effectively limiting lipid
+and protein peroxidation [33]. Collectively, these studies
+suggest CF may modulate oxidative stress, at least partly
+via redox sensitive pathways, e.g., stimulating Nrf2 which
+in turn leads to an increase in redox enzyme expression.
+Strenuous exercise may generate large amounts of
+ROS that leads to oxidative stress. The ROS produced is
+thought to stem from the increase in cellular respiration,
+and/or immune cells like neutrophils [1,34]. Leukocytes
+that accumulate in the muscle after EIMD evoke a respiratory
+burst, whereby macrophages and neutrophils
+produce large amounts of ROS to lyse cellular debris and
+begin regeneration. However, it has been proposed that
+during this process ROS may also induce lipid peroxidation
+in nearby healthy tissues [35]. It is thought that this
+damage to neighbouring cells might contribute to EIMD,
+and at least partly explain why decrements in muscle
+function and increased muscle soreness can persist for
+several days after strenuous exercise [36].
+Therefore, the aim of this narrative review was to critically
+examine research on the effects of CF on oxidative
+stress, inflammation, muscle function, perceived
+soreness, and exercise performance. This review builds
+on previous work by Decroix, Soares 19] that reviewed
+the effects of CF on exercise performance. The present
+review includes research completed since the aforementioned
+article and unlike Decroix and colleagues focuses
+on CF and EIMD.
+To identify the appropriate literature, an in-depth, systematic
+search of five separate databases was performed
+(PubMed, Scopus, Web of Science, ScienceOpen and
+MEDLINE) using specific search terms (‘cocoa flavanols,’
+OR ‘dark chocolate,’ AND ‘muscle damage,’ OR ‘muscle
+recovery,’ OR ‘exercise recovery,’ OR ‘exercise-induced
+muscle damage,’ OR ‘exercise’). All reviewed studies conducted
+the investigations in humans.
+Impact of cocoa flavanols on exercise‑induced oxidative
+stress « Table 1»
+Antioxidants maintain redox status by neutralising
+ROS produced by metabolic reactions [37]. However, as
+explained in the introduction, the upregulation of ROS
+can lead to oxidative stress if cellular antioxidant capacity
+is overwhelmed. Oxidative stress in skeletal muscle
+decreases force output [38], likely through a reduction in
+calcium (
+Ca2+) sensitivity in the myofibrils and reduced
+activity of calcium ATPase, suggesting contractile dysfunction
+partly due to the accumulation of Ca2+
+[39,40].
+Therefore, an increase in antioxidant capacity may lead
+to improvements in performance and recovery through
+reductions in fatigue associated with ROS during and
+after exercise.
+Two studies that examined the effects of CF on markers
+of oxidative stress observed significant interaction
+effects following a 14-day sub-chronic supplementation
+period [41,42]. Allgrove and colleagues observed that
+F2-
+isoprostanes and oxidised low density lipoprotein
+(markers of oxidative stress) were significantly lower
+in the treatment group, supplementing 197.4 mg CF
+and 77.4 mg epicatechin, versus placebo post 90 min
+of cycling at 60% V̇O2max, interspersed with 30 s efforts
+at 90% V̇O2max every 10 min [42]. Similarly, Fraga and
+colleagues [29]) found that regular CF intake (168 mg)
+alongside soccer training and match play over a 14-day
+period resulted in a 12% decrease in malondialdehyde
+(MDA; a marker of lipid peroxidation), whereas in
+the placebo condition values increased by 10%, indicating
+a reduction in oxidative stress associated with
+training and match play. A study by Decroix, Tonoli
+[43] observed that although cycling time trial exercise
+increased MDA concentrations, CF had no significant
+impact compared to placebo. Wiswedel, Hirsch [44]
+also found no significant treatment effect of CF on
+MDA concentrations following cycling exercise. Interestingly,
+Wiswedel, Hirsch [44] included a no exercise
+control and found that the high flavanol group
+had a lesser increase in MDA than the low CF group
+four- and six-hours post-ingestion. In contrast, when
+supplementing 1765 mg of cocoa extract (containing
+530 mg CF) for six days in the lead up to exercise
+and once more immediately before, CF blunted the
+exercise-induced rise in MDA concentrations [45].
+These changes imply that sub-chronic consumption of
+CF may reduce exercise-induced oxidative stress more
+effectively than an acute dose. The results suggest that
+CF may be a potent antioxidant, with plasma MDA levels
+decreasing from baseline over a 14-day period of
+168 mg of CF consumption a day [41]. These findings
+may have applicability to clinical populations as it has
+been reported previously that CF supplementation prevents
+systemic oxidative stress (measured via plasma
+MDA and urinary prostaglandin F2α) in type II diabetes
+and cancer [46]. Notwithstanding, the other markers
+of oxidative stress and antioxidant activity were not
+affected by the treatment (8-oxo-2-deoxyguanosine and
+total relative antioxidant potency respectively), with a
+possible explanation being the relatively low amount of
+collective epicatechin and catechin in the treatment—
+only 39 mg per dose [41], or the markers were not sensitive
+enough to detect changes in soccer players.
+Where Allgrove and colleagues found a significant difference
+for F2-
+isoprostanes post-cycling exercise after a
+sub-chronic dosing protocol of CF, both Davison, Callister
+[47] (246.8 mg, 96.8 mg epicatechin) and Wiswedel,
+Hirsch [44] (187 mg) observed that even an acute
+dose of CF pre-cycling exercise elicited reductions in
+F2-
+isoprostanes when compared to placebo in a crossover
+design. These were the only acute dose studies to observe
+any treatment effect on oxidative stress as the other two
+reported no differences between treatments [48,49].
+The only study to assess oxidative stress over a chronic
+supplementation period had participants consuming
+175.2 mg daily for 30 days and found that CF significantly
+increased the reduced glutathione/oxidised glutathione
+ratio and reduced protein carbonylation [50]. This again
+indicates that prolonged supplementation may be more
+beneficial than solely acute consumption.
+Data regarding uric acid/urate is conflicting across
+studies. Decroix, Tonoli [43] reported that an acute dose
+of 900 mg CF increased uric acid following two 30 min
+time trials. In contrast, Fraga, Actis-Goretta [41] found
+that sub-chronic dosing of 168 mg CF per day decreased
+urate levels by 11% compared to the beginning of supplementation,
+Decroix, Tonoli [45] also found that
+1765 mg cocoa extract (530 mg CF) per day over a seven
+day period did not influence uric acid concentrations at
+rest or post-exercise. However, the contrasting observations
+may be attributed to the fact that Fraga, Actis-
+Goretta [41] collected blood samples on a rest day, while
+Decroix, Tonoli [43] took blood samples immediately
+post-exercise; which has been observed to increase uric
+acid concentrations 1–2 h post intense exercise [51]. As
+Decroix, Tonoli [45] took samples at rest and post-exercise
+whilst using the highest dose of CF and found no
+impact, this may imply that the mechanism that CF act
+as an antioxidant may be independent to the mechanism
+behind changes in uric acid concentrations. Uric acid can
+be used as a marker of oxidative stress due to its role in
+the conversion of xanthine dehydrogenase to xanthine
+oxidase, which then increases the production of ROS
+[52]. Counterintuitively, uric acid is also one of the predominant
+antioxidants found within the plasma [53,54].
+The role of uric acid as a pro-oxidant within the cellular
+compartment, coupled with its role as an antioxidant in
+the plasma, make it difficult to draw practical conclusions
+from antioxidant based nutritional studies. Additionally,
+certain flavonoids, such as quercetin due to its chemical
+structure, may act as an inhibitor of the production of
+xanthine oxidase (an enzyme that increases ROS concentrations)
+and as such have a direct influence on uric acid
+concentrations [55].
+However, there are times during an athletes’ training
+when reducing oxidative stress may not be desired,
+such as during pre-season when adaptations from exercise
+are the priority as opposed to accelerated recovery.
+The adaptations associated with oxidative stress during
+and following exercise include improved cellular repair
+systems and reduced production of damaging ROS [56].
+However, these exercise related training adaptations may
+be hindered by regular high doses of antioxidant compounds
+and prevent or obstruct key cellular functions
+associated with ROS [57]. Nevertheless, a recent metaanalysis
+identified that the evidence for a blunting effect
+of (poly)phenol supplementation on exercise adaptations
+is equivocal, more research is needed to fully understand
+how (poly)phenols may augment exercise adaptations
+[58].
+Impact of cocoa flavanols on exercise‑induced
+inflammation Table 2
+Strenuous exercise resulting in muscle damage evokes an
+acute inflammatory response [59]. Several studies have
+observed systemic increases in markers such as interleukin-
+6 (IL-6), c-reactive protein (CRP) and tumour
+necrosis factor-α (TNF-α) [60,61] following intense exercise.
+These markers are typically increased for several
+hours following exercise, but may persist for several days
+depending on the severity of the damage [62]. Inflammation,
+particularly the increase in neutrophils, has been
+associated with muscle function loss following exercise,
+suggesting the acute inflammatory response plays a role
+in recovery after exercise [63].
+In vitro studies have shown that CF have anti-inflammatory
+properties and can reduce tumour necrosis
+factor-α (TNF-α) from inducing an upregulation of vascular
+endothelial growth factor activity [64] and inhibit
+nuclear factor-kappa beta activation [65]. In humans,
+CF supplementation has been shown to decrease
+Interleukin-1β and Interleukin-10 levels [66], four weeks
+of dark chocolate consumption reduced leukocyte accumulation,
+soluble adhesion molecules, and the expression
+of adhesion markers on leukocytes [67] (see the recent
+review by Goya, Martín [68] for more detail). This may
+indicate that dark chocolate or cocoa powder with a high
+proportion of CF would perhaps be viable as a therapeutic,
+anti-inflammatory intervention.
+Studies by Allgrove, Farrell [42] and Davison, Callister
+[47] found that prolonged cycling at 60% ˙V
+O2max increased inflammatory markers (IL-6, IL-10
+and IL-1ra and IL-6, blood leucocyte count and neutrophil
+count, respectively) but found no difference
+between CF supplementation or placebo. Decroix,
+Tonoli [43] used two 30 min time trials separated by
+90 min; the first time trial starting 100 min post ingestion
+of a 900 mg CF beverage. This resulted in no treatment
+or time effect on inflammatory markers (TNF-α,
+IL-1 and IL-6), perhaps implying the stimulus was not
+intense enough to induce inflammation in a cohort of
+well-trained cyclists. However, as both Allgrove, Farrell
+[42] and Davison, Callister [47] used relatively low
+doses of CF (197.4 mg and 246.8 mg respectively), a
+higher dose of both total flavanols and epicatechin is
+perhaps necessary to evoke the purported anti-inflammatory
+effects of CF [69], in situations that induce an
+increase in inflammatory markers. These effects include
+the modulation of particular aspects of the inflammatory
+cascade, such as, inhibiting platelet aggregation
+[70] and altering cytokine production via stimulation
+or inhibition of certain interleukins and growth factors
+(Selmi, Mao [71] for a review). Therefore, it is possible
+that for CF to confer anti-inflammatory benefits, the
+inflammation must be pronounced and/or prolonged.
+Furthermore, cycling exercise does not include a significant
+eccentric action; the type of contraction that
+is most associated with EIMD and as a result may not
+cause systemic inflammation to reach the same level of
+studies that involve eccentric biased exercise [72].
+Currently, the only EIMD study with CF that measured
+inflammation was by Morgan, Wollman [48], in
+this study no differences between treatment groups
+for IL-6 or CRP, following 100 maximal leg extensions
+with an elongated eccentric phase (three seconds).
+However, the researchers utilised a low dose
+(74 mg) of CF which is potentially why no effect was
+observed. The lack of studies showing robust changes
+in inflammation following exercise suggests that the
+anti-inflammatory effects of CF seen in in vitro studies
+may not translate to the in vivo environment. It is
+pertinent that future research investigates the impact
+of CF on markers of inflammation following EIMD
+(e.g., TNF-α), potentially including muscle biopsies
+to provide measured changes of inflammation in the
+muscle. It should be noted that the inflammatory process
+is necessary for skeletal muscle adaptation, and
+by blunting the initial pro-inflammatory phase, it is
+possible that the muscle regenerative phase can be
+impaired [73]. Indeed, an adaptation to exercise is the
+increased activity of peroxisome proliferator-activated
+receptor γ co-activator 1α, which may aid the phenotype
+switch of macrophages from pro- to anti-inflammatory
+and reduce the expression of genes associated
+with oxidative stress [74,75]. Therefore, forgoing
+an anti-inflammatory intervention may be effective
+when adaptations to exercise are the priority, akin to
+adaptations related to ROS and oxidative stress. However,
+the evidence that long term supplementation of
+CF, (poly)phenols, or other antioxidant supplements
+(e.g., vitamin C and E) can inhibit training adaptations
+is equivocal [76–78]; as such, more research is
+warranted to better understand how these compounds
+may influence exercise adaptations.
+Impact of cocoa flavanols on the recovery of muscle
+function « Table 3»
+Muscle function is negatively impacted by EIMD, with
+reductions in muscle force and power capacity evident
+for several days following strenuous exercise. However,
+based on the current evidence it seems that CF supplementation
+has minimal, if not any, impact on maximal
+voluntary contraction (MVC; as measured using
+peak torque) with no effect observed on knee extensor
+[48,49,79] or knee flexor strength recovery [80]. Interestingly
+however, Corr, Field [80] found that at 24 and
+48 h post-exercise there were large effect sizes following
+an acute high dose of 1245 mg CF compared to the
+control for MVC at 30 degrees and MVC percentage
+change at 60 and 30 degrees, although no significant differences
+were observed. Therefore, it is feasible that the
+dose of 1245 mg CF has the potential to be effective but
+may require repeated dosing throughout the recovery
+period instead of a singular acute dose to be truly efficacious.
+Currently, for (poly)phenols it has been suggested
+that > three days of supplementation above 1000 mg may
+be required to observe an ergogenic benefit [81], however
+no CF research has been performed fulfilling that criteria,
+with only one study using a dose above 1000 mg of
+CF [80].
+It is noteworthy that only Morgan, Wollman [42] and
+Corr, Field [80] observed notable muscle damage based
+on decrements in muscle function across groups [82].
+To best understand the mechanisms behind CFs role in
+muscle damage recovery, it would be prudent to ensure
+symptoms of EIMD such as a decrease in muscle function
+are pronounced. In fact, it is noteworthy that the
+participants in de Carvalho, Fisher [49] had fully recovered
+muscle function (based on peak torque data) 48 h
+post-exercise, indicating that the 100 drop-jump protocol
+did not elicit significant damage in a group of elite rugby
+players. Therefore, in populations with high baseline
+strength and power, protocols designed to induce EIMD
+need to be of a sufficient magnitude. Similarly, Peschek,
+Pritchett [79] observed 2–5% decrements in the control
+group and 10–22% in the CF group from pre to 24 h
+post, indicating that perhaps CF ingestion exacerbated
+muscle damage or only the CF group suffered the deleterious
+effects of the EIMD protocol. Interestingly, from
+24 to 48 h post-exercise the CF groups muscle function
+improved, whereas no changes occurred in the control
+group. Nevertheless, as the control group did not experience
+pronounced levels of muscle damage, it is possible
+that the protocol was not sufficient to adequately study
+the effects of CF on muscle function. Nevertheless, if the
+protocol is not representative of the training loads regularly
+experienced by those individuals, the functional relevance
+of investigating EIMD and CF supplementation
+becomes questionable. A further measure of muscle
+function used was vertical jump height, in which they
+found no significant differences between groups [49].
+In contrast, Morgan, Wollman [48] found that an acute
+dose of CF (74 mg) aided countermovement jump (CMJ)
+height recovery as participants returned to 95% of baseline
+at 48 h in the CF group compared to 87% in the
+placebo group. However, in this study they consumed a
+much lower dose than used previously in the literature,
+especially the epicatechin content (8 mg). Furthermore,
+the researchers utilised a unilateral EIMD protocol yet
+the CMJ is a bilateral test, which could have influenced
+the findings. Instead, a more appropriate test could have
+been implemented, e.g., a single leg CMJ, as differences
+between participants’ dominant and non-dominant legs
+may have been a confounding variable for jump height.
+Impact of cocoa flavanols on perceived soreness «Table 4»
+Measures of perceived soreness are predominantly subjective
+in nature, typically measured using validated
+scales to quantify subjective pain, soreness and discomfort
+such as a visual analogue scale (VAS) [83] or lower
+extremity functional scale (LEFS) [84]. As muscular soreness
+is ubiquitous with EIMD, most studies investigating
+muscle damage utilised these measures of perceived soreness
+as a way of tracking recovery [48,49,79,80]. Peschek,
+Pritchett [79] administered two doses of 350 mg CF post
+EIMD which were separated by two hours and found no
+effect of treatment on VAS or LEFS scores. Interestingly,
+the increase in soreness from baseline to 24 and 48 h post
+was not significant. This suggests that the protocol used
+(downhill running at a −10% gradient for 30 min) may
+not have induced significant levels of muscle damage in a
+cohort of well-trained endurance athletes.
+Similarly, de Carvalho, Fisher [49] did not find any
+interaction effect of the treatment following the EIMD
+protocol with only minor changes from baseline at 48 h,
+even though this is when DOMS is known to peak [60].
+Out of the four studies only Morgan, Wollman [48] and
+Corr et al. [54] found a main effect of time on VAS scores
+following their respective protocols (100 knee extensions
+and 100 isokinetic hamstring curls respectively). Neither
+found a significant difference between conditions;
+although as mentioned previously Morgan, Wollman
+[31] used a small dose of 74 mg CF and a very low dose
+of 8 mg epicatechin. This amount is unlikely to exert any
+benefit as the required amounts to have a physiological
+influence are reported to begin around 400–700 mg [13]
+and at an epicatechin intake of 50 mg [14]. However, Corr
+and colleagues [54] did find a large effect size for VAS
+scores with a greater dose of 1245 mg CF when compared
+to the control at 48 h.
+Impact of cocoa flavanols on exercise performance
+«Table 5»
+The impact that CF may have on performance is likely
+through the antioxidant potential of the cocoa and
+delayed ROS-induced fatigue. Patel, Brouner [85] measured
+performance using maximal distance timed sprint
+trial, which was completed after 20 min of cycling. It
+was found that 259 mg CF consumed daily for 14 days
+resulted in participants covering 17% more distance than
+baseline and 13% more distance than a white chocolate
+control. The mechanism for this increase may be due to
+CF decreasing ROS production and thereby attenuating
+fatigue [41,42]. An acute dosing strategy with higher
+flavanol products did not elicit any cycling performance
+benefit, only inducing slightly higher nitric oxide levels
+during exercise, which could aid muscle blood flow [86].
+Many sports have limited recovery time between competitions.
+For example, in field hockey tournaments,
+matches are often played 48 h apart; similar recovery
+times are evident in soccer and handball. As a result, it
+may be pertinent to accelerate recovery and attenuate
+symptoms of EIMD in these sports [87]. In one study,
+supplementation of CF (616 mg CF for 7 days) increased
+distance covered during the Yo-Yo Intermittent test 1 of
+9.85% from baseline to 48 h post a 100 drop jump EIMD
+protocol. Whereas the placebo group covered 5.8% less
+distance [49]. In this study CF may have reduced any
+potential oxidative stress that would be associated with
+training, exercise or the EIMD protocol, which may subsequently
+delay fatigue.
+Even though CF supplementation may improve distance
+covered in a set amount of time, it may not improve
+performance related to completing a set amount of work
+or distance in a time trial setting. Decroix, Tonoli [43],
+Decroix, Tonoli [45] and Stellingwerff, Godin [88] found
+no significant differences between groups (CF vs placebo)
+for time trial performance. However, Decroix and colleagues
+[37] observed that in a crossover design the CF
+group tended to complete the first of the two time trials
+faster (29:47 min placebo vs 29:13 min cocoa), although
+statistical significance was not reached. It is difficult to
+ascertain whether the 34 s difference between groups is
+meaningful, as the trial involved participants completing
+a set amount of work equivalent to cycling at 75%
+peak power output for 30 min as fast as possible. As
+each time trial would have been individualised to each
+participant any practical conclusions are difficult to
+make other than that CF may have allowed participants
+to maintain a slightly higher power output than a placebo
+[43]. The CF group also produced a higher power
+output after 25 min (for the final ~ 5 min of the first time
+trial) compared to placebo (PLA 73.09% vs CF 76.75% of
+maximal power output). Decroix, Tonoli [45] found no
+differences for rating of perceived exertion, heart rate,
+lactate or work performed (kilojoules) within the 20-min
+time trial between groups in normoxic or hypoxic environments.
+Interestingly, Stellingwerff, Godin [88] found
+that performance increased for seven participants following
+CF supplementation whereas another seven had
+improved performance following ingestion of the placebo.
+This may suggest that some individuals are potential
+‘non-responders’ to CF supplementation, or that the
+differences seen were due to chance and not the allocated
+treatments. Other studies that investigated performance
+and CF supplementation found no significant differences
+between groups for 5 km time trial performance or
+V̇O2max [41,79,86]. However, recent work by Sadler, Draijer
+[89] suggests that 400 mg daily CF supplementation
+for seven days improves oxygen uptake during moderate-
+intensity exercise, but this benefit was not observed
+during high-intensity exercise. Additionally, after threemonths
+of supplementing 175.2 mg/day of CF, Taub,
+Ramirez-Sanchez [50] observed an increase in participants’
+V̇O2max by 2.8 ± 1.2 ml kg−
+1 min−
+1 and power values
+(140.7 ± 11.6 to 148.3 ± 11 watts), whereas there were
+no significant differences in the placebo group.
+Practical recommendations and future research
+The available data suggests it may be beneficial to ingest
+a moderate dose of CF pre-exercise, with benefits effects
+on oxidative stress observed at doses ~ 200 mg acutely
+and if taken more longer term in the lead up to exercise.
+Higher doses of polyphenols may elicit greater physiological
+effects in vivo [81] and for CF dosage the amount of
+epicatechin is an important factor when considering supplementation
+(≥ 50 mg).
+To maximise absorption and bioavailability, CF can be
+ingested as part of a beverage as opposed to a solid (e.g.,
+high flavanol powder dissolved into a beverage instead of
+solid dark chocolate), potentially due to the faster gastric
+emptying associated with liquids [90]. The bioavailability
+and absorption of flavanols can be further improved via
+the simultaneous consumption of carbohydrates, as consuming
+~ 4 kcal·kg−1 body mass alongside CF increases
+flavanol concentrations in the plasma by 40% [91,92].
+Carbohydrates stimulate and activate sodium-glucose
+transport protein-1 and lactase phlorizin hydrolyase both
+of which are involved in flavanol absorption and metabolism
+[91,93]. From a practical perspective, the consumption
+of CF concurrently with carbohydrates post-exercise
+may lead to the benefits of both replenishing glycogen
+stores and accelerating recovery following muscle damaging
+exercise.
+Future studies should look to investigate the muscle
+recovery process post EIMD alongside the supplementation
+of CF. A focus should be placed on
+whether regular supplementation of high doses of CF
+(> 750 mg) can affect perceived soreness, oxidative
+stress, and inflammation post EIMD, and whether it
+can influence repeat performance, fatigue, and perceived
+effort. Comparisons between different doses
+and thus establishing of an optimal dose to elicit benefits
+is needed before concrete recommendations can
+be made. It is also important that studies investigating
+EIMD should use protocols that evoke sufficient
+muscle damage (e.g., inflammation, muscle soreness).
+Although, such protocols may not be applicable to real
+world sport, they will be useful for determining the
+potential mechanisms by which CF might alter physiology
+and enhance exercise performance and recovery.
+Nevertheless, studies should also investigate the effect
+of CF supplementation on recovery following real
+world exercise or movements that can induce muscle
+damage (e.g., repeated sprint protocols) instead of
+solely laboratory-based protocols that may not replicate
+the demands or damage response that follows
+sporting performances. This may lead to greater practical
+application within sport settings. Utilising both
+variants of EIMD protocol approaches will aid understanding
+of the potential ergogenic value of supplementing
+CF in an athlete’s diet.
+It may be pertinent to investigate prolonged flavanol
+supplementation on repeated bouts of exercise, with a
+focus on performance and recovery. Moreover, investigating
+the impact that CF may have on exercising muscle
+is required to develop greater understanding of the
+mechanisms in which CF exert any effects, such as their
+influence on endogenous antioxidant enzymes and survival
+signalling proteins. Indeed, future research should
+also look to further the knowledge of CF and their role
+in signalling pathways such as nuclear factor-kappa
+beta and nuclear erythroid 2-related factor 2, and how
+the regulation of these pathways may attenuate muscle
+damage.
+Conclusion
+Few studies have examined the effects of CF on recovery
+following EIMD. Of the available data sub-chronic
+(~ 7–14 day) supplementation of CF via dark chocolate
+solids or in the form of a high flavanol beverage reduces
+exercise-induced oxidative stress and has potential for
+delaying fatigue during exercise allowing for prolonged
+performance. However, data on recovery of muscle
+function, and the analgesic and anti-inflammatory
+effects of CF is limited. Research should look to investigate
+these areas further to identify if CF are viable
+as an ergogenic aid used for recovery and potentially
+performance.

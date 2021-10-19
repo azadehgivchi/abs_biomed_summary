@@ -1,0 +1,391 @@
+Introduction
+Every year approximately 15 million babies are born preterm
+[1]. Several complications are associated with preterm
+delivery making it the leading cause of perinatal
+mortality and a major cause of child death in many middle
+and high income countries [2]. Preterm birth (PTB)
+puts a serious burden on the healthcare system as babies
+who are born prematurely present both short and long
+term complications and are at a higher risk of morbidity
+[3]. Other adverse perinatal outcomes such as low birth
+weight (LBW), small for gestational age (SGA), and large
+for gestational age (LGA) have also a direct or indirect
+impact on the health of the newborn and may result in
+long-term sequelae [4–7].
+These adverse events are complex and are associated
+with a number of factors, including biological, obstetrical,
+behavioral, psychological, and socio-economic.
+Over the past two decades, there has been an increasing
+interest in the association of antenatal depression with
+adverse perinatal outcomes [8–10]. Several studies examined
+the effect of depression in pregnancy on preterm
+birth (PTB) and found a positive association [11–14].
+Furthermore, antenatal depression has been identified as
+a risk factor for low birth weight (LBW) [13]. These associations
+have also been presented in the meta-analyses
+of Grote et al. who computed a pooled RR of 1.39 (95%
+CI: 1.19, 1.61) and 1.49 (95% CI: 1.25, 1.77) for the association
+of PTB and LBW, respectively [8]. In addition,
+women with depression in pregnancy, especially in midpregnancy,
+have been shown to experience greater odds
+of delivering a baby with small for gestational age (SGA)
+[9, 15]. At the same time, the evidence about the association
+of antenatal depression and macrosomia (> 4000 g)
+or large for gestational age babies (LGA) is very limited
+[9]. Despite the fact that there is some scientific evidence
+which supports that antenatal depression is associated
+with these adverse outcomes, these associations are not
+consistent, even when comparing results from studies
+conducted in the same country [10, 16–19].
+The mechanism underlying the association of depression
+and psychosocial stress with birth weight is also not
+clear [20]. Cortisol levels in pregnancy are shown to be
+inversely proportional to birth weight but these levels
+cannot be explained by prenatal stress [21]. Different
+mechanisms have been suggested to explain the possible
+association of depression and PTB. Depressed mood is
+linked to a decrease in the activity of natural killer cells
+and a rise in the plasma levels of inflammatory cytokines,
+suggesting that the effect of depression on PTB is
+mediated through inflammation [22]. Moreover, the
+depression-PTB association could be mediated by behavioral
+factors related to depression. Depressive symptoms
+in pregnancy have been associated with adverse health
+habits, such as smoking and alcohol consumption, which
+are known risk factors for PTB [2, 23].
+Other psychosocial problems that may exist before or
+during pregnancy have been also described as potential
+risk factors of perinatal adverse outcomes. A study conducted
+among a group of African-American women in
+the USA suggested that a poor psychosocial profile was
+significantly associated with preterm delivery as well as
+low birth weight infants [20]. Women with posttraumatic
+stress disorder (PTSD) were also shown to be
+at a greater risk of preterm birth [24]. Shapiro et al.
+summarized the results from different studies and concluded
+that psychosocial stress is associated with preterm
+birth, with perceived stress and pregnancy-related
+anxiety being the two indicators most consistently reported
+to increase the risk of PTB [25].
+AlSeaidan et al. (2016) looked at birth outcomes in a
+prospective pregnancy-birth cohort study in Kuwait and
+found that the prevalence of PTB and SGA was similar
+to other developed countries, while macrosomia and
+LGA were in fact greater than what it was expected [26].
+The authors also reported that SGA and LGA were associated
+with pre-pregnancy maternal overweight or obesity.
+In a secondary analysis of data collected in this birth
+cohort, we estimated that as high as one in five women
+in Kuwait experiences depressive symptoms during pregnancy
+and these symptoms are usually comorbid with
+other indicators of a poor psychosocial profile [27].
+Examining whether antenatal depression is associated
+with poor perinatal outcomes is important, as it will add
+important information in this limited or contradictory
+literature. Thus, the aim of this study is to investigate
+whether antenatal depressive symptoms predict preterm
+birth, small for gestational age or large for gestational
+age babies using data collected from a prospective cohort
+study in a population where antenatal depressive
+symptoms were found to be relatively common [26, 27].
+Methods
+Study design
+This analysis is based on data from the Transgenerational
+Risk Assessment of Children’s Risk (TRACER)
+study that was conducted in Kuwait. Details of this study
+have been published elsewhere [26]. Briefly, the TRAC
+ER study is a longitudinal prospective birth cohort study
+that was set up by the Harvard T.H. Chan School of
+Public Health in the USA and the Dasman Diabetes Institute
+in Kuwait. The main aim of this study was to
+examine prenatal risk factors for early childhood obesity.
+The review boards of both institutions provided ethical
+approval for the study and permission for recruitment of
+participants was obtained from the participating health
+centres.
+Participants
+A convenience sampling method was used, approaching
+pregnant women attending antenatal visits at primary
+public health clinics in each of the six governorates of
+Kuwait and three private clinics. The clinic staff provided
+a brochure and referred interested women to the
+onsite research assistant. The TRACER study was open
+to both Kuwaiti and non-Kuwaiti women attending public
+and private clinics, thus making the sample representative
+of the population in Kuwait. Women were eligible
+to participate if they were between 18 and 45 years old,
+had a singleton pregnancy, and were fluent in Arabic or
+English. Most of the women were enrolled in the second
+trimester of their pregnancy but they were also eligible
+to participate if they were in their first or third trimester.
+A written consent from the woman and her partner was
+required for participation in this study.
+Data collection
+Data were collected from May 2012 until August 2015.
+The collection process included several intervieweradministered
+questionnaires. For the purpose of the
+main research question of this analysis we used data collected
+using the Baseline questionnaire, which assessed
+the socio-demographic background and the medical history
+of women, including their last menstrual period;
+and the Stress questionnaire, which assessed several
+mental and physical health indicators before and during
+pregnancy, including antenatal depressive symptoms
+(Edinburgh Depression Scale). The Baseline questionnaire
+was administered at enrolment during a prenatal
+visit to the clinic or hospital while the Stress questionnaire
+was administered at a visit subsequent to enrolment
+or by a phone interview. In the event that the
+woman was recruited during the third trimester of her
+pregnancy, the Baseline and Stress questionnaires were
+both administered at enrolment. The enrolled participants
+were also contacted via phone at a median time of
+6 weeks (IQR: 3–9) after delivery to obtain information
+about the birth date and birth weight and, at the same
+contact, the majority of the women also answered a
+postnatal questionnaire which included questions about
+the health and the diet of the baby, including breastfeeding.
+During the same call, the mother was asked to report
+any diagnosis and treatment for gestational diabetes
+and gestational hypertension in her last pregnancy.
+Measures
+Preterm birth
+The date of the last menstrual period and the birth date
+were used to calculate the gestational age at birth. PTB
+was defined as a gestational age at birth that was less
+than 37 weeks [28].
+Small and large for gestational age babies
+SGA was estimated based on the World Health
+Organization birth weight percentiles for gestational
+week [29]. If the birth weight was lower than the 10th
+percentile for the gestational age then the neonate was
+characterized as SGA. Similarly, LGA was defined by a
+birth weight greater than the 90th percentile [30].
+Antenatal depressive symptoms
+The main exposure of interest was the experience of
+antenatal depressive symptoms which were assessed during
+pregnancy using the Edinburgh Depression Scale
+(EDS). This is the same tool as the Edinburgh Postnatal
+Depression Scale (EPDS) which was originally developed
+to assess postnatal depression. However, some studies
+showed that subscales of the EPDS could also screen for
+anxiety and anhedonia [31]. The tool has 10 items,
+which take a score of 0–3 each with 3 corresponding to
+higher depression or anxiety. Different cut-off points for
+defining the presence of depressive symptoms have been
+recommended in the literature. The questionnaire was
+not validated in this study population, therefore the cutoff
+point of EDS ≥ 10 was used to define depressive
+symptoms, similar to other multi-ethnic studies [32, 33].
+Other variables
+Apart from the aforementioned variables, we also included
+socio-demographic characteristics, such as age,
+nationality (Kuwaiti vs. non-Kuwaiti), employment status,
+educational level, and monthly household income in
+Kuwaiti Dinars [1 Kuwaiti Dinar (KWD) ≈ 3.5 United
+States Dollars (USD)]. We further examined the role of
+pre-pregnancy BMI and self-reported factors describing
+maternal reproductive health, such as parity, preterm delivery
+in a previous pregnancy, conception by in-vitro
+fertilization (IVF), as well as gestational diabetes and
+gestational hypertension in the current pregnancy.
+Statistical analysis
+The strength of the linear association between gestational
+length and birth weight with the EDS scores was
+described using Spearman correlation coefficients. We
+also examined the association of depressive symptoms in
+pregnancy with each of the three outcomes of interest
+(PTB, SGA and LGA) using the chi-square test of independence
+and univariate logistic regression models and
+reported crude odds ratios (ORs) and the corresponding
+95% confidence intervals (95% CI). The same analysis
+was repeated for socio-demographic characteristics, behavioural,
+reproductive health, obstetric, and psychosocial
+variables in order to identify potential risk factors
+for each of the outcomes of interest. We considered variables
+based on previous knowledge and biological
+plausibility. This was followed by a multivariable logistic
+regression model for each outcome to examine the
+adjusted effects of the variables considered. Each
+model included antenatal depressive symptoms, as
+this was the primary exposure of interest, along with
+variables that had a univariate association with a pvalue<
+0.25. Nationality and pre-pregnancy BMI were
+considered as potential effect-modifiers of the antenatal
+depressive symptoms associations with the outcomes.
+We checked for statistical significance of the
+possible effect-modifiers by adding interaction terms
+in the multivariable logistic regression models. The fit
+of the model was assessed using the Hosmer-
+Lemeshow goodness of fit test. All statistical analyses
+were conducted using SAS 9.3 (SAS Institute, Cary,
+NC, USA) and statistical significance was defined as a
+p-value< 0.05 using two-sided tests.
+Results
+A total of 2038 women were enrolled in the TRACER
+study and completed the Baseline and Stress questionnaires
+with usable data. We excluded women without a
+score for the antenatal depressive symptoms (n = 92) and
+women who reported taking anxiety or depression medication
+during the current pregnancy (n = 6) or who completed
+the stress questionnaire in the first trimester (n =
+24). We further restricted the sample to women who
+had provided information about their babies (n = 1798).
+Of these, a total of n = 1694 women had available data to
+calculate all PTB, SGA, and LGA and were included in
+the current analysis.
+Among the 1129 multiparous women there were 469
+(41.5%) with parity 2; 518 (45.9%) with parity 3–4; and
+142 (12.6%) with parity > 4. The majority of the women
+in our sample were non-Kuwaitis (75.1%) and were
+younger than 30 years old (63.3%), similar in the group
+of women with depressive symptoms and the group
+without (Table 1). The two groups also had similar income,
+in vitro fertilization, as well as gestational hypertension
+and gestational diabetes rates. More than half
+(54.2%) had pre-pregnancy BMI in the overweight/obese
+group. The mean gestational age at delivery was 39.2 ±
+1.7 weeks and the mean birth weight was 3216 ± 495 g.
+The group of women with depressive symptoms had
+somewhat smaller percentage unemployed than the
+group with no depressive symptoms, had lower education
+level and were more multiparous (all p < 0.05).
+Overall, the prevalence of PTB, SGA, and LGA in our
+sample was 7.3, 7.1, and 22.6%, respectively (Table 1)
+while the prevalence of depressive symptoms was 19.5%.
+The unadjusted associations of baseline characteristics
+with the outcomes of interest are shown in Table 2.
+The ORs obtained from the logistic regression models
+indicated that women with antenatal depressive symptoms
+had higher odds of PTB, SGA, and LGA though
+none of these associations reached statistical significance.
+When we controlled for possible confounders,
+these associations became slightly stronger for PTB and
+LGA but they remained non-significant (Table 3). None
+of the factors examined (nationality and pre-pregnancy
+BMI) was found to be a modifier of the effect of antenatal
+depressive symptoms on the outcomes of interest.
+In the adjusted analysis, the risk of PTB was associated
+with conception by IVF (OR = 3.32, 95% CI: 1.18, 9.39)
+and preterm delivery in previous pregnancies (OR =
+3.92, 95% CI: 1.99, 7.73) whereas the risk of SGA was
+associated with the sex of the baby, with males having
+lower odds of being small for gestation age than females
+(OR = 0.57, 95% CI: 0.39, 0.84). On the other
+hand, a male baby was a significant predictor of LGA
+(OR = 2.07, 95% CI: 1.56, 2.74). Non-Kuwaiti women
+had increased odds of delivering a LGA baby (OR =
+1.92, 95% CI: 1.19, 3.08).
+Furthermore, we examined the strength of the linear
+association of antenatal depressive symptoms with birth
+weight and gestational length as continuous variables.
+The correlation between the EDS score and gestational
+length was rs = − 0.02 (p = 0.39) and that of EDS and
+birth weight was rs = − 0.04 (p = 0.07).
+Discussion
+This study examined the association of depressive symptoms
+during pregnancy and adverse birth outcomes in a
+sample of pregnant women in Kuwait who were enrolled
+in the TRACER cohort. Overall, higher rates of preterm
+birth, as well as for small and large for gestational age
+babies, were found among women with an EDS score ≥
+10. However, none of these associations reached statistical
+significance either in univariate models or in multivariable
+models after controlling for socio-demographic
+and pregnancy related variables. These results are in line
+with studies conducted elsewhere, which showed that
+depression is not predictive of PTB, especially in women
+who are at a lower obstetric risk [34, 35]. On the other
+hand, in a recently published meta-analysis the pooled
+estimate from 14 studies with a total sample of 21,048
+women showed that there is a much stronger association
+between clinical depression that requires treatment and
+adverse outcomes [9]. However, as Bindt et al. suggested,
+it seems that studies that had taken into consideration
+pregnancy complications did not find a strong association
+between depression and PTB, while many published
+studies which had shown a significant association
+failed to include these complications as risk factors of
+PTB [35]. In our analysis, we tried to include complications
+in current or previous pregnancies that may have
+increased the risk of adverse birth outcomes, to the extent
+that data were available.
+A larger body of evidence exists on the effect of depression
+on low birth weight; in contrast, not many
+studies have examined the effect of depression on birth
+weight in relation to gestational age at delivery. We
+demonstrated that the levels of SGA were not different
+among women with and without depressive symptoms,
+which was consistent with some studies but inconsistent
+with others [15, 36]. Molyneaux et al. reported a weak
+impact of depression on SGA in obese and overweight
+women, though not in normal weight women. However,
+in our study, BMI was not shown to be an effectmodifier
+of this association [37].
+The evidence regarding the effect of depression on delivering
+a large for gestational age baby is scarce. This
+lack is also noted in Jarde et al. [9]. Despite the fact that
+LGA was relatively common in our study, with more
+than a fifth of women delivering a LGA baby, we did not
+find any significant association between this outcome
+and depressive symptoms in pregnancy, in-line with the
+limited studies identified in the literature [38, 39]. Two
+other studies, which investigated the combined effect of
+a BMI 25.0 kg/m2 or higher and depression, reported a
+higher frequency of LGA babies or babies with greater
+standardized birthweight among women with both comorbidities
+[40, 41]. Similar to SGA, our results did not
+suggest that BMI modifies the association between depressive
+symptoms and LGA. Delivering a baby that has
+a weight that is greater for its gestational age is usually
+not considered as an adverse birth outcome but evidence
+suggests that it can be as unhealthy as SGA. Several
+studies have suggested that LGA, or macrosomia, can
+have a sequelae of adverse events at birth, childhood or
+adolescence [4, 7, 42]. Therefore, more research is
+needed to further examine the association of antenatal
+depression and large for gestational age.
+We recognize some limitations in the analyses. The
+EDS was not validated in Kuwait, as this was not the
+main exposure of interest when setting up the cohort.
+An Arabic version has been validated in other Arab
+countries, however, the cultural setting of these countries
+could be different than Kuwait, which ranks among
+the richest countries in the world. Gestational age at
+birth was computed as the number of weeks since the
+last reported menstrual period and was not ascertained
+using ultrasound measurements. However, this is the
+most common method in practice to calculate gestational
+age in the absence of early pregnancy ultrasound
+data. Birth weight and birth dates were self-reported,
+which could potentially be subject to recall bias, though
+it is unlikely that any recall bias exists given the fact that
+mothers recall birth dates and weight very accurately. In
+addition, information was collected by a phone interview,
+therefore women had probably access to the health
+card of their baby. Finally, as there was limited information
+about the mode of delivery we could not adjust for
+it in the multivariable models.
+Despite these limitations, the study has several
+strengths. First, the analysis is based on a prospective cohort
+study with a large sample size and a wide range of
+covariates considered. Furthermore, the data have been
+obtained from a population that has not been studied in
+the past, as regards to the role of mental health and adverse
+perinatal outcomes. Finally, the women recruited
+in the study included both Kuwaitis and non-Kuwaitis,
+who attended public and private clinics in all six governorates
+of Kuwait, in a way that represented the heterogeneous
+composition of the population of Kuwait.
+Therefore, the findings could be generalizable to the
+population of Kuwait and possibly to other countries
+that share similar biological and cultural characteristics.
+Conclusions
+In conclusion, our study suggests that depressive symptoms
+in pregnancy did not predict adverse birth outcomes,
+such as PTB and SGA, which adds to the
+currently non-conclusive literature. Similarly, our findings
+showed that antenatal depressive symptoms are not
+associated with LGA though further research is needed
+to examine this association, given that the available evidence
+is quite limited.

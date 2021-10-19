@@ -1,0 +1,498 @@
+Background
+The distal femur and the proximal tibia are common
+sites for primary and metastatic bone tumor [1]. Amputation
+was the traditional surgical treatment for musculoskeletal
+sarcomas of the extremities, with the aim of
+saving the patients’ life. With the simultaneous improvement
+on the understanding of the biology and staging of
+tumors, reconstructive techniques, and effective adjuvant
+chemotherapy, however, limb salvage surgery has replaced
+the amputation as the predominated treatment
+choice for more than 90% of patients with a primary malignancy
+on the knee [2–4].
+Because of the unique biological inherent properties of
+the tumor, the complex anatomic features of the knee
+and problems associated with extensor reconstruction,
+tumors arising around the knee pose a unique set of
+challenges in the management of soft tissues and the
+restoration of limb length and joint kinetics. The options
+for reconstruction after resection of a tumor around the
+knee joint include implantation of a prosthesis, osteoarticular
+allograft, allograft-prosthesis composite, recycled
+autologous bone graft, arthrodesis with intercalary bone
+grafting or conversion to a rotationplasty [5]. Among
+these methods, tumor prosthesis offers the advantages of
+convenience, early mobilization, and weight bearing
+capability, and it allows the early introduction of postoperative
+adjuvant therapy. Furthermore, there are no
+differences in survival rates between limb-salvage and
+ablative surgery [6–8].
+Although advances in materials and implant design
+have occurred over the past three decades, complications
+and failures of these devices remain high compared to
+other arthroplasty procedures [9–11]. Prosthesis-related
+complications, including infection, aseptic loosening,
+dislocation, recurrence of the tumor, joint stiffness or
+contracture, instability of components, and implant
+mechanical weaknesses, remain an unresolved problem
+which necessitate a revision or even an amputational
+surgery [12–14]. High rate of prosthesis-related failure
+indicates that tumor endoprostheses need to be further
+studied, and improvements in surgical technique and
+component design are required. To guide the treatments
+selection and decision making, it may be crucial to clarify
+the prognostic factors that significantly predict the
+survival of prosthesis used for reconstructing the knee
+operated for tumors. Until now few studies have
+analyzed the prognostic effect of patients’ and operationrelated
+characteristics.
+The nomogram is a type of easy-to-use predicting
+model, which transforms traditional statistical predictive
+models into visualized probability estimates tailored to
+each patient. Using this model, one could be provided
+with continuous survival probabilities at several time
+points that predicted for an individual patient. What is
+more, the nomogram could be further transformed into
+a webpage based predicting widget, easily providing a
+predicted Kaplan-Meier survival curve, and survival rate
+at each time point.
+Thus, the purpose of this study was (1) to evaluate the
+clinical and functional outcomes of patients who underwent
+a limb salvage surgery for tumors around the knee,
+(2) to identify prognostic factors significantly associated
+with implant failure, (3) and to develop a validated
+nomogram model as well as a webpage based predicting
+tool.
+Methods
+This study was conducted according to the Transparent
+Reporting of a Multivariable Prediction Model for Individual
+Prognosis or Diagnosis (TRIPOD) statement [15],
+and reported according to the Strengthening the Reporting
+of Observational Studies in Epidemiology (STROBE)
+Statement (Available in Additional file 1).
+Patients inclusion
+In accordance with the Declaration of Helsinki and upon
+the attained ethical approval from the hospital ethics
+committee, information of 297 consecutive patients with
+neoplastic disease around the knee who were treated
+with tumor resection and subsequent endoprosthetic
+reconstruction between April 1995 and August 2018 in
+two individual research centers were retrospectively
+reviewed for potential eligibility.
+Patients would be included following the inclusion
+criteria: (1) age ≥ 14 years at the time of surgery; (2) bone
+tumors located around the knee; (3) limb-salvage or ablative
+surgery. The initial diagnosis was made based on
+pre-operative radiographs (X ray, magnetic resonance
+imaging [MRI] or computed tomography), and consequently
+confirmed by core needle biopsy or by open
+biopsy and pathological examination. Patients with reconstructed
+knee for medical conditions other than bone
+incomplete
+medical document were excluded.
+Surgical treatment
+All patients indicative for limb-salvage surgery were
+evaluated systemically on the lesion size, preoperative
+planning of the level and optimal types of prostheses.
+The dimensions of the tumor and boundaries were measured
+by a combination of total leg-length radiographs
+and cross-sectional imaging, including MRI or 3D
+Multi-Slice Computerized Tomography (3D MSCT).
+With the completion of imaging materials and histology
+diagnosis, patients were categorized to a surgical stage
+according to Musculoskeletal Tumor Society (MSTS)
+classification [16] and received neoadjuvant chemotherapy
+on protocol when applicable. After resection of the
+tumor, reconstruction was performed using a cemented
+metal endoprosthesis (custom/modular). During the
+early time of the surgery, custom implants (fixed/hinged)
+were used in 88 patients. Modular implants featuring a
+rotating hinge mechanism were subsequently implanted
+in the remaining 63 patients. The surgical resection and
+reconstruction were performed by two senior professors,
+whose members of the team were orthopedic surgeons
+with extensive experience in the field the knee arthroplasty
+procedures, following the generally accepted oncologic
+principles of obtaining a wide surgical margin.
+Excision was performed through a medial or lateral
+parapatellar approach. Frozen section analysis of the
+intramedullary canal contents at the resection site was
+performed intraoperatively to ensure a negative marrow
+margin. An intraoperative radiograph was also performed
+to confirm that the fine line force of the knee
+was obtained for all the patients. We then performed a
+soft tissue reconstruction for each individual to achieve
+muscular coverage of the implants and to restore function
+of the knee.
+Post-operative management mainly focused on
+prophylaxis of incision infection and application of
+antithrombotics and analgesics. Intravenous antibiotic
+prophylaxis was maintained until the wound drains were
+removed. Mobilization commenced on the second day
+postoperatively with the assistance of a walker with the
+purpose of preventing thrombogenesis or development
+of a infection in the urinary systems.
+Post-operative rehabilitation protocol
+In order to obtain the maximum function of the knee
+postoperatively, detailed procedures were described as
+follows. Firstly, immediate weight bearing assisted with
+the hinged brace around the knee for all patients was
+permitted due to the stability of the cemented implants
+and the stability of reconstructed knee. A continuous
+passive motion (CPM) apparatus was used under
+professional rehabilitation therapist’s guidance and
+supervision on the first day post-operatively and continued
+until discharge. Extra attention was paid for patients
+with reconstructions of the extensor mechanism, whose
+motion was commenced from − 5° to 10° extension to
+30° to 45° flexion and gradually increased to greater than
+90° flexion before discharge. When rehabilitation was
+executed, patients were administrated appropriate anodyne,
+which allowed them an indolent restoration.
+Recorded variables
+The patients were required to be interviewed every 3
+weeks for the first 3 months after surgery, then on a
+quarterly basis for 3 years, semiannually for an additional
+2 years, and then annually. The medical records,
+radiographs and pathologic records, operation details,
+information about adjuvant oncological therapies, and
+oncologic outcomes were reviewed. We recorded the
+following variables as the potential prognostic factors:
+age at operation, sex, body mass index (BMI), tumor
+types (divided into borderline tumor, malignant primary
+tumor, and metastatic bone tumor), operation related
+complications within 6 months, adjuvant chemotherapy/
+radiotherapy, pathological fracture, primary/ revision
+reconstruction, anatomical location (proximal tibia or
+distal femur), site of knee (left or right), bleeding
+volume, operation time, bone transplantation, prosthesis
+type (custom or modular), prosthesis motion mode
+(rotational or fixed), length of prosthetic stem, diameter
+of prosthetic stem, material of prosthesis (titanium or
+vatallium), and length of resection.
+The outcome variable was prosthesis survival, which
+was defined as the time interval between operation and
+prosthesis failure (any cause that required replacement
+of the components of the prosthesis).
+Statistical analysis
+The included patients were randomly divided into training
+sample and validation sample with a ratio of 7:3. The
+training sample was used for model establishing and internal
+validation, while the validation sample was used
+for external validation. The continuous variables, including
+the age, BMI, length of prosthetic stem, diameter of
+prosthetic stem, length of osteotomy, operation time,
+and bleeding volume, were transformed into dichotomous
+variable using the cutoff point detected with the
+method of running log rank test [17, 18]. The distribution
+of the patients according to each prognostic factor
+was described as mean ± SD or percentage. Kaplan-
+Meier survival curve was used to describe the overall patients’
+survival and prosthetic survival, in training and
+validation samples.
+Univariate analysis using COX proportional hazards
+model was performed to initially identify the potential
+significance of each prognostic variable on predicting
+the prosthetic survival. All of the variables demonstrated
+to be significantly or marginally significantly (p < 0.15)
+associated with prosthetic survival were included in the
+multivariable COX analysis. Kaplan-Meier survival
+curves were generated for all prognostic factors involved
+in multivariable analysis. Hazard ratio (HR) and confidence
+interval (95%CI) were selected as the effect size
+for both univariate and multivariate COX model. A
+forest plot was generated to display the result of multivariate
+analysis.
+Basing on the significant variables screened by multivariate
+COX model, a novel nomogram was plotted, to
+graphically provide continuous survival rates at several
+time points and the median survival time of prosthesis.
+C-index and calibration curve were used to evaluate the
+discrimination ability and accuracy of the nomogram
+respectively. Finally, after fitting of a new COX model
+using the variables involved in the graphical nomogram,
+a webpage-based dynamic nomogram, which could provide
+predicted survival curve and survival rate at any
+time point as wanted, was established.
+All analyses have been performed with program of R
+language (Foundation for Statistical Computing, Vienna,
+Austria). The univariable and multivariable COX models
+were fitted using the R package “survival”. The graphical
+nomogram and the online dynamic nomogram were
+generated with the packages “rms” and “DynNom”. Level
+of statistical significance was set at P < 0.05.
+Results
+Patients’ baseline characteristics
+A total of 203 patients (156 divided into the training
+sample and 47 divide into the validation sample) were
+eligible for final inclusion according to the inclusion and
+exclusion criteria. The baseline characteristics is shown
+in the Table 1. Among these patients, there were 99
+males (63.46%) and 53 (36.54%) females, and 24 male
+(51.06%) and 23 female in the training and validation
+samples, respectively. The mean age was 35.31 ± 17.54
+and 31.09 ± 16.17 years in the training and validation
+samples at the time of surgery. The distal femur (n = 99,
+63.46%) was more common than proximal tibia (n = 57,
+36.54%) concerning the involved anatomical location.
+The distribution of the tumor histology is presented in
+Fig. 1, showing that malignant primary tumor (osteosarcoma,
+72; malignant fibrous histiotoma, 9; chondrosarcoma,
+6; leiomyosarcoma, 3; synoviosarcoma, 2) was the
+predominated tumor type, followed by borderline tumor
+(giant cell tumor of bone, 53; fibrous histiotoma, 3) and
+malignant metastatic tumor.
+Within 6 months post-operatively, a total of 26
+(16.67%) and 7 (14.89%) patients were encountered with
+operation related complications, in the training and
+validation groups. The major complications leading to
+implant failure were aseptic loosening in 26 out of 20
+patients (20/132, 15.1%), followed by superficial or periprosthetic
+infection (16), local recurrence or metastases
+or both (12), periprosthetic or prosthetic fracture (7),
+wound healing disorders (4), joint instability or flexion
+contracture in two (2), dislocation of the prosthesis in
+one patients (3). Four patients developed nonprosthesisrelated
+complications include peroneal nerve palsy (2),
+others (3). Local relapse arose in 16 (10.26%) patients
+and 5 (10.64%) patients during the follow-up.
+The Kaplan-Meier survival curves for the patients’
+overall survival and prosthesis survival are shown in
+Fig. 2. The overall patients’ survival at 12, 60, and 120
+months were 94.0, 90.8 and 83.0%, and 95.7, 92.8 and
+83.9% in training and validation groups, respectively.
+The prosthesis survival at 12, 60, 120, and 180 months
+were 96.7, 85.8, 76.9 and 44.0%, and 95.7, 82.9, 67.5 and
+45.0% in training and validation groups, respectively.
+Results of univariate and multivariate COX analyses
+Figure 3 shows the results of running log-rank test for
+the continuous predictors, presenting the optimal cut-off
+points to convert these factors into categorical variables.
+The results of univariate COX analysis are shown in
+Table 2, and the Kaplan-Meier survival curves for the
+significant and marginally significant (p < 0.15) prognostic
+factors are presented in Fig. 4. As a result, anatomical
+location at distal femur (HR = 0.412, 95%CI: 0.180 ~ 0.945,
+P = 0.036), fixed prosthetic motion mode (HR = 2.336,
+95%CI: 1.134 ~ 4.812, P = 0.021), and length of resection
+(> = 10.4 cm; HR = 8.959, 95%CI: 3.767 ~ 21.310, P < 0.001)
+were significantly associated with increased implant failure,
+while BMI (HR = 2.555, 95%CI: 0.715 ~ 9.135, P = 0.149),
+operation related complications (HR = 1.877, 95%CI: 0.918
+~ 3.840, P = 0.085), custom/ modular prosthesis (HR =
+2.244, 95%CI: 0.957 ~ 5.257, P = 0.063), and length of prosthetic
+stem (HR = 0.578, 95%CI: 0.287 ~ 1.165, P = 0.125)
+were demonstrated to be marginally associated with the
+survival of implant.
+The forest plot in Fig. 5 shows the effect sizes of
+multivariate analysis, presenting that anatomical location
+(HR = 0.42, 95%CI: 0.20 ~ 0.89, P = 0.024), length of prosthetic
+stem (HR = 0.44, 95%CI: 0.19 ~ 0.99, P = 0.048) and
+length of bone resection (HR = 11.08, 95%CI: 3.34 ~ 36.78,
+P < 0.001) remained to be statistically significant prognostic
+factors for prosthetic survival.
+Establishing and validation of nomogram model
+Basing on the significant prognostic factors screened by
+multivariate COX model, a graphical predicting nomogram
+model was developed, to calculate the predicted
+prosthetic survival probabilities at 1, 5, and 10 years
+post-operatively, as well as the median survival time
+(Fig. 6).
+The C-indexes were 0.717 (95%CI: 0.497 ~ 0.937) and
+0.726 (95%CI: 0.244 ~ 1.208) for the training and validation
+samples respectively, demonstrating that the newly
+established nomogram possesses favorable discrimination
+ability. The calibration curves at 12, 60 and 120
+months for the two samples are displayed in Fig. 7. Generally,
+favorable consistencies between the predicted and
+actual survival were presented, indicating satisfactory accuracy
+of the novel predicting model.
+To facilitate the usage of our novel predicting model, a
+web link (https://hellonihao.shinyapps.io/PangCG_
+DynNomapp/) was generated to automatically calculate
+the prosthetic survival online for each individual patient.
+The predicted survival curve, forest plot presenting survival
+probability, and numeric summary table would be
+output, after selecting of the patients’ characteristics and
+clicking on the button “Predict”. The survival probability
+at any time point could be obtained by dragging the sliderbar
+“time”.
+Case presentation
+Figure 8 and Fig. 9 show a case of patient who was operated
+for bone tumor locates at distal femur and reconstructed
+with a prosthesis that was more than 14.4 cm on
+length of stem, and more than 10.4 cm of bone was
+resected during tumorectomy. Using the graphical nomogram,
+only approximate survival rates could be read on
+the plot by drawing a vertical line through the total point.
+While, through the webpage-based dynamic nomogram,
+the detailed prosthetic survival probabilities at 12, 60 and
+120 months could be automatically calculated, which is
+shown to be 0.890, 0.305 and 0.068, respectively.
+Discussion
+Multimodality limb salvage therapy has replaced amputation
+as the preferred form of treatment for primary
+musculoskeletal tumors primarily owing to improvements
+in adjuvant and neo-adjuvant therapy, as well as
+advances in imaging and diagnostic modalities [2–4].
+After the resection of bone and soft tissue tumors, reconstruction
+of the resulting defects was challenging because
+of the unique anatomic features of the knee.
+Limb-salvage surgery for malignant bone tumors must
+be successful in three different respects, that is, the cure
+of oncology, the durability of prostheses and the satisfactory
+of the function in the limbs. Following reconstruction
+of the operated knee, arising of complications in
+implants was not uncommon, and the prosthetic failure
+has always been regarded as a major event causing serious
+adverse effect on the patients’ overall survival, lower
+limb function and the quality of life, for these tumor patients.
+Thus, it is necessary to figure out the significant
+prognostic factors for prosthetic survival in patients operated
+for tumor around the knee. In the current study,
+we identified that the anatomical location of tumor,
+length of prosthetic stem, and length of bone resection
+during operation were significantly associated with the
+prosthetic survival. Basing on these factors, we also generated
+a graphic nomogram and a web predicting tool,
+which could easily applied for predicting survival probabilities
+of the implant at several time points.
+Until now there are only a few predicting models that
+have been developed to help estimate the prosthetic survival
+probability, using independent prognostic factors.
+In the studies of Zhang et al. [19], they identified the significant
+factors associated with the incidence of aseptic
+loosening after tumor prosthetic replacement around the
+knee, demonstrating that tumor anatomical location
+(proximal tibia vs. distal femur), length of prosthetic
+stem (< 14 cm vs. > = 14 cm), and prosthetic motion
+mode (fixed hinge vs. rotation hinge) were independent
+predictors. After that, they established a graphical nomogram
+to help predict the risk of aseptic loosening at the
+time points of 5 and 10 years. This model, however,
+could only provide approximate risks of aseptic loosening
+at two points, and the applying of the model is not
+convenient as one need to calculate the sub-scores of
+the prognostic factors and the total score, and to gain
+the predicted survival by drawing vertical line. In the
+current study, we also developed a web-page based dynamic
+nomogram, to output a continuous survival curve,
+a forest plot of predicted survival and a numeric table
+online, being easier-to-use for clinicians and patients.
+Regarding to the prognostic factors involved in our
+novel model, they have been widely analyzed in the previous
+researches [5, 20–23]. The anatomical location of
+the tumor at proximal tibia has been demonstrated to be
+associated with increased risk of implant failure compared
+to the tumor at distal femur in many former studies
+[5, 21–23]. In the study of Pala et al. [20], they
+reported that the failure rates of distal femoral and proximal
+tibia replacements were 26.7 and 36.7%, but the difference
+was non-significant between two groups. Hu
+et al. [5] also reported that the anatomical site of tumor
+was associated with the implant survival of tumor
+prosthesis around knee. Zhang et al. [21] investigated
+the prognosis value of site of the implant, and they reported
+a slight difference on the 5-year prosthetic survival
+(86.1% at distal femur and 66.9% at proximal tibia,
+p = 0.09). Guo et al. [22] identified the independent risk
+factors for implant failure in patients operated for tumor
+around the knee, and the result of multivariate COX
+analysis presented that the prosthesis implanted at the
+proximal tibia was associated with increased failure risk,
+when compared to that of the distal femur. Mazaleyrat
+et al. [23] reported that the 5-year and 10-year survival
+rates of implant were 84 and 70% for tumor located at
+distal femur, while 74 and 43% for tumor located at
+proximal tibia, being significantly different between the
+two groups by log-rank test (p = 0.02). Our result about
+the prognostic effect of anatomical location of tumor
+was in accordance with these previous researches. It
+could be speculated that the poor soft tissue coverage,
+difficulties with anchoring the patellar tendon and possible
+injuries to the neurovascular system are the most
+likely causes for this difference.
+Length of prosthetic stem was another important
+predictor for the implant failure, in several published articles
+[19, 24, 25]. Bergin et al. [24] evaluated the
+influences of the diameter of prosthetic stem and length
+ratio of bone:stem on the incidence of aseptic loosening
+in distal femoral endoprostheses, and they found that
+patients with stable implants had significantly larger
+stem sizes and lower bone:stem ratios than those with
+loose implants. Zhang et al. [19] established a predicting
+nomogram for aseptic loosening after tumor prosthetic
+replacement around the knee, and they identified that
+the length of the prosthetic stem was independent prognostic
+factor, being included in their novel prediction
+model. This suggests that longer stem of the endoprostheses
+may have a mechanical advantage by obtain
+more osteointergration between the bone and the endoprosthesis,
+to prevent the early failures.
+Resection length during tumorectomy was also recognized
+as an independent prognostic factor for prosthetic
+survival in former studies [5, 22, 24, 26, 27]. Guo et al.
+[22] found that a resection length of 14 cm or more was
+significant negative prognostic factor for endopristhetic
+replacement for primary tumors around the knee. Hu
+et al. [5] reviewed the published articles about application
+of artificial prosthesis reconstruction techniques in
+malignant tumors around the knee joint, showing that
+the longer the neoplastic bone resected, the worse the
+prosthetic survival rate is. Wu et al. [26] identified the
+prognostic effect of several factors, including the patient
+age, surgical stage, design of implant (custom vs. modular),
+stem diameter, and resection length, through multivariate
+COX analysis, demonstrating that design of
+prosthesis and length of resection were significantly associated
+with prosthetic survival. Kawai et al. [27] reported
+82 cases of artificial prosthesis reconstruction
+after resection of distal femur malignant bone tumors.
+The prosthetic survival rate of the group in whom < 40%
+of the distal femur length was resected was considerably
+higher than that of the group with resection lengthmore
+than 40%, according to multivariate analysis. In our
+study, we divided the patients into two group by the cutoff
+point detected with running log-rank test, and found
+that patients with more than 10.4 cm of resection length
+was associated with increased implant failure. The influence
+of the extent of bone resections on the development
+of implant failure may be contributed by the
+increased torque production out of the line of prosthesis
+and/or impairment of quadriceps contraction. Changes
+in biomechanical stresses after extensive resections of
+bone and adjacent muscles probably are the reasons for
+the increased failure incidence of these implants.
+This study, nevertheless, is of several limitations.
+Firstly, this study was designed as a retrospective cohort
+study, causing inevitable risk of bias on collection of the
+data. Thus, some more prospective and long-term
+cohort studies or randomized controlled trials should be
+conducted to clarified the prognostic effect of the predicting
+factors identified in this study. Secondly, as only
+a few patients were provided with uncemented prostheses
+in our institutions, it was impossible to take full
+assessment on the prognostic effect of the fixation
+method for the endoprostheses. Thus, we excluded patients
+reconstructed by implants without cement fixation
+to minimize the risk of bias caused by fixation methods.
+Thirdly, the patients used for external validation was
+sampled from the same cohort as the training sample
+used for model developing. Hence, further external validation
+using sample from different clinical centers or
+even different countries is necessary. Finally, it is difficult
+to collect large sample size in this topic due to the low
+frequency of tumor resection and endoprosthetic reconstruction
+for tumor around knee. Thus, to ensure the
+statistical power in the regression analysis and model developing,
+most participants were put in the training sample,
+causing the relative small size of validation sample.
+Conclusions
+The anatomical location of the endoprostheses, length of
+the prosthetic stem and the length of the bone resection
+were demonstrated to be significantly associated with
+the risk of implant failure in patients reconstructed for
+tumors around the knee. A graphical nomogram and a
+user-interactive online dynamic nomogram were developed
+to help clinicians and patients easily predict the
+survival probabilities of implant at any time point postoperatively.

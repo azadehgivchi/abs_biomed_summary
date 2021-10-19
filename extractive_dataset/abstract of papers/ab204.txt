@@ -1,0 +1,22 @@
+Background: Multiple guidelines for pancreatic ductal adenocarcinoma (PDAC) suggest that all stages of patients
+need to receive postoperative adjuvant chemotherapy. S-1 is a recently emerged oral antitumour agent recommended
+by the guidelines. However, which population would benefit from S-1 needs to be determined, and predictors
+of chemotherapy response are needed for personalized precision medicine. This pilot study aimed to initially
+identify whether whole-tumour evaluation with MRI and radiomics features could be used for predicting the efficacy
+of S-1 and to find potential predictors of the efficacy of S-1 as evidence to assist personalized precision treatment.
+Methods: Forty-six patients with PDAC (31 in the primary cohort and 15 in the validation cohort) who underwent
+curative resection and subsequently adjuvant chemotherapy with S-1 were included. Pre-operative abdominal
+contrast-enhanced MRI was performed, and radiomics features of the whole PDAC were extracted from the primary
+cohort. After univariable analysis and radiomics features selection, a multivariable Cox regression model for survival
+analysis was subsequently used to select statistically significant factors associated with postoperative disease-free survival
+(DFS). Predictive capacities of the factors were tested on the validation cohort by using Kaplan–Meier method.
+Results: Multivariable Cox regression analysis identified the probability of T1WI_
+NGTDM_Strength and tumour location
+as independent predictors of the efficacy of S-1 for adjuvant chemotherapy of PDAC (p = 0.005 and 0.013) in the
+primary cohort, with hazard ratios (HRs) of 0.289 and 0.293, respectively. Further survival analysis showed that patients
+in the low-T1WI_NGTDM_Strength group had shorter DFS (median = 5.1 m) than those in the high-T1WI_NGTDM_
+Strength group (median = 13.0 m) (p = 0.006), and patients with PDAC on the pancreatic head exhibited shorter DFS
+(median = 7.0 m) than patients with tumours in other locations (median = 20.0 m) (p = 0.016). In the validation cohort,
+the difference in DFS between patients with low-T1WI_NGTDM_Strength and high-T1WI_NGTDM_Strength and the
+difference between patients with PDAC on the pancreatic head and that in other locations were approved, with marginally
+significant (p = 0.073 and 0.050), respectively.

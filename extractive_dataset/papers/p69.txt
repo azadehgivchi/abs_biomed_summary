@@ -1,0 +1,357 @@
+Background
+Laparoscopic surgery has been widely used in pediatric
+surgery in recent years. Compared with the traditional
+surgery method, it possesses many advantages,
+such as slight trauma, rapid postoperative recovery, low
+incidence of infection and less pain, etc. [1]. Due to the
+complicated effect of carbon dioxide (
+CO2) pneumoperitoneum
+stimulus on children’s hemodynamics [2], it
+raises a higher requirement for anesthesiologists to use
+drugs reasonably and maintain hemodynamic stability
+skillfully. Previous studies have shown that anesthesia
+with sevoflurane alone requires a higher minimum alveolar
+concentration (MAC) to block adrenergic response
+(BAR) in adult patients with CO2
+pneumoperitoneum
+stimulus [3, 4]. However, a high concentration of sevoflurane
+for only use is usually associated with hemodynamic
+instability, myocardial depression, and postoperative
+delirium in children [5]. Nowadays, balanced anesthesia
+is used more frequently to provide better pain control
+and also to achieve an adequate depth of anesthesia. It is
+often necessary to use other analgesics to reduce sevoflurane’s
+concentration and its side effects. Remifentanil
+is a strong short-acting opioid, does not rely on liver and
+kidney metabolism, and is suitable for target-controlled
+infusion. Therefore, this study aims to investigate the
+effects of different remifentanil plasma target concentrations
+on the MACBAR
+of sevoflurane in children with
+laparoscopic surgery.
+Methods
+Subjects
+This study was approved by the Ethics Committee of the
+Affiliated Hospital of North Sichuan Medical College,
+Nanchong, China (Approved No. 2018ERR009). Written
+informed consent was obtained from each child’s
+guardian. All experiment procedures (consisted of invasive
+manipulation) and data collection were conducted
+with prior informed consents. The manuscript adheres to
+CONSORT guidelines and was registered with the Chinese
+Clinical Trials Registry at http:// www. chictr. org. cn
+(ChiCTR1800019393, principal investigator: Juan XU,
+date of registration: Nov. 8, 2018).
+This research was conducted between November 2018
+and June 2019. Seventy-five child patients, scheduled
+for laparoscopic herniorrhaphy, with American Society
+of Anesthesiologists (ASA) physical status I-II, aged
+between 3 and 7 years, were selected. Exclusion criteria
+included a history of cardiovascular, brain, liver, kidney,
+or hematological disease; a history of allergies to inhalation
+anesthetics or opioids; a history of recent upper respiratory
+tract infection. The flowchart of patients through
+the trial is shown in Fig. 1.
+Study design
+All children were randomly assigned to three groups (
+R0,
+R1,
+R2)
+with 25 cases in each group according to computer-
+generated randomization. Children in the three
+groups were anaesthetized by inhalation of sevoflurane
+and intravenous infusion of remifentanil with different
+plasma target concentrations (0, 1, 2, ng ml-
+1), respectively.
+During the creation of CO2
+pneumoperitoneum,
+the sympathetic adrenergic response was monitored in all
+patients. A positive response was defined as an increased
+heart rate (HR) or mean arterial pressure (MAP) over
+its baseline value more than 20%. On the contrary, if the
+increase of HR and MAP was less than 20% of its baseline
+value, the sympathetic adrenergic response was defined
+as a negative response. The mean value of MAP or HR
+measured 3 and 1 min before pneumoperitoneum stimulus
+was defined as its baseline value. The mean value of
+HR or MAP measured 1 and 3 min after the pneumoperitoneum
+pressure maintained stable was defined as
+its changed value. Patients would be excluded from the
+experiment if hypotension or bradycardia occurred at
+the period of determination. Hypotension was defined
+as systolic blood pressure (SBP) (5th percentile at 50th
+height percentile), less than 2 x age in years + 65 and was
+treated with intravenous ephedrine. Similarly, bradycardia
+was defined as HR < 80 bpm and was treated with
+intravenous atropine [6, 7].
+Anesthesia administration
+Induction
+All children were fasted for 6 h and not allowed to
+drink water for 2 h before operation, and not received
+premedication routinely. Before induction of anesthesia,
+a venous channel was established and infused
+with compound sodium chloride solution at a rate of
+10 mlˑkg-1ˑh-1. Electrocardiogram, pulse oxygen saturation,
+non-invasive blood pressure were routinely
+monitored with a PM-9000 express monitor (Mindray
+Medical International Limited, Shenzhen, China), and
+depth of anesthesia was monitored by using bispectral
+index (BIS) (Canwell Medical International Limited,
+Zhejiang, China). In each group, anesthesia was induced
+by inhalation of 7% sevoflurane with 100% oxygen. After
+children had lost their consciousness, the inhaled sevoflurane
+concentration was reduced appropriately, and
+1 μgkg-1 remifentanil and 0.6 mgkg-
+1 rocuronium were
+intravenously injected. After tracheal intubation, sevoflurane
+concentration was adjusted to a preset endtidal
+concentration of 3.0%, 2.2% and 1.4% in group R0,
+group R1
+and group R2,
+respectively. Sevoflurane concentration
+was monitored by a multifunctional monitor
+(Shenzhen Mindray Biomedical Co., Ltd., PM9000). At
+the same time, remifentanil was administered by targetcontrolled
+infusion in each group with the Minto model
+using a micro pump (TCI-I, ver 4.0, Guangxi VERYARK
+Technology Co., Ltd). The degree of neuromuscular
+relaxation (2 Hz for 1.5 s every 11.5 s) was continuously
+assessed by acceleromyography using a TOF-watch SX
+system (Veryark-TOF, Guangxi, China), starting when
+the children were unconscious [8, 9].
+Measurement of MACBAR
+When the preset end-tidal sevoflurane concentration
+had maintained stable at least 20 minutes, CO2
+pneumoperitoneum
+was established, and its pressure was set
+at 9 mmHg with a flow rate of 2 Lmin-
+1. The first child’s
+preset end-tidal sevoflurane concentration in each
+group was obtained from our preliminary test. The next
+child’s end-tidal sevoflurane concentration for maintenance
+in each group would be adjusted based on the
+result of the previous child’s cardiovascular response.
+If the response was positive (negative), the subsequent
+child’s end-tidal sevoflurane concentration would be
+increased (decreased) by 0.2%. The person for recording
+the data was blinded to the plasma target-controlled
+remifentanil concentrations used in all groups.
+The test was over in each group when six crossing
+points of a positive versus negative response or a negative
+versus positive response in the pre and the next child
+had occurred. The MACBAR
+of sevoflurane in each group
+was calculated as the mean value of the end-tidal sevoflurane
+concentrations corresponding to the six crossing
+points. After the above test had been done, 0.1 mg kg-
+1 of
+midazolam was given intravenously to prevent a potential
+intraoperative awareness. All the children were received
+a routine intravenous and inhaled combined anesthesia.
+The BIS value was maintained between 40 and 60. The
+administration of sevoflurane and remifentanil were discontinued
+5 minutes before the end of operation, and 1.5
+μgkg-1 of fentanyl was intravenously injected for analgesia.
+All children were transferred to the pediatric intensive
+care unit.
+Determination of blood samples
+Arterial blood samples (each for 3 ml) were collected
+3 min before and after CO2
+pneumoperitoneum with
+sodium-heparin-containing tubes. Soon after, the plasma
+was separated and frozen at -70°C in a refrigerator until
+analysis. After the sample collection had been completed,
+the concentrations of epinephrine (E) and norepinephrine
+(NE) were measured using a method that has been
+described previously [3].
+Statistical analysis
+Statistical analysis was performed using SPSS22.0 software.
+All measurement data were expressed as mean
+± SD. Only these data from the 12 cases at 6 crossing
+points of a positive (negative) versus negative (positive)
+response in each group were analyzed. The delta
+HR, delta MAP, delta E, and delta NE value was calculated
+as the difference between its change value and
+baseline value, respectively. One-way analysis of variance
+(ANOVA) for the complete random design was used to
+compare the differences of age, weight, MACBAR,
+delta
+HR, delta MAP, delta E, and delta NE among the three
+groups, respectively. The sex constituent ratio was tested
+by Fisher’s exact probability among the three groups. P
+value <0.05 was considered as a statistical significance.
+Results
+A total of 52 cases from the anticipant 75 child patients
+were used in this study. Two cases in group R2
+due to
+hypotension were withdrawn from the study. Ultimately,
+to obtain six crossing points (Fig. 2), 18, 13, and 21 cases
+were used in groups R0,
+R1,
+and R2,
+respectively. The general
+information and the MACBAR
+of sevoflurane in the
+three groups were shown in Table 1. Target-controlled
+infusion of 1 ngml-
+1 and 2 ngml-
+1 remifentanil can reduce
+the MACBAR
+of sevoflurane in children by 36% and 61%,
+respectively (P<0.05). The baseline values of HR and
+MAP in groups R1
+and R2
+were lower than those in group
+R0
+(P<0.05), but no significant differences were found
+between group R1
+and group R2
+(P> 0.05). No significant
+differences were found in the delta HR, delta MAP, delta
+E, and delta NE among the three groups, respectively
+(P>0.05).
+Discussion
+Previous studies have found that opioid analgesics can
+reduce the MACBAR
+or MAC of inhalation anaesthetic
+under skin-cutting stimulus both in children and adults
+[4, 10–12] and also can reduce the MACBAR
+of sevoflurane
+when using pneumoperitoneum stimulation in
+adults [3]. However, whether opioid analgesics have the
+same effect on sevoflurane’s MACBAR
+in children under
+pneumoperitoneum stimulus has not been reported.
+This study found that remifentanil plasma target concentrations
+1 ngml-
+1 and 2 ngml-
+1 could make the
+MACBAR
+of sevoflurane (3.29%) in children decreased
+36% and 61% under pneumoperitoneum stimulus,
+respectively. The decreased degree is very similar to our
+previous result when the same target concentrations
+of remifentanil were used in adult’s laparoscopic surgery
+(decreased 48% and 63%) [3]. It is also similar to
+another study’s result in adult patients with the similar
+plasma target concentrations of remifentanil by skincutting
+stimulus [13]. It means that a same plasma target
+concentration of remifentanil can induce a similar
+decreased degree of sevoflurane’s MACBAR
+no matter
+using pneumoperitoneum stimulus or incision stimulus
+either in adults or in children.
+However, at a same target concentration of remifentanil,
+the MACBAR
+of sevoflurane in children using
+pneumoperitoneum stimulus is higher than that using
+skin incision stimulus, which may be mainly related to
+that pneumoperitoneum stimulus is more intensive
+than skin incision stimulus [3] because laparoscope
+pneumoperitoneum stimulus not only includes a direct
+stimulus of the needle to the skin but also include
+the stimulus of CO2
+pneumoperitoneum pressure. A
+stronger pneumoperitoneum stimulus must induce a
+greater impact on children’s heart rate and blood pressure
+[14]. A deeper anaesthesia is required to inhibit an
+intense cardiovascular response. As all known, the setup
+of CO2
+pneumoperitoneum will increase patient’s intraabdominal
+pressure and thoracic pressure, which will
+induce a decrease of venous return and cardiac output
+and excite the sympathetic nervous system. In addition,
+the absorption of CO2
+through the peritoneum can also
+indirectly stimulate the central nervous system and activate
+the sympathetic adrenal system [15]. As a result, it
+will lead to a significant increase in the secretion of cortisol,
+epinephrine, norepinephrine, rennin and vasopressin,
+and eventually manifest as an increase of patients’
+blood pressure and heart rate [16]. However, when we
+analyzed the changes of plasma epinephrine and norepinephrine
+concentrations, heart rate, and blood pressure
+before and after pneumoperitoneum stimulus in pediatric
+patients with crossover points to cardiovascular
+response, no significant differences were found among
+the three groups, respectively (Table 1). It indicates that
+at a similar depth of anesthesia, the changes of plasma
+epinephrine and norepinephrine levels and hemodynamic
+parameters are consistent and not affected by
+different plasma target concentrations of remifentanil,
+which is consistent with the results of Zou’s study in
+adult patients with laparoscopic surgery [3].
+In this study, the HR and MAP in groups R1
+and R2
+were significantly lower than those in group R0
+before
+the creation of pneumoperitoneum, which may be
+related to multiple mechanisms of remifentanil causing
+slow heart rate and low blood pressure, such as exciting
+vagus nerve, inhibiting sinus node’s self-regulation,
+and relaxing the peripheral vascular smooth muscle
+and so on [17, 18]. However, no severe hypotension
+and bradycardia occurred when 1 ngml-
+1of remifentanil
+target concentration was used. Only 2 cases experienced
+transient hypotension in the group with 2 ngml-
+1
+of remifentanil target concentration. It can be quickly
+corrected by intravenous bolus injection of ephedrine
+3-5mg. Our preliminary experiment found that severe
+hypotension or bradycardia would happen when the
+remifentanil plasma target concentration was more
+than 3 ngml-
+1, and the end-tidal sevoflurane concentration
+would be close to its MACawake
+value [19], which
+may appear intraoperative awareness. Therefore, we
+had not attempted to measure the MACBAR
+of sevoflurane
+using a higher remifentanil target concentration
+over 2 ngml-
+1.
+Although the basal stress level and related plasma
+levels of stress hormones might be affected in children
+who were taken to the operating room without premedication.
+The premedication, like as midazolam and
+atropine, will also affect the changes of hemodynamics
+(such as HR and MAP). It may induce a dual effect
+with remifentanil on the MACBAR
+of sevoflurane, so
+that none of our patients received premedication in this
+study. During our study, as per the study protocol, the
+MACBAR
+of sevoflurane was calculated depending on
+the changes of MAP and HR values that were recorded
+after anesthesia induction and before the surgical incision
+and establishment of pneumoperitoneum. During
+this period, we maintained a stable hemodynamical
+status. Therefore, the measured result of sevoflurane
+MACBAR
+should be little affected by the stress situation
+before anaesthesia.
+There are several limitations of our study. One of the
+limitations is that this study mainly focused on child
+patients at preschool age group between 3 and 7 years
+old. We did not choose infants, school-age and adolescent
+children in this study. The effects of infants,
+school-age and adolescent children on the MACBAR
+of
+sevoflurane with pneumoperitoneum stimulus needs
+further study. Another limitation is that we have not
+measured the actual plasma remifentanil concentration,
+although the Minto pharmacokinetic model for
+target-controlled infusion is safe in adults [20–23].
+The accuracy of the Minto pharmacokinetic model of
+remifentanil in the pediatric population needs further
+study.
+Conclusions
+Remifentanil by target-controlled infusion can significantly
+reduce the MACBAR
+of sevoflurane responding to
+laparoscopic pneumoperitoneum stimulus in children of
+3 to 7 years old. In addition, at a similar effect of sevoflurane’s
+MACBAR,
+the changes of adrenergic response are
+similar.

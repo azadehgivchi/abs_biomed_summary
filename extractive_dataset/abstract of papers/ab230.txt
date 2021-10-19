@@ -1,0 +1,23 @@
+Background: Physical activity may benefit health and reduce risk for chronic complications in normal and people
+with diabetes and peripheral vascular diseases. However, it is unclear whether leg muscle fatigue after weight-bearing
+physical activities, such as brisk walking, may increase risk for plantar tissue injury. In the literature, there is no evidence
+on the effect of muscle fatigue on plantar pressure after various walking intensities. The objectives of this study
+were to investigate the effects of various walking intensities on leg muscle fatigue and plantar pressure patterns.
+Methods: A 3 × 2 factorial design, including 3 walking speeds (1.8 (slow and normal walking), 3.6 (brisk walking), and
+5.4 (slow running) mph) and 2 walking durations (10 and 20 min) for a total of 6 walking intensities, was tested in 12
+healthy participants in 3 consecutive weeks. The median frequency and complexity of electromyographic (EMG) signals
+of tibialis anterior (TA) and gastrocnemius medialis (GM) were used to quantify muscle fatigue. Fourier transform
+was used to compute the median frequency and multiscale entropy was used to calculate complexity of EMG signals.
+Peak plantar pressure (PPP) values at the 4 plantar regions (big toe, first metatarsal head, second metatarsal head, and
+heel) were calculated.
+Results: Two-way ANOVA showed that the walking speed (at 1.8, 3.6, 5.4 mph) significantly affected leg muscle
+fatigue, and the duration factor (at 10 and 20 min) did not. The one-way ANOVA showed that there were four significant
+pairwise differences of the median frequency of TA, including walking speed of 1.8 and 3.6 mph (185.7 ± 6.1
+vs. 164.9 ± 3.0 Hz, P = 0.006) and 1.8 and 5.4 mph (185.7 ± 6.1 vs. 164.5 ± 5.5 Hz, P = 0.006) for the 10-min duration;
+and walking speed of 1.8 and 3.6 mph (180.0 ± 5.9 vs. 163.1 ± 4.4 Hz, P = 0.024) and 1.8 and 5.4 mph (180.0 ± 5.9
+vs. 162.8 ± 4.9 Hz, P = 0.023) for the 20-min duration. The complexity of TA showed a similar trend with the median
+frequency of TA. The median frequency of TA has a significant negative correlation with PPP on the big toe ( r = -0.954,
+P = 0.003) and the first metatarsal head ( r = -0.896, P = 0.016).
+Conclusions: This study demonstrated that brisk walking and slow running speeds (3.6 and 5.4 mph) cause an
+increase in muscle fatigue of TA compared to slow walking speed (1.8 mph); and the increased muscle fatigue is
+significantly related to a higher PPP.

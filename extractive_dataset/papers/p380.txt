@@ -1,0 +1,692 @@
+Background
+Rheumatoid arthritis (RA) is a chronic inflammatory
+disease characterized by inflammation of the synovial
+membrane. The release of pro-inflammatory cytokines
+as well as other pro-inflammatory molecules results in
+joint destruction and disability [1, 2]. To date, the exact
+cause of RA has not been identified but several studies
+pointed out that pro-inflammatory cytokines, including
+tumor necrosis factor (TNF)-α, interleukin (IL)-1, IL-6,
+IL-17 and the mediators produced through downstream
+pathways in the arthritic joints, constitute the milieu
+driving cartilage and bone destruction [3]. On this basis,
+therapeutic possibilities for RA patients include monoclonal
+antibodies, fusion proteins or antagonists against
+these molecules. However, partial and non-responses to
+these compounds, together with the increasing clinical
+drive to remission induction, requires that further
+therapeutic targets are identified [4]. In recent years, a
+growing number of new cytokines as well as their function
+in health and disease have been identified [5]. Cytokines
+serve as the mediators of cellular differentiation,
+inflammation, immune pathology, and regulation of the
+immune response. In particular, novel inflammatory
+mediators with their associated cell signaling events have
+now been proven to have a role in experimental arthritis
+and in RA, including members of the IL-1 (IL-33, IL-36,
+IL-37, IL-38) and IL-12 (IL-27, IL-35) superfamilies, and
+other cytokines such as IL-32, IL-34. The aim of this review
+article is to provide an overview on these recently identified
+cytokines, emphasizing their pathogenic role and therapeutic
+potential in RA. Table 1 summarizes all the available
+data in animal models and RA patients for each cytokine.
+New members of IL-1 family
+IL-33
+IL-1 cytokine includes 11 pro-inflammatory and antiinflammatory
+members, chronologically named according
+to their discovery, IL-1 family member 1 (IL-1F1) to
+IL-1F11. More commonly, they are also known as IL-1α,
+IL-1β, IL-1 receptor antagonist (IL-1Ra), IL-18, IL-33,
+IL-36α, IL-36β, IL-36γ, IL-36Ra, IL-37, and IL-38 [6]. All
+IL-1 cytokines bind to similar receptors consisting of
+extracellular immunoglobulin domains and intracellular
+Toll/IL-1 (TIR) domains. The signal is transduced via
+cytoplasmic myeloid differentiation primary response protein
+88 (MyD88) and IL-1R associated kinase 4 (IRAK4),
+ending up in the activation of transcriptions factors like
+NF-kB or MAPK [7]. IL-33 (IL-1F11) was identified in high
+endothelium venules in 2003 [8]. Subsequent studies revealed
+that IL-33 acts as alarmin, being modulated by inflammatory
+stimuli. Indeed, IL-33 is up-regulated during
+the inflammatory response and can be released by necrotic
+cells. On the other hand, IL-33 is inactivated by caspase-1
+during apoptosis [9]. IL-33R ST2 belongs to the family of
+IL-1R and, upon binding to the ligand, triggers the transduction
+signal via the NF-kB or MAPK pathways [10]. ST2
+is expressed by several immune cells including basophils,
+mast cells, eosinophils, DCs and NK cells. However, the
+most important target of IL-33 is represented by Th2 cells.
+Besides its trans-membrane form, ST2 can be released in a
+soluble form (sST2) by different immune and non-immune
+cell types thereby blocking IL-33 effects [11]. Being involved
+in Th2 immune response, IL-33 has been extensively
+investigated in the field of allergic diseases [12]. Circulating
+and tissue levels of IL-33 are increased in experimental
+models of asthma [13, 14] and blockade of this pathway is
+able to ameliorate airway inflammation [13, 15–17], thereby
+confirming an in vivo inhibition of IL-33-mediated effects.
+With regard to experimental arthritis, the development and
+severity of CIA in IL-33 KO mice is comparable to that of
+WT mice [18]. However, mice lacking ST2 develop attenuated
+CIA and AIA and treatment of WT mice with recombinant
+(r) IL-33 significantly exacerbated both [19, 20].
+Therefore, data from animal models do not provide univocal
+evidence. In RA patients, IL-33 serum levels are increased
+compared to normal and disease controls (OA and
+psoriatic arthritis (PsA)) [21–24]. Evidence from RA SF is
+conflicting as IL-33 was found to be either increased [25]
+or comparable [23] to OA SF. Conflicting results were also
+obtained with regard to the correlation of serum and SF IL-
+33 in RA paired samples. In fact, both an inverse [21] and a
+direct association have been reported [25]. Of interest, RA
+patients with higher active disease display higher levels of
+this cytokine in serum [21] and SF [26] and higher IL-33
+serum levels were also associated to bone erosions and RAILD
+[22]. In this regard, and also in general when measuring
+cytokines in the serum of RA patients, it should be
+taken in mind that discrepancies could be due to false measurements
+caused by heterophilic antibodies [27] or differences
+in patient population. Serum sST2 levels were found
+to be increased in RA compared to OA [23]. IL-33, IL-33R
+ST2 and sST2 expression has been claimed as possible
+markers of response to treatment in RA. First, RA patients
+achieving a good response with an anti-TNF-α treatment
+display lower levels of IL-33 in serum and SF and IL-33R
+on immune cells compared to patients treated with methotrexate
+or non-responders to TNF-α inhibitors [28, 29].
+This is further supported by the evidence that neutrophils
+of anti-TNF-α responder patients respond to a lesser extent
+to IL-33 in vitro compared to methotrexate-treated patients.
+Secondly, RA patients with lower sST2 levels at
+baseline are those who more likely achieved remission
+following 12 months of treatment with disease modifying
+anti-rheumatic drugs (DMARDs) and anti-TNF-α agents
+[30]. Finally, baseline detectable serum IL-33 levels have
+been associate to a good clinical response to rituximab [31].
+Interestingly, baseline IL-33 and sST2 levels have been also
+associated to cardiovascular risk factors. Cardiovascular risk
+is a severe comorbidity in RA patients being the first cause
+of death in these patients and persistent inflammation is
+one of the main determinants. In this regard, baseline level
+of serum IL-33 is also a predictor for atherosclerotic plaque
+progression in patients with early RA, independently of
+other traditional risk factors and other inflammatory
+biomarkers [30]. Currently available data regarding IL-
+33 axis in RA do not allow to draw definitive conclusion
+about its actual role in RA pathogenesis and consequently
+about its possible therapeutic targeting in
+this disease.
+IL-36 and IL-38
+The new IL-1 family members IL-36α, IL-36β, IL-36γ,
+IL-36Ra (IL-1F5) and the antagonist IL-38, bind to the
+IL-36R consisting of the IL-1 receptor-related protein 2
+(IL-1RrP2) and its accessory protein IL-1RAcP. IL-36R
+is expressed by DCs, CD4+ T-cells and macrophages.
+Binding of the agonists to the membrane bound IL-
+1RrP2 leads to the recruitment of the co-receptor IL-
+1RAcP. This triggers an intracellular signaling cascade
+via JNK, ERK1/2, and NF-kB which results in the
+production of pro-inflammatory mediators. On the
+contrary, the binding of the natural inhibitors IL-36Ra
+and IL-38 prevents the signaling [32, 33]. During the last
+few years, IL-36 cytokines as well as IL-37 and IL-38
+raised growing interest, as they have been involved in
+various diseases, including RA [34]. IL-37 and IL-38
+have been shown to play an anti-inflammatory role in
+several diseases, whereas IL-36 exerts pro-inflammatory
+effects. All the three IL-36 agonists induce proinflammatory
+mediators such as cytokines, chemokines
+and co-stimulatory molecules thereby promoting Th1
+and Th17 cell commitment, neutrophil influx and DC
+activation [35]. In particular, IL-36 and its receptor can
+stimulate DC and can promote their maturation; DC
+precursors exposed to IL-36 release IL-12 and contribute
+to differentiation of T cells to Th1 cells. In vivo, IL-36β
+can act as an adjuvant to promote Th1 response [36]. In
+humans, the three IL-36 isoforms and their receptor are
+over-expressed in psoriasis; moreover, IL-36 can induce
+the release of pro-inflammatory cytokines, such as IL-6
+or IL-8 as well as IL-17, IL-22, and. These cytokines can
+induce IL-36 release, creating a feedback loop [33, 37].
+In mouse models of RA, such as CIA, collagen antibodyinduced
+arthritis (CAIA), and AIA, all of the IL-36 family
+members are upregulated during acute inflammation.
+However, treatment with an IL-36R-blocking antibody of
+TNF-transgenic mice, another experimental model of
+RA, resulted in no changes in symptoms or clinical onset,
+suggesting that the severity of experimental arthritis
+is independent of IL-36R signaling [38, 39]. This evidence
+can be attributable to the redundancy of IL-1 family
+member downstream signaling, mainly those of IL-1,
+which is a major player in experimental arthritis. It is
+unclear whether this redundancy is similar in human
+arthritis. Of note, the magnitude of stimulatory effect of
+IL-36 in synovial fibroblasts and articular chondrocytes
+was markedly lower than those of IL-1 [40], suggesting
+that IL-36 is probably not a key player in human arthritis.
+IL-36β is constitutively expressed in human articular
+chondrocytes, and stimulation of both synovial
+fibroblasts and articular chondrocytes by recombinant
+IL-36β induces proinflammatory cytokine responses
+[40]. In mice with CIA and in the synovium of patients
+with RA, IL-36α, IL-36β, IL-36γ, IL-36Ra and IL-38 were
+all elevated and correlated with IL-1β, CCL3, CCL4 and
+macrophage (M)-CSF, but not with Th17 cytokines [41].
+Expression of IL-36R and its ligands IL-36α and IL-36Ra
+has been detected in the synovial lining layer and cellular
+infiltrates of patients with inflammatory arthritis [42].
+IL-36α was upregulated in the synovium of patients with
+PsA and RA, compared to patients with OA. Conversely,
+IL-36R and its natural antagonist IL-36Ra were
+expressed at similar levels in the synovial tissue in all
+three diseases. In the same study, synovial CD138+
+plasma cells seem to be the main source of IL-36α, and
+IL-36α is able to induce IL-6 and IL-8 production in
+synovial fibroblasts [42]. IL-38 (IL-1F10) is released as a
+152-amino acid precursor having a molecular weight of
+16 kDa. IL-38 shares 41% homology with IL1-Ra and
+43% with IL-36Ra [43, 44]. IL-38 binds to IL-36 receptor,
+as does IL-36Ra, and has similar biological effects on immune
+cells. Thus, in vitro, IL-38 inhibits the production
+of Th1 cytokines, IL-17, and IL-22. IL-38, similarly to
+IL-36Ra, has an anti-inflammatory effect on PBMCs,
+contrasting with a clearly pro-inflammatory effect on
+DC with increased IL-6 production [45]. IL-38 is selectively
+secreted by human apoptotic cells to counteract inflammation.
+The depletion of IL-38 in apoptotic cells
+leads to an increase of pro-inflammatory cytokine release
+by macrophages and to the subsequent expansion of
+Th17-cell at expense of IL-10-producing T cells [46].
+Interestingly, in this study, full length recombinant IL-38
+induced IL-6 production by macrophages, whereas truncated
+IL-38 decreased IL-6 expression after X-linked
+interleukin-1 receptor accessory protein-like 1 (IL-
+1RAPL1) binding. However, it is still unclear whether IL-
+38 is an inflammatory or an anti-inflammatory cytokine.
+IL-38 seems to have either pro- or anti-inflammatory
+effects depending on the dose. Whereas IL-38 gene
+deficiency enhanced arthritis, systemic administration of
+recombinant IL-38 protein did not inhibit arthritis development.
+Therefore, it is possible that IL-38 may have dosedependent
+effects in inflammatory vs. anti-inflammatory
+responses. Further analysis is required to test this hypothesis.
+Takenaka et al. investigated AIA in IL-38 KO and
+observed greater disease severity, accompanied by higher
+IL-1β and IL-6 gene expression in the joints compared to
+control mice [47]. Recently, Boutet et al. demonstrated that
+adeno-associated virus-mediated IL-38 overexpression
+exerted moderate but significant anti-inflammatory effects
+in CIA and K/BxN serum transfer-induced arthritis (STIA)
+[48]. In addition to the reduced macrophage number, a significant
+decrease in the expression of Th17 cytokines (IL-
+17, IL-22), IL-6, TNF-α and CXCL1 was observed in this
+study, without any modification in IL-1β expression. Of
+note, IL-38 overexpression did not induce the production
+of other anti-inflammatory cytokines, but reduced significantly
+IL-10 expression. IL-38 levels are increased in the
+synovial membrane and sera from patients with RA
+compared with healthy controls [47, 49] IL-38 is
+expressed by keratinocytes, synovial fibroblast from patients
+with RA, as well as by human monocytes and
+type I macrophages polarized in vitro [41].
+Taken together, data about IL-36 in RA seem to
+support the pursuit of its blockade for therapeutic
+purposes in this disease, Conversely, whether the antiinflammatory
+cytokine IL-38 should be considered a
+new therapeutic option in arthritis or other inflammatory
+diseases deserves further experiments.
+IL-37
+IL-37, previously known as IL-1 family member 7 (IL-
+1F7), is a member of the IL-1 family initially identified
+in early 2000s [49]. IL-37b is the largest of the 5 different
+splice variants (from a to e) and its precursor is
+cleaved by caspase-1 into mature IL-37b. IL-37 is
+expressed in several tissues, is associated with plasma
+cells and it is constitutively expressed in the cytoplasm
+of monocytes and PBMCs [50]. TLR agonists and proinflammatory
+cytokines, including IL-1β, TNF-α and
+IFN-γ can upregulate IL-37 in PBMCs [51]. Upon binding
+to its receptor shared with IL-18, IL-18R, IL-37 is
+able to inhibit the transcription of several proinflammatory
+cytokines, including IL-17, via the suppression
+of the MAPK pathway [52, 53]. Recent data
+demonstrated that IL-37 also needs IL-1R8, a member of
+the IL-1R family, to exert such anti-inflammatory activity.
+In fact, transgenic mice overexpressing IL-37 are
+protected from lipopolysaccharide (LPS)-induced shock
+[53], but only if the IL-1R receptor is correctly expressed
+in order to form the tripartite IL-37–IL-1R8–IL-18Rα
+complex on the surface of PBMCs upon stimulation with
+LPS [54]. Similarly, the administration of recombinant
+IL-37 consistently reduced LPS-induced inflammation
+[54]. In addition, IL-37 transgenic mice develop less severe
+colitis and psoriasis [55, 56]. Based on the antiinflammatory
+activity of IL-37, several studies have been
+performed to investigate whether the administration of
+IL-37 may ameliorate chronic inflammation [57]. Studies
+performed in patients reported an overall increase of
+circulating as well as tissue IL-37 in inflammatory bowel
+disease [58], systemic lupus erythematosus [59], Graves’
+disease [60] and AS [61]. With regard to experimental
+arthritis, systemic and intra-articular administration of
+recombinant IL-37 was able to inhibit the development of
+synovitis by reducing pro-inflammatory cytokines and
+modulating Th17 cells [62, 63]. In striking contrast with
+experimental RA, but in line with the results obtained in
+patients with other autoimmune disease, studies
+performed in RA patients revealed higher serum and
+plasma levels of IL-37 compared to normal and OA controls
+[63–66]. Such increase is particularly evident in patients
+with active disease, compared to patients in
+remission [65], and in patients with positive RF and anti-
+CCP [66]. Furthermore, IL-37 levels have been correlated
+to pro- and anti-inflammatory cytokines (IL-4, IL-7, IL-10,
+IL-12, IL-13, IL-17A, TNF-α) as well as to disease activity
+and bone erosions. Moreover, they are reduced by
+DMARD and anti-TNF-α treatment in patients with a
+good clinical response [64–66]. The only available study
+assessing IL-37 levels in RA SF reported increased levels of
+this cytokine compared to paired serum samples [66]. IL-
+37 is also consistently expressed in the synovial tissue of
+RA patients with active disease [63]. These findings may
+be explained, at least in part, by the evidence that IL-37
+plasma concentration in RA is directly correlated with
+pro-inflammatory cytokines, including IL-17 and TNF, as
+well as with disease activity and radiographic bone erosion
+score and bone loss [64, 67]. It is therefore reasonable to
+speculate that such increase of IL-37 may be a compensatory
+mechanism to counteract the effector immune response,
+likely occurring also in other autoimmune diseases.
+This mechanism is not effective of course either because
+IL-37 levels are insufficient or because the cytokine is neutralized
+by factors that need to be elucidated.
+Based on this, the potentiation of IL-37 as well the
+identification of its agonists may represent an intriguing
+approach for therapeutic purposes in RA.
+New members of IL-12 family
+IL-27
+IL-27 is a newly identified heterodimeric cytokine
+belonging to the IL-12 family, which includes IL-12, IL-
+23, IL-27, and IL-35 [68]. The IL-12 cytokine family is
+part of the IL-6 superfamily of type I cytokines. However,
+while IL-6 family members are secreted as singlesubunit
+monomers, those of the the IL-12 family are
+heterodimeric. The four members of the IL-12 cytokine
+family are consisted of an α chain (p19, p28, or p35) and
+a β chain (p40 or Epstein-Barr virus induced gene 3
+(EBI3)) [69]. In detail, p35 and p40 subunits constitute
+IL-12, p19 and p40 subunits constitute IL-23 and p28
+combines with EBI3 forming IL-27. The latest recognized
+member, IL-35, consists of p35 and EBI3. For the
+sake of completeness, it should be mentioned that very
+recently another family member, IL-39, has been described.
+IL-39 is composed of IL-23p19 and EBI3 heterodimer,
+is secreted by activated B lymphocytes and seems
+to play a pathogenic role in mouse models of systemic
+lupus erythematosus [70, 71], but no data on RA or
+other diseases are available so far. These cytokines transduce
+the signal through unique pairings of 5 receptor
+chains: IL-12Rβ1, IL-12Rβ2, IL-23R, IL-27Rα (or WSX-
+1) and gp130. IL-12 signals through IL-12Rβ1 and IL-
+12Rβ2, IL-23 signals through IL-23R and IL-12Rβ1, and
+IL-27 signals through gp130 and IL-27Rα [72]. In T cells,
+IL-35 signals through IL-12Rβ2 and gp130, although it
+can also signal through IL-12Rβ2/IL-12Rβ2 and gp130/
+gp130 homodimers [73]. Signal transduction through
+these receptor chains is mediated by the Janus kinase
+(JAK)-signal transducer and activator of transcription
+(STAT) pathway. Despite similarities in the structural
+cytokine subunits, receptor components, and downstream
+signaling, IL-12 family members display diverse
+but balanced functions. IL-12 and IL-23 represent the
+strictly pro-inflammatory members with key roles in T
+helper (h) 1 and Th17 development [26, 74], while IL-27
+carries out its role in inflammation supporting Th1 development
+and interferon (IFN)-γ production and inhibiting
+Th2 and Th17 differentiation programs [75, 76].
+IL-27 is mainly produced by antigen presenting cells
+(APCs), including dendritic cells (DCs) and macrophages,
+as well as by endothelial cells. Besides the JAK/
+STAT pathway, IL-27 can also activate other pathways
+including p38- mitogen-activated protein kinase
+(MAPK) and AKT in specific cell types, such as liver
+and intestinal epithelial cells [77]. gp130 is ubiquitously
+express in a wide range of cell types including mast cells
+and natural killer (NK) cells while WSX-1 is consistently
+expressed by naïve T cells and to a greater extent by activated
+and memory cells, the latter being therefore highly
+susceptible to the effects of this cytokine [78]. Indeed,
+IL-27 is a pivotal cytokine in the commitment of naïve T
+cells. It was first described as a Th1-polarizing cytokine
+being able to induce expression of T-bet and suppression
+of GATA-3 [77]. However, the evidence that IL-27R
+knockout (KO) mice develop a hyper-inflammatory phenotype,
+prompted to explore possible effects of this cytokine
+on other T-cell subsets. The subsequent demonstration that
+IL-27 can both increase the secretion of IL-10 by naïve T
+cells, thereby inducing regulatory T (Treg) cells, and
+directly antagonize the development of pro-
+inflammatory Th17-cell responses, allowed to speculate
+that IL-27 may have a protective role in chronic
+immune mediated inflammatory diseases [79]. Interestingly,
+studies evaluating the contribution of each
+receptor subunit function revealed that the lack of
+WSX alone does not affect the anti-inflammatory
+properties of IL-27 [80, 81]. With regard to RA animal
+models, collagen induced arthritis (CIA) in IL-
+27Rα KO mice is characterized by a more severe
+clinical picture with synovial germinal center -like
+structures, increased leukocyte infiltration, synovial
+hypertrophy, and cartilage/bone erosion compared to
+wild type (WT) mice [82]. Conversely, in
+proteoglycan-induced arthritis (PGIA), IL-27 seems to
+be crucial to trigger the inflammatory response [83].
+Therefore, although the majority of studies agree that
+both systemic and local administration of IL-27 ameliorates
+CIA and adjuvant induced arthritis (AIA)
+[84–87], still the negative effect observed in PGIA requires
+additional evaluation. With regard to the human
+counterpart, serum IL-27 levels are increased in
+RA and seem to be directly correlated with disease
+activity and RA-associated interstitial lung disease (ILD)
+[88]. Wong et al. reported that IL-27 is higher in RA
+plasma compared to normal subjects [89], while Tanida
+et al. failed to observe any difference between RA, osteoarthritis
+(OA) and healthy controls [90]. Of interest, however,
+the latter study revealed that IL-27 is highly
+expressed in RA synovial fluid (SF) and synovial tissue.
+Synovial IL-27 mainly derives from CD14+ mononuclear
+cells (MNC) rather than from fibroblast-like synoviocytes
+(FLS). These IL-27 producing CD14+ MNCs are virtually
+absent in OA synovium where IL-27 is barely detectable.
+The production of pro-inflammatory cytokines and chemokines
+including IL-6 by RA-FLS in vitro is inhibited by
+IL-27. Therefore, it may be hypothesized that IL-27 exerts,
+or at least attempts to, an anti-inflammatory effect in RA
+synovial environment via the inhibition of Th17-cell commitment.
+In light of the well-established role of Th17 cells
+in RA pathogenesis, and in particular in the development
+of synovial germinal center-like structures, Jones et al. demonstrated
+that synovial IL-27 expression is more pronounced
+in germinal center-negative RA synovium
+compared to germinal center-positive RA synovium and
+OA synovium, and that it is inversely correlated to the expression
+of molecules involved in ectopic lymphoid
+neogenesis. These findings, are in line with those obtained
+in experimental RA and allow to speculate that IL-27 may
+have a protective role in this disease [82].
+Currently available data about IL-27 highlight that this
+is another cytokine owing an anti-inflammatory activity
+and therefore the identification of molecules acting as
+IL-27 agonists may represent an intriguing option to be
+explored in RA.
+IL-35
+IL-35 is a heterodimeric cytokine belonging to the IL-12
+family together with IL-12, IL-23, IL-27 and IL-35 [91].
+In T cells, IL-35 signals through IL-12Rβ2 and gp130, although
+it can also signal through IL-12Rβ2/IL-12Rβ2
+and gp130/gp130 homodimers [92]. Interestingly, although
+all the receptors for IL-35 induce suppression of
+T-cell proliferation, the homodimeric receptors are unable
+to mediate the generation of IL-35 induced regulatory T
+cells (iTr35) [92]. IL-35 signals both through gp130
+and IL-12Rb2 homodimers and through an IL-
+12Rb2:gp130 heterodimeric receptor but only the latter
+can mediate T-cell suppression and iTr35 induction
+through the formation of pSTAT1:pSTAT4 heterodimers
+[92]. Furthermore, IL-35 signaling through an IL-
+12Rβ2:WSX-1 heterodimer and the induction of pSTAT1
+and pSTAT3 is peculiar of B cells [93]. IL-35 is mainly
+released by Treg cells, is required to potentiate the suppressive
+activity of murine and human Treg cells and therefore
+inhibits T-cell proliferation in vitro and in vivo disease
+models [94]. Recently, it has been reported that also regulatory
+B (Breg) cells can produce IL-35 [93, 95]. Finally, as
+shown for IL-10 and transforming growth factor (TGF)-
+β, IL-35 can also induce the conversion of naïve T cells
+into iTr35 cells [96]. The CIA mouse model shares
+many similarities with human RA as synovial cells proliferate
+in a tumor-like manner and cause synovitis. Angiogenesis
+is a shared pathogenic process, hence vascular
+endothelial growth factor (VEGF) is a crucial player in
+tissue injury/repair, inflammation and eventually in RA
+development [97]. IL-35 plays an anti-inflammatory role by
+inducing Treg-cells and inhibiting Th17 cell commitment
+in several experimental models of inflammatory diseases including
+CIA [98]. Moreover, IL-35 treatment inhibited proliferation
+and promoted apoptosis in cultured FLS from
+CIA mice in a dose-dependent manner [99]. Finally, IL-35
+seems to inhibit angiogenesis of CIA mice as well as
+downregulate the expression of VEGF and its receptors,
+ameliorating the severity of synovitis [100]. Unfortunately,
+data on IL-35 in patients affected by RA remain controversial.
+In particular, while some Authors support antiinflammatory
+activities of IL-35, others suggest its proinflammatory
+properties. IL-35 was found to be higher in
+patients with treatment naïve early RA compared to those
+with established disease and to be reduced after 3 months
+treatment with glucocorticoids and conventional synthetic
+(cs) DMARDs [101]. IL-35 was found to be also higher in
+SF RA compared to PsA and control OA patients and correlated
+with higher disease activity, supporting a potential
+role of IL-35 in the pathogenesis of RA [101, 102].
+Moreover, TNF-α can induce the expression of both p35
+and EBI3 subunits in FLS and MCs, and since the latter
+express both subunits of IL-35 receptor can secrete several
+pro-inflammatory molecules (IL-1β, IL-6 andMCP-1) upon
+IL-35 stimulation [102]. Nakano et al. reported that serum
+levels of IL-35 are decreased in RA patients, when compared
+with normal controls, mainly in patients with active
+disease, with an inverse correlation between serum IL-35
+levels and the 28-joint disease activity score (DAS) based
+on CRP [103]. The function of IL-35 was also evaluated in
+a suppression assay using T cells isolated from human RA
+patients; recombinant IL-35 facilitated the function of natural
+Treg cells in vitro and restrained pro-inflammatory cytokines
+such as IL-17 and IFN-γ [103]. These conflicting
+results may be explained at least in part by the heterogeneity
+of patient cohorts, also from a genetic point of view,
+and different disease activity scoring systems. Further
+studies, especially in larger cohorts of patients are required
+to clearly explore the immunosuppressive role and potential
+therapeutic benefits of targeting IL-35 in RA.
+IL-32
+IL-32 is a cytokine produced by immune and nonimmune
+cells, and has recently gained popularity
+because of its important biological functions [104]. IL-32
+gene was found to be located on human chromosome
+16p13.3 and was reported to exist in nine different isoforms
+by mRNA alternative splicing including IL-32 ,
+IL-32 , IL-32 , IL-32 , IL-32 , IL-32 , IL-32 , IL-
+32 , and IL-32 s (small), with specific activities and properties.
+Moreover, these isoforms can interact with each
+other intracellularly to control their respective activities
+and IL-32 is the most active isoform [105–107]. IL-32 is
+not assigned to any of the cytokine families, due to the
+lack of homology with other well-known cytokines. IL-32
+was originally described as an mRNA called NK cell transcript
+4 (NK4), which encoded a protein with many characteristics
+of a cytokine, derived from IL-2 activated
+natural killer cells [108]. NK cells, monocytes/macrophages,
+T lymphocytes, as well as epithelial cells, endothelial
+cells, fibroblasts, and hepatocytes, express IL-32 [109],
+mainly intracellularly, although some reports suggest that
+the IL-32γ isoform, could be secreted in limited amounts
+[110]. However, depending on the cell type and stimulus,
+IL-32 may be released after necrotic cell death or in vesicles
+such as exosomes [111, 112]. One problem that remains associated
+with IL-32 is the identification of cell surface receptor
+of IL-32. IL-32 is a pleiotropic cytokine and an
+important player in innate and adaptive immune responses,
+involved in a number of biological functions, including cell
+differentiation, stimulation of pro- or anti-inflammatory cytokines
+and cell death, especially apoptosis [113]. In detail,
+this cytokine induces other pro-inflammatory cytokines and
+chemokines such as TNF-α, IL-1β, IL-6, and IL-8 by means
+of the activation of NF-kB and p38-MAPK. IL-32, via
+caspase-3 activity, induces differentiation of monocytes into
+macrophage-like cells with characteristics of generating proinflammatory
+cytokines such as IL-6, TNFα and chemokines
+[114]. IL-32γ, via a phospholipase C (PLC)/ c-Jun Nterminal
+kinases (JNK)/NF-kB-dependent pathway, induces
+maturation and activation of DCs, leading to increased production
+of IL-12 and IL-6, Th1- and Th17-polarizing cytokines
+[115]. Moreover, IL-32 synergizes with nucleotide
+oligomerization domain (NOD) 1 and NOD2 ligands for IL-
+1β and IL-6 production, through a caspase 1-dependent
+mechanism [116]. Finally, IL-32β, increasing adhesion of inflammatory
+cells to activated endothelial cells with consequent
+induction of pro-inflammatory cytokines, is involved
+in the propagation of vascular inflammation [117]. Its production
+is predominantly induced by IL-1β, TNF-α, IL-2 or
+IFN-γ in blood monocytes and epithelial cells [39]. In
+addition to cytokines, microbial products, including viruses,
+have emerged as potent inducers of IL-32 in human monocytes,
+macrophages, and monocyte-derived DCs [109]. All
+the above mentioned data clearly point out that IL-32 and
+TNF-α are strongly linked to each other and being TNF-α a
+key cytokine in RA pathogenesis, IL-32 may play profound
+effects in this process [118]. Studies from animal models
+demonstrated that human IL-32, when injected in joints of
+naïve mice, leads to increased expression of inflammatory
+molecules (IL-1β, TNF-α, IL-18, IFN-γ, IL-17, IL-21 and IL-
+23), recruitment of inflammatory cells, cartilage derangements
+and joint swelling [119]. Conversely, joint swelling
+and presence of inflammatory cells drastically decreased in a
+TNF-α deficient mouse model [120]. This observation further
+supports the key interplay between TNF-α and IL-32 in
+RA pathogenesis. Furthermore, the unmasking of the molecular
+mechanism of the IL-32/ TNF-α in RA open new avenues
+for their potential therapeutic targeting. Several
+studies confirmed an overexpression of IL-32 and IL32γ in
+RA patients, when compared to osteoarthritis or healthy
+volunteers [121, 122]. In particular, the IL-32γ level was
+found significantly upregulated in CD14+ monocytes and
+synovial membrane of RA patients [123, 124]. High levels of
+IL-32 in synovial biopsies of RA, as compared to its absence
+in OA patients, suggested that IL-32 is potent mediator of
+active osteoclastogenic activity. In particular, the synergism
+between IL-32 and soluble receptor activator of nuclear factor
+κ-B ligand (sRANK-L) enhances the activity of
+osteoclasts and consequently tissue resorption [124]. Both
+IL-32 and IL-17 can reciprocally influence each other’s production
+and amplify the function of osteoclastogenesis in
+RA synovium [124]. RA FLS seem to have a key role in
+osteoclastic activity, as well as in pannus formation in the
+joint [125]. IL-32β, δ, and γ mRNA overexpression in RA
+FLS is primarily induced by TNF-α, IFN-γ and toll-like
+receptor (TLR)-2, −3, and −4 ligands, and the overexpression
+of IL-32 seems to stabilize the mRNA transcripts of
+other cytokines, in particular TNF-α, IL-1β and IL-8 [110,
+126]. In FLS, TNF-α-activates Syk/PKC-d/JNK/c-Jun pathway
+to induce IL-32 (isoforms α, β, δ, and γ) [127], suggesting
+a splicing of IL-32γ into IL-32β [110]; interestingly, IL-
+32β is associated with lower inflammation and less severity
+of RA when compared with IL-32γ. IL-32 stimulates the
+synthesis of prostaglandin E2, an important mediator of cartilage
+and bone destruction in RA [128]. Very few clinical
+data regarding IL-32 response in patients treated with anti-
+TNF-α therapy are available; in particular, synovial knee biopsies
+showed a significant decrease in IL-32 expression in
+RA patients treated with a TNF-α blocker [129]. This observation
+fits with the evidence of a direct correlation between
+IL-32, TNF-α and disease activity in RA [130]. Additional
+studies, especially in human systems, are necessary to
+resolve the inconsistency of IL-32 in RA as well as to
+explore the therapeutic potential of this cytokine in RA.
+IL-34
+IL-34 has been discovered in 2008 [131] and the receptor
+to which IL-34 binds with the highest affinity, colony
+stimulating factor (CSF)-1R, is shared with CSF-1. However,
+IL-34 and CSF-1 do not share sequence homology
+and have different expression patterns being IL-34 restricted
+to few tissues (brain, epidermis, spleen, bone marrow,
+lymph nodes) and CSF-1 widespread [132]. Upon
+binding to CSF-1R, IL-34 stimulates monocytes and macrophages
+through extracellular signal-regulated kinase
+(ERK) 1/2 or AKT phosphorylation. Recent data, however,
+demonstrated that IL-34 could also bind chondroitin
+sulphate chains, such as PTP-ζ and syndecan-1, but with
+lower affinity [133, 134]. This is of particular importance
+in tumor biology as these receptors are up-regulated in
+several cancer types. IL-34 can be induced by a variety of
+pro-inflammatory cytokines, including IL-1β and TNF-α,
+and its main function of that to promote monocyte
+survival, proliferation and differentiation to macrophages.
+Recent studies revealed that IL-34 drives the differentiation
+of monocytes into immunosuppressive M2 and that
+human macrophages cultured in the presence of IL-34 are
+able to expand Treg cells. Interestingly, IL-34-expanded
+Treg cells display a stronger suppressive activity compared
+to non–IL-34–expanded Treg cells [135, 136]. This
+widens the spectrum of action of IL-34 towards immune
+tolerance. Moreover, IL-34 is involved in RANK-L mediated
+osteoclastogenesis by inducing the proliferation and adhesion
+of osteoclast progenitors in vitro and by inducing the
+formation of osteoclasts from murine splenocytes in vivo,
+thereby reducing trabecular bone mass [137–139]. IL-34
+deficient mice selectively lack Langerhans cells and
+microglia and display weak immune responses to skin
+antigens and central nervous system-selective viruses,
+but they display neither osteopetrosis nor any autoimmune
+manifestation [140, 141]. Mice lacking CSF-1R
+receptor are toothless and severely osteopetrotic and display
+circulating monocyte depletion, total depletion of
+microglia, significant impairment of olfactory function, defects
+in reproductive function and reduced bone marrow
+hematopoietic progenitor cells [142–144]. Conversely, the
+neutralization of CSF-1R in adult mice leads to a
+reduction of mature monocytes in blood and bone
+marrow, without affecting precursors [145]. With regard
+to experimental arthritis, it is interesting to note that the
+lack/blockade of CSF-1 as well as the blockade of CSF-1R
+is associated with less severe methylated bovine serum albumin
+(mBSA)-induced arthritis and CIA [146–148]. In
+RA patients, all available studies pointed to increased
+serum and SF levels of IL-34 with respect to normal and
+disease controls (OA, PsA, ankylosing spondylitis (AS))
+[149–153]. Of interest, ser0075m IL-34 levels correlated
+with immunological markers of more severe disease including
+rheumatoid factor (RF), anticyclic citrullinated
+peptide antibody (anti-CCP) titers, erythrocyte sedimentation
+rate (ESR), C-reactive protein (CRP), and with disease
+activity and smoking [149–152]. In this regard, serum IL-
+34 levels have been also associated with radiographic progression
+and appear to be good predictors of radiographic
+damage in RA patients [150, 152]. Interestingly, treatment
+with DMARDs or TNF-α inhibitors is able to reduce
+serum IL-34 levels [151, 154]. IL-34 levels are also higher
+in RA SF compared to OA SF and increased in RA patients
+with higher disease activity [149, 153]. Of interest,
+SF IL-34 levels are directly correlated with those of SF
+RANK-L, further supporting the link between IL-34 and
+RANK-L mediated osteoclastogenesis [149]. Finally, IL-34
+is also consistently expressed in RA ST, mainly in the sublining
+and the intimal lining layer, with its expression being
+associated to synovitis severity [148, 154, 155]. All
+these observations about IL-34 raise the question whether
+the blockade of its pro-inflammatory and bone remodeling
+effects are worth the loss also of the strongly suppressive
+IL-34 driven Treg cells. Therefore additional data are
+needed to clarify its therapeutic potential in RA.
+Conclusion
+The progression and severity of inflammation in RA is associated
+with a consistent production of pro-inflammatory
+cytokines and a deregulation of anti-inflammatory cytokines.
+Although several biologic agents with different mechanisms
+of action are available for the treatment of RA, even
+now a consistent number of patients either do not respond
+or respond only partially to these compounds. Therefore,
+the advance of our understanding of mediators involved in
+the pathogenesis of RA and in consequence, the development
+of novel targeted therapies, are compelling. Forty
+years after the discovery of IL-1, the never-ending quest to
+identify ‘the’ culprit of RA development is still a fascinating
+field under intense investigation. In recent years, the
+landscape of pro- and anti-inflammatory cytokines has
+rapidly expanded with the identification of new members
+proven to be involved at different extent in the pathogenesis
+of RA. In some cases, evidence from animal models and RA
+patients is already consistent to move forward into drug
+development. In others, conflicting observation and the
+paucity of data require further investigations.

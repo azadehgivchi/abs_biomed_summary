@@ -1,0 +1,21 @@
+Background: Sunitinib is known to cause cardiotoxicity in clinical settings. However, among sunitinib-treated
+patients experiencing adverse cardiac events, decreased cardiac function was reportedly reversible in > 50% of the
+patients. We previously showed that anti-cancer drugs such as sunitinib cause marked sarcomere disruption in
+human induced pluripotent stem cell-derived cardiomyocytes (iPSC-CMs), and the extent of sarcomere disruption
+can be used to predict drug-induced cardiotoxicity in humans. The aim of this study is to investigate whether the
+reversibility of sunitinib-induced cardiac events in clinical settings can be mimicked in vitro, and to examine the
+molecular mechanism responsible for sunitinib-induced cardiotoxicity focusing on the Hippo pathway.
+Methods: iPSC-CMs were stimulated with sunitinib for 72 h and the morphology of sarcomere structures were
+analyzed by high-content analysis before and after sunitinib washout. To examine the involvement of the Hippo
+pathway in the sunitinib-induced sarcomere disruption, the extent of nuclear localization of YAP1 (yes-associated
+protein 1, a Hippo signaling target) was determined. iPSC-CMs were also stimulated with sunitinib and a small
+molecule inhibitor of the Hippo pathway, XMU-MP-1 and sarcomere structures were analyzed.
+Results: We observed a spontaneous recovery in cardiac sarcomeres in iPSC-CMs that were significantly disrupted
+by sunitinib treatment after a 72 h or 144 h washout of sunitinib. The extent of nuclear localization of YAP1 was
+significantly reduced after sunitinib stimulation and tended to return to normal levels after drug washout.
+Simultaneous stimulation of iPSC-CM with sunitinib and XMU-MP-1 suppressed the sunitinib-induced disruption of
+sarcomeres.
+Conclusions: These results indicate that iPSC-CMs have the ability to recover from sunitinib-induced sarcomere
+disruption, and the Hippo pathway plays a role in the process of sunitinib-induced disruption of sarcomere and its
+recovery. Inhibition of the Hippo pathway may help to develop a co-medication strategy for mitigating the risk of
+sunitinib-induced adverse cardiac events.

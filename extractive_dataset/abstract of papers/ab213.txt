@@ -1,0 +1,19 @@
+Background: The coronavirus disease (COVID-19), a pneumonia caused by severe acute respiratory syndrome
+coronavirus 2 (SARS-CoV-2) has shown its destructiveness with more than one million confirmed cases and dozens of
+thousands of death, which is highly contagious and still spreading globally. World-wide studies have been conducted
+aiming to understand the COVID-19 mechanism, transmission, clinical features, etc. A cross-language terminology of
+COVID-19 is essential for improving knowledge sharing and scientific discovery dissemination.
+Methods: We developed a bilingual terminology of COVID-19 named COVID Term with mapping Chinese and
+English terms. The terminology was constructed as follows: (1) Classification schema design; (2) Concept representation
+model building; (3) Term source selection and term extraction; (4) Hierarchical structure construction; (5) Quality
+control (6) Web service. We built open access for the terminology, providing search, browse, and download services.
+Results: The proposed COVID Term include 10 categories: disease, anatomic site, clinical manifestation, demographic
+and socioeconomic characteristics, living organism, qualifiers, psychological assistance, medical equipment, instruments
+and materials, epidemic prevention and control, diagnosis and treatment technique respectively. In total,
+COVID Terms covered 464 concepts with 724 Chinese terms and 887 English terms. All terms are openly available
+online (COVID Term URL: http:// covid term. imica ms. ac. cn).
+Conclusions: COVID Term is a bilingual terminology focused on COVID-19, the epidemic pneumonia with a high
+risk of infection around the world. It will provide updated bilingual terms of the disease to help health providers and
+medical professionals retrieve and exchange information and knowledge in multiple languages. COVID Term was
+released in machine-readable formats (e.g., XML and JSON), which would contribute to the information retrieval,
+machine translation and advanced intelligent techniques application.

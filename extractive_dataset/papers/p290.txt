@@ -1,0 +1,374 @@
+Background
+Globally, it is estimated that over 1 billion people live
+with some form of disability, accounting for approximately
+15% of the world’s population. Among this,
+93 million children and 720 million adults live with severe
+disabilities [1]. In Ethiopia, the proportion of people with
+disabilities is estimated to be around 17.6%, implying that
+more than 14.4 million Ethiopians live with a disability,
+including 2.5 million children [2].
+Oral diseases disproportionally affect the poor and
+socially disadvantaged members of society [3]. Disabled
+individuals appear to have poorer oral health than their
+non-disabled counterparts [4]. A systematic review on
+the oral health status reported that children and adolescents
+with intellectual disabilities have poorer oral health
+(higher level of dental plaque, worse gingival status, and
+fewer decayed and filled permanent teeth) compared to
+their counterparts [5]. According to the Global Burden
+of Disease, untreated dental caries in permanent teeth is
+the most prevalent oral health problem [6], and with over
+530 million children suffering from primary tooth caries
+[3]. Children with disabilities and other special needs
+have more oral health problems than the general population
+due to impaired cognitive abilities, behavioral problems,
+impaired mobility, and neuromuscular problems.
+They require extra help and rely on others to achieve and
+maintain good oral health [7].
+Article 25 of the UN Convention on the Rights of
+Persons with Disabilities (CRPD) reinforces the right
+of persons with disabilities to attain the highest standard
+of healthcare, without discrimination [8]. However,
+the numbers of children with disabilities have steadily
+increased with demographic trends; most health systems
+cannot even address the current needs of children with
+disabilities. The unmet needs of children with disabilities
+have increased considerably, as health services have not
+expanded to meet the growing need [9]. Most low- and
+middle-income countries are unable to provide services
+to prevent and treat oral health conditions [3].
+Oral diseases pose a major health burden for many
+countries and affect people throughout their lifetime,
+causing pain, discomfort, disfigurement, and even death
+[3]. People with a disability may have worse oral health
+than those without disabilities; this might not only cause
+physical problems, but it can also have a far-reaching
+impact since poor oral health can hurt self-esteem, quality
+of life, and general health [10]. Moreover, oral diseases
+and conditions have serious health and economic burden,
+particularly among school-age children and adolescents
+[11].
+Healthcare-seeking behavior is, any action taken by
+individuals who believe that they have a health problem
+or believe that they are ill [12]. It comprises activities carried
+out to maintain good health, to prevent ill health, as
+well as any departure from a good state of health [13].
+Oral healthcare-seeking seems to be inextricably linked
+to the demand for oral healthcare services[14]. Thus, the
+demand for oral healthcare services is often associated
+with an individual’s choice about which service to access
+and when and where to access healthcare services [15].
+Inadequate health-seeking behavior has been associated
+with poorer oral health outcomes, higher mortality &
+morbidity, and lower oral health statistics [16]. Knowing
+the oral health problems and challenges of dental care
+utilization among disabled individuals has the utmost
+effect to design interventions. To the best of our knowledge,
+there is no documented evidence of dental health
+problems and treatment-seeking behavior among schoolchildren
+in Ethiopia. Hence, the purpose of this study
+was to assess the dental health problems and treatmentseeking
+behavior of special needs school students in in
+Amhara regional state, Ethiopia.
+Methods
+Study area and period
+A cross-sectional study was conducted from November
+2020 to April 2021 in eight special needs schools
+in the Amhara Regional State, Ethiopia: Gondar, Dessie,
+Debre Markos, and Bahir Dar. In the study area, 696
+disabled students are attending special needs schools
+(Gondar = 170, Dessie = 179, Bahir Dar = 237, and Debre
+Markos = 110). The disability type distribution revealed
+that 341 were hearing impaired, 129 were visually
+impaired and 226 were mentally handicapped.
+Population
+The study participants were disabled students attending
+special needs education special in Amhara Region,
+Ethiopia. Students who were absent throughout the data
+collection period, unable to provide complete data, and
+severely ill were excluded from the study.
+Sample size and sampling procedure
+The sample size was calculated using a single population
+proportion formula; considering 50% (since no previous
+study found in Ethiopia) proportion of students
+who have a dental health problem, d (the permissible
+Margin of error 5%), Zα/2 (the value of the standard normal
+curve score corresponding to the given confidence
+interval = 1.96) corresponding to 95% confidence level,
+and 15% non-response rate. The final sample size was
+estimated to be 443 participants. The list of special need
+students was obtained from each school class roaster. A
+simple random sampling technique using a computer
+random number generator was employed to recruit the
+study participants.
+Data collection procedure
+Data were collected using a pretested structured interview-
+administered questionnaire adapted from the
+WHO oral health survey tool and other literature [10, 15,
+17, 18]. In the very beginning, the tool was prepared in
+English and then translated into the local Amharic language.
+To check the consistency of the questionnaire, the
+Amharic version was translated back to English. Pretest
+was done on 5% of the total sample size and modifications
+were made accordingly. The final instrument was
+composed of socio-demographic characteristics, oral
+health practice, medical condition, disability, oral habits,
+and dental care-seeking behaviors.
+The data collection and supervision were done by qualified
+dental professionals and special needs experts. Data
+collectors and supervisors received a five-day training on
+the purpose of the study, data collection techniques, and
+ethical considerations during data gathering. Daily, each
+returned questionnaire was checked for completeness
+and consistency.
+Data processing and analysis
+The data were entered into EpiData version 4.6 and
+exported into STATA version 14 statistical software for
+analysis. Descriptive analyses like medians, means, proportions,
+standard deviations, and frequencies were computed.
+A bivariable and multivariable logistic regression
+model was fitted to identify the factors associated with
+dental health problems and treatment-seeking behavior
+among special needs school students in Amhara region.
+Those variables with a p-value of less than 0.25 in the
+bivariable model were fitted in the multivariable model.
+Variables with a p-value less than 0.05 at a 95% confidence
+interval were considered statistically significant.
+Results
+Socio‑demographic characteristics
+A total of 443 special needs students participated in the
+study with a response rate of 100%. The mean age of participants
+was 15.84 (SD ± 0.18 years) with the age range
+of 7 to 30 years. More than half of the participants were
+males (53.5%) and attending primary education (53.3%).
+The higher proportion of the participants (69.8%) were
+affiliated with Orthodox religion. The monthly income of
+the majority of the participants (70.5%) was below 1000
+Ethiopian Birr (Table 1).
+Oral hygiene practice
+More than three-quarters (76.1%) of study participants
+had a tooth brushing habit, and nearly half (53.1%) of
+them used toothbrushes when brushing their teeth.
+About 16.7% of the participants brushed their teeth twice
+or more times a day. Furthermore, about 17.4% of the
+participant received support from parents or legal guardians
+while brushing their teeth.
+Type of disabilities
+One-third of the participants (33.6%) had hearing impairment,
+and 29.4% had visual impairment. The median
+(inter-quartile range) of years lived with a disability was
+14 (12–16 years).
+Self‑reported oral health problems and dental
+care‑seeking behavior
+Of the total study participant, 204 (46.1%, 95% CI: 41.4%,
+50.7%) reported oral health problems. From these,
+123 (60.3%, 95% CI: 53.4%, 66.8%) sought dental care
+within the median time of 5 days, interquartile range of
+(5–7days). The majority (65.0%) of the participant sought
+dental care at the serious stage of the disease. More than
+half (53.7%) of the participants followed the dental care
+treatment courses until recovery. Fear (29.7%) and cost
+of the treatments (29.7%) were the two main barriers
+not to sought dental care. On the other hand, nearly half
+(48.1%) of the participants did not know dental healthrelated
+risky behavior (Table 2).
+Perception towards dental care services
+The study participants’ perception of dental care service
+was evaluated using five items with a five-point Likert
+scale. About 88% and 72% of the participants thought
+dental care was important and the quality of the care
+was good, respectively. Besides that, the cost of dental
+care was too high for more than half of the participants
+(56.9%). Majority (69.1%) of the participants were
+pleased by the respect and behavior of dental professionals
+(Fig. 1).
+Treatment need
+Concerning treatment needs, the majorities (71.8%) of
+the participants require scaling and root planning and
+more than one-third (37.8%) of them require Orthodontics
+treatments (Fig. 2).
+Factors associated with dental health problems
+As presented in Table 3, place of residence, grade level,
+maternal educational status, paternal educational status,
+religion, carbohydrate intake, frequency of tooth
+brushing, types of disability, years lived with disability,
+knowledge on risk behaviors for oral health, and comorbidity
+was variables with a p-value of less than 0.25 in a
+bivariable logistic regression model. These variables were
+entered into the final multivariable logistic regression
+model. Of them, place of residence, grade level, religious
+affiliation, years lived with disability, and knowledge of
+dental health-related risk behaviors were statistically significant
+factors associated with dental health problems.
+Students who lived in Bahir Dar (AOR = 0.32, 95% CI:
+(0.15, 0.70)) and Debre Markos (AOR = 0.45, 95% CI:
+(0.22, 0.93)) cities were less likely to have dental health
+problems as compared to those who lived in Gondar. Students
+attending grades 5–8 (AOR = 2.04 95% CI: (1.14,
+3.65)) and grades 9–12 (AOR = 4.25 95% CI: (1.91, 9.47))
+were more likely had dental health problems than students
+attending grade 1–4 did. Students affiliated with
+the Islamic religion were 2.38 times more likely to report
+dental health problems compared to those affiliated with
+Orthodox Christians (AOR = 2.38, 95% CI: (1.07, 5.32)).
+Students with mental impairment were 2.42 times more
+likely to report dental health problems compared to
+visually impaired students (AOR = 2.42, 95 %nCI: (1.14,
+5.11)). Students who knew at least one dental healthrelated
+risky behavior were 2.31 more likely to report
+dental health problems compared to their counterparts
+(AOR = 2.31, 95% CI: (1.40, 3.80)). The risks of having
+oral health problems drop by 0.92 times for every year
+spent living with a disability (AOR = 0.92, 95% CI: (0.87,
+0.98) (Table 3).
+Factors associated with dental treatment‑seeking behavior
+The multivariable analysis showed that living in Dessie
+town, being hearing impaired, and having prior information
+about dental health problems were statistically significant
+factors associated with dental treatment-seeking
+behavior. Students who lived in Dessie town were 4.48
+times more likely to seek dental treatments than students
+who lived in Gondar city (AOR = 4.48, 95% CI:
+(1.10, 18.25)). Hearing-impaired students were 3.70 times
+more likely to seek dental treatments compared to visually
+impaired students (AOR = 3.70, 95% CI: (1.46, 9.43)).
+Moreover, students who did not have prior information
+about dental health problems were 86% less likely to seek
+dental treatments than their counterparts (AOR = 0.14,
+95% CI: (0.04, 0.44)) (Table 4).
+Discussion
+This study was aimed to assess the dental health problems
+and treatment-seeking behavior of special needs school
+students in Amhara Regional State, Ethiopia. Individuals
+with disabilities appear to have poorer oral health than
+their non-disabled counterparts [4]. In support of this,
+the present study revealed that 46.1% of special needs
+students reported dental health problems. A similar finding
+was reported in Canada among people experiencing
+social and health inequalities where 46.3% of the participants
+had poor oral health [19]. On the contrary, Choi
+and Yang reported lower caries prevalence among children
+with disabilities compared with those without disabilities
+[20]. In general, increased urbanization and
+changes in living conditions could be a contributing factor
+for the high prevalence of oral health problems [3].
+Moreover, children with special needs have more oral
+health problems due to existing condition-related complications
+that can be barriers to adequate oral hygiene
+practice [7]. Physical limitations that make tooth brushing
+difficult, reduced saliva flow, taking medications and
+precarious diets are reported as factors that contribute
+to poor oral health in people with disabilities [21]. Due
+to this, students with disabilities depend on others to
+achieve and maintain good oral health [21]. This reflects
+that ongoing coaching and reinforcement from caregivers
+is critical in improving special needs students’ oral
+care practices and reducing the occurrence of oral health
+problems [22]. However, the present study found that
+about 82% of the participant did not get adequate support
+from their family members to do so.
+In this study living in Bahir Dar and Debre Markos cities,
+and increased years lived with disability were associated
+with lower dental health problems. On the other
+hand, attending grades 5–8 and grades 9–12, and being
+affiliated Islam religion was associated with increased
+dental health problems. These findings may be attributed
+to differences in geographic location, socio-economic,
+and other confounding factors. A previous study reported
+that children with hearing impairment had lower caries
+experience than children with mental retardation and
+visual impairment [4]. Besides in this study knowledge
+of dental risky behaviors was negatively associated with
+a dental health problem. In such cases, the knowledge
+by itself may not enable us to predict the behaviors. This
+means individuals who know dental health-related risky
+behaviors may not adhere to them appropriately. This
+may be due to knowledge is neither sufficient nor necessary
+to trigger a behavioral change [23].
+Meeting the oral health treatment requirements for
+children with intellectual, emotional, or physical disabilities
+can be a difficult task for their caregivers and
+health professionals [24]. Children with special needs,
+oral health needs are competing with already burdensome
+chronic health conditions [25]. Oral health
+treatment-seeking and decision about what type of
+treatment to receive could be said to depend on the
+recommendations of family and friends and the cost
+of services [16]. In the present study, the prevalence of
+dental treatment-seeking was 60.3%. Similarly, a study
+on oral health care services utilization among children
+in Lagos, Nigeria, found that children with disabilities
+did not adequately use dental facilities [25]. Children’s
+treatment-seeking behavior was attributed to family’s
+low commitment to their dental care. A national survey
+of children with special health care needs in the USA
+from 2005 to 2011 found that children with special
+health care needs are experiencing greater unmet dental
+needs and are receiving less help coordinating care
+services [26].
+The analysis of factors associated with dental treatment-
+seeking behavior revealed that children living in
+Dessie town, hearing impaired, and who had prior information
+about dental health problems had higher dental
+treatment-seeking behavior. A cross-sectional study on
+the oral health-seeking behavior of different population
+groups in Nigeria found that geographic location and
+socio-economic status group have a negative regression
+coefficient to the demand for treatment in the dental clinics.
+Any movement towards the urban area will increase
+the demand for dental caries treatment in a dental facility
+[16]. This is may be due to differences in access to dental
+health services and information, and geographical location
+of the participants and services. A systematic review
+reported that people with disabilities encounter physical,
+structural, geographical, professional, or behavioral barriers
+that hinder access to dental services. Specifically,
+the most frequently reported barriers to use dental care
+among disabled peoples were the cost of treatment, lack
+of preparation for dental care of the disabled persons, the
+inadequacy of dental facilities for the disabled, and lack
+of adaptation of the access routes to the health care facilities
+and dental offices [27]. This indicates the need for
+dental centers accessible to special needs individuals, and
+trained dental professionals [28].
+Despite some limitations, the present study tried to
+assess an important public health issue in marginalized
+populations and provide a way for successive researchers.
+This is the first study on the dental problem and treatment-
+seeking practice of special needs school students
+in Ethiopia. The first limitation, the findings were based
+on self-reported data and may be subject to social desirability
+bias. Secondly, due to the impairment, some of the
+study participants did not express their dental problems
+confidentially. This means we have used language translators
+for hearing-impaired participants. Finally, due to the
+cross-sectional nature of the study, the causal relationship
+between the dependent and independent variables
+cannot be declared.
+Conclusion
+The present study found that a significant proportion
+of special needs school students had oral health problems.
+In addition, a significant number of them did
+not seek dental treatments. Dental health problems
+and dental treatment-seeking behavior of special need
+school students were associated with a variety of child
+and familial socio-demographic characteristics, types
+of disabilities, years lived with disabilities, knowledge
+of oral health-related risk behaviors, frequency of carbohydrate
+intake, and information about dental health
+problems. Therefore, schools and centers for special
+needs students should develop and implement oral
+hygiene programs focusing on screening, prevention,
+and treatment of oral health problems to reduce the
+impact of dental diseases. Policymakers, health professionals,
+and other concerned bodies should emphasize
+oral health care as a major component of the overall
+wellbeing of children with special needs. On the other
+hand, oral health promotion programs and tailored oral
+health education programs focusing on oral hygienic
+practices, risky behaviors, dental diseases preventive
+strategies, and dental treatment-seeking behaviors are
+recommended to achieve optimum oral health. Finally,
+it is also strongly suggested to incorporate oral healthrelated
+messages/information in health-related academic
+lessons.

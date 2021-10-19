@@ -1,0 +1,22 @@
+Background: A major limitation of current predictive prognostic models in patients with COVID-19 is the heterogeneity
+of population in terms of disease stage and duration. This study aims at identifying a panel of clinical and
+laboratory parameters that at day-5 of symptoms onset could predict disease progression in hospitalized patients
+with COVID-19.
+Methods: Prospective cohort study on hospitalized adult patients with COVID-19. Patient-level epidemiological,
+clinical, and laboratory data were collected at fixed time-points: day 5, 10, and 15 from symptoms onset. COVID-19
+progression was defined as in-hospital death and/or transfer to ICU and/or respiratory failure (
+PaO2/FiO2 ratio < 200)
+within day-11 of symptoms onset. Multivariate regression was performed to identify predictors of COVID-19 progression.
+A model assessed at day-5 of symptoms onset including male sex, age > 65 years, dyspnoea, cardiovascular
+disease, and at least three abnormal laboratory parameters among CRP (> 80 U/L), ALT (> 40 U/L), NLR (> 4.5), LDH
+(> 250 U/L), and CK (> 80 U/L) was proposed. Discrimination power was assessed by computing area under the
+receiver operating characteristic (AUC) values.
+Results: A total of 235 patients with COVID-19 were prospectively included in a 3-month period. The majority of
+patients were male (148, 63%) and the mean age was 71 (SD 15.9). One hundred and ninety patients (81%) suffered
+from at least one underlying illness, most frequently cardiovascular disease (47%), neurological/psychiatric disorders
+(35%), and diabetes (21%). Among them 88 (37%) experienced COVID-19 progression. The proposed model showed
+an AUC of 0.73 (95% CI 0.66–0.81) for predicting disease progression by day-11.
+Conclusion: An easy-to-use panel of laboratory/clinical parameters computed at day-5 of symptoms onset predicts,
+with fair discrimination ability, COVID-19 progression. Assessment of these features at day-5 of symptoms onset could
+facilitate clinicians’ decision making. The model can also play a role as a tool to increase homogeneity of population
+in clinical trials on COVID-19 treatment in hospitalized patients.

@@ -1,0 +1,372 @@
+Introduction
+Cervical cancer is a major cause of morbidity and mortality,
+and remains one of the four most common malignant
+tumors in women. Globally, more than 560,000
+new cases of cervical cancer are diagnosed each year, of
+which 80% occur in developing countries [1, 2].
+Treatments of stage IB2/IIA2 cervical cancer revolves
+around chemoradiotherapy (CCRT), radical Surgery
+(RS), radical surgery following chemoradiotherapy
+(CCRT+RS), neoadjuvant chemotherapy followed by
+radical surgery (NACT+RS), adjuvant radiotherapy
+followed by Radical surgery (RT + RS), radiotherapy
+alone (RT). Previous studies have suggested that CCRT
+is the most appropriate treatment strategy [3–6]. However,
+other investigators have reported that NACT + RS
+improves the long-term DFS and OS of patients with locally
+advanced disease [7–9]. Other treatment regimens,
+such as CCRT+RS [10, 11], RT + RS [11, 12], RT [13, 14]
+and RS [14, 15], remain controversial. We therefore
+sough to perform a network meta-analysis of currently
+available findings in order to determine the most effective
+treatment for patients with stage IB2/IIA2 cervical
+cancer.
+Systematic reviews and meta-analyses are widely considered
+to represent the pinnacle of the medical evidence
+pyramid [16]. However, traditional meta-analysis typically
+compare only two intervention types. In contrast,
+network meta-analyses can process all possible comparison
+indicators in the same model multiple times or in
+combination, and collect direct and indirect evidence at
+the same time [17, 18]. Moreover, network metaanalyses
+are thought to produce more accurate and reliable
+models compared to traditional meta-analysis,
+representing the premier guideline evidence for clinical
+practice [19, 20]. A network meta-analysis compares
+multiple treatment options for the same disease, which
+may be useful for developing clinical practice guidelines
+[21].
+Here, we present a Bayesian network meta-analysis to
+address the currently conflicting data surrounding optimal
+treatment strategies for FIGO IB2/IIA2 cervical cancer
+patients. We aim to summarize and analyze the
+existing evidence to explore the clinical outcome of patients
+treatment with various regimens, using overall
+survival (OS) and disease recurrence as primary endpoints,
+in order to identify the optimal approach for
+management of locally advanced disease.
+Material and methods
+Search strategy and study selection
+Two authors performed independent searches using
+PubMed, the Cochrane Central Register of Controlled
+Trials and Embase to identify Randomized Controlled
+Trials (RCTs) for the treatment of cervical cancer from
+1971 to 2020, according to the Cochrane System Intervention
+Review Manual [22]. A comprehensive search
+was carried out through Boolean logic operators with
+Medical Subject Headings (MeSH) combined with entry
+words, using “Uterine Cervical Neoplasms”, “Chemoradiotherapy”,
+“General Surgery”, “Surgical Procedures,
+Operative”, “Gynecologic Surgical Procedures”, “Hysterectomy”,
+“Chemotherapy, Adjuvant”, “Drug Therapy”,
+“Radiotherapy” and “Randomized controlled trials”. This
+study was conducted based on the Preferred Reporting
+Items for Systematic Reviews and Meta-Analyses
+(PRISMA) for systematic reviews and meta-analysis [23]
+(Material S2). The specific search strategy is detailed in
+Material S1.
+As specified in the predetermined inclusion criteria, all
+searched articles were individually evaluated by the two
+authors. We first screened the initial inclusion of studies
+based on the title and abstract, and deleted duplicate
+studies. Remaining articles were subject to full text
+screening by the two authors to evaluate study relevance.
+All citations were managed in Endnote X9. In order to
+ensure that further analysis can proceed smoothly, it is
+necessary to check the veracity and completeness of the
+data. Discrepancies between the two authors were resolved
+by a third empirical observer through discussion.
+Inclusion and exclusion criteria, data extraction
+The two authors independently extracted relevant data
+for each included trial. Discrepancies were addressed via
+discussion and consensus, with external arbitration
+where required.
+Detailed inclusion and exclusion criteria are shown in
+Table S1. In our inclusion and exclusion criteria, treatment
+is defined as a preference. Treatments were defined
+as an intervention following discussion of the
+physician and patient, including surgery, radiotherapy,
+chemotherapy, or a combination of these regimens. All
+included randomized controlled trials were coded according
+to treatment type and are divided into 6 treatment
+groups. Differences in coding between the two
+authors were resolved by discussion and consensus, with
+external arbitration where required.
+Quality appraisal, evaluation of endpoints
+We used Cochrane tools to assess the risk of bias (ROB)
+of the included studies [22]. The two authors separately
+assessed seven areas of ROB. ROB evaluation is conducted
+in Review Manager (version 5.1).
+The primary endpoints were overall survival and disease
+relapse; comparisons of all interventions were performed.
+All surviving patients contribute to OS,
+regardless of their disease status. Where exact case numbers
+of deceased and surviving patients were not available,
+these were estimated from Kaplan-Meir survival
+curves; corresponding authors of included studied were
+contacted where necessary. Both local recurrence and
+distant metastasis were included as disease relapse.
+Statistical analysis
+Compared with traditional meta-analysis, Bayesian network
+meta-analysis has greater analytical power, in that
+it summarizes all possible intervention comparisons simultaneously
+[20]. Using the minimum information prior
+distribution based on the random effect Bayesian statistical
+model, a connection network is formed combining
+direct and indirect evidence. Six intervention therapies
+were compared simultaneously; first, we performed
+regular pairwise meta-analysis. The I2 index was used to
+determine heterogeneity; indices of 25, 50, and 75% represent
+mild heterogeneity, moderate heterogeneity, and
+high heterogeneity, respectively [24]. A funnel chart was
+produced to detect publication bias. In order to reveal
+all available treatment evidence, a simple summary description
+network diagram was generated. The above analysis was performed in STATA, version 14.2. Endpoint
+analysis effect sizes were summarized as odds ratios
+(OR) with corresponding confidence intervals (CrI).
+Bayesian stratified random effects were used to directly
+and indirectly compare multiple interventions. The
+Bayesian method is used to calculate endpoint results;
+first, three parallel Markov chains with randomly selected
+states are established to simulate accurate estimation
+of statistical models [25]. Each chain generates
+50,000 iterations, and because of the aging cycle, the first
+20,000 iterations will be abandoned to ensure
+minimization of deviation of the initial value [26]. Convergence
+of the model was judged through the diagnostic
+curve [27]. The surface under the Cumulative
+Ranking Curve (SUCRA) is regarded as the ranking
+probability map for each intervention. The higher the
+SUCRA value, the more likely it is that an intervention
+is at the highest level or very effective, while a value of 0
+means that the treatment is least effective [28].
+Consistency between the two comparisons was evaluated
+by comparing the DIC values between the consistency
+and inconsistency models (a difference greater than 5 is
+considered as inconsistency between models) [29]. Node
+splitting was used to further assess for local inconsistencies
+in our network [30]. These analyses were performed
+using R (X64 version 3.5.3) with the “Gemtc” package
+(0.8–4 version), “JAGS” (version 4.3.0) and OpenBUGS
+(version 3.2.3).
+Cluster analysis of the treatments
+After Bayesian network analysis, by sorting out the
+SUCRA data of OS and relapse, a systematic cluster analysis
+of various treatment options was performed. Two
+to five cluster types were chosen and a vertical icicle diagram
+was used to visualize different clustering forms.
+After the systematic clustering analysis, the results were
+further analyzed through Online Analytical Processing
+(OLAP). The above analysis uses IBM SPSS version 26.0
+for analysis.
+Results
+Study characteristics and ROB quality assessment
+Among the 7486 citations, 4500 records were retained
+after deletion of duplicates. Four thousand two hundred
+thirty-two citations were removed after evaluation of
+title and abstract. Two hundred fifty-five records were
+excluded during full-text screening: 75 studies did not
+include stage IB2 and IIA2 cervical cancer, 65 studies
+were not randomized controlled trials, 12 studies had no
+relevant results, 15 studies did not determine the control
+group, 15 studies were supplements and 73 were excluded
+for other reasons such as foreign language, abstract
+etc.13 articles were included in the final study
+(Fig. 1).
+These studies included 2733 participants undergoing 6
+different interventions and provided sufficient data published
+from 1987 to 2020. Table 1 summarizes the main
+characteristics of the participants and interventions in
+the 13 included studies. Overall, 1399 patients were randomly
+assigned to the intervention group, while the
+remaining 1334 patients were assigned to the control
+group. In different studies, age is reported as the mean
+or median, ranging from 18 to 70 years. Across the 13
+randomized controlled trials, most (more than half) of
+the participants were from Asia, followed by North
+America and Europe.
+The 13 included studies included 6 interventions. The
+number of events and the The quality of individual and
+overall research levels are plotted in Figure S1 and Figure
+S2, respectively. In all 13 trials, all sequences were
+randomly generated, nine randomized controlled trials
+described their allocation concealment method, one trial
+design was not double-blind, and four randomized controlled
+trials had incomplete data on outcome indicators.
+There is 1 randomized controlled trial with higher risk,
+which originated from allocation concealment and
+double-blind design.
+I2 analysis indicated no statistically significant heterogeneity
+in our preliminary meta-analysis (I2 = 0 for OS,
+P > 0.05, I2 = 8% for relapse, P > 0.05). The funnel chart
+indicated no obvious publication bias for OS (Figure S3)
+or relapse (Figure S4).
+Visual network geometry was performed to show
+each arm. Each intervention has its own unique
+nodes, whose size depends on their number in the
+entire network. The two interventions are connected
+by straight lines, and the thickness of each straight
+line represents the number of comparisons (Fig. 2a,
+Fig. 3a).
+Among the 2733 patients, the final number of OS
+and relapses were 1692 in 2342 and 470 in 1950,
+respectively (Table 2). A SUCRA line was drawn to
+rank the hierarchy of each interventions (shown in
+Fig. 2b and Fig. S5 for OS), which indicated that
+CCRT+RS got the highest probability (SUCRA =
+0.7986) in IB2/IIA2 patients compared with the other
+5 active interventions, Following by NACT+RS (SUCR
+A = 0.5214), RT (SUCRA = 0.5070), CCRT (SUCRA =
+0.4832), RT + RS (SUCRA = 0.4462), RS (SUCRA =
+0.2436) got an inferior ranking. Another SUCRA line
+was drawn to rank the hierarchy of each interventions
+(shown in Fig. 3b and Figure S6 for relapse), which
+indicated that CCRT got the highest probability
+(SUCRA = 0.8389) in IB2/IIA2 patients compared with
+the other 5 active interventions, Following by RT + RS
+(SUCRA = 0.6504), NACT+RS (SUCRA = 0.6295), RT
+(SUCRA = 0.4897), CCRT+RS (SUCRA = 0.2427), RS
+(SUCRA = 0.1488) got an inferior ranking.
+Inconsistency detection
+The posterior values of the random effects inconsistency
+and consistency model were estimated; for OS and relapse,
+the difference in DIC values between the
+consistency and inconsistency model was 2.6 and 2.0, respectively.
+These indicated no substantial inconsistency
+between models.
+Overall ranking of SUCRA for each endpoint and cluster
+analysis
+Intervention ranking were distinct for the two endpoints
+measures (OS and relapse). Clinically, high OS is highly
+desirable; however, high recurrence rate also represent a
+substantial burden on patients. In order to make an
+overall assessment of the best treatment plan, the
+SUCRA value of each endpoint of all 13 interventions
+was added to obtain a cumulative SUCRA score. This
+analysis determined CCRT as the optimal treatment
+strategy (Fig. 4). Subsequently, based on the sum of
+SUCRA of OS and relapse, systematic cluster analysis divides
+the CCRT into a cluster, further supporting this
+strategy as the best option (Fig. 5).
+Further OLAP cube analysis demonstrated that when
+using a three-category approach, CCRT and RS were
+divided into a single group, indicating CCRT to be the
+optimal intervention and RS to be the worst (Table 3, Fig. 5).
+Discussion
+We performed an NMA study of treatments related to
+locally advanced cervical cancer in women to assess the
+relative effectiveness of various treatments in trials to
+date. Among all interventions evaluated, CCRT demonstrated the highest comprehensive efficacy, as evidenced
+by the sum of SUCRA value. After Bayesian analysis,
+a systematic cluster analysis was performed to
+determine the treatment interventions that can be evenly
+grouped according to the sum of SUCRA values of the
+two endpoints obtained by NMA, setting the cluster
+numbers to 2–5 categories to facilitate observation. At 3
+clusters, CCRT and RS are classified into different
+groups. From the SUCRA value, it is apparent that the
+top-ranked treatments vary depending on the endpoint
+of the assessment. The sum of the SUCRA value of each
+of the two endpoints implies that CCRT is the optimal
+intervention for FIGO stage IB2/IIA2 cervical tumor.
+Hierarchical cluster analysis further verified that the CCRT separated into an independent group. Therefore,
+in FIGO stage IB2/IIA2 cervical cancer, CCRT appears
+the optimal management strategy for cases.
+Cervical cancer is a serious women’s health issue
+worldwide; most cervical tumors are caused by highrisk
+human papillomavirus (HR-HPV) infection [41].
+An appreciable proportion of cervical cancer is
+diagnosed at FIGO stage IB2/IIA2. Previous reports
+have compared these cases against stage IB1 disease,
+reporting an increased risk of death from FIGO stage
+IB2 cervical cancer disease representing a close-todoubling
+of risk (HR 1.98, 95% CI 1.62–2.41, P <
+0.001) [42]. Optimal management of these cases is
+therefore crucial.
+The efficacy of CCRT in the treatment of locally advanced
+cervical cancer has been compared in previous
+randomized controlled trials or meta-analysis; these
+studies have suggested the superiority of CCRT versus
+other regimens [43–45]. Gupta et al. [31] suggested that
+in locally advanced cervical cancer, cisplatin-based concurrent
+radiotherapy and chemotherapy can achieve
+better disease-free survival compared with radical surgery
+after neoadjuvant chemotherapy.
+Other studies suggest that - although only significant
+for patients with stage IB2-IIB - NACT plus RS seems to
+confer survival benefit compared to RT [34]. Compared
+with RS alone, especially compared with CCRT, NACT
++ RS may improve the long-term disease-free survival
+rate and overall survival rate of patients with locally advanced
+cervical cancer stage IB2-IIB [7]. Moreover, total
+hysterectomy after NACT may be an option for patients
+with stage Ib2-IIb cervical adenocarcinoma [46]. However,
+this study found that NACT did not improve overall
+survival, but reduced the number of patients
+receiving postoperative radiotherapy [47]. Lee et al. [48]
+described no therapeutic advantage of NACT + RS compared
+to CCRT. Some scholars believe that preoperative
+brachytherapy in the vaginal cavity can be used as an effective
+treatment method for comprehensive treatment
+of stage Ib2 and IIa cervical cancer, with a satisfactory
+local control rate for stage Ib2 and IIa cervical cancer
+[32]. The findings of Landoni et al. [13] indicate that, in terms of survival, there is no alternative treatment for
+early cervical cancer. Long-term follow-up confirmed
+that the best treatment for individual patients should
+take into account clinical factors, such as menopausal
+status, comorbidities, histological type, and tumor diameter.
+In light of our findings in the context of this controversy,
+CCRT appears to be the most appropriate
+therapeutic option.
+NMA comes with conceptual and technical considerations
+[49], including the need to meet transitivity and
+consistency assumptions. The transitivity hypothesis
+means that the diverse treatments in all studies are comparable
+in terms of the characteristics that may affect
+the results. In order to ensure transmissibility, except for
+treatment interventions, other aspects of the included
+study should be relatively similar [49, 50]. In order to
+meet this transitivity assumption, we limited the study
+to locally advanced cervical cancer.
+Consistency described the statistical consistency between
+the direct comparison and the indirect comparison
+of each paired comparison in NMA. Differences
+indicate inconsistency [19, 29, 49]. We use the
+confidence interval in the network Meta-analysis to test
+the heterogeneity and consistency of the two endpoints
+and use the node splitting method to detect local inconsistencies
+[30]. No major heterogeneity or consistency issues
+were identified in the OS or relapse analysis.
+The advantage of this study is that our NMA compares
+each intervention for locally advanced cervical
+cancer. At present, the treatment of stage IB2/IIA2
+cervical cancer is still controversial; our findings are
+therefore of clear clinical interest.
+We acknowledge several limitations of our study. We
+acknowledge the subjectivity of the risk bias assessment.
+Some of the include studies lacked blinding of participating
+subjects, personnel or external reviewers. Moreover,
+some studies had incomplete outcome data. One
+randomized control trial demonstrated higher risk,
+which originated from allocation concealment and
+double-blind design. The quality of several studies may
+have affected our analysis. In addition, due to incomplete
+data, very few data were available, so the endpoint of
+complication rate and type of different treatments were
+lacking. Another limitation of the study is that all 13
+studies included cervical cancer stage IB2/IIA2, but a
+few studies not only included cervical cancer stage IB2
+/IIA2. This may have some impact on our research.
+Conclusions
+We report an analysis of all RCTs using different interventions
+in FIGO IB2/IIA2 cervical cancer; NMA identified
+that, in terms of effectiveness and safety, overall
+survival and relapse, CCRT may be the optimal treatment
+strategy in locally advanced cervical cancer. RS
+alone may be the least effective strategy. However, since
+these interventions have not yet been directly compared
+face-to-face, additional verification is necessary for the
+Phase 3 multicenter randomized controlled trial.
+
+
+

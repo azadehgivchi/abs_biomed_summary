@@ -1,0 +1,24 @@
+Background: Accurate, coded problem lists are valuable for data reuse, including clinical decision support and
+research. However, healthcare providers frequently modify coded diagnoses by including or removing common
+contextual properties in free-text diagnosis descriptions: uncertainty (suspected glaucoma), laterality (left glaucoma)
+and temporality (glaucoma 2002). These contextual properties could cause a difference in meaning between underlying
+diagnosis codes and modified descriptions, inhibiting data reuse. We therefore aimed to develop and evaluate an
+algorithm to identify these contextual properties.
+Methods: A rule-based algorithm called UnLaTem (Uncertainty, Laterality, Temporality) was developed using a
+single-center dataset, including 288,935 diagnosis descriptions, of which 73,280 (25.4%) were modified by healthcare
+providers. Internal validation of the algorithm was conducted with an independent sample of 980 unique records.
+A second validation of the algorithm was conducted with 996 records from a Dutch multicenter dataset including
+175,210 modified descriptions of five hospitals. Two researchers independently annotated the two validation samples.
+Performance of the algorithm was determined using means of the recall and precision of the validation samples. The
+algorithm was applied to the multicenter dataset to determine the actual prevalence of the contextual properties
+within the modified descriptions per specialty.
+Results: For the single-center dataset recall (and precision) for removal of uncertainty, uncertainty, laterality and
+temporality respectively were 100 (60.0), 99.1 (89.9), 100 (97.3) and 97.6 (97.6). For the multicenter dataset for removal
+of uncertainty, uncertainty, laterality and temporality it was 57.1 (88.9), 86.3 (88.9), 99.7 (93.5) and 96.8 (90.1). Within
+the modified descriptions of the multicenter dataset, 1.3% contained removal of uncertainty, 9.9% uncertainty, 31.4%
+laterality and 9.8% temporality.
+Conclusions: We successfully developed a rule-based algorithm named UnLaTem to identify contextual properties
+in Dutch modified diagnosis descriptions. UnLaTem could be extended with more trigger terms, new rules and the
+recognition of term order to increase the performance even further. The algorithm’s rules are available as additional
+file 2. Implementing UnLaTem in Dutch hospital systems can improve precision of information retrieval and extraction
+from diagnosis descriptions, which can be used for data reuse purposes such as decision support and research.

@@ -1,0 +1,18 @@
+Background: Single nucleotide variants account for approximately 90% of all known pathogenic variants
+responsible for human diseases. Recently discovered CRISPR/Cas9 base editors can correct individual nucleotides
+without cutting DNA and inducing double-stranded breaks. We aimed to find all possible pathogenic variants
+which can be efficiently targeted by any of the currently described base editors and to present them for further
+selection and development of targeted therapies.
+Methods: ClinVar database (GRCh37_clinvar_20171203) was used to search and select mutations available for
+current single-base editing systems. We included only pathogenic and likely pathogenic variants for further analysis.
+For every potentially editable mutation we checked the presence of PAM. If a PAM was found, we analyzed the
+sequence to find possibility to edit only one nucleotide without changing neighboring nucleotides. The code of
+the script to search Clinvar database and to analyze the sequences was written in R and is available in the
+appendix.
+Results: We analyzed 21 editing system currently reported in 9 publications. Every system has different working
+characteristics such as the editing window and PAM sequence. C > T base editors can precisely target 3196
+mutations (46% of all pathogenic T > C variants), and A > G editors – 6900 mutations (34% of all pathogenic G > A
+variants).
+Conclusions: Protein engineering helps to develop new enzymes with a narrower window of base editors as well
+as using new Cas9 enzymes with different PAM sequences. But, even now the list of mutations which can be
+targeted with currently available systems is huge enough to choose and develop new targeted therapies.

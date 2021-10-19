@@ -1,0 +1,16 @@
+Background: The mechanics of double key loop (DKL) are not well defined, and this finite element study was
+designed to explore its force system.
+Methods: A simplified 3-dimensional finite element model of single and double key loops with an archwire between
+the lateral incisor and second premolar was established in Ansys Workbench 17.0. Activation in Type-1 (retraction at
+the distal end), Type-2 (retraction at the distal key) and Type-3 (Type-2 plus ligation between keys) was simulated. The
+vertical force, load/deflection ratio and moment/force ratio of stainless-steel and titanium-molybdenum alloy (TMA)
+loops were calculated and compared.
+Results: The double key loop generated approximately 40% of the force of a single key loop. Type-2 loading of DKL
+showed a higher L/D ratio than Type-1 loading with a similar M/F ratio. Type-3 loading of DKL showed the highest
+M/F ratio with a similar L/D ratio as single key loop. The M/F ratio in Type-3 loading increased with the decreasing
+of retraction force. The DKL of TMA produced approximately 40% of the force and moment compared with those of
+SS in all loading types. When activated at equal distances below 1 mm, the M/F ratios of SS and TMA DKL with equal
+preactivation angles were almost the same.
+Conclusion: The M/F ratio on anterior teeth increases with the preactivation angle and deactivation of DKL. The M/F
+ratio at a certain distance of activation mainly depends on the preactivation angle instead of the wire material. TMA is
+recommended as a substitute for SS in DKL for a lower magnitude of force.

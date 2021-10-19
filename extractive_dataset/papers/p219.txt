@@ -1,0 +1,714 @@
+Background
+Planned multiple use of electronic patient data as well
+as reuse not anticipated at the time of data capture, e.g.
+for medical research, are often mentioned promises of
+Medical Informatics [1, 2]. Many technical and organizational
+challenges have to be solved, keeping it a current
+research topic [3, 4]. Data quality and lack of knowledge
+about datasets are common challenges for reuse
+mentioned in the literature. In this context, data quality
+denotes the ability of data to “serve the needs of a given
+user pursuing specific goals” [5]. Although there has
+been a consensus for many years that DQ is important
+and many DQ-assessment methods have been proposed,
+established reporting standards defining compilations
+of MMs for different DQ-assessment situations are still
+missing [5–10]. A MM is a specification of a method that
+quantifies a characteristic of a dataset (cf. [11]). Characteristics
+often examined in DQ-assessments are completeness
+and correctness of the dataset (cf. [5]). MMs
+calculating absolute and relative counts per variable, per
+value in this variable (absolute and relative frequencies)
+or counted for a certain dimension, e.g. number of values
+in a variable per patient, can give hints on completeness
+[12]. Checking constraints for valid variable’s values,
+correctness-
+issues. MMs describing the distribution of values,
+e.g. mean and standard deviation, or extreme values like
+minimum and maximum, could also indicate implausible
+data. Reporting standards, i.e. compilations of MMs, and
+tangible knowledge on which results indicate ‘good’ or
+‘bad’ DQ are what we refer to as DQ-assessment knowledge.
+Reasons for a lack of DQ-assessment knowledge
+discussed in the literature include general underreporting
+of DQ-assessment steps and a lack of comparability
+between MMs. For the purpose of DQ-assessment in
+comparative effectiveness and patient centered outcomes
+research, Kahn et al. [13] proposed a set of DQ relevant
+characteristics to be reported about a dataset based on
+years of experience in major research networks. However,
+these recommendations are not specific enough
+to ensure comparability if implemented independently.
+Furthermore, which MMs provide sensible information
+and assessment of their results may depend on the
+planned data usage [14] and the role of the person assessing
+the DQ [8, 15–19]. Stausberg et al. [20] suggest in
+their review that research should take into account proposals
+for formal definitions of DQ-indicators as well
+as standards for data definitions. Formal definitions of
+DQ-indicators (equate MMs) that are decoupled from
+the software that applies them is what we refer to as the
+knowledge-based approach in this paper. Changes to
+MMs governed separately from the applying software do
+not require changes to the software’s source code, thus
+shifting the ability for MM-governance away from software
+developers towards domain experts. In a recent
+work on a systematic DQ-assessment process Diaz-
+Garelli et al. [21] stress that adapting DQ-assessment to
+the task at hand is important, but defining DQ-requirements
+is a complex and resource-intensive task, typically
+requiring a multidisciplinary team. Governance of MMs
+in a knowledge-based approach could support this multidisciplinary
+collaboration. Furthermore, knowledgebased
+MMs are easier to reuse and share in different
+technical and organizational contexts. Two popular open
+source tools for DQ-assessment on health data are Achilles
+Heel [6] and the PEDSnet Data-Quality-Analysis [8,
+19]. Both rely on the OMOP data model and implement
+DQ-assessment knowledge directly, without a knowledge-
+based approach. In epidemiological research, existing
+implementations of generic methods exist as R-based
+implementations [22–25]. R is a programming language
+for statistical computing. Kapsner et al. [18] implemented
+their DQ-framework as R-functions and mention plans
+to support their framework with an ISO/IEC 11179 metadata
+repository. Juarez et al. [26] recently published work
+based on such a metadata repository, in which simple
+constraints are stored centrally together with metadata
+like variable definitions. Utilizing standards like ISO/IEC
+11179 for data definitions as proposed by Stausberg et al.
+is one aspect of interoperability. Juarez’s storage approach
+for constraints is a simple knowledge-based approach,
+but is limited to constraint checks for single variables and
+does not address task and domain dependency. Johnson
+et al. propose formally defined DQ-indicators and argue
+for the need to consider domain and task dependency in
+DQ-assessment [11, 14, 27]. Domain refers to the clinical
+content the data represents and its context. Task refers to
+the purpose of the DQ-assessment. A knowledge-based
+approach to DQ-assessment that considers task and
+domain specific requirements, that flexibly supports any
+kind of MM and adds means to address interoperability
+could help to reach well-defined, collaboratively governed
+DQ-assessment knowledge for different purposes
+in the context of healthcare.
+Objectives
+The aim of this paper is to present our method for interoperable,
+knowledge-based DQ-assessment and findings
+from its first real world application. Interoperable implies
+two things: First, portability on standard-compliant technical
+infrastructure; Second, MMs base on standardized
+data definitions and MM-results remain comparable as
+long as the same or similarly structured data definitions
+are used. Knowledge-based implies that the MMs themselves,
+which MMs are applied as well as assessment of
+MM-results, can be expressed in a formalized way. This
+intends to support the long-term vision of collaboratively
+governing DQ-assessment knowledge considering
+domain and task specific requirements.
+Methods
+Technical setting
+As part of the German Medical Informatics Initiative [28,
+29] the HiGHmed consortium aims to facilitate meaningful
+reuse of data by establishing a shared information governance
+framework, data integration centers and an open
+platform architecture that makes use of several interoperability
+standards [30]. Out of these standards, the
+openEHR specification [31] provides four features helping
+to reach the objectives of this work. First, the specification
+provides definitions for basic building blocks
+from which complex clinical information models (CIM)
+can be built. Some of these basic definitions, the reference
+model types, can be used to automatically generate
+MMs similar to MMs based on a datatype, e.g. measures
+of distribution for numeric variables or frequencies for
+string variables. Second, CIMs provide shared machinereadable
+definitions of the clinical concepts the data
+represents. CIMs in openEHR are called archetypes or
+templates, depending on their purpose. While archetypes
+define a clinical concept, e.g. blood pressure, regardless
+of the use case, templates assemble and constrain archetypes
+considering a specific use case. Source systems providing
+data from different units or sites work in different
+clinical processes. Thus, the actual data instances, called
+compositions, usually conform to different templates.
+Yet, the archetypes for the same clinical concepts are
+still common, enabling tools to work on data from different
+sources through archetype-paths. The archetypepaths
+unambiguously reference variables within MMs in
+a standardized way. By this, MMs can quantify aspects
+of DQ for datasets from different sources in a comparable
+manner. Beyond that, CIMs can express constraints
+on valid data instances for variables, such as ranges, formats,
+value sets, datatypes, cardinalities. Based on this
+information MMs checking these constraints can be
+generated. Existing tools [32] and established governance
+processes (e.g. [33, 34]) for openEHR CIMs can
+support the collaborative definition and governance for
+such type of MM. The openEHR REST API specification
+for data repositories (third openEHR feature used)
+defines interfaces which applications can use to interact
+with the repository, e.g. for standardized data retrieval,
+by that enabling portability of tools between compliant
+data repositories. The Archetype Query Language (AQL)
+[35] (fourth used openEHR feature) is a query language
+similar to the well-known structured query language
+(SQL). AQL allows flexible querying of the data repository
+on the basis of CIMs, i.e. based on archetype-paths,
+and hence independent of local database schemata. The
+combination of REST API specification and AQL enables
+standardized, clearly defined and flexible data retrieval.
+We implemented an open source DQ-assessment tool
+named openCQA [36] that makes use of the openEHR
+features described above. This tool implements the concepts
+for interoperable, knowledge-based DQ-assessment
+presented in this work. It consists of a web application for
+user interaction on client side (Fig. 1A) and a server side
+application for data processing implemented as Node.js
+application (Fig. 1B). Thus, data can stay in the institutions
+data center reducing potential performance and
+security issues. Further, openCQA makes use of a server
+side instance of R for statistical computing (Fig. 1C) and
+requires an openEHR REST API compliant data source
+(Fig. 1D). Two means for DQ-assessment knowledge governance
+are available: First, we take advantage of tools
+[32] and processes (e.g. [33, 34]) for openEHR CIM governance
+to govern constraints on valid data instances
+expressed in CIMs (Fig. 1E). openCQA can automatically
+derive applicable MMs from openEHR CIMs to check
+these constraints. Second, we use the version control
+system git [37] to manage knowledge bases, i.e. compilations
+of MMs for certain domains and/or tasks (Fig. 1F).
+openCQA can import and apply such knowledge bases
+as well as export MM-compilations into a knowledge
+base. A working instance of openCQA was available at
+the medical data integration center of Hannover Medical
+School.
+MM formalization
+We define MMs as simple 5-tuples as depicted in Fig. 2.
+As first tuple element, tags are descriptive keywords
+indicating what the MM does and optionally the context
+for its intended use (Fig. 2A).
+Second tuple element, is the definition of the input data
+for the MM by means of domain paths (Fig. 2B). A MM
+can require input data in multiple vectors. The item* in
+the domain path is the name of the input variable for the
+MM followed by the R-datatype expected for this variable.
+A domain path can relate to a variable by specifying
+where to retrieve the appropriate data from the dataset.
+We employ openEHR archetype-paths for that enabling
+us to address identical variables retrieved from different
+templates using the same domain path. The second
+type of domain path relates to other MMs, i.e. by specifying
+a filter-expression defining the MMs and which
+attributes of the MMs shall constitute the input data for
+this domain path. The second type of domain path enables
+multi-level MMs, e.g. for using results from MMs as
+input for another MM. Table 1 lists examples for possible
+types of domain paths.
+Third part of a MM is the optional constraint checking
+(Fig. 2C). A rule is applied to each row of the input data.
+The rule is expressed in R. This results in a vector containing
+the check’s results, which is typically Boolean but
+yet, is not restricted to this datatype, e.g. a numeric scale
+would be a possible result. Table 2 lists examples for constraint
+checks.
+The optional grouping rule (Fig. 2D) results in a vector
+assigning each row to a group. For example, if the number
+of range-constraint violations in a study’s dataset is
+of interest separated for each hospital, this rule defines
+how to group the dataset rows in this dimension, i.e. to
+group rows depending on the value of variable healthcare
+facility (cf. Fig. 2). The MM-result will contain one value
+per site, indicating the number of violations for each site.
+If no grouping is specified, all rows constitute one group.
+Grouping rules are expressed in R. Table 3 lists examples
+for groupings.
+The last MM-part is the characterization function
+(Fig. 2E) producing the desired MM-results. Here, characterization
+denotes a simple procedure summarizing
+a certain characteristic of a given dataset to make the
+contained information graspable by reducing irrelevant
+information. For example, in most cases, it is not of interest
+which item of a vector contains which value, but the
+overall distribution is of interest and can be expressed
+with measures like mean and variance or as histogram.
+The characterization function is a freely programmable
+R-function. It is not limited to predefined R-functions.
+Thus, the possibilities of desired output are manifold,
+including visualizations. Table 4 list examples for characterization
+functions.
+Executable parts of the MMs are expressed in R
+(Fig. 2C–E). Other means considered for expressing
+these parts of the MMs were Drools [38], Arden Syntax
+[39], Object Constraint Language [40] and the openEHR
+Guideline Definition Language [41]. After numerous
+discussion with colleagues of different backgrounds and
+affiliations, we chose to use R. The advantages of R are
+manifold existing statistical methods and its popularity
+in some potential user groups, e.g. epidemiologists. We
+operationalized the 5-tuples utilizing a generic R-script
+as template. Additional file 1: Appendix A provides an
+example of an operationalized MM. Only the five attributes
+annotated with A–E in Fig. 2 differ between MMs.
+The segmentation of parts C, D and E as well as using
+multi-layered MMs instead of expressing everything in
+one script intends to improve comparability. When mixing
+characterization (e.g. mean for a variable’s values)
+with rule checking (e.g. is value in permissible range),
+grouping (e.g. per hospital), adding some aggregation
+(e.g. a mean over some MM-results with different
+weights) and a visualization or assessment (e.g. dataset is
+OK), much variability between two MMs is introduced,
+since each step can slightly differ. As a result, even MMs
+quantifying almost similar aspects of DQ may differ
+in minor details, and results may not contain all necessary
+information from the dataset to make their results
+comparable. Separating these steps and defining preferably
+plain MMs aims to maintain comparability as long
+as possible.
+Application of DQ‑assessment method
+Example use case is the ROCKET study [42] on predictive
+biomarkers for rejection and other injuries of kidney
+transplants. We already integrated the study’s dataset into
+an openEHR data repository at Hannover Medical School
+for further analysis, dissemination and later reuse. To validate
+the data integration pipeline, we already compared
+the original data export from an electronic data capture
+system and the dataset in the repository. These first two
+steps, did not involve the methods presented in this manuscript.
+openCQA was developed using dummy-data
+and a local test instance of an openEHR data repository.
+The ROCKET study was the first real world application
+including the roll out at the data integration center. This
+entailed dealing with another repository as data source
+(same product [43] but different version) and a new
+domain, i.e. other CIMs. Note, that no fitting of the tool
+to this particular domain was required, since the method
+is applicable to any compliant data source with any AQLquery
+due to the use of standardized means for data
+retrieval and MM generation (cf. Technical setting). One
+intention of this application was to test if our described
+theoretic concepts for interoperable and knowledgebased
+DQ-assessment work, e.g. regarding portability
+and whether the generated MMs provide useful and correct
+results. For the latter purpose, one of the authors
+(IS) created and applied basic statistics using IBM SPSS
+Statistics 25 (a statistics software package) for an agreed
+on subset of the data-export from the electronic data
+capture system. These included frequencies and percent
+values for the nominal or ordinal data (e.g. diagnosis) and
+summary measures for scale variables. Another author
+(ET) independently derived MMs for basic statistics and
+computed results by applying openCQA on the data in
+the openEHR data repository.
+As recommended for systematic DQ-assessment in the
+literature [21], DQ-assessment with openCQA started
+by precisely specifying the information of interest. The
+client part of openCQA (Fig. 1A) allows to do that in a
+standardized and executable form as AQL queries. We
+specified seven AQL queries each retrieving the data of
+interest for specific questions of our DQ-assessment.
+Additional file 2: Appendix B shows an example query.
+The client forwarded the AQL to the server side application
+(Fig. 1B) which retrieved the data via REST API
+from the repository (Fig. 1D) and sent the archetypepaths
+occurring in the dataset along with their respective
+reference model types to the client (similar to the information
+which variables exist in the dataset and their
+respective datatypes).
+Our next step using openCQA was to define information
+needs about the dataset, e.g. DQ-requirements the
+dataset should fulfill (cf. [21]) or visual methods for DQassessment,
+which are common practice [22, 44–46].
+A common problem mentioned in the literature is that
+domain experts are often left alone with this complex and
+resource intensive task, ending up in single-use projectspecific
+MMs [21, 22]. Two of our concepts address this:
+First, automatic generation of MMs depending on the
+variable’s reference model type and second, the knowledge-
+based approach. We used the openCQA client
+(Fig. 1A) to derive MMs based on the reference model
+types calculating simple characterizations, e.g. mean
+value for scale variables or frequencies for categorical
+data, and simple visualizations, e.g. a barplot.
+To keep the set of openCQA’s MMs concise when comparing
+generated MMs to statistics calculated in SPSS,
+we removed all MMs including dimensions, e.g. MMs
+calculating additional measures grouped per hospital.
+We checked if all measures of interest for our assessment
+were present. The measures calculated by IS in SPSS
+defined which measures were of interest and ET checked
+if these were present in openCQA’s generated MMs.
+We extended openCQA’s MMs with histograms showing
+distributions of age for kidney transplant recipients
+and organ donors as well as distribution of time in
+months between the transplantation and the patient’s
+posttransplant evaluation visit that included a transplant
+biopsy.
+As last information need, we adapted and implemented
+three MMs proposed by Johnson et al. for their HDQF
+DQ-assessment framework [11, 14, 27] and expressed
+them as applicable MMs in openCQA (Additional file 3:
+Appendix C details the adaptions to HDQF’s MMs; The
+MMs from HDQF framework had no counterpart in
+SPSS.) (1) Representation Complete calculates the percentage
+of non-missing entries per variable. (2) Task
+complete quantifies the number of missing values in
+mandatory variables. (3) TDConstraints summarizes the
+checks of constraints for variables defined in given CIMs.
+CIMs can serve to express both domain and taskdependent
+constraints. A regular CIM used for data processing
+should already include sensible constraints, e.g.
+the height archetype could constrain, that the height of
+a person should not exceed 300 cm or a template could
+define mandatory context variables according to local
+clinical processes. Since openEHR repositories enforce
+compliance of data with these constraints, checking them
+in DQ-assessment would be pointless for data queried
+from an openEHR repository. However, not all suspicious
+values are actually wrong data. This is why constraints
+in regular CIMs should be set with caution to prevent
+excluding unusual but correct data (cf. Table 2 in [47]).
+In contrast, DQ-assessment wants to detect suspicious
+values, and therefore CIMs defining constraints for DQassessment
+need to be more extensive and restrictive (cf.
+Richter et al. [48]—Table 1—plausibility and admissibility
+limits). In addition to that, CIMs could define task
+dependent constraints, e.g. when a multi-disciplinary
+project team collaboratively decides to make fields mandatory,
+considering a certain planned analysis (cf. [21]).
+The presented method can deal with an unlimited number
+of CIMs (archetypes and templates) for the same
+clinical concept. This allows users to add CIM-based constraints
+arising from different roles and perspectives in
+DQ-assessment.
+In our study, we derived constraints from the consented
+templates without adding any more restrictive constraints.
+Note that the MMs checking CIM-constraints
+were not hard-coded for this particular assessment, but
+derived automatically from CIMs. Therefore, our created
+example knowledge base containing the HDQF-MMs
+is applicable in any sensible use case and applying the
+measure TDConstraints on MMs derived from different
+CIMs is possible without adapting the TDConstraints-
+MM. This example shows how existing work proposing
+well-thought-out means for DQ-assessment can be integrated
+with our approach and demonstrates possibilities
+for summarizing and assessing MM-results using multilayered
+MMs. The HDQF-MMs’ results were summarized
+in a heatmap (example in Fig. 3). Figure 3 does not
+include the example MM checking the range for the date
+of biopsy as depicted in Fig. 2, since the defined range
+constraint is just an arbitrary example. We mapped the
+domain paths to shorter variable names for display in
+Fig. 3.
+We executed all MMs using the openCQA client
+(Fig. 1A). The client resolved dependencies of multilayered
+MMs and invoked the MM execution on serverside
+(Fig. 1B). The server side application extracted the
+desired input data for each MM (from the dataset or from
+other MMs’ results), executed the MM in R (Fig. 1C) and
+returned the results for display on the client side. Finally,
+we compared openCQA’s MM-results with those of
+SPSS, to validate correct computation of MM-results in
+openCQA.
+Results
+The dataset of the study comprised 384 variables. On
+a subset of 65 variables belonging to two templates,
+the absolute and relative frequencies were of interest.
+openCQA derived 245 and 381 MMs respectively from
+reference model types and CIMs. After excluding MMs
+derived from CIMs and MMs grouping for dimensions,
+67 and 115 MMs were left. The automatically derived
+MMs included the frequencies and percent values of
+interest, measures like minimum, maximum, median and
+mean as well as appropriate visualizations as needed for
+the assessment of the study’s data. Table 5 lists example
+results. The histograms for the distributions of age and
+time between transplantation and posttransplant biopsy
+were not generated automatically, but were added manually
+using openCQA’s GUI. Since checking the age and
+gender distributions in datasets is common practice in
+clinical studies, these MMs are well suited to be part of
+a task-specific knowledge base (Fig. 1F), e.g. for initial
+data analysis in studies (cf. [49]). Patient and donor age
+and gender were expressed conforming to internationally
+governed archetypes. Thus, such a knowledge base
+entails MMs creating histograms as characterization
+(cf. Fig. 2E) with the respective archetype-paths from the
+international archetypes as domain paths (cf. Fig. 2B) and
+tags (cf. Fig. 2A) indicating the task “initial data analysis
+in studies”. Such MMs could be loaded from the knowledge
+base and applied on other sensible datasets to visualize
+age or gender distributions without the need for
+modifications.
+Intention of Table 5 is to illustrate MM-results while
+not revealing any clinical study results, which are not
+subject of this work. Frequencies and percent values (relative
+frequencies) from openCQA’s MM-results and the
+statistics calculated using SPSS were identical with the
+exception of one variable where the data integration pipeline
+did not catch an unexpected null flavor, i.e. source
+data contained ND instead of NA for some missing values
+(Error in data integration pipeline, calculations in
+DQ-assessment were correct). As shown in Table 5, row
+counts per patient were not calculated in SPSS. The corresponding
+MM was excluded from openCQA’s MMs
+before comparing results since it involves grouping in
+dimensions (cf. "Application of DQ-assessment method"
+section). Constraint checks (e.g. cardinality check)
+derived from CIMs and TDConstraints from HDQF
+framework were not available as SPSS-results as well.
+The distribution of kidney transplant recipient’s age
+was not available from SPSS statistics. The other histograms
+(not shown) for the distributions of age as well as
+distribution of time in months between last transplantation
+and the study biopsy were concordant between SPSS
+and openCQA.
+The implemented MMs from the HDQF framework
+each calculated one MM-result, where each MM-result
+contained one result-value per variable (cf. Table 5 last
+row or Fig. 3). Figure 3 shows an example heatmap
+based on the HDQF measures for one template. Representation
+Complete indicated missing entries for some
+variables. Task complete showed, that no mandatory
+variable’s values were missing. The measure TDConstraints
+used 12 MMs derived from constraints contained
+in the corresponding CIM. The assessment part
+of a heatmap like Fig. 3 is represented using colors. The
+colors in the heatmap depend on the MM-result values
+for the respective variable, which serve as input data
+for the MM plotting the heatmap. Adjusting input values
+for MMs on certain variables in the heatmap-MM
+would be an example for more specific DQ-assessment
+based on task or domain dependent knowledge. For
+example, Khare et al. (cf. Figure 6 in [8]) showed a similar
+heatmap where cells with measures for variables not
+relevant for a study were simply colored white
+Discussion
+We defined two requirements for interoperability in our
+objectives: portability on standard-compliant technical
+infrastructure and to base MMs on standardized data
+definitions. To improve comparability of MM-results and
+to support collaborative knowledge governance for DQassessment,
+our knowledge-based approach proposes a
+formalization for DQ-assessment knowledge. We implemented
+our method for interoperable, knowledge-based
+DQ-assessment and applied it in the ROCKET study.
+The generated MMs derived from reference model types
+and CIM-constraints could serve as basic assessment,
+e.g. regarding completeness (absolute and relative frequencies)
+and correctness (constraint checks, frequencies,
+distribution measures). The presented concepts for
+formalizing MMs (cf. "MM formalization" section), basing
+MMs on standardized data definitions (CIMs and
+archetype-paths), portability (AQL, openEHR RESTAPI
+and archetype-paths) and collaborative governance
+of DQ-assessment knowledge (openEHR CIM governance
+and compilations of MMs for domains and/or tasks
+managed using git) worked, produced useful results and
+showed satisfactory practicability in a real world use case.
+Interoperability
+openCQA uses standardized interfaces for data retrieval
+and our formalized MMs reference variables in datasets
+using archetype-paths together enabling portability. For
+example, assuming a hospital in England, which stores
+its data in an openEHR data repository based on their
+own templates according to their local application systems
+(but using international archetypes). This hospital is
+able to run openCQA and MMs from a German hospital
+without adaptions as long as MMs base on the international
+archetypes even if the MMs were created using
+different templates and an openEHR repository from
+another vendor.
+Using terminologies in CIMs is a supported feature of
+openEHR, e.g. for describing eligible values. Making use
+of terminologies would also be useful in DQ-assessment
+and important for interoperability. Although this task
+was beyond the scope of the present work, we paid attention
+that none of our concepts contradicts terminology
+integration.
+Our implementation of the presented concepts for
+interoperability and knowledge-based DQ-assessment,
+relies on the openEHR specifications and without adaptions
+is only applicable to openEHR based data sources.
+Nevertheless, we took particular care to facilitate
+expansion of our approach to other data sources and to
+simplify comparing results between MMs based on different
+CIM standards. Juarez et al. [26] rely on the ISO/
+IEC 11179 metadata repository standard. Kapsner et al.
+[18] state plans to adapt their R-based framework for
+this standard. Juarez et al. store constraints on valid variable
+values together with the variable definitions. Their
+approach is comparable to our proposed CIM-based governance
+of constraints (Fig. 1E) but remains limited to
+constraint checks on one variable and does not address
+the challenge of flexible domain and task specific requirements.
+For example, such an approach could not implement
+the row count per patient or the cardinality check
+shown in Table 5. Comparing MM-results based on constraints
+defined in a metadata repository and MMs based
+on openEHR CIMs merely requires mappings between
+the ISO/IEC 11179 variable definitions and corresponding
+archetype-paths. Alternative implementations or
+extensions of openCQA, e.g. to apply our concepts on
+data sources relying on ISO/IEC 11179 metadata definitions,
+to the OMOP data model [50] or complying with
+other CIM-standards like FHIR [51], would increase the
+value of collaborative knowledge governance. To support
+that, openCQA is freely available with open source code
+under MIT License [36]. However, replacing openEHR
+with other standards or data models affects portability,
+MM formalization, MM generation and means for
+knowledge governance. Implications on portability
+depend on the means other standards provide to support
+standardized data retrieval, e.g. equivalents of AQL,
+REST-API and archetype-paths. A fixed common data
+model like OMOP is sufficient to enable portability of the
+tool, but of course lacks the benefits of multi-level modelling,
+e.g. having the same archetype-path for data from
+different templates. Our proposed MM formalization is
+usable with other standards/data models just needing
+another way to reference variables in datasets instead of
+archetype-paths (again sacrificing the benefits of multilevel
+modelling). Multi-layered MMs are directly applicable
+and comparable with openEHR-based MMs (as long
+as the filter-condition does not address the domain path)
+since they rely on our MM formalization, not on the
+openEHR specification. We already approximated application
+of our concepts to other standards by applying our
+MMs generated with openCQA (R-scripts) to comparable
+data in non-openEHR data sources [52]. Implications
+on MM generation depend on the information contained
+in the other data models, e.g. datatypes, constraints etc.
+and on the possibility to govern domain and task specific
+constraints. openEHR’s means and processes for knowledge-
+management obviously get lost when using other
+standards, leaving only git-based knowledge management.
+Standards like FHIR might be able to substitute
+this, e.g. by providing other processes and tools [53].
+Knowledge‑based DQ‑assessment
+Considering the possible combinations of variables,
+checks, groupings and characterizations and keeping in
+mind that sensible combinations as well as the assessment
+of MM-results are task and domain dependent,
+the amount of resultant information could become overwhelming.
+The finding that selecting sensible MMs and
+their assessment for a certain task is challenging agrees
+with findings from the literature, e.g. Diaz-Garelli et al.
+[21] stress that defining DQ-requirements is complex,
+resource intensive and typically requires a multidisciplinary
+team. The intention of our approach is to support
+DQ-assessment by providing means for flexible generation
+(MMs from CIMs and from reference model types),
+reuse and collaborative governance of formalized DQassessment
+knowledge. From the MMs in our use case,
+we already identified two sensible knowledge bases, i.e.
+“initial data analysis in studies” and “HDQF”. Diaz-Garelli’s
+findings support the idea of reusing MMs, since only
+17 out of 52 DQ-requirements in their use case were
+analysis-specific, suggesting good potential for reuse
+of MMs [21]. Beyond Diaz-Garelli’s approach, we deem
+most other processes for the elaboration of MMs or proposing
+MMs for a certain domain or task to be complementary
+to our approach, not competing, e.g. HDQF
+[11], 3 × 3 DQA [12] or Henley et al. [54]. Several taskspecific
+implementations for DQ-assessment have been
+published. These embody valuable task-specific knowledge.
+In epidemiological research, R-based implementations
+exist [18, 22, 24, 25]. As Bialke et al. [22] mention,
+such tools need metadata, e.g. variable definitions, units,
+code lists etc. to generate specific DQ-reports. This fits
+well to our CIM and reference model type based MM
+generation, which inherently provides such metadata.
+Besides employing such existing R-functions in MMs,
+our knowledge-based concept can combine them with
+other MMs and can support the governance of formalized
+knowledge about sensible tasks for their application
+and on assessment of their results. Similarly, once implemented
+as MM-compilation (like the HDQF example),
+existing DQ-frameworks are enabled to be extended with
+additional MMs, e.g. for MMs assessing the results of the
+framework for a certain task. Our method does not limit
+MMs to certain predefined functions. Even if those new
+MMs require complex calculations not known yet, tools
+implementing our concepts do not need to be adapted.
+Juarez et al. discuss in which stage of a dataset’s lifecycle
+DQ-assessment is most worthwhile and focus
+their framework on this stage [26]. We assume DQassessment
+is sensible at different stages with different
+perspectives, e.g. a data integration specialist
+validates data integration locally during implementation,
+a quality manager continuously monitors DQ in
+a data integration center and a researcher assesses DQ
+in a research data network specifically for the research
+question [8, 15–19]. For this purpose, the presented
+method is applicable at all stages on a compatible data
+repository (Fig. 1D) and the concepts we describe support
+adjusting DQ-assessment to the domain and task.
+A common practice to agree on a set of sensible MMs
+and their assessment for a project is to conduct surveys
+and reviews with experts and stakeholders [12,
+18, 19]. This is similar to openEHR CIM governance
+which typically involves domain- and technical experts
+working together to define a CIM’s core data elements,
+contextual data elements and sensible constraints for
+a clinical domain (archetypes) or a particular use case
+(templates). CIM-drafts are refined in multiple review
+rounds in which experts discuss the draft and suggest
+improvements finally leading to a consented CIM.
+Tools to support these review rounds and CIM management
+over the whole lifecycle are available [32]. We
+can directly make use of these well-tested processes
+and tools for CIMs, to govern constraint checks on the
+data (Fig. 1E). Likewise, for all other types of MMs we
+can manage knowledge bases (MM-compilations, cf.
+Fig. 1F) using git [37]. Git primarily supports version
+control but also comprises features for documentation,
+discussion and issues tracking that can support similar
+processes as for CIMs, although less optimized for
+knowledge governance. Using these two means (CIMs
+and knowledge bases) for knowledge-management
+entails the challenge of keeping constraints consistent
+through updates, which will probably need attention.
+If we imagine a knowledge base for a certain task that
+includes MMs derived from a CIM, these MMs are not
+updated if constraints in the original CIM change and
+vice versa, the CIM will not change when the respective
+MMs are adapted. This could be even more complicated
+if MMs would be aligned with other interoperability
+standards, e.g. ISO/IEC 11179 metadata repositories
+[26] or HL7 FHIR [51]. However, we just started collaborative
+governance of DQ-assessment knowledge
+and so far did not evaluate different processes regarding
+their goal to improve task and domain specific DQassessments
+while keeping efforts justifiable. We need
+more experience in how to combine different means.
+Conclusions
+The presented work describes a method for interoperable
+and knowledge-based DQ-assessment. We provide
+applicable concepts and a tested exemplary open source
+implementation. The main contributions our work adds
+to existing work in the field are to address interoperability
+(portability and comparability) in DQ-assessment, a
+knowledge-based approach that considers the need for
+task and domain specific requirements and flexibility in
+the types of applicable MMs. Regarding interoperability,
+we accomplish portability and support MM-comparability
+through use of standardized interfaces and use
+of archetype-paths as means to align data from different
+sources. We demonstrate how MMs generated from
+openEHR CIMs and reference model types can support
+DQ-assessment. We propose a formalization for
+MMs and show means for collaborative governance of
+DQ-assessment knowledge striving to base DQ-assessment
+on formalized knowledge. We applied our concepts
+in a real world use case with satisfactory results,
+using openCQA as our implementation. Important next
+steps would be to work on methods for learning of DQassessment
+knowledge, on integrating existing processes
+for MM elaboration, integrating existing frameworks
+proposing MMs [11, 12, 21, 54] as well as to gain experience
+with collaborative governance of DQ-assessment
+knowledge.

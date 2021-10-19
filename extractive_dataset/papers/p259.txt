@@ -1,0 +1,135 @@
+Background
+Anti-N-methyl-d-aspartate receptor (anti-NMDAR)
+encephalitis is an autoimmune disease associated with
+serum and/or cerebral spinal fluid (CSF) antibodies
+against functional NMDAR [1, 2]. Patients develop
+acute or subacute psychiatric symptoms, memory loss,
+movement disorders, seizures, speech dysfunction and
+disturbance of consciousness [3].
+Electroencephalography (EEG) can be useful for diagnosing
+anti-NMDAR encephalitis [4–9]. Extreme delta
+brush (EDB) is a characteristic EEG pattern of anti-
+NMDAR encephalitis [4]. EDB is consists of rhythmic
+delta activity at 1–3 Hz with superimposed bursts of
+rhythmic beta frequency activity “riding” on each delta
+wave. The beta/delta power ratio and rhythmic alpha
+sinusoidal waves in the frontotemporal regions can provide
+indications of anti-NMDAR encephalitis [5–9].
+Here, we report EEG and magnetoencephalography
+(MEG) data on EDB from a female patient with psychosis
+and reduced responsiveness. We address two questions:
+Does EDB in patients vary with open or closed
+eyes or with sleep-wake cycles? Do delta waves and beta
+activity originate in the same brain regions? The EEG
+data were used to elucidate the relationship between
+EDB and open or closed eyes and between EDB and
+occipital alpha rhythms. The MEG data were collected
+and evaluated using time-frequency analysis and magnetic
+source location to analyze the delta wave and beta
+activity.
+Case presentation
+The patient was a 16-year-old woman with no significant
+medical history. She presented at the Nanjing
+Brain Hospital with a fever of 37.5 °C, new-onset visual
+hallucinations and indifference. On day 2, the first
+video EEG recording showed EDB in the right brain
+regions, and normal occipital alpha rhythms were not
+observed (Fig. 1a). The patient was diagnosed with
+anti-NMDAR encephalitis according to EDB and
+received immunotherapy (glucocorticoid and immunoglobulin)
+immediately.
+The beta activity within the EDB weakened when
+the patient closed her eyes (Fig. 1a; blue arrow), and
+the occipital alpha rhythms occasionally reappeared
+(Fig. 1b; blue box). Conversely, the beta activity was
+enhanced when the patient opened her eyes (Fig. 1a;
+red arrow). During sleep, EDB markedly weakened
+during stage II non-rapid eye movement (NREM)
+sleep (Fig. 1c) and was enhanced during slow-wave
+sleep periods (Fig. 1d).
+On day 3 in the hospital, the patient experienced two
+seizures. Fluid-attenuated inversion-recovery (FLAIR)-
+weighted and T2 images were normal (Fig. 1g, h). Arterial
+spin labeling showed high blood flow in the right
+frontal and temporal regions (Fig. 1i). On day 4, indirect
+immunofluorescence technique (IIFT) results revealed
+NMDAR antibody titers of 1:100 in the CSF and 1:1000
+in the serum. Gynecological sonography was normal.
+The patient’s MEG data were recorded using a wholehead
+CTF 275-channel MEG system. MEG data were
+analyzed by time-frequency analysis, which was performed
+in each 5-s time window. Delta wave activity and
+beta activity were localized using magnetic source
+imaging. Detailed method involved in time-frequency
+analysis and magnetic source imaging has been
+described in our previous study [10–12].
+On day 7 the MEG results showed EDB evolving from
+the right brain regions to bilateral brain regions (Fig. 2a).
+Time-frequency analysis showed the beta activity varying
+from 25 to 35 Hz (Fig. 2c). The magnetic source location
+showed the beta activity originating from bilateral superior
+parietal lobes (Fig. 2e). However, the delta wave originated
+from the bilateral superior temporal gyri, the
+right middle temporal gyrus, the right inferior frontal
+gyrus, and the left inferior parietal lobe (Fig. 2d). On day
+11, the background activity in the second EEG recording
+was worse than that on day 7 (Fig. 1e), and EDB was
+observed in bilateral brain regions (Fig. 1e).
+After immunosuppression (immunoglobin, methylprednisolone
+and mycophenolate mofetil) and antiepileptic
+treatment (oxcarbazepine), the woman improved.
+On day 30, the background activity in the third EEG
+recording was better than that on day 11 (Fig. 1f). Compared
+to the first signs of EDB on day 2, the EDB indications
+in the right brain regions were obviously decreased
+(Fig. 1f). On day 38, the second serum antibody titer was
+1:100. On day 40, the patient was discharged.
+Discussion and conclusion
+EDB is regarded as a potential marker for anti-NMDAR
+encephalitis [4, 6–9], and contributed to the diagnosis of
+anti-NMDAR encephalitis in this patient. In previous
+studies, EDB has been observed primarily in women with
+CSF anti-NMDAR antibody titers at least 1:10 [7, 8].
+The CSF antibody titer of this female patient was 1:100.
+Five days after disease onset, the first EEG recording
+showed EDB in the right brain regions (Fig. 1a-d). The
+increasing beta/delta power ratio might be an indication
+of anti-NMDAR encephalitis [5].
+With deterioration due to the disease, EDB progressed
+from occurring only in right brain regions to occurring
+in bilateral brain regions (Fig. 2a and e). After immune
+and antiepileptic treatment, the woman improved. Signs
+of EDB in the right brain regions obviously decreased
+(Fig. 2f). EDB was observed only in the peak disease
+stage and continued to be a useful marker of disease
+activity and a tool for monitoring treatment response
+and relapses, through EDB resolution with clinical
+improvement [4, 7, 9].
+We observed that the beta activity weakened when the
+patient closed her eyes (Fig. 1a; blue arrow). Why can
+the occipital rhythms inhibit beta activity in EDB (Fig. 1b;
+blue box)? The beta activity was located in the bilateral
+superior parietal lobe (Fig. 2d), which is adjacent to the
+occipital lobe. Thus, the occipital rhythms might propagate
+forward and weaken the beta activity in the superior
+parietal lobe. In a previous study, epileptic discharges
+that arose in the parietal cortex were observed to propagate
+forward widely via multiple fascicular pathways
+resulting in clinical features [13]. Therefore, the beta
+activity could be transmitted forward to the frontotemporal
+lobes (Fig. 2d) and superimposed with delta activity
+to form EDB on EEG.
+EDB appears to be modulated by sleep. EDB weakened
+markedly during stage II NREM sleep and was enhanced
+during slow wave sleep. Unfortunately, rapid eye movement
+(REM) sleep was not observed during the EEG
+recordings. Dhruv et al. described a case of NMDAR
+encephalitis in which the patient entered REM sleep
+with an absence of EDB, which suggested that the antiepileptic
+effect of REM sleep could also affect EDB in
+NMDAR encephalitis [14].
+In conclusion, EDB is useful as a marker of disease
+activity and as a tool for monitoring treatment response,
+and the pattern can be disturbed by eye opening and
+closing, by occipital alpha rhythms and by sleep-wake
+cycles.

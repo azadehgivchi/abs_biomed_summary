@@ -1,0 +1,236 @@
+The World Health Organization (WHO) emphasizes the
+importance of emergency medical services (EMS) systems
+which are usually the first point of contact with healthcare
+systems for acute conditions like injuries, chest pain or
+acute presentation of chronic conditions like diabetic coma
+in diabetic patients [1]. Many high-income countries
+(HICs) have well-developed pre-hospital emergency systems
+which employ modern patient monitoring equipment
+and have paramedical staff trained to provide pre-hospital
+care in accordance with the patient’s condition [2]. Since
+numerous acute conditions such as chest pain and hemorrhage
+are time-sensitive, established pre-hospital services
+play a crucial role in overall patient outcomes [3].
+The situation is different in many low-and middleincome
+countries (LMICs) where there is lack of ambulance
+services and many patients present to acute healthcare
+facilities on their own. It is important to note that
+more than one-third of all deaths in LMICs are preventable
+with early intervention during the pre-hospital phase
+[4]. Up to 90% of injury-related mortality occurs in
+LMICs and in the presence of an adequate EMS system;
+this burden can be reduced by 45% [1,5]. However, due
+to lack of funding and trained personnel, emergency services
+in LMICs are a low priority and are often limited to
+providing basic transportation facilities without efficient
+triage services. There is also a general lack of public trust
+in ambulance services in LMICs [6]. The lack of prehospital
+care services in Pakistan has been a cause of
+great concern over the years [4,6-9].
+The aim of this study was to determine the frequency
+of ambulance use by patients coming to the major emergency
+departments (EDs) of Pakistan. It will also compare
+the characteristics of patients coming by ambulances and
+those coming by other modes of transportation, such as
+public and private vehicles or walk-in patients to the EDs.
+Methods
+Study setting
+The Pakistan National Emergency Departments Surveillance
+(Pak-NEDS) was a pilot active surveillance conducted
+in seven major tertiary care emergency
+departments in six main cities of Pakistan between
+November 2010 and March 2011. The EDs included the
+Aga Khan University (Karachi), Jinnah Post-Graduate
+Medical Center (Karachi), Mayo Hospital (Lahore),
+Sandeman Provincial Hospital (Quetta), Lady Reading
+Hospital (Peshawar), Benazir Bhutto Hospital (Rawalpindi),
+and Shifa International Hospital (Islamabad). Five
+of the participating hospitals were public hospitals and
+two were private hospitals. All the hospitals are tertiary
+care teaching hospitals and one is a referral center. Ethical
+approval was obtained from all participating hospitals.
+There are several ambulance services operating in various
+regions of the country which include philanthropic
+organizations such as the Edhi Foundation (nationwide),
+and Chippa Welfare Association (Karachi) [10,11]. The
+Aman Foundation is another non-profit organization in
+Karachi which deals with healthcare, education and
+skills, and nutrition for underprivileged [12]. A few EMS
+services arose due to efforts of provincial governments
+such as Rescue 1122 [13]. However, these ambulance
+services currently work in Pakistan at the local level and
+are not part of an integrated emergency care system.
+Pak-NEDS did not collect data from any of the above
+mentioned ambulance services.
+Study procedure
+Data collectors were specifically hired and trained for
+Pak-NEDS. They worked in three shifts providing 24/7
+coverage. Data was collected from patients or the next
+of kin and ED records. A one-page standardized tool
+was developed based on an ambulatory care survey tool
+developed by the Centers for Disease Control and Prevention,
+USA and on previous surveillance work done in
+Pakistan [14,15]. The tool gathered information related
+to patient demographics, presenting complaints, treatment
+and management provided in the ED, provisional
+diagnosis and disposition from the ED. For this study,
+we looked at the mode of arrival to the ED of all the
+patients enrolled in Pak-NEDS. The mode of ED arrival
+was categorized into two groups; ambulance and nonambulance.
+Non-ambulance group comprised of patients
+who presented to the ED through other means of transport
+like private vehicle.
+Data management
+Data was entered at AKU using EpiInfo version 3.3.2, and
+SPSS version 19 was used for analysis [16,17]. For the
+purpose of analysis, six age categories were developed;
+less than 5 years, 5-12 years, 13-18 years, 19-25 years,
+26-45 years, and more than 45 years. Pak-NEDS recorded
+up to three presenting complaints. In this analysis, presenting
+complaint is used as a multiple response variable.
+All presenting complaints were categorized into two
+major categories, injuries and non-injury.
+Injuries included unintentional and intentional injuries.
+The types of injuries recorded were falls, burns, drowning,
+poisoning, road traffic injuries and firearm injuries.
+Non-injury included general presenting complaints like
+fever, fatigue, weakness, swelling and complaints based
+on the body organ involved; for example, chest pain was
+grouped under cardiovascular system, rectal bleeding as
+part of gastrointestinal system. Other systems in this
+category were respiratory, central nervous system, musculoskeletal,
+head and neck, and uro-gynecology. Cities
+were grouped together by geographical location of
+participating hospitals: Aga Khan University and Jinnah
+Post-graduate Medical Center in Karachi; Mayo Hospital
+in Lahore; Benazir Bhutto Hospital and Shifa International
+Hospital in Rawalpindi/Islamabad; Lady Reading
+Hospital in Peshawar; and Sandeman Provincial Hospital
+in Quetta.
+Data analysis
+Comparison of patient factors was done between ambulance
+and non-ambulance groups using Pearson’s Chisquared
+test for categorical variables and independent
+sample t-test for continuous variables with level of significance
+set at 0.05. We also looked at the use of
+ambulance as an outcome variable. Univariate and multivariate
+logistic regression was carried out to look at
+the factors associated with ambulance use. A multivariate
+model was developed with independent variables
+including gender, age group, city, hospital type, presenting
+complaint and disposition.
+Results
+Out of 274,436 patients enrolled into Pak-NEDS, the
+mode of arrival to the ED was documented for 94.9%
+(n = 260,378). Out of these, 4.1% (n = 10,546) were
+brought to the ED via ambulances; the rest of the
+patients (n = 249,832, 95.9%) were brought by means
+The adjusted odds of admission among patients in the
+ambulance group were 3.0 times higher compared to
+patients in the non-ambulance group (p-value < 0.001).
+Patients brought to the ED by ambulance were 7.3 times
+more likely to die in the ED than non-ambulance patients,
+after adjusting for gender, age groups, cities, hospital type
+and presenting complaint group (p-value < 0.001).
+Discussion
+This study shows that only 4.1% of the patients coming
+to the major EDs in Pakistan use ambulance services.
+There are no global standards for appropriate utilization
+rate for ambulances. Many factors are likely to play a
+significant role in the utilization rate including availability
+of ambulances, cost of the service, differences in the
+disease burden and severity of illnesses, age distribution
+of population, geographic spread and availability of
+alternate methods of seeking care. Nevertheless, the utilization
+rate from Pakistan is lower then reported from
+high income countries which have reported percentage
+of ambulance use between 14.2% and 30% for patients
+coming to the emergency department [18-20]. An even
+higher percentage of 67.3% was reported in a recent
+study from India [21]. A study done over 15 years ago
+in the city of Karachi, Pakistan reported ambulance use
+of 16%, though that study only looked at patients
+admitted to the hospital where the acuity, and therefore
+ambulance utilization, was expected to be higher than
+all who came to the emergency department [22]. This
+low use of ambulance in Pakistan has previously been
+attributed to poorly equipped transportation facilities,
+lack of proficient staff, and lack of pre-hospital care, all
+of which breed a lack of trust in the EMS system [4].
+There is lack of trust in EMS by the public which augments
+uncertainty about the adequacy of EMS in Pakistan
+to provide pre-hospital care [6]. Pak-NEDS shows
+that patients coming to the ED were likely to be elderly
+patients, those with injuries especially head injuries, and
+those who were likely to die in the ED. We did not find
+significant association between ambulance use and gender
+after controlling for other variables in the model.
+This study shows that patients more than 45 years of age
+are more likely to come to ED via ambulance and most of
+the older patients present due to non-injury complaints.
+This is consistent with previous studies on ambulance utilization
+[23-25]. This could be because elderly patients
+have chronic diseases like diabetes, cardiovascular disease
+and acute deterioration of a chronic illness, which results
+in frequent ED visits. Also due to functional restraints, it is
+likely that ambulances are used to transport older patients
+to a nearby health facility for acute care [23]. In comparison
+to older patients, injury was the common reason for
+transporting younger patients to ED via ambulance. This
+might be due to quick response of ambulances in urban
+centers to such incidents.
+A higher proportion of patients brought into the ED via
+ambulances died in the ED or were admitted to the hospital,
+compared to those who used other modes of transportation
+to the ED. Most of the deaths in the ambulance
+group were seen in patients presenting with chest pain or
+shortness of breath. This indicates the need for the establishment
+of pre-hospital emergency services, which
+encompass the provision of patient monitoring devices,
+basic and advanced life support, and trained paramedics
+in accordance with the availability of resources [1].
+A study done in Canada reported that older patients with
+myocardial infarction who used ambulances were sicker
+when compared with their counterparts who did not use
+ambulances to come to the hospital [26]. Triage and prehospital
+care by paramedic staff remains an important
+constituent of emergency care. This is especially true for
+patients with time-sensitive conditions like myocardial
+infarction, stroke (hemorrhage/ischemia), sepsis, cardiopulmonary
+arrest and trauma, where prompt identification
+and treatment results in markedly improved patient
+survival and outcomes [27-31].
+Limitations
+There are several limitations in this analysis. There was
+missing data in Pak-NEDS related to ambulance use. As a
+result, logistic regression was done on 56% of the patient
+for whom data related to all variables was available. The
+data lacked in information related to type of ambulance
+(transport vehicle, basic life support or advance life support
+vehicle) used for transportation of the patient, ambulance
+response time, transportation time and interventions
+done during the pre-hospital phase, if any, to the patients
+who came through ambulances. Our study recorded information
+related to different types of presenting complaints;
+for example, chest pain, injuries, and stroke. However, it
+lacks information on severity of these time-sensitive conditions.
+This hampers analysis related to disease severity and
+outcome. We did not have follow-up information on the
+patients to determine outcomes such as 30-day mortality
+or length of hospital stay, which would help determine the
+effectiveness of care provided in the emergency department
+as well as in the ambulance, if any. This study also
+lacks population level estimates related to ambulance use
+and hospital catchment area.
+Conclusion
+This study shows that the use of ambulance services in
+Pakistan remains quite low overall. Patients older than
+45 years of age and those who have injuries are more
+likely to be transported via ambulance. Patients coming
+to ED by ambulance have higher likelihood of death in
+the ED or admission to the hospital for further care. We
+propose that increasing utilization of a pre-hospital
+emergency care system integrated with overall
+healthcare system could potentially reduce mortality and
+improve outcomes. This needs further studies to see
+association between ambulance and better outcome.

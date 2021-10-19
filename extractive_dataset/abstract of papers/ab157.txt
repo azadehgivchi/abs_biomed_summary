@@ -1,0 +1,14 @@
+Background: The structure of the Iranian health system has raised this hypothesis that a part of the Knee
+Replacement Surgery (KRS) services are provided due to Physician-Induced Demand (PID).
+Methods: This paper used an unbalanced individual panel data covering the steady-state 15,729 KRSs performed
+by 995 surgeons provided by the Armed Forces Insurance Organization at the provincial level over the 60 months
+(2014–2018). We use a generalized method of moment’s system (GMM-SYS) to obtain consistent and asymptotically
+efficient estimates, which provide a vital instrument for our dynamic panel data.
+Results: The outcomes show that with unequal increasing orthopedic surgeons to population ratio, both the
+number and size of KRS services were increased significantly at a 1 % level. Given that the positive elasticity
+obtained for the service size was significantly larger than the number of services, the findings give strong support
+for the existence of PID in the Iran system for KRS care. Also, the raw and population-adjusted number of KRS, cost,
+and the surgery per active physician increased significantly at the monthly province level.
+Conclusions: This is the first time that the existence of PID in the Iranian health system is investigated using
+approved econometric models. The findings indicate that the health system structure has been provided the
+conditions for aggressive, costly, and high-risk services such as KRS to be exposed to PID.

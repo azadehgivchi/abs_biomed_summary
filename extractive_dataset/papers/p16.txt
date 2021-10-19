@@ -1,0 +1,349 @@
+Background
+Colorectal cancer ranks third in terms of cancer incidence
+but second in terms of mortality worldwide [1].
+Thus, there is an urgent need to improve every treatment
+method for colorectal cancer, including surgical procedures.
+Minimally invasive techniques have allowed
+the use of laparoscopic approaches in the treatment of
+patients with colorectal cancer based on similar or better
+perioperative and oncologic outcomes [2, 3], and they
+have been regarded as an alternative to conventional
+open surgery [4–6]. However, in rectal cancer, a laparoscopic
+approach is quite different and more difficult than
+that in colon cancer. Procedures such as dissection deep
+into the pelvis to accomplish total mesorectal excision
+(TME) and to obtain a specimen with complete margins,
+as well as a safe anastomosis, are technically challenging.
+Surgeons are faced with challenges such as a narrow pelvic
+cavity, anatomical complexity, and restricted surgical
+view during laparoscopic surgery, although previous
+studies reported that laparoscopic rectal cancer surgery
+was feasible [7, 8]. However, laparoscopic rectal surgery
+has been associated with limited dexterity with nonarticulating
+unstable instruments, unnatural hand–eye coordination,
+and flat 2-dimensional (2D) vision [9]. Thus,
+the robotic system seems potentially suited for the surgical
+treatment of rectal cancer because of its theoretical
+advantages, and it has been introduced in many centres
+since its first adoption in 2001 [10].
+The current robotic surgical system provides advanced
+technology and has advantages in rectal cancer resection.
+Several previous studies documented that robotic surgery
+is equivalent to laparoscopic surgery with respect to
+perioperative and oncologic outcomes [11–13]. To date,
+few reports with data have evaluated the short-term and
+long-term outcomes of robotic surgery compared with
+laparoscopic surgery for rectal cancer. No sufficient data
+from a large cohort are available to support the adoption
+of the robotic system for rectal cancer instead of laparoscopic
+surgery.
+Our centre is one of the earliest hospitals to introduce
+the da Vinci
+® surgical system (Intuitive Surgical, Sunnyvale,
+CA, USA) in China. Here, We evaluate the oncologic
+outcomes of rectal cancer by robotic surgery or
+conventional laparoscopic surgery including the primary
+endpoint of survival outcomes and the secondary endpoints
+of the general conditions of the operation, postoperative
+complications and pathological characteristics.
+Methods
+Patient selection
+The prospectively collected records of all patients at
+the First Affiliated Hospital of Nanchang University
+between March 2011 and December 2018 with histologically
+proven rectal adenocarcinoma were retrospectively
+reviewed. All patients were separated into two groups:
+a robot group in which the patients received robotic
+surgery, and a laparoscopy group in which the patients
+received laparoscopic surgery. All patients included in
+this study met the following criteria: (1) the disease was
+histologically defined rectal adenocarcinoma; (2) all the
+patients underwent TME; (3) tumour size was measurable,
+and pathological evaluation records of pelvic lymph
+nodes were complete; (4) the patient had no history of
+malignancy in other organs; and (5) the clinicopathological
+and follow-up data of the patients were complete. The
+exclusion criteria were as follows: (1) age > 80 and < 18 y;
+(2) other malignant tumours; (3) TNM stage at 0, IV; (4)
+multivisceral resection; (5) palliative resection; (6) restaging
+surgery; (7) abdominal and pelvic exploration only;
+and (8) incomplete patient information.
+Before surgery, all patients were informed of the
+detailed characteristics of both robotic and laparoscopic
+surgical procedures. After informed consent was
+obtained, the patients decided their preferred approach.
+The study protocol followed the Ethical Guidelines of the
+1975 Declaration of Helsinki, revised in 2000. All related
+procedures were performed with the approval of the
+Internal Review and the Ethics Boards of the First Affiliated
+Hospital, Nanchang University.
+Data collection
+The following clinical and demographic information was
+collected: age, sex, body mass index (BMI), carcinoembryonic
+antigen (CEA), American Society of Anesthesiologists
+(ASA) class, tumour location from the anal
+verge, preoperative chemoradiotherapy (CRT), and clinical
+T stage. The intraoperative and perioperative conditions
+(e.g., operation time, intraoperative bleeding, and
+complications), postoperative complications (e.g., anastomotic
+leakage, bleeding, wound problems, urinary
+retention, and the development of an ileus) and survival
+time were also collected. The baseline characteristics of
+patients at enrolment were assessed within 24 h before
+robotic or laparoscopic surgery.
+Outcome evaluation
+The primary endpoint for this study was survival outcomes,
+including overall survival (OS) and disease-free
+survival (DFS). The secondary endpoints were the general
+conditions of operation, postoperative complications
+and pathologic characteristics. The general conditions
+of the operation included operation time, bleeding volume,
+time to 1st gas passing and length of hospital stay.
+The postoperative complications associated with robotic
+and laparoscopic surgery included short- and long-term
+complications, which were defined as complications
+that occurred less than 30 days or more than 30 days
+after the operation, respectively [14]. The recorded longterm
+complications were ileus, urinary retention, adhesions,
+incisional hernias, anastomotic strictures and
+rectovaginal/rectovesical fistulas. The pathologic characteristics
+included TNM stage, differentiation grade,
+lymph nodes retrieved, lymphovascular invasion and circumferential
+resection margin (CRM) involvement.
+Patients were followed up with for 5 years or until Dec
+31, 2018. Operative death was defined as death within
+30 days of the operation or any time after the operation if
+the patient did not leave the hospital alive.
+Surgical procedures
+In our retrospective study, patients who underwent elective
+laparoscopic or robotic surgery for stages I–III rectal
+cancer between March 2011 and December 2018 were
+included. Patients who underwent palliative surgery,
+intersphincteric resection, abdominoperineal resection,
+or lateral pelvic lymph node dissection or patients
+who had hereditary colorectal cancer or distant metastasis
+were excluded. Since the robotic system was introduced
+in March 2016, selection of the surgical approach
+was determined after discussion with patients about the
+differences and higher costs of robotic surgery. Before
+March 2016, patients were chosen to undergo laparoscopic
+surgery. All procedures, including robotic surgery
+using the da Vinci
+® surgical system and laparoscopic
+surgery, were performed or supervised by a single surgeon
+(T-Y Li). Briefly, the same principle and steps were
+applied in both the laparoscopic and robotic surgery
+procedures: ligature of inferior mesenteric blood vessels
+close to the origin, mobilization of the sigmoid colon
+and rectum using sharp dissection, complete splenic
+flexure takedown for mid- and low rectal cancer, clamping
+below the tumour, and washing of the rectal stump
+with 10% povidone-iodine before rectal transection.
+End-to-end anastomosis was then performed by either
+mechanical circular stapling or manual anastomosis. The
+anastomosis was tested with air inflation. Abdominoperineal
+excision was performed when the levator ani muscle
+had been invaded by the tumour. In some patients, a
+temporary ileostomy was conducted to protect the anastomosis,
+with digestive tract reconstruction performed
+3 months later.
+Statistical analysis
+In the univariate statistical analyses, the χ2 test or Fisher’s
+exact test was used for categorical variables. Student’s
+t-test and the Mann–Whitney U test were used for continuous
+variables. The results are presented as the frequency
+(percentage), mean ± standard deviation (SD)
+or median (interquartile range). Survival curves were
+obtained by the Kaplan–Meier method, and the OS and
+DFS rates were compared by the log-rank test. The Cox
+proportional hazard regression model was used to identify
+factors that were independently associated with OS
+and DFS. The candidate covariates for univariate analysis
+included age, sex, BMI, CEA, ASA class, tumour location,
+robotic surgery, preoperative CRT, previous abdominal
+surgery, lymph nodes retrieved, proximal resection margin
+(PRM), distal resection margin (DRM), TNM stage,
+differentiation grade, circumferential resection margin
+(CRM), and lymphovascular invasion. Only factors with a
+P < 0.05 in the univariate analysis could be included in the
+multivariate analysis using a stepwise method, and variables
+with a P < 0.05 and hazard ratio (HR) > 20% were kept
+in the final model. A two-tailed P < 0.05 was considered
+significant. All statistical analyses were performed using
+the SPSS 22 software package (SPSS, Chicago, Illinois,
+USA).
+Results
+Patients and clinical characteristics in the robot
+and laparoscopy groups
+A total of 629 patients were initially screened, and
+534 patients with rectal adenocarcinoma were finally
+enrolled in this study; 314 patients were in the robot
+group, and 220 patients were in the laparoscopy group
+(Fig. 1). The clinical characteristics of the two groups of
+patients are presented in Table 1. A similar sex distribution
+was observed in the robot and laparoscopy groups,
+and most patients were men. Age, BMI, preoperative
+serum CEA, ASA class and previous abdominal surgery
+were not significantly different between the two groups.
+Tumour location from the anal verge was significantly
+shorter in the robot group than in the laparoscopy group
+(5.9 ± 2.6 cm vs. 8.5 ± 3.6 cm, P < 0.001).
+Survival analyses and prognostic factors
+The OS rates at years 1, 3 and 5 in the robot and laparoscopy
+groups were 96.6%, 88.7%, and 87.7% vs. 96.7%,
+88.1%, and 78.4%, respectively (P = 0.925, Fig. 2A). The
+DFS at years 1, 3 and 5 in the robot and laparoscopy
+groups was 98.6%, 80.2-, and 73.5% vs. 96.2-, 87.2-, and
+81.1% (P = 0.451, Fig. 2B). No significant differences
+were observed between the two groups. In the univariate
+analysis, the factors associated with 5-year OS and DFS
+were age, CEA, tumour location, TNM stage, differentiation
+grade and lymphovascular invasion (Table 2). After
+adjusting for independent prognostic variables, TNM
+stage and differentiation grade were independent prognostic
+indicators for 5-year OS and DFS [HR (CI): 1.622
+(1.068–2.464) and 1.919 (1.241–2.969) for OS and 1.664
+(1.093–2.535) and 1.660 (1.116–2.469) for DFS, P < 0.05,
+respectively, Table 2]. The surgical approach (robot or laparoscopy)
+was not associated with significantly higher OS
+or DFS (P = 0.925 and 0.451, respectively, Table 2). These
+findings indicated that robotic surgery did not improve
+long-term survival compared with laparoscopic surgery.
+The general conditions of the operation
+The general conditions of the operation are listed in
+Table 3. The operation time was significantly decreased
+in the robot group compared with the laparoscopy
+group (163.5 ± 40.9 vs. 190.5 ± 51.9 min, P < 0.001). The
+time to 1st gas passing [2 (1) vs. 3 (1) d] and length of
+hospital stay [7 (2) vs. 8 (3) d] were significantly shorter
+in patients with robotic surgery than in those receiving
+laparoscopy surgery (P < 0.01, respectively). No significant
+differences were observed with regard to intraoperative
+bleeding volume or time to 1st soft diet or
+bowel movement.
+Postoperative complications
+The type and proportion of postoperative complications
+associated with surgical treatment are described
+in Table 4. Postoperative complications occurred in 50
+of the 314 patients in the robot group, which was significantly
+lower than that in the laparoscopy group,
+with 71 of the 220 patients (15.9% vs. 32.3%; P < 0.001).
+No significant differences were observed between the
+two groups with respect to the occurrence of short- and
+long-term complications, including anastomotic leakage,
+anastomotic bleeding, wound problems, ileus, intraabdominal
+abscesses, anaemia, ascites, adhesions, incisional
+hernias, anastomotic strictures and rectovaginal/
+rectovesical fistulas (P > 0.05, respectively). However, the
+occurrence of short- and long-term urinary retention
+in the robot group was significantly lower than that in
+the laparoscopy group (1.9% vs. 7.3% and 0.6% vs. 4.1%
+P < 0.05, respectively). The above findings indicated that
+robotic surgery was associated with a decreased prevalence
+of postoperative complications.
+Postoperative pathological assessment
+The postoperative pathological characteristics and outcomes
+of patients in the robotic group were significantly
+different from those in the laparoscopy group (Table 5).
+TNM stages II and III were more frequently observed in
+the robot group than in the laparoscopy group (94.3% vs.
+83.2%, P < 0.001). There was no significant difference with
+respect to lymph nodes retrieved between the two groups
+[13 (7) vs. 13 (6.3), P = 0.389]. The prevalence of lymphovascular
+invasion and CRM involvement also showed no
+significant difference between the two groups (23.9% vs.
+20.0% and 1.3% vs. 0, P > 0.05, respectively).
+Discussion
+In this retrospective comparative cohort study, we found
+no beneficial survival effect of robotic surgery on patients
+with rectal cancer compared to those receiving laparoscopic
+surgery. However, a decreased postoperative complications,
+operating time, hospital stay and time to 1st
+gas passing were observed, which revealed a short-term
+advantages of robotic surgery.
+In addition, we found that patients who underwent
+robotic surgery had a lower tumour location and
+advanced clinical stage than those who underwent laparoscopic
+surgery. Operation on these patients especially
+those with a lower tumour location usually means a more
+challenging procedure and requires higher skills with
+surgical techniques than for those without; thus, indicating
+robotic surgery may have advantages in rectal surgery
+on more sophisticated cases because of its better visualization
+and the ability to perform a finer and more dexterous
+pelvic dissection within a narrow pelvic cavity [15].
+Importantly, the time to 1st gas passing and 1st soft diet
+and the length of hospital stay were significantly shorter
+in the robot group, indicating that robotic surgery might
+enhance recovery after surgery. No significant difference
+was observed with respect to most postoperative shortor
+long-term complications, while the incidence of urinary
+retention was significantly decreased in patients
+who underwent robotic surgery compared to those who
+underwent laparoscopic surgery, which also indicated the
+superiority of robotic surgery to laparoscopy for easier
+identification of the inferior hypogastric plexus.
+The postoperative pathological parameters that can
+measure the quality of rectal surgery are CRM positivity
+and the number of harvested lymph nodes of the
+resected specimen; both of which were not significantly
+different between the robotic and laparoscopic surgical
+approaches. The CRM involvement rate in this study was
+1.3% vs. 0% between the robot and laparoscopy groups,
+which was comparable with previous studies (0–16%) [5,
+7, 12, 16]. In the robot group, there were a total of four
+patients (4/314) with positive CRMs, and local recurrence
+occurred in two patients with positive CRMs.
+However, in the laparoscopy group, there were no cases
+with positive CRM, and local recurrence occurred in 12
+cases (12/224) with negative CRM. A positive CRM did
+not seem to be translated to local recurrence. That CRM
+was not a prognostic factor for predicting survival by
+multivariate analysis, which could support this finding.
+Cumulative OS and DFS, the gold-standard prognosticators,
+indicate long-term oncologic outcomes and
+reflect the superiority of surgical techniques in cancer
+resection. Few previous studies have shown the cumulative
+OS and DFS between the robot and laparoscopy
+groups. Baek et al. [17] reported that the 3-year OS and
+DFS were 96.2% and 73.7%, respectively, for patients with
+stages I-III rectal cancer who underwent robotic surgery
+in a 1-arm case series study. Pigazzi et al. [18] presented
+similar 3-year oncologic results of robotic rectal cancer
+surgery with data from three different centres. Baek
+et al. [19] also compared the short- and long-term outcomes
+between robotic and laparoscopic ultralow anterior
+resection and coloanal anastomosis and reported no
+difference in local recurrence, 3-year OS, or DFS between
+the two groups. Park et al. [12] reported that the 5-year
+OS was 92.8% in robotic surgery and 93.5% in laparoscopic
+surgical procedures, while the 5-year DFS was
+81.9% and 78.7%, respectively. Here, we found that the
+5-year OS and DFS were 78.4% and 81.1%, respectively, in
+patients receiving robotic surgery.
+Robotic surgery requires that a surgeon take a long
+time to learn to adapt to new surgical techniques, such as
+controlling consoles, manipulating new instruments, and
+cooperation with the surgical team [20–22]. Our team
+has adequate experience in robotic surgery, with nearly
+200 cases of robotic surgery on rectal cancer per year,
+which is why our study demonstrated that the operation
+time and intraoperative bleeding were both significantly
+less than those of laparoscopy. The high cost of robotic
+surgery is also a problem, which makes it unable to be
+widely recommended for patients. Nevertheless, the
+robotic system is continuously being improved, and more
+advanced technologies will be developed, such as a novel
+Senhance
+® robotic system (TransEnterix Surgical Inc.,
+Morrisville, NC, USA), which has been proven to be feasible
+and safe in general surgery, gynaecology, and urology
+[23]. We suppose that the cost of robotic systems will
+become increasingly acceptable.
+Conclusion
+Robotic surgery was not associated with improved survival
+compared to laparoscopic surgery for rectal cancer,
+however, robotic surgery is a safe and feasible surgical
+procedure, especially for some sophisticated cases with
+lower tumour locations. Further prospective randomized
+trials are needed to clarify these findings.

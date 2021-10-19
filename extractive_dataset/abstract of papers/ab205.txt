@@ -1,0 +1,15 @@
+Background: The increased availability and usage of modern medical imaging induced a strong need for automatic
+medical image segmentation. Still, current image segmentation platforms do not provide the required functionalities
+for plain setup of medical image segmentation pipelines. Already implemented pipelines are commonly standalone
+software, optimized on a specific public data set. Therefore, this paper introduces the open-source Python library
+MIScnn.
+Implementation: The aim of MIScnn is to provide an intuitive API allowing fast building of medical image segmentation
+pipelines including data I/O, preprocessing, data augmentation, patch-wise analysis, metrics, a library with stateof-
+the-art deep learning models and model utilization like training, prediction, as well as fully automatic evaluation
+(e.g. cross-validation). Similarly, high configurability and multiple open interfaces allow full pipeline customization.
+Results: Running a cross-validation with MIScnn on the Kidney Tumor Segmentation Challenge 2019 data set (multiclass
+semantic segmentation with 300 CT scans) resulted into a powerful predictor based on the standard 3D U-Net
+model.
+Conclusions: With this experiment, we could show that the MIScnn framework enables researchers to rapidly set
+up a complete medical image segmentation pipeline by using just a few lines of code. The source code for MIScnn is
+available in the Git repository: https ://githu b.com/frank krame r-lab/MIScn n.

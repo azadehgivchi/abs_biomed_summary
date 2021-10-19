@@ -1,0 +1,20 @@
+Background: Violence against women particularly that is committed by an intimate partner is becoming a social
+and public health problem across the world. Studies show that the spatial variation in the distribution of domestic
+violence was commonly attributed to neighborhood-level predictors. Despite the prominent benefits of spatial techniques,
+research findings are limited. Therefore, the current study intends to determine the spatial distribution and
+predictors of domestic violence among women aged 15–49 in Ethiopia.
+Methods: Data from the Ethiopian demographic health survey 2016 were used to determine the spatial distribution
+of domestic violence in Ethiopia. Spatial auto-correlation statistics (both Global and Local Moran’s I) were used
+to assess the spatial distribution of domestic violence cases in Ethiopia. Spatial locations of significant clusters were
+identified by using Kuldorff’s Sat Scan version 9.4 software. Finally, binary logistic regression and a generalized linear
+mixed model were fitted to identify predictors of domestic violence.
+Result: The study found that spatial clustering of domestic violence cases in Ethiopia with Moran’s I value of 0.26,
+Z score of 8.26, and P value < 0.01. The Sat Scan analysis identifies the primary most likely cluster in Oromia, SNNP
+regions, and secondary cluster in the Amhara region. The output from regression analysis identifies low economic
+status, partner alcohol use, witnessing family violence, marital controlling behaviors, and community acceptance of
+wife-beating as significant predictors of domestic violence.
+Conclusion: There is spatial clustering of IPV cases in Ethiopia. The output from regression analysis shows that individual,
+relationship, and community-level predictors were strongly associated with IPV. Based upon our findings, we
+give the following recommendation: The government should give prior concern for controlling factors such as high
+alcohol consumption, improper parenting, and community norm that encourage IPV that were responsible for IPV in
+the identified hot spot areas.

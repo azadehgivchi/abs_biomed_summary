@@ -1,0 +1,22 @@
+Background: For a long time, surgical difficulty is mainly evaluated based on subjective perception rather than
+objective indexes. Moreover, the lack of systematic research regarding the evaluation of surgical difficulty potentially
+has a negative effect in this field. This study was aimed to evaluate the risk factors for the surgical difficulty of anterior
+cervical spine surgery (ACSS).
+Methods: This was a retrospective cohort study totaling 291 consecutive patients underwent ACSS from 2012.3 to
+2017.8. The surgical difficulty of ACSS was defined by operation time longer than 120 min or intraoperative blood loss
+equal to or greater than 200 ml. Evaluation of risk factors was performed by analyzing the patient’s medical records
+and radiological parameters such as age, sex, BMI, number of operation levels, high signal intensity of spinal cord
+on T2-weighted images, ossified posterior longitudinal ligament (OPLL), sagittal and coronal cervical circumference,
+cervical length, spinal canal occupational ratio, coagulation function index and platelet count.
+Results: Significant differences were reported between low-difficulty and high-difficulty ACSS groups in terms of age
+(p = 0.017), sex (p = 0.006), number of operation levels (p < 0.001), high signal intensity (p < 0.001), OPLL (p < 0.001) and
+spinal canal occupational ratio (p < 0.001). Multivariate logistic regression analysis revealed that number of operation
+levels (OR = 5.224, 95%CI = 2.125–12.843, p < 0.001), high signal intensity of spinal cord (OR = 4.994, 95%CI = 1.636–
+15.245, p = 0.005), OPLL (OR = 6.358, 95%CI = 1.932–20.931, p = 0.002) and the spinal canal occupational ratio > 0.45
+(OR = 3.988, 95%CI = 1.343–11.840, p = 0.013) were independently associated with surgical difficulty in ACSS. A
+nomogram was established and ROC curve gave a 0.906 C-index. There was a good calibration curve for difficulty
+estimation.
+Conclusion: This study indicated that the operational level, OPLL, high signal intensity of spinal cord, and spinal canal
+occupational ratio were independently associated with surgical difficulty and a predictive nomogram can be established
+using the identified risk factors. Optimal performance was achieved for predicting surgical difficulty of ACSS
+based on preoperative factors.

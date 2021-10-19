@@ -1,0 +1,309 @@
+Periprosthetic joint infection (PJI), one of the most
+troublesome complications of total hip or knee arthroplasty,
+exacerbates the burden on the individual and
+health care system [1–4]. As the number of surgeries
+surged yearly, the total number of PJI patients increased
+[5]. However, the diagnosis and treatment of PJI remain
+challenging for clinicians.
+Current diagnostic methods of PJI include serological
+testing, synovial fluid testing, and intraoperative
+histological pathology [2, 5]. However, although
+the diagnostic criteria are well defined, no gold standard
+has yet been established [4, 6]. Similarly, treatment
+of PJI is difficult for clinicians because there are
+no widely accepted criteria [7, 8]. The two-stage revision
+is currently the standard procedure for PJI, but
+the proper time to perform the second-stage revision
+is still debatable [9].
+As recent literature revealed the close correlations
+between the coagulation cascade and infection
+course, coagulation-related biomarkers are gaining
+attention. Some biomarkers, such as D-dimer and fibrinogen
+(Fib), have been proven promising for PJI
+diagnosis [10–13] and determining the reimplantation
+timing [10, 14].
+Thromboelastography (TEG) is a routine coagulation
+test that assesses the whole process of clotting over time
+in the body [15] and provides a full-scale evaluation of
+clot formation, elasticity, and duration. Additionally,
+various coagulation elements are measured as follows
+[16]. The clotting time (K value) reflects the rate of
+blood clot formation and is an indicator of fibrinogen
+function [17]. The α-angle (angle) represents the clot
+growth rate, while the maximum amplitude (MA) is the
+maximum clot amplitude [18]. The amplitude at 30 min
+(A30) measures clot strength at 30 min after MA [19],
+and thrombodynamic potential index (TPI) was derived
+from the MA and K values [20].
+Moreover, TEG yields information about all phases of
+coagulation and provides further information on standard
+coagulation tests [16, 21]. Numerous studies have
+proved that TEG is useful in evaluating coagulation status,
+predicting bleeding in patients with severe sepsis,
+monitoring haemostasis during cardiac surgery and liver
+transplant procedures, etc. [15, 21, 22]. However, no
+study has reported its value in diagnosing PJI and guiding
+the timing of reimplantation for the second-stage
+revision.
+Therefore, this study aims to investigate (1) the value
+of TEG in distinguishing PJI from aseptic loosening and
+(2) the ability of TEG parameters to guide the proper
+time for the second-stage revision. Furthermore, the
+measured TEG parameters were compared with the
+ESR, CRP, and D-dimer levels.
+Methods
+We conducted this retrospective study including all revision
+total hip and total knee arthroplasties performed in
+our hospital from October 2017 to September 2020,
+under the ethical approval of the institutional review
+board of our hospital. Among the 145 patient records
+acquired, 61 patients were diagnosed with PJI according
+to the Musculoskeletal Infection Society criteria [23],
+and 84 patients were diagnosed with aseptic loosening.
+Patients were excluded if at least one of the following
+are present: (1) lack of needed data, (2) recent use of anticoagulants,
+(3) presence of inflammatory arthritis such
+as rheumatoid arthritis and ankylosing spondylitis, (4)
+blood diseases such as thrombocytopenic purpura, (5)
+formation of deep vein thrombosis of the lower limbs,
+(6) liver diseases, (7) malignancy, and (8) infection of
+other tissues or organs.
+Finally, 62 patients who underwent revision arthroplasty
+were included in this study: 23 in group A (treated
+for PJI) and 39 in group B (treated for aseptic loosening).
+A total of 83 patients were excluded due to lack of
+needed data (n = 55), deep vein thrombosis in the lower
+limbs (n = 24), recent use of oral warfarin due to coronary
+stent implantation (n = 2), urinary tract infection
+(n = 1), and rheumatoid arthritis (n = 1).
+The patients’ fasting venous blood samples were collected
+routinely on the second day of admission and sent
+to the clinical laboratory of our hospital for blood examination,
+including routine blood examination, conventional
+coagulation tests, and TEG. The test results were
+acquired approximately 30 min after blood collection.
+Moreover, at least 3 tissue culture specimens (including
+joint fluid) were obtained when the participants underwent
+revision arthroplasty, and these samples were cultured
+for 7–14 days. Group B underwent a one-stage
+revision. Meanwhile, the two-stage revision for group A
+consisted of the following procedures: 1) The first-stage
+revision involved removal of the former prosthesis, supervened
+with implantation of antibiotic-loaded cement
+spacers (4 g vancomycin in 160 g gentamicin-containing
+bone cement). 2) At least 3 months after the first stage
+of treatment, surgeons decided whether to implant a
+new prosthesis or continue antibiotic protocols based on
+clinical symptoms and laboratory parameters. Aseptic
+patients were prescribed oral rivaroxaban 10 mg daily for
+35 days for thromboprophylaxis, and PJI patients
+followed the same order after each staged surgery. All
+included patients were regularly followed up at 1 month,
+3 months, 6 months, 1 year, and then each year after discharge.
+Functional outcomes, complications, and the
+reasons for any reoperation were recorded. According to
+Delphi-based consensus, success of reimplantation was
+defined by (1) control of infection, as characterised by a
+healed wound without fistula, drainage, or pain; (2) no
+subsequent surgical intervention for infection after reimplantation
+surgery; and (3) no occurrence of PJI-related
+mortality [24, 25].
+Statistical analysis
+Statistical analysis was performed using IBM SPSS Statistics
+for Windows (version 26; IBM Corporation,
+Armonk, NY, USA), and statistical significance was set
+at p < 0.05. Independent sample t-tests were used for
+data conforming to normal distributions. In contrast, the
+Mann-Whitney U tests were used for data not conforming
+to normal distributions, and categorical variables
+were summarised using chi-squared tests. Receiver operating
+characteristic (ROC) curves were drawn using
+SPSS. The following parameters were calculated in each
+test: area under the curves (AUCs), sensitivity, specificity,
+positive predictive value (PPV), negative predictive
+value (NPV), positive likelihood ratio (+LR), and negative
+likelihood ratio (−LR). Moreover, we further studied
+the diagnostic value of the different combinations of
+mentioned parameters in pairs. The Youden index was
+used to determine the optimal cut-off value of these biomarkers
+for the diagnosis of PJI. Furthermore, a scatterplot
+was drawn using GraphPad Prism (version 8.0.2;
+GraphPad Software)8.
+Results
+The demographic characteristics of each group are
+shown in Table 1. There were no statistically significant
+differences between baselines of the two study groups,
+except for involved joints. Particularly, the hip joint
+accounted for 87.18% in group B and 30.43% in group
+A, which was statistically significant (p<0.01).
+We observed significant differences in tested markers
+between Groups A and B (p < .001), as shown in Table 1.
+The median values of CRP, ESR, D-dimer, and TEG parameters
+(Angle, MA, A30, TPI) in group A were significantly
+higher than those in group B (p < .001). In
+contrast, the median K value was lower in group A
+(p < .001).
+To evaluate and compare the diagnostic value of the
+tested markers, ROC curves of each inflammatory and
+fibrinolytic marker are illustrated in Fig. 1, while the
+AUC of each ROC curve was calculated (Table 2). The
+biomarkers’ optimal cut-off values for the diagnosis of
+PJI are shown in Table 2. The AUCs for CRP, ESR, and
+D-dimer were 0.893 (95% confidence interval [CI],
+0.787–0.958), 0.953 (95% CI, 0.866–0.991), and 0.717
+(95% CI, 0.588–0.824), respectively. The AUCs of TEG
+parameters ranged from 0.800 (K value, 95% CI, 0.680–
+0.891) to 0.895 (MA, 95% CI, 0.790–0.958). Among all
+tested biomarkers, ESR had the highest AUC, while Ddimer
+had the lowest AUC. The AUC of MA ranked
+first among the TEG parameters, followed by A30, TPI,
+Angle, and K value. Although the AUC was lower than
+that of ESR, MA achieved a better sensitivity and
+specificity.
+The diagnostic values of the different combinations of
+tested parameters in pairs are shown in Table 3. The
+combination of TEG parameters and CRP/ESR led to
+improved AUC, sensitivity, and specificity, except for
+ESR +MA and ESR + A30. In addition, CRP + A30
+achieved an obvious boost in the diagnosis value.
+The culture results of 23 patients with PJI are listed in
+Table 4, wherein 19 (82.6%) patients had positive results.
+Gram-positive bacteria, particularly S. aureus, are the
+most common pathogens observed. According to
+Table 5, the values of CRP, ESR, MA, A30, and TPI in
+Fungi group were less than those of the other three
+groups (G+ group, G- group and negative group).
+Data from 17 patients who underwent two-stage revision
+surgery were available in the history database management
+system. The other six patients could not be readmitted
+for the second-stage surgery due to short intervals
+from the first-stage surgery (less than 3 months).
+According to Delphi-based consensus, no patients
+showed a failure of reimplantation during the follow-up
+period (17.29 ± 8.29 (range, 3–28) months). However, 2
+of 17 patients had poor knee function with limited range
+of motion. On comparing the tested biomarkers between
+stage 1 (the stage before spacer insertion) and stage 2
+(the stage after re-admission for the second-stage surgery)
+of PJI patients, all tested markers except for Ddimer
+(p = 0.059) were found statistically significant. Furthermore,
+the numerical values of ESR and MA decreased
+below the cut-off value during stage 2 (Fig. 2)
+when each patient’s parameters were compared with
+corresponding cut-off values.
+Discussions
+Many studies have revealed a close association between
+coagulation and infection. Endotoxins or components of
+the bacterial cell wall were reported to trigger changes
+in coagulation through tissue factor (TF) released by a
+variety of cells, such as vascular endothelial cells and
+monocytes, and maintain TF at high levels by stimulating
+the release of cytokines, such as interleukins and
+tumour necrosis factor α [21, 26, 27]. Correspondingly,
+coagulation-related biomarkers have recently been
+proven to be valuable in PJI diagnosis. D-dimer has been
+adopted as a minor criterion in the 2018 International
+Consensus Meeting criteria for PJI, but it has raised a
+huge controversy. Yan et al. [28] conducted a metaanalysis
+and observed that D-dimer is an effective serum
+biomarker for PJI diagnosis in patients without a history
+of hypercoagulation or inflammatory arthritis. In contrast,
+Tejbir et al. [2] and Rui Li et al. [29] reported the
+poor diagnostic value of D-dimer for PJI. Meanwhile,
+Lauren et al. [30] found that D-dimer results vary significantly
+in different laboratories, even for the same sample.
+Thus, D-dimer as a PJI diagnosis criterion was
+refuted. In our study, D-dimer exhibited a low value in
+PJI diagnosis, and its numerical values remained high
+after ESR and CRP levels were decreased in the normal
+range. Moreover, these conventional coagulation biomarkers
+can only reflect quantitative changes in platelet
+and fibrinogen levels.
+TEG can provide comprehensive coagulation status of
+our body and provide additional data compared with
+standard coagulation tests [21]. Many studies have
+compared TEG and conventional coagulation tests in
+many clinical fields. For example, Hani et al. [16] demonstrated
+that TEG provides more information about
+the haemostatic state of patients with cirrhosis than conventional
+coagulation tests. Furthermore, Luo et al. [31]
+reported that TEG may be a reliable alternative to conventional
+coagulation methods for diagnosing sepsisinduced
+coagulopathy.
+To date, no study has compared the TEG’s value with
+the three most used biomarkers (CRP, ESR, and Ddimer)
+in diagnosing PJI. In the present study, we highlight
+the value of ESR in diagnosing PJI, with AUC,
+optimal cut-off, sensitivity, and specificity for ESR of
+0.953, 34.0 mm/h, 81.82, and 94.87%, respectively. Ddimer
+had the lowest AUC, and it remained high in PJI
+patients before the second-stage surgery. Although there
+were small differences in the numerical values of AUC,
+cut-off value, sensitivity, and specificity, our results are
+similar to those of several other studies [11, 12, 29].
+Additionally, our study found that MA achieved a good
+diagnostic value with a specificity of 97.44%. The combination
+of CRP/ESR with TEG parameters (K, Angle,
+MA, A30, TPI) achieved higher sensitivity and specificity
+than any individual marker, except for the two combinations
+(ESR + MA, ESR + A30). Thus, despite lower AUCs
+of these parameters than ESR, TEG remains a promising
+diagnostic test for PJI.
+Performing the second-stage revision in proper timing
+is the key to boosting the success rate of PJI treatment.
+Hence, researchers continue exploring the optimal timing
+for reimplantation. In recent years, various indicators
+have been developed. Hoell et al. [32] reported that CRP
+was not a reliable parameter to exclude persistent infections.
+Tao Bian et al. [33] also concluded that ESR and
+CRP were of limited value in determining the
+reimplantation timing by pooled analysis. Meanwhile,
+some studies report that coagulation-related biomarkers
+perform well in guiding reimplantation. Shahi et al. [14]
+highlighted D-dimer in determining the optimal timing
+of reimplantation. Moreover, Geng Bin et al. [10] reported
+fibrinogen as a useful tool for assessing infection
+outcomes after first-stage surgery. However, a small
+sample of both studies limited their credibility.
+Furthermore, we found that ESR and MA were good indicators
+for determining the timing of reimplantation. Our
+study showed a 100% success rate of two-stage revision,
+which is higher than those reported in most published
+studies. Several reasons contribute to this result: 1) the
+follow-up time of 4 patients was shorter than 1 year, which
+may not be enough to judge infection control. 2) Although
+widely adopted by many researchers, the Delphi-based
+consensus is not the gold standard for evaluating the success
+of the two-stage revision, as it overlooks the functional
+outcomes of surgery. Therefore, our success rate would be
+lower when the functional outcome is considered.
+According to the results of this study, TEG has the following
+advantages. First, as a regular and routine serological
+test for coagulation, the TEG assay does not
+incur additional costs or suffering to patients. Second,
+the TEG parameters may be applied to differentiate PJI
+from aseptic loosening, particularly the combination of
+CRP and MA/A30. Finally, MA/A30 appears to be a
+valuable tool for assessing infection control after spacer
+insertion.
+Our study has several limitations. First, the samples in
+this study were small; a larger sample size might have
+produced different results. Second, lower extremity Doppler
+ultrasound was routinely performed to exclude venous
+thromboembolism of the lower limb, which did not
+rule out clots in other parts of the patient’s body. Moreover,
+we did not consider PJI patients’ use of antibiotics
+before admission to our hospital. Furthermore, this
+study has some inherent biases due to its retrospective
+nature. Finally, we only checked the TEG of PJI patients
+before spacer insertion and before reimplantation, rather
+than checking them regularly. Hence, the changing trend
+of the biomarker levels in PJI patients was not clear.
+Conclusion
+This study reports 5 measured TEG parameters (K value,
+angle, MA, A30, TPI) that are statistically different between
+patients with PJI, with aseptic loosening, and
+those who were re-admitted for reimplantation in twostage
+arthroplasty. With high specificity, MA was considered
+a valuable biomarker in diagnosing PJI and assessing
+infection control after the first-stage surgery.

@@ -1,0 +1,748 @@
+Background
+Implementation fidelity has, until recently, been defined
+as the degree to which a given program is implemented
+as it was originally planned and it has been mostly focused
+in measuring the deployment of the evidencebased
+intervention under study [1, 2]. Yet, in complex
+interventions, the program includes the evidence-based
+intervention and the supporting implementation
+strategies aimed at facilitating the adoption of this intervention
+by those responsible for delivering it [3, 4]. Consequently,
+factors related to adherence to the planned
+implementation strategy, dose received, i.e., the extent to
+which the recipient was exposed to the implementation
+strategy, participant responsiveness and actual involvement,
+as well as modifications made and the role of context,
+become central issues for understanding the impact
+of implementation initiatives to improve real-world clinical
+practice [3, 5]. As the field of implementation expands
+and the use of hybrid trial designs grows [6], the
+distinction between intervention-level fidelity and implementation
+strategy-level fidelity is becoming increasingly
+important.
+Evaluating the degree to which implementation strategies
+are operated as designed within implementation
+trials are key in order to determine the internal and external
+validity of implementation studies [1, 3–5]. They
+are necessary to investigate both the receipt and the
+scope of an implementation strategy to improve the
+adoption of evidence-based practice in routine settings
+[4, 7]. Additionally, they help in the interpretation of
+outcome results of interventions translated to real practice
+and inform the optimization of both the clinical
+intervention and/or implementation strategy to favor
+adoption of the intervention and implementation and future
+scale-up in other contexts and settings [8–11]. Fidelity
+evaluation is especially necessary in multisite
+trials, where the “same” implementation strategy may be
+enacted and received in different ways [12, 13].
+However, despite the importance of implementation fidelity
+evaluation, first, there is currently no framework
+explicitly establishing either a set of procedures or specific
+requirements to guide the evaluation of the fidelity
+of an implementation strategy [4, 14]. And second, likely
+linked to this first issue, under-reporting of fidelity of
+implementation strategies is the rule rather than the exception
+in the implementation research literature [4].
+Among general existing frameworks to guide fidelity
+evaluations [2, 3, 5, 7, 8], the framework stated by Dane
+et al. [8] and its adaptation by Dusenbury et al. [5], has
+been successfully used by others for rating the fidelity of
+implementation strategies [4]. This framework points to
+the following five main fidelity dimensions: a) “adherence”,
+which strategies were actually used during implementation
+versus which were planned; b) “dose”, the
+quantity of the implementation strategy delivered and
+extent to which the recipients actually received it; c)
+“quality of program delivery”, how well the components
+of the implementation strategy have been delivered and
+if modifications occurred; d) “participant responsiveness”,
+how the delivery process of an implementation
+strategy is received by its recipients; and e) “program
+differentiation”, defined as the degree of enactment of
+differentiated procedures or strategies in one condition
+from that in the other condition should be also considered
+as an important element of implementation fidelity
+evaluation [4, 5, 8].
+The aim of the present study is to evaluate the fidelity
+of two procedures being compared for deploying the
+PVS-PREDIAPS implementation strategy to optimize
+type-2 diabetes prevention in primary care (PC) [15].
+Briefly, the PVS-PREDIAPS implementation strategy
+consist in conducting externally facilitated collaborative
+modeling process through a set of planned implementation
+actions with PHC professionals in order to adapt
+and integrate an evidence-based healthy lifestyle promotion
+intervention to prevent type-2 diabetes within the
+routine primary care services. This fidelity evaluation
+will help to gain understanding about the quality of the
+implementation of the PVS-PREDIAPS strategy and specifically
+regarding the two procedures compared for engaging
+professionals and deploying the implementation
+actions. This in turn will help to explain and interpret
+future results of the PREDIAPS trial (ie., to reject a possible
+type III implementation failure error), will identify
+what has been changed from the original implementation
+plan and how changes may impact outcomes, and
+will inform how future dissemination and scale-up can
+be improved. Specifically, the objectives of the present
+study were to:
+ To describe the process indicators of the PREDIAPS
+trial and deployment procedures of the PVSPREDIAPS
+implementation strategy [15], including a
+clear description of the context in which it has been
+implemented
+ To assess the fidelity of the delivery of the PREDIA
+PS implementation strategy among the groups
+compared, in terms of the dose of both the strategy
+delivered and that actually received by professionals
+and centers involved, the planned and unplanned
+modifications that took place, i.e., adherence, and
+the degree to which elements can reliably
+differentiate one type of procedure for engagement
+and deployment of the strategy from another, i.e.,
+program differentiation.
+ To assess the perceived usefulness of the
+implementation strategy by professionals involved
+(responsiveness)”
+Methods
+Design
+This is a mixed-method fidelity evaluation study of the
+2.5-year enactment of an implementation strategy to improve
+the adoption of an evidence-based healthy lifestyles
+intervention for the prevention of type-2 diabetes
+in primary care - the PREDIAPS Trial. Briefly, the PREDIAPS
+is a randomized cluster implementation trial
+conducted in nine Basque Health Service (Osakidetza)
+PC centers that aims to assess the effectiveness and
+feasibility of different engagement procedures to perform
+a facilitated interprofessional collaborative process - the
+PVS-PREDIAPS implementation strategy- to optimize
+type-2 diabetes prevention in routine PC. The protocol
+has been published elsewhere [15].
+Headed by a local leader and an external facilitator,
+centers were expected to perform a collaborative
+structured process to adapt an evidence-based intervention
+to promote healthy lifestyles and its implementation
+to their specific context. Centers were randomly allocated
+to one of two arms. One arm was to apply this
+strategy to engage staff globally, promoting the cooperation
+of all healthcare professionals from the beginning,
+while the other arm applied the strategy sequentially,
+centering first on nurses, who then sought the pragmatic
+cooperation of physicians. The research protocol was approved
+by the Basque Country Clinical Research Ethics
+Committee (Ref. no.: 08/2015) and the protocol was
+registered in Clinicaltrials.gov (identifier: NCT03254979,
+registered 16 August 2017).
+Participants
+PC centres: Osakidetza PC centers identified by managers
+as having adequate organizational readiness for
+change seeking to optimize the primary prevention of
+T2D were considered eligible. Centers were finally included
+if, after a session introducing the intervention,
+they succeeded in gaining written consent and agreement
+to participate from the majority (> 51%) of the
+nursing staff of the center and a substantial proportion
+of the physicians whose patients would be involved
+through the nurses.
+PC Users: Patients aged 30 years or more who sought
+medical attention at least once through the participating
+centers between 2 March 2017 and 2 March 2018, and
+had been classified as at high risk of developing T2D
+and/or prediabetes (abnormal fasting glucose level or
+glucose intolerance plus an additional known cardiovascular
+risk factor) but did not have a documented diagnosis
+of T2D in their health record were eligible to
+participate in the T2D prevention program at the centers.
+The final definition of the target population was the
+result of actions implicit in the implementation strategy.
+Recommended evidence- and clinical practice guidelinebased
+clinical intervention
+A program was recommended based on scientific evidence
+and the clinical practice guidelines available,
+reviewed by our research group in 2016 [16]. This program
+involved first screening for T2D risk. Then, patients
+identified as at high risk should be invited, and if
+they agree, participate in an intensive structured intervention
+program focused on the prescribing of personalized
+plans for lifestyle change (low-energy low-fat diet or
+Mediterranean-type healthy diet; and at least 150 min of
+moderate physical activity a week). Lastly, patients
+should be followed up, initially with frequent contact
+and then annual check-ups. The 5 A’s (Ask, Advise,
+Agree, Assist, and Arrange follow-up) intervention
+framework was used to standardize the provision of the
+evidence-based behavior modification techniques used
+to promote changes in physical activity (150 min of
+moderate physical activity a week) and diet (Mediterranean-
+type healthy diet) to prevent type-2 diabetes in
+high-risk patients (see Appendix Table 4).
+Implementation strategy for facilitating the adoption of
+the recommended intervention in routine clinical practice
+The PVS-PREDIAPS strategy is based on the creation of
+an inter-professional community of practice that undertakes
+a process of modelling, adapting and integrating
+the recommended clinical intervention into the local
+context, led by the clinicians themselves, a local leader
+and an external facilitator [15]. This translates into the
+following actions to be carried out over the course of an
+implementation phase lasting 1 year (including holiday
+periods):
+ Selection by consensus in the center and subsequent
+training of the local leader (3 sessions, 15 h in
+total). The goal is for the leader to acquire
+knowledge and skills concerning the primary
+prevention of T2D and planning for the
+implementation of primary prevention in practice, as
+well as communication and leadership skill and
+techniques. Further, seeking to offer ongoing
+support and facilitation to the local leaders, 4-h Ongoing
+leader support meetings are to be held
+monthly, for preparing the actions to be taken in
+each of the sessions held in the centers and reviewing
+the progress made.
+ Training for the clinical intervention (90-min
+theoretical and practical training session) and the
+software support tool (6-h practical training session
+on the PVS-OSABIDE_AP tool)
+ Collaborative modeling of the local T2D
+prevention program: creation of an interprofessional
+community of practice lead by the local
+leader and external facilitator, completion of a needs
+assessment and process to identify areas for improvement,
+and mapping of actions, parties responsible,
+flows and procedures for the intervention
+program (three 90-min study, discussion and consensus
+sessions)
+ Plan-Do-Study-Act (PDSA) piloting cycles:
+process involving short pilot studies of specific
+actions seeking to assess their efficiency and,
+thereby, optimize the set of actions in the program
+(each cycle involving a 90-min session for planning
+and/or evaluation of the cycle)
+ Standardization and integration of the program:
+final specification of the objectives, intervention
+target population and screening or identification
+strategy, key components of the intervention and
+follow-up: detailed mapping of actions and
+processes; staff involved, material and organizational
+components, as well as components related to the
+context of the center, etc. (one 90-min study, discussion
+and consensus session)
+The full set of actions of the implementation strategy
+take a total of 20 h. Once the program has been
+deployed in the centers and seeking to assess progress
+and provide ongoing support to encourage intervention
+programs being sustainably integrated into each
+center’s portfolio of services, a set of Regular audits
+and ongoing facilitation sessions are to be held over
+the second year post-implementation (six 90-min sessions,
+a session every 2 months). The specific discrete
+implementation strategies used in the PREDIAPS trial,
+as cataloged by the Expert Recommendations for
+Implementing Change (ERIC) taxonomy [17], are described
+elsewhere [15].
+Random allocation to the procedures compared
+As described elsewhere [15], with the aim of isolating
+the effect of two different procedures to engage professionals
+and perform the PVS-PREDIAPS facilitated interprofessional
+collaborative implementation strategy to
+optimize T2D prevention in routine PC, centers were
+randomly assigned to: a Global strategy, seeking involvement
+and cooperation between physicians and nurses
+from the outset; or a Sequential strategy, first led by
+nurses, and then seeking the pragmatic involvement and
+cooperation of physicians later in the process. Specifically,
+physicians within the Sequential group were involved
+from the second PDSA cycle, and consequently,
+they only participated in 4.5 h of the core implementation
+strategy actions estimated to take 20 h in total. The
+allocation process was conducted using a random number
+sequence generated by computer prior to the start of
+the trial by an external researcher from the Primary Care
+Research Unit of Bizkaia.
+Measures
+In order to evaluate the fidelity of the two procedures to
+perform the PVS-PREDIAPS collaborative modeling implementation
+strategy to optimize T2D prevention in PC
+[15], the following factors were measured in accordance
+to the fidelity evaluation framework stated by Dane [8]
+and Dusenbury [5].
+Adherence
+The degree of adherence to the planned execution of the
+implementation strategy for each procedure for conducting
+the PVS-PREDIAPS implementation strategy and its
+active ingredients are assessed by comparing three
+sources of information: i) the protocol for the implementation
+strategy [15]; ii) actual process indicators; and, iii)
+the reports, material and products resulting from the
+sessions. The FRAME framework [18] for reporting
+modifications (planned or reactive) to evidence-based interventions
+is used in order to evaluate and describe
+modifications made to the planned implementation
+strategy. Specifically, for each of the modifications, the
+following were specified: the reason, by whom they was
+requested or encouraged, when and how they took place,
+and the degree to which they affect fidelity depending
+on whether they were (or were not) planned in advance.
+In addition, a strategy mapping for complex interventions
+[19] has been used to specify the strategies deployed
+and the timing in which the strategies have been
+applied.
+Dose
+The following indicators related to the process of conducting
+the PREDIAPS trial and the actions embedded
+to deploy the implementation strategy are specified for
+reporting on the dose:
+a. Percentage of centers included out of all those
+approached
+b. Percentage of healthcare professionals who initially
+collaborated out of the total number of
+professionals at each center
+c. Actions carried out over time (training, work
+sessions, etc.).
+d. Participation of collaborating healthcare
+professionals in each action and actual exposure to
+the implementation strategy actions compared to
+that originally planned (% of hours/action received
+out of the total number of hours that would be
+implied by participation in all the actions of the
+strategy, i.e., 20 h or 4.5 h).
+Quality of program delivery/participant responsiveness
+A structured group interview was carried out with the
+local leaders from the centers involved (n = 9) in order
+to assess the perceived usefulness of the implementation
+strategy among healthcare professionals. Six open-ended
+questions focused on the implementation strategies perceived
+to be part of the PREDIAPS trial, the perceived
+value of these strategies, and recommendations for their
+optimization. This interview was video-recorded with
+prior consent from the participants. Specifically, the following
+questions were used:
+a) personal rating of the implementation process and
+associated strategies (through questions such as, “Specifically,
+which aspects of the process for optimizing practice
+do you consider the most important or useful for doing
+your job?”)
+b) recommendations for optimizing the PVS-PREDIA
+PS implementation strategies for achieving the following
+among the staff: (i) build personal competence, (ii) engage
+staff and (iii) enhance interprofessional cooperation
+(through questions such as, “In your opinion, which aspects
+should be strengthened to build competence among
+staff for putting the innovation into practice in a sustainable
+way in your center.
+Program differentiation
+Lastly, program differentiation is determined by comparing
+the degree to which indicators of adherence, dose
+and modifications can be reliably differentiated between
+one type of procedure for engagement and deployment
+of the strategy and another [5].
+Other measured variables
+The following variables were used in order to describe
+collaborating centers’ characteristics: (1) center size,
+measured in terms of the number of users assigned to
+receive care at each center (the catchment population)
+and the number or practitioner lists; (2) center location
+(Suburban, City center or Town-rural); and (3) the aggregated
+socioeconomic status of people assigned to
+each center as measured by the Deprivation Index [20].
+This index is an ordinal variable, categorized into five
+levels (deprivation quintiles; 1 representing high and 5
+low socio-economic status), providing a relative measure
+of the socioeconomic characteristics of the population of
+census tracts. Its design allows socioeconomic and environmental
+inequalities between residents to be estimated
+by census tract in Spain. The calculation takes into account
+the percentages of residents in a tract who, according
+to the most recent data available (2016 census),
+are manual workers, unemployed, or on temporary contracts,
+or overall or specifically among young people,
+have a low level of educational attainment.
+Analysis
+Frequencies and proportions were used to describe characteristics
+and process indicators related to professional
+participation and exposure rates for each collaborating
+center and for the Global and Sequential groups. The
+mean deprivation quintile for all patients under the care
+of each of the collaborating centers in 2016 was used to
+estimate the Deprivation Index at center level.. Regarding
+the qualitative study based on a structured group
+interview, responses to the questions were extracted
+from both the paper surveys and the audio of the discussion
+that emerged. For the analysis and interpretation of
+this information, the ERIC strategies [17] referred to in
+the healthcare professionals’ responses were identified
+and coded positively or negatively. These strategies were
+then classified by center and question grouping.
+Results
+Of the 12 PC centers put forward by the management of
+the 4 participating Osakidetza integrated healthcare organizations,
+9 were recruited to the project. Of these
+nine centers, six were classified as being located in an
+“Urban city” area and three were allocated to each of the
+comparison groups, while the only center classified as
+“Residential”, which had the lowest mean Deprivation
+Index, was allocated to the Global strategy group, and
+the only two “Urban-rural” centers were allocated to the
+Sequential strategy group. Centers described as “large”
+based on the catchment population and number of practitioner
+lists were more represented in the Global than
+in the Sequential group, which contained the two smallest
+centers.
+Across the 9 centers, 137 physicians and nurses originally
+gave written consent and agreed to collaborate (70%
+of all the physicians and 82% of all the nurses assigned
+to these centers) (Table 1). The initial collaboration rate
+among nurses was higher in the Sequential (94%) than
+in the Global (69%) group. The overall exposure rate to
+the programed implementation strategy actions (% of
+hours received out of those delivered; maximum= 20 h)
+was slightly higher in the Sequential than the Global
+group for both categories, with nurses (89.4% vs 85%)
+having a higher rate of exposure than physicians (82.6%
+vs 75%). Assessing the exposure of collaborating professionals
+in each category to the implementation actions,
+the percentage of nurses exposed to at least 80% of the
+actions was again a higher in the Sequential group (70%
+vs 60% in the Global group).
+Tables 2 and 3 describes the actual execution of the
+actions of the implementation strategy and its components,
+including modifications (planned or reactive),
+over the course of the 2.5 years during which the deployment
+of the strategy and setting up of the intervention
+program were due to take place (March 2017–May
+2019). All nine centers held the three leader training
+sessions and the 10 sessions led by the local leader supported
+by the external facilitator, which comprise the
+core strategies and actions within the implementation
+phase. The rates of participation in each of the sessions
+of the strategy were over 50% of the staff in each category
+in almost all cases and confirm differing patterns
+of execution of the actions by centers and by group
+(Global vs Sequential) (see Appendix Fig. 1). In the postimplementation
+phase, five sessions were held to support
+and monitor the setting up of the intervention program.
+As a component of the strategy, befovre each of the sessions
+held in their center,11 coordination and preparation
+sessions were run for the leaders, led by the
+facilitator, of which 5 were for following-up the setting
+up of the program and monitoring progress.
+In the process of executing the strategy, various unplanned
+and reactive modifications were made (see
+Table 3). Specifically, three actions were carried out in
+addition to those planned: two were related to training,
+one of these being a session for one center and the other
+for new nursing staff from several centers; and one was a
+repeat session for encouraging participation of medical
+staff in one of the Sequential strategy centers, on this occasion
+involving managerial staff of the integrated healthcare
+organization, seeking to boost the involvement of
+physicians. All of these modifications were requested by
+the centers themselves via the local leader. On the other
+hand, three of the planned actions were not carried out as
+intended. Specifically, of the planned six ongoing monitoring
+and facilitation sessions, a maximum of five were held,
+with fewer in some centers, mainly due to scheduling constraints
+and heavy workloads. Additionally, not all centers
+managed to organize and run one of the planned Ongoing
+supportive training sessions.Table 2 displays the original implementation plan involving
+11 ERIC discrete implementation strategies and
+the intervention mapping, which consisted of a combination
+of 3 ERIC discrete strategies, yielding a total of 14
+discrete strategies. In the group surveys/interviews regarding
+the perceived usefulness of the implementation
+strategies, the healthcare professionals recognized half
+of these 14 planned strategies. Appendix Table 5 lists
+the 14 planned strategies, as well as 3 additional ERIC
+implementation strategies that were perceived by the
+healthcare professionals to be part of the implementation
+process. In general, the strategies that were identified
+were rated positively, with 10 ERIC strategies
+described by the healthcare professionals as useful for
+their own professional development, valuable for the
+optimization process, and/or specifically helpful to
+build competence, engage professionals, and/or enhance
+inter-professional collaboration. Room for improvement
+was noted for only two ERIC strategies
+delivered - audit and feedback (ERIC 5) and conducting
+educational meetings (ERIC 15). While centers assigned
+to both groups identified the need for increased frequency,
+length, or quality of educational sessions, only
+one center (assigned to the Global arm) indicated a
+need for more audit and feedback sessions. Few differences
+were observed in the perception of strategies received
+between centers assigned to each arm.
+Healthcare providers in the centers assigned to the Global
+strategy identified the importance of conducting
+cyclical small tests of change (ERIC 14) and revising
+professional roles (ERIC 59), while none in the Sequential
+group identified these strategies. In contrast, one
+Sequential group center noted the value of promoting
+adaptability (ERIC Strategy 51), while no Global group
+centers did. Facilitation (ERIC 33) and need to mandate
+change (ERIC 44) were identified as important by more
+Global than Sequential arm centers, while providing
+audit and feedback (ERIC 5) and conducting local
+needs assessment (ERIC 18) were identified by more
+Sequential than Global arm centers. See Appendix
+Table 5.
+Discussion
+Fidelity evaluation is necessary to advance knowledge
+and understanding about the effectiveness of implementation
+strategies designed to facilitate adoption of
+evidence-based interventions and practices [2, 4]. The
+PREDIAPS project seeks to generate scientific evidence
+concerning the optimization of healthcare practice
+in primary prevention of T2D in Osakidetza PC
+centers through the application of implementation
+science as a way to achieve feasible, sustainable and
+effective translation of the recommended evidencebased
+clinical intervention to clinical practice [15]. A
+first step in this process is to ascertain whether the
+implementation strategy and the procedures for putting
+it into practice in the groups and centers compared
+has been executed as planned or there have
+been modification or variations that could have an
+impact on the outcomes of interest and in the future
+reproducibility of the study [4, 5, 8]. Considering that,
+we lack a specific framework to guide implementation
+strategy-level fidelity evaluations, we have adopted the
+framework for fidelity evaluations stated by Dane and
+Dusensbury with the purpose of evaluating and
+reporting on the fidelity of PVS-PREDIAPS implementation
+strategy and the two procedures for its
+deployment [15]. This framework considers the following
+elements in fidelity evaluations: adherence,
+dose, quality of delivery, participant responsiveness
+and program differentiation. Results of the present
+study seem to indicate that the PVS-PREDIAPS implementation
+strategy to improve T2D primary prevention
+has been carried out with high degree of
+fidelity. Despite some differential exposure to overall
+strategy within the nursing staff of compared groups,
+professionals involved have been notably exposed to
+the implementation strategy and the planned program
+differentiation related to engagement of professionals
+and deployment of the implementation strategy has
+been attained.
+Part of the present evaluation of PVS-PREDIAPS
+implementation strategy’s fidelity involves examining
+the implementation strategy dosage, that is, the degree
+of passive exposure to the planned implementation
+strategies and actions. In general, we can state
+that the professionals involved in both comparison
+groups had a notably high degree of exposure to the
+implementation strategy and that, as planned, the
+procedures for involving the professional groups and
+delivering the PVS-PREDIAPS strategy actions were
+executed differently in the two arms. Additionally, the
+exposure indicators suggest that professionals assigned
+to execute the strategy through sequential engagement
+of colleagues (starting with nurses who later
+sought the engagement of the physicians) had an unexpectedly
+higher degree of exposure to the implementation
+strategy actions, particularly in the case of
+nurses, the staff responsible for providing the active
+element of the clinical intervention. As described in
+the literature, commonly reported obstacles faced by
+physicians to fully engaging in implementation actions
+included heavy workload, staff turnover, difficulties in
+investing time and effort improvement initiatives beyond
+providing care, and existing practice priorities
+[21–23].
+Dosage can also be evaluated subjectively, in terms
+of perceived receipt of the implementation strategies
+by the healthcare professionals. Although all healthcare
+professionals participating in the PREDIAPS trial
+were exposed to the 14 ERIC discrete implementation
+strategies with minor modifications, our qualitative
+evaluation of their experience indicates that they only
+recognized having received half of them. Many of the
+strategies that did not emerge from the surveys and
+group discussion related to “more structural” implementation
+actions like developing a formal implementation
+blueprint, changing record systems, or
+developing and organizing quality monitoring systems.
+This may be due to the fact that healthcare professionals
+are not implementation specialists and did not
+pay attention to or notice these changes. They also
+failed to identify several “ongoing” implementation activities,
+such as ongoing training and ongoing support,
+and local discussion and consensus sessions (collaborative
+modeling sessions). It is possible that these
+activities were seen to be typical, or standard, implementation
+tools that were too obvious to mention in
+the evaluation session. It is also possible that these
+strategies were not strong enough to be detectable. In
+any case, differential participation or exposure to the
+strategy could compromise the future implementation
+of the clinical intervention that we are seeking to
+promote [24]. Therefore, future analysis and interpretation
+of the main outcomes of interest should be adjusted
+for the degree of participation of professionals
+in general and/or exposure to the actions of the implementation
+strategy as a function of study arm and
+professional group [13, 23].
+A second factor of interest in the evaluation of the fidelity
+of the execution of an implementation strategy is
+the extent of changes and adjustments that may have
+been made in the process of putting it into practice.
+Nevertheless, an adequate fit between “fidelity” of the
+strategy and the necessary “adaptability” to the local
+context of centers remains a great challenge in implementation
+trials [25]. Few modifications were made to
+the PVS-PREDIAPS implementation strategy. With respect
+to the planned implementation strategy [15], it
+proved unfeasible to carry out some activities, for example,
+the total number of planned monitoring and
+ongoing facilitation sessions. As commented previously,
+difficulty in scheduling meetings due to work overload
+or other competing priorities are common barriers faced
+by facilitators in improvement initiatives [23, 26]. There
+was demand among professionals for additional actions
+related to specific core strategies within the overall implementation
+strategy like training actions regarding the
+clinical intervention. Contextual factors, for example,
+site characteristics, needs and priorities are considered
+to be among the main drivers for tailoring implementation
+strategies [27], and one of the approaches used is to
+permit flexibility in order to enhance alignment and involvement
+while offering support and guidance towards
+change [26, 27].
+Regarding participant responsiveness, all the ERIC
+discrete implementation strategies identified by the
+healthcare professionals in the evaluation session were
+described as beneficial. Specifically, 10 ERIC discrete
+strategies were perceived to be useful by at least one
+center. Such a positive evaluation is indicative of the
+high quality of the delivery of all strategies identified.
+Notably, however, two of these 10 strategies (conducting
+educational meetings and audit and feedback) were also
+mentioned as needing improvement by at least one individual
+in five of the nine centers. Nonetheless, the same
+two strategies were the most mentioned overall, and
+therefore also the most positively evaluated. The high
+frequency of mention within the evaluation session likely
+correlates with high exposure to these strategies, and
+this may imply more time for critical thinking about
+these specific strategies that were an important part of
+the implementation plan.
+Interestingly, healthcare professionals also perceived
+receipt of ERIC strategies that were not necessarily specified
+a priori in the implementation plan or incorporated
+as part of a planned modification. These previously
+unidentified strategies included creating a learning collaborative,
+facilitation, and the mandating of change.
+Given the emphasis of the implementation strategy on
+facilitation to create a learning collaborative to develop
+and adapt the implementation strategy to an individual
+center’s context, it is not surprising that these two strategies
+were identified by at least half of the centers. The
+positive evaluation of these strategies seems to indicate
+the perceived value of external support and building
+teamwork in the successful implementation of complex
+interventions in the healthcare setting [26, 28]. Moreover,
+the participants felt that mandating change (socially
+and/or organizationally) fostered engagement in
+half the centers in the Global arm and built competence
+in one center in the Sequential arm. In the PREDIAPS
+trial, the perception of these additional discrete implementation
+strategies provides further evidence of an appropriate
+dose having been received and suggests further
+ecological validity of the overall implementation plan.
+Lastly, the lack of large qualitative differences in perceived
+receipt of implementation strategies observed between
+centers assigned to the Global and Sequential
+collaborative processes provides subjective evidence that
+exposure to planned implementation strategies seems to
+have been fairly similar, regardless of the deployment
+procedure.
+The present study has some important limitations.
+The first, and possibly most important, is the small
+number of participating centers, which limits the potential
+generalizability of the findings to other PC
+centers in the Basque Country or other health systems.
+Second, the emphasis on the beneficial aspects
+of the implementation strategies identified in the
+qualitative inquiry may have biased our evaluation of
+participant responsiveness. The qualitative evaluation
+was carried out exclusively with the local leaders,
+who, though best positioned to provide related information,
+might have a different perspective to that of
+their colleagues. Furthermore, most of the openended
+questions posed in the evaluation session
+tended to be phrased positively in terms of usefulness.
+Future studies of participant responsiveness should
+consider researcher/interviewer bias in the design and
+realization of the evaluation. In interpreting our results,
+potential social desirability bias in participant
+responses should also not be ruled out.
+Despite these limitations, a major strength of this
+study is the nature of the results obtained regarding
+fidelity, as they demonstrate that professionals involved
+were capable of identifying and rating the implementation
+actions conducted. Moreover, the data
+presented in this manuscript provides a practical example
+from the PREDIAPS trial that brings to life the
+core components of fidelity assembled from various
+existing frameworks. These components include adherence
+to the planned implementation strategies,
+dose/exposure to the strategies, quality of delivery,
+participant responsiveness to the strategies received,
+modifications made and program differentiation.
+Given the lack of operational definitions and existing
+frameworks to evaluate the fidelity of implementation
+strategies, this paper helps advance scientific research
+on fidelity.
+The present fidelity evaluation has fulfilled some of
+its most important goals. In this sense, it seems to
+confirm the high quality of the implementation of the
+PVS-PREDIAPS strategy and of the two procedures
+for its deployment. Further, it will help to explain
+and interpret future results of the PREDIAPS trial, by
+rejecting the possibility of an implementation failure
+and by informing about potential confounding factors
+due to differences observed between comparison
+groups, these being potentially associated with both
+exposure and results. Lastly, it points out to some
+core elements of the implementation strategy that
+should be improved for future dissemination and
+scale-up, as for example the training component. In
+this sense, there is missed opportunity regarding the
+assessment of the training component of the strategy
+(eg., overall quality, satisfaction, etc.) that could lead
+to an improvement to ensure that professionals of
+any background and skills to be appropriately trained
+to deliver the intervention in a standardized way.
+Nevertheless, the majority of the demanded modifications
+were related to additional actions related to
+training in the clinical intervention.
+Conclusions
+The PVS-PREDIAPS implementation strategy to improve
+T2D primary prevention of the collaborating
+PC centers has been carried out with high degree of
+fidelity in each of the main measured dimensions.
+Despite some differential exposure to overall strategy
+in comparison groups, mainly in the nursing staff,
+professionals involved in both comparison groups
+have been notably exposed to the implementation
+strategy and the planned program differentiation related
+to engagement of professionals and deployment
+of the implementation strategy has been attained.
+Some minor unplanned reactive modifications have
+been required within the strategy responding to contextual
+circumstances related to centers’ work overload.
+Future analysis and interpretation of results
+pertaining to the main study will need to consider
+the mentioned differences in actual degree of exposure
+to implementation strategy’s actions within
+group and professional levels. The framework for fidelity
+evaluations stated by Dane [8] and adapted by
+Dusenbury [5], is a valuable framework that can be
+used to evaluate the implementation strategy-level fidelity.
+The FRAME framework [18] may be a useful
+complement in order to identify and report modifications
+made within the planned implementation
+strategy.

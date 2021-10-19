@@ -1,0 +1,256 @@
+Burn infections are a noticeable health problem, especially
+in developing countries [1]. It has been documented
+that about 75% of death in patients with burn
+injuries are due to infections [2] Acinetobacter baumannii
+is one of the most common causes of nosocomial infections
+with high mortality and morbidity among hospitalized
+patients, especially in burn and intensive care units
+[3, 4]. Nowadays, the emergence and spread of antibiotic
+resistance in A. baumannii is a major global challenge
+[4]. Carbapenems are considered drugs of choice
+for the treatment of severe infections caused by MDR-A.
+baumannii [5]. Unfortunately, carbapenem resistance is
+increasing among A. baumannii isolates, which is alarming
+[5].
+Various mechanisms are involved in the development
+of carbapenem resistance in A. baumannii including
+β-lactamases acquisition, outer membrane proteins and
+PBPs alteration, overexpression of efflux pumps and gene
+mutation of CarO [6].
+One of the most important mechanisms of antibiotic
+resistance in A. baumannii is the production of
+β-lactamase enzymes, the genes of which are usually
+carried on mobile genetic elements, including integrons
+[7]. Beta-lactamases are grouped into four classes based
+on the amino acid sequence, including: A, B, C, and D
+[8]. Resistance to carbapenems is usually dependent on
+β-lactamases of class B (MBLs) and D (OXA-type carbapenemases)
+[9]. OXA β-lactamases or OXA-type carbapenemases,
+include distinct subgroups from which
+OXA-23-like, OXA-24-like, OXA-40-like, OXA-51-like,
+OXA-58-like and OXA-143-like have been found in
+A. baumannii strains [9, 10]. MBLs families are more
+important than other β-lactamases, due to their ability
+to hydrolyze a wide range of β-lactam antibiotics, especially
+carbapenems [11, 12]. Several MBLs including
+VIM and IMP have been identified among A. baumannii
+strains [13, 14]. Different IMP–type enzymes have
+been described in the globe among Gram-negative bacilli
+especially Enterobacterales and non-fermenter organisms
+including Acinetobacter spp. [15]. Previous studies
+have shown that the prevalence of MBL-producing
+strains of A. baumannii in the world is increasing,
+although there are different reports in various geographical
+areas [13].
+Acinetobacter has a high potential for the acquisition
+of resistance genes through mobile genetic elements,
+including integrons [15]. MBLs are generally encoded on
+the gene cassettes of class 1 integrons and spread readily
+among A. baumannii strains [16]. The presence of integrons
+and association with genes encoding MBLs are frequently
+reported in A. baumannii isolates [17].
+The current study was performed to detect the genes
+encoding MBLs and class 1 integron structures in A. baumannii
+isolates from burn patients.
+Methods
+Ethical consideration
+Informed consent was obtained from all subjects, and all
+methods were carried out in accordance with the relevant
+guidelines and regulations of Ethics Clearance Committee
+of the Alborz University of Medical Sciences.
+Bacterial isolates and identification
+The current study was conducted between December
+2019 and November 2020. A total of 106 non-duplicate
+A. baumannii isolates were collected from hospitalized
+burn patients at Shahid Motahari Hospital in Tehran,
+Iran. The collected clinical isolates were transferred
+to the laboratory of the Department of Microbiology,
+School of Medicine, Alborz University of Medical Sciences.
+Standard biochemical tests were used to identify
+the Gram-negative bacilli isolates as A. baumannii strains
+These tests included catalase, oxidase, O/F test, motility,
+citrate utilization test and growth on TSI agar (Merck,
+Germany) [18]. The diagnosed A. baumannii strains were
+cultured in TSB (Merck, Germany) supplemented with
+20% glycerol and stored at − 20 °C for further studies.
+The phenotypically isolated A. baumannii strains were
+confirmed by PCR and sequencing of the rpoB gene [19].
+The A. baumannii ATCC 19606 was used as a control
+strain.
+Antibiotic susceptibility testing
+Susceptibility of A. baumannii to imipenem (10 μg),
+gentamicin (10 μg), ciprofloxacin (5 μg), ampicillinsulbactam
+(20 μg), trimethoprim/sulfamethaxazole
+(1.25/23.75 μg), ceftazidime (30 μg), doxycycline (30 μg),
+and minocycline (30 μg) was performed by disk diffusion
+method accordant with CLSI standard guidelines
+[20]. The studied antibiotics were purchased from
+MAST Company (Mast, UK). The MICs of imipenem
+[breakpoints (μg/ml): susceptible: ≤ 2; intermediate: 4;
+resistant: ≥ 8], and colistin [breakpoints (μg/ml): susceptible:
+≤ 2; intermediate: -; resistant: ≥ 4] were determined
+by the broth microdilution method according to the
+guidelines of the CLSI [20]. The quality control strain was
+Escherichia coli ATCC 25922. The bacteria were categorized
+to MDR, XDR or PDR based on Magiorakos et al.,
+[21] criteria.
+Determination of integrons and associated gene cassettes
+Extraction of genomic DNA of A. baumannii strains was
+performed using boiling method [22]. The presence of
+integrons class 1 and related gene cassettes were determined
+by PCR using related primers [23]. The gene cassettes
+of integrons were amplified using primers and
+PCR conditions as described previously [23, 24]. Amplified
+gene cassettes were sent for sequencing (Macrogen
+Research, Seoul, Korea). The sequences obtained
+were compared with those deposited in the NCBI database
+with using BLAST program (http:// blast. ncbi. nlm.
+nih. gov/ Blast. cgi) to determine the cassettes arrays of
+integrons.
+Molecular detection of metallo‑β‑lactamases‑encoding
+genes
+The amplification of the metallo-β-lactamases-encoding
+genes including blaVIM, and blaIMP which is associated
+with carbapenem resistance was performed by PCR
+assays in all isolates. The relevant primers used for PCR
+testing are listed in Table 1. The PCR conditions were
+performed according to the protocol provided [22].
+Statistical analysis
+All statistical analysis was performed using SPSS software
+version 21 (SPSS, Inc.). The differences between variables
+were evaluated by the chi-square (χ2) test and P-values
+(P < 0.05) were interpreted statistically significant.
+Results
+In this cross-sectional study, a total of 106 non-duplicate
+A. baumannii isolates were collected from burn wounds
+of hospitalized patients. Seventy-six of the A. baumannii
+strains were isolated from male (71.7%) and 30 females
+(28.3%) patients. According to the results of antimicrobial
+susceptibility testing, all (100%) of our A. baumannii
+isolates were identified as MDR and 101 (95.3%) were
+XDR, however, PDR phenotype were not detected in any
+of the isolates. The antibiotic susceptibility profiles of
+the A. baumannii isolates by disk diffusion method are
+shown in Table 2. Determination of MICs of imipenem
+and colistin showed that all isolates were sensitive to
+colistin (MIC of ≤ 2 μg/ml) and at the same time all were
+resistant to imipenem (MIC of ≥ 8 μg/ml).
+The presence of integrons class 1 was detected by
+amplification of integrase (intI1) in 62 (58.5%) of the
+A. baumannii isolates (Table 3). Of 62 integron class 1
+-positive A. baumannii strains, 49 (79.0%) were identified
+with at least one gene cassette and 13 (21.0%) of
+these were identified as empty integrons without gene
+cassettes. Mapping of integrons revealed three different
+gene cassettes including: arr2, cmlA5, qacE1 (2300 bp);
+arr-2, ereC, aadA1, cmlA7, qacE1 (4800 bp); and aac(3)-
+Ic, cmlA5 (2250 bp) (Fig. 1) which were identified in 44
+(70.9%), 2 (3.2%) and 3 (4.8%) integron class 1 positive
+A. baumannii isolates respectively. Also the frequency
+rates of blaVIM, and blaIMP among 106 A. baumannii isolates
+were 102 (96.2%) and 62 (58.5%) respectively and
+60 (56.6%) carried both blaVIM, and blaIMP genes. The
+association between intI1 + blaVIM, and intI1 + blaIMP
+genes was identified among 58 (54.7%), and 42 (39.6%)
+respectively. Forty (37.7%) of 106 A. baumannii isolates,
+carried all three intI1 + blaVIM + blaIMP genes. It was also
+shown that 44 (41.5%), isolates were intI1 (−); blaVIM (+)
+and 4 (3.8%) of which identified as intI1 (+); blaVIM (−)
+whereas 20 (18.9%) and 20 (18.9%) out of 106 A. baumannii
+isolates were intI1 (−); blaIMP (+) and intI1 (+);
+blaIMP (−) respectively (Table 3).
+Interpretation of the results of statistical analysis
+showed there was no significant association between the
+presence of class 1 integrons and age groups (P = 0.55),
+and burn size (P = 0.52). However the presence of class
+1 integrons were significantly higher in female than male
+patients (P = 0.017).
+Discussion
+Acinetobacter baumannii is one of the most important
+pathogens leading to infections in burn patients. Control
+of A. baumannii infections in these patients is a
+major challenge due to the proliferation of MDR strains
+[25]. In the current study, all isolates were identified as
+MDR strains. Also in accordance with other studies, we
+found that all our A. baumannii strains were carbapenem
+resistant [26]. Similarly to our study, 94.5% of A.
+baumannii isolated from burn patients were resistant to
+carbapenems in the study by Pournajaf et al., [5], suggesting
+that the mentioned group of antibiotics is no longer
+suitable for the treatment of infections caused by this
+bacterium. Determination of resistance by MIC showed
+that all strains were sensitive to colistin. These data are
+in agreement with those of Tarashi et al., [27] and previous
+studies [17], and show that colistin is still an effective
+antibiotic against MDR A. baumannii. In our study,
+blaVIM was identified as the most common gene encoding
+MBLs in the vast majority of isolates, followed by blaIMP.
+According to the literature, a wide distribution of VIM
+type metallo-β-lactamase has been reported at Middle
+East CRAB [22]. An association between class 1 integrons
+and MBLs genes, particularly blaIMP and blaVIM,
+has been reported in other studies [17]. However, our
+findings showed that the blaIMP and blaVIM genes were
+not located on the class 1 integrons and no association
+was found between MBL genes and the presence of class
+1 integrons among studied isolates. The reason could
+be that these genes may have been located on the other
+region of bacterial DNA.
+The analysis of integrons content revealed that 79.0%
+of studied integron class 1 positive A. baumannii strains
+carried at least one gene cassette, while 21.0% had no
+cassettes and carried empty integrons. Considering
+that strains with empty integrons have the potential to
+capture cassettes carrying resistance genes, this result
+could be remarkable. The most common integron cassettes
+identified among integron-positive A. baumannii
+strains were arr2, cmlA5, qacE1, which encode rifampin
+ADP -ribosyltransferase, chloramphenicol transporter
+and quaternary ammonium resistance protein leading to
+resistance to rifampicin, chloramphenicol and quaternary
+ammonium compounds, respectively. Rifampin resistance
+due to the arr-2 gene carried by class 1 integrons
+has been documented in A. baumannii strains [28]. Also
+other variants of cmlA gene have been reported in other
+studies and it seems that this is the first report of detecting
+cmlA5 and cmlA7 variants in A. baumannii strains in
+Iran [24]. Other cassettes, including aadA1 and aac(3)-
+Ic encoding aminoglycoside adenylase and aminoglycoside
+acetyltransferase respectively were found to be less
+common in the present study. In researches conducted
+in other parts of the world, including Taiwan, mainland
+China, and France, different variants of the aadA gene
+such as aadA1, aadA2 and aadA6 have been identified
+in multidrug-resistant A. baumannii strains [23, 24, 29].
+The identification of aadA1 and aac(3)-Ic genes in cassettes
+of class 1 integrons could explain the high resistance
+to aminoglycosides in the present study. Despite
+the high resistance to antibiotics such as ceftazidime,
+ciprofloxacin, and trimethoprim/sulfamethaxazole, no
+gene cassette encoding resistance to these antibiotics was
+found in the present study. Therefore, the development of
+resistance to mentioned antibiotics may depend on the
+presence of genetic elements other than integrons.
+Limitations
+This project is a cross-sectional study. However, to demonstrate
+the clinical relevance and dynamic community
+structure of clinical isolates, we need to continuously
+monitor the outbreaks using PFGE, MLST, or WGS tools.
+More information about resistant bacteria helps us to
+respond to how bacteria spread throughout clinical settings.
+Part of the limitations of the current study is also
+due to limited resources. However, other genes responsible
+for carbapenem resistance and MBL formation
+could be identified by WGS. In addition to class 1, detection
+of gene cassette arrays associated with other integron
+classes could level up the study. Seemingly, the data
+obtained in the present study may provide a basis for
+future studies and assess the trend of infection generated
+by A. baumannii in burn patients in our region.
+Conclusion
+A high prevalence of MBLs genes especially blaVIM was
+identified in studied MDR A. baumannii isolates. In addition,
+most of the VIM type MBL-positive strains carried
+class 1 integrons. Furthermore, the gene cassettes arrays
+of integrons including cmlA5 and cmlA7 were detected,
+for the first time, in A. baumannii strains in Iran.

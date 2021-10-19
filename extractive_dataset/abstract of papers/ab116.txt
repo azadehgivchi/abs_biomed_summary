@@ -1,0 +1,17 @@
+Background: At present, the proportion of undiagnosed diabetes in Chinese adults is as high as 15.5%. People
+with diabetes who are not treated and controlled in time may have various complications, such as cardiovascular
+and cerebrovascular diseases and diabetic foot disorders, which not only seriously affect the quality of life of people
+with diabetes but also impose a heavy burden on families and society. Therefore, prevention and control of type 2
+diabetes is of great significance.
+Methods: We constructed a logistic regression model, a neural network model and a decision tree model to analyse
+the risk factors for type 2 diabetes and then compared the prediction accuracy of the different models by calculating
+the area under the relative operating characteristic (ROC) curve and back-inputting the data into the model.
+Results: The prevalence of type 2 diabetes in 4177 subjects who were not diagnosed with type 2 diabetes was 9.31%.
+The most influential factors associated with type 2 diabetes were triglyceride (TG) ≥ 1.17 mmol/L (odds ratio (OR) =2.233),
+age ≥ 70 years (OR = 1.734), hypertension (OR = 1.703), alcohol consumption (OR = 1.674), and total cholesterol≥5.2mmol/
+L (TC) (OR = 1.463). The prediction accuracies of the three prediction models were 90.8, 91.2, and 90.7%, respectively, and
+the areas under curve (AUCs) were 0.711, 0.780, and 0.698, respectively. The differences in the AUCs after back
+propagation (BP) of the neural network model, logistic regression model and decision tree model were statistically
+significant (P < 0.05).
+Conclusion: BP neural networks have a higher predictive power for identifying the associated risk factors of type 2
+diabetes than the other two models, but it is necessary to select a suitable model for specific situations.

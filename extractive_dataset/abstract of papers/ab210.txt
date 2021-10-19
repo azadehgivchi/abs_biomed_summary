@@ -1,0 +1,17 @@
+Background: The glycated hemoglobin (A1c) test is not recommended for sickle cell disease (SCD) patients. We
+examine ordering patterns of diabetes-related tests for SCD patients to explore misutilization of tests among this
+underserved population.
+Methods: We used de-identified electronic health record (EHR) data in the Cerner Health Facts™ (HF) data warehouse
+to evaluate the frequency of A1c and fructosamine tests during 2010 to 2016, for 37,151 SCD patients from
+393 healthcare facilities across the United States. After excluding facilities with no A1c data, we defined three groups
+of facilities based on the prevalence of SCD patients with A1c test(s): adherent facilities (no SCD patients with A1c
+test(s)), minor non-adherent facilities, major non-adherent facilities.
+Results: We determined that 11% of SCD patients (3927 patients) treated at 393 facilities in the US received orders
+for at least one A1c test. Of the 3927 SCD patients with an A1c test, only 89 patients (2.3%) received an order for a
+fructosamine test. At the minor non-adherent facilities, 5% of the SCD patients received an A1c test while 58% of the
+SCD patients at the least adherent facilities had at least one A1c test. Overall, the percent of A1c tests ordered for SCD
+patients between 2010 and 2016 remained similar.
+Conclusions: Inappropriate A1c test orders among a sickle cell population is a significant quality gap. Interventions
+to advance adoption of professional recommendations that advocate for alternate tests, such as fructosamine, can
+guide clinicians in test selection to reduce this quality gap are discussed. The informatics strategy used in this work
+can inform other largescale analyses of lab test utilization using de-identified EHR data.

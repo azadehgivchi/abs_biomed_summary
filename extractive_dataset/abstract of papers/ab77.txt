@@ -1,0 +1,18 @@
+
+Background: The tripartite motif (TRIM) family proteins exhibit oncogenic roles in various cancers. The roles of
+TRIM27, a member of the TRIM super family, in renal cell carcinoma (RCC) remained unexplored. In the current
+study, we aimed to investigate the clinical impact and roles of TRIM27 in the development of RCC.
+Methods: The mRNA levels of TRIM27 and Kaplan–Meier survival of RCC were analyzed from The Cancer Genome
+Atlas database. Real-time PCR and Western blotting were used to measure the mRNA and protein levels of TRIM27
+both in vivo and in vitro. siRNA and TRIM27 were exogenously overexpressed in RCC cell lines to manipulate
+TRIM27 expression.
+Results: We discovered that TRIM27 was elevated in RCC patients, and the expression of TRIM27 was closely
+correlated with poor prognosis. The loss of function and gain of function results illustrated that TRIM27 promotes
+cell proliferation and inhibits apoptosis in RCC cell lines. Furthermore, TRIM27 expression was positively associated
+with NF-κB expression in patients with RCC. Blocking the activity of NF-κB attenuated the TRIM27-mediated
+enhancement of proliferation and inhibition of apoptosis. TRIM27 directly interacted with Iκbα, an inhibitor of NF-
+κB, to promote its ubiquitination, and the inhibitory effects of TRIM27 on Iκbα led to NF-κB activation.
+Conclusions: Our results suggest that TRIM27 exhibits an oncogenic role in RCC by regulating NF-κB signaling.
+TRIM27 serves as a specific prognostic indicator for RCC, and strategies targeting the suppression of TRIM27
+function may shed light on future therapeutic approaches.
+

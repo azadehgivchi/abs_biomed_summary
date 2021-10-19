@@ -1,0 +1,374 @@
+Background
+The notorious group of pathogens, Enterococcus faecium,
+Staphylococcus aureus, Klebsiella pneumoniae,
+Escherichia coli, Acinetobacter baumannii, Pseudomonas
+aeruginosa and Enterobacter spp., named
+“ESKAPEEc” owing to their high resistances to multiple
+antimicrobial agents, have recently aroused global
+concern [1, 2]. Currently, the incidence of
+bloodstream infection (BSI) caused by ESKAPEEc has
+increased rapidly [3], and ESKAPEEc BSI brought
+about worse outcomes [3], longer hospital stays,
+higher economic costs [4–6], and increased mortality
+[4–6]. In addition, effective antimicrobial agents
+against ESKAPEEc strains were limited due to the
+growth of resistance to multiple antibiotics in these
+bacterial species. Inappropriate and delayed empirical
+antimicrobial agents’ treatment for patients with BSI
+was connected with high risk of mortality [7–10].
+Therefore, a wide understanding of the main clinical
+characteristics of ESKAPEEc BSI among hospitalized
+children was crucial for physicians to early recognition
+and select proper empirical therapy.
+To our knowledge, the existing studies have given
+attention to the epidemiology and antimicrobial resistance
+trends of ESKAPEEc in patients with BSI [11–
+13], and clinical data about ESKAPEEc BSI were
+mainly available in adult populations with cancer or
+solid organ transplantation [14–17]. So far, there was
+no data concerning the BSI caused by ESKAPEEc in
+pediatric populations. Thus, we sought to investigate
+the epidemiology, clinical characteristics among hospitalized
+children with ESKAPEEc BSI. Simultaneously,
+we also assessed risk factors, and clinical outcomes of
+them.
+Methods
+Study population
+Hospitalized children who were diagnosed with BSI
+based on a positive blood culture between 2016 and
+2018 at the West China Second University Hospital of
+Sichuan University and aged under 14 years old were enrolled
+retrospectively after obtaining ethics approval.
+The exclusion criteria were listed next (Fig. 1): (1) polymicrobial
+infections;(2) diagnosed with fungal BSI; (3)
+incomplete clinical data.
+Data collection
+This study obtained the following data from electronic
+medical records, including age, gender, previous
+hospitalization (within 1 month), history of surgery and/
+or trauma (within 3 months), records of previous antibiotic
+use (within 1 month), underlying diseases, nosocomial
+infection or not, symptoms, microbiology data
+(microorganisms and resistance to antimicrobial agents),
+likely source of infection, blood products transfusion,
+pediatric intensive care unit (PICU) admission, invasive
+operation (indwelling gastric tube, central venous catheter,
+urinary catheter, mechanical ventilation), empirical
+antibiotics therapy, length of hospital stay and patients’
+clinical outcomes. Meanwhile, the additional laboratory
+results within the first 24 h of admission were collected:
+the blood routine, C-reactive protein, alanine aminotransferase
+(ALT) and aspartate aminotransferase (AST).
+This study was analyzed through three parts. First, all
+enrolled patients were classified into ESKAPEEc and
+non-ESKAPEEc groups to ascertain the risk factors of
+ESKAPEEc BSI. Second, risk factors of patients with BSI
+resulting from MRD ESKAPEEc were investigated by
+comparing the MRD ESKAPEEc and non-MRD ESKA
+PEEc groups. Finally, the 174 patients with ESKAPEEc
+BSI according to patients’ final condition at discharge
+were divided into survivor and non-survivor groups to
+investigate the risk factors closely connected with
+mortality.
+Definitions
+BSI was defined as the causative bacteria isolated in the
+blood cultures and clinical manifestations in accordance
+with sepsis syndrome [18]. The diagnosis criteria were
+determined by the definitions of National Healthcare
+Safety Network and CDCP [19]. ESKAPEEc were previously
+defined elsewhere [1, 2, 4, 12]. The definition of
+MRD was based on the international expert proposal for
+interim standard [20]. Polymicrobial infection referred to
+≥2 causative organisms isolated from a single blood culture
+[21]. Empirical antibiotic treatment was regarded as
+being “appropriate” if the isolated causative organisms
+were susceptible to ≥1 of the antimicrobial agents administered
+in vitro. Otherwise, the treatment was considered
+to be “inappropriate”. Overall mortality referred
+to death by any cause during hospitalization. Some children
+who had multiple organ failure, demanded inotropes
+support or mechanical ventilation were
+discharged from hospital voluntarily and gave up any
+further treatment. These children were considered nonsurvivor
+groups within this period.
+Microbiological Methods
+The blood cultures were fulfilled strictly in accordance
+with the standard operating procedures. The causative
+bacteria identification and antibiotic resistance testing
+were conducted using the VITEK 2 (BioMérieux, Marcyl’Étoile,
+France) system. The interpretation criteria of
+antibiotic resistance tests was determined by the definitions
+of Clinical and Laboratory Standards Institute [22].
+Statistical analysis
+We reported the median (interquartile range [IQR]) for
+measurement dates and analyzed them using Mann-
+Whitney U test appropriately. We calculated constituent
+ratios for count dates and analyzed them utilizing the χ2
+test or Fisher’s exact test. Variables in the univariate
+analysis that exhibited statistical differences (P-value <
+0.05) were placed into the binary logistic regression analysis
+to investigate factors potentially associated with
+ESKAPEEc BSI, MRD-ESKAPEEc BSI and mortality. All
+dates were implemented with the SPSS version 22.0. Pvalues
+< 0.05 were deemed significant.
+Results
+Two hundred fifty-two hospitalized pediatric patients
+were diagnosed with laboratory-confirmed BSI Between
+2016 and 2018 at the West China Second Hospital,
+Sichuan University. Twenty-four patients were not included
+according to the exclusion criteria (Fig. 1); Ultimately,
+we identified 228 patients in this study. One
+hundred seventy-four of the 228 patients (76.3%) had
+ESKAPEEc BSI. Six of the 174 (3.4%) patients lacked resistance
+data; 124 (73.8%) were MDR ESKAPEEc and 44
+(26.2%) were non-MDR ESKAPEEc.
+Microbiology
+As Table 1 showed, the two leading ESKAPEEc pathogens
+were Escherichia coli (26.8%,61/228), Klebsiella
+pneumoniae (20.2%,46/228), followed by Enterococcus
+faecium (12.7%, 29/228), Staphylococcus aureus (12.7%,
+29/228), Acinetobacter baumannii (2.6%, 6/228), Pseudomonas
+aeruginosa (1.3%, 3/228) and Enterobacter spp.
+(0). Of the 124 MDR ESKAPEEc strains, Escherichia coli
+and Klebsiella pneumoniae accounted for nearly 65.3%.
+42 (33.9%) were ESBL-producing bacteria, including
+Escherichia coli (28,22.6%) and Klebsiella pneumoniae
+(14,11.3%). 20 (16.1%) were carbapenem nonsusceptibility
+bacteria, including Klebsiella pneumoniae
+(15,12.1%), Escherichia coli (3,2.4%) and Acinetobacter
+baumannii (2,1.6%). In addition, there were 1
+vancomycin-resistant Enterococcus faecium and 8
+methicillin-resistant Staphylococcus aureus.
+Comparison of ESKAPEEc and non-ESKAPEEc BSI
+The main characteristics of patients with ESKAPEEc and
+non-ESKAPEEc BSI were summarized in Table 2. Less
+than half of the patients were males (42.1%, 96/228) and
+the median age was 4.4 (range:0.7–35.7) months. The
+median age between the two groups (median month, 2.5
+[0.5–12.3] vs 32.7[8.0–100.4], P < 0.001) showed statistically
+significant difference. Regarding underlying disease,
+a greater proportion of premature and/or low birth
+weight (31.6% vs 9.3%, P = 0.001), tumor diseases (16.7%
+vs 0%, P < 0.001) was presented in patients with ESKA
+PEEc BSI. Compared with non-ESKAPEEc BSI, patients
+with BSI caused by ESKAPEEc had increased percentages
+of previous surgery and/ or trauma (13.8% vs 3.7%, P =
+0.042), nosocomial infection (32.2% vs 7.4%, P < 0.001),
+more source of urinary tract infection (14.9% vs 1.9%, P =
+0.009), but lower rate of previous antibiotic use (25.9% vs
+50.0%, P = 0.001), less source of lung infection (17.8% vs
+42.6%, P < 0.001), intracranial infection (1.1% vs 16.7%,
+P < 0.001) and lower levels of platelet count (median, 209
+[111–323] vs 341 [168–439], P < 0.001), C-reactive protein
+(median mg/dL,15.0 [3.0–85.3] vs 26.5 [10.0–116.6], p =
+0.017). After applying the multivariate analysis, premature
+and/or low birth weight (odds ratio [OR] = 2.981, P =
+0.036), previous surgery and/or trauma (OR = 5.71, P =
+0.029) and source of urinary tract infection (OR = 10.6,
+P = 0.004) were independent risk factors for ESKAPEEc
+BSI. Source of intracranial infection was a protective factor
+for ESKAPEEc BSI (OR = 0.198, P = 0.037).
+In terms of empiric antimicrobial treatment and outcomes
+of all cases, we found that 50 of the 228 patients
+(21.9%) were treated inappropriately: 46 (27.4%, 46/168)
+were in ESKAPEEc BSI patient group and 4 (7.4%,4/54)
+were in non-ESKAPEEc BSI group. Patients with ESKA
+PEEc BSI had received inappropriate empiric antibiotics
+treatment significantly more often (27.4% vs 7.4%, p =
+0.003) (Table 2). Although no significant differences in
+the MODS, septic shock, mechanical ventilation, PICU
+admission and mortality between ESKAPEEc and non-
+ESKAPEEc BSI groups were found (all p > 0.05). Patients
+with BSI due to ESKAPEEc had longer hospital stay (median
+days, 20.5[10.0–31.0] vs 14.0[8.8–23.0], p = 0.023)
+compared with those with non-ESKAPEEc BSI.
+Comparison of MDR ESKAPEEc and non-MDR ESKAPEEc
+BSI
+The 168 patients with resistance data were divided into
+MDR ESKAPEEc and non-MDR ESKAPEEc BSI groups.
+The differences of the main characteristics between the
+2 groups were showed in Table 3. MDR ESKAPEEc patients
+with BSI had more nosocomial infections (41.1%
+vs 11.4%, P < 0.001) and the presence of underlying disease
+(72.6% vs 43.2%, P < 0.001) was also higher, whereas
+the age and sex between the 2 groups were not statistically
+different. Compared with non-MDR ESKAPEEc
+BSI, patients with MDR-ESKAPEEc BSI were less likely
+to have a history of antibiotic use within 1 month (21.8%
+vs 43.2%, P = 0.006), source of skin or soft tissue infection
+(6.5% vs 27.3%, P < 0.001). Furthermore, the median
+level of platelet count was significantly lower in MDRESKAPEEc
+group with BSI than that in non-MDR ESKA
+PEEc group (median,188[100–302] vs 271[173–413], P =
+0.004). In multivariate analysis, the independent risk factor
+for MRD-ESKAPEEc BSI was nosocomial infection
+(OR = 3.314, P = 0.037), while the skin or soft tissue infection
+(OR = 0.245, P = 0.011) was a protective predictor
+of MRD ESKAPEEc BSI.
+Regarding empiric antimicrobial treatment and outcomes
+for MRD ESKAPEEc BSI, 42 of the 124 MDRESKAPEEc
+patients with BSI (33.9%) were treated inappropriately
+in comparison with the 4 of the 44 non-
+MDR ESKAPEEc patients with BSI (9.1%) (P = 0.002)
+(Table 3). Hospital stay in MDR-ESKAPEEc BSI group
+was longer than that in non-MDR ESKAPEEc BSI group
+(median days, 24.0 [13.0–36.0] vs 14.5 [9.0–27.3], P =
+0.006) (Table 3). Whereas, no significant differences
+were ascertained in MODS, septic shock, mechanical
+ventilation, PICU admission, mortality between MDR
+and non-MDR ESKAPEEc BSI groups (all p > 0.05).
+Predictors for mortality among hospitalized children with
+ESKAPEEc BSI
+A total of 174 hospitalized children with ESKAPEEc BSI
+were identified in our study. The overall mortality rate
+of these patients was 14.4% (25/174), and no significant
+difference was ascertained regarding mortality between
+MRD-ESKAPEEc and non-MRD ESKAPEEc BSI groups
+(13.7% vs. 11.4%, P = 0.692) (Table 3). In the univariate
+analysis (Table 4), previous surgery and/or trauma, previous
+antibiotic use, neutrophil percentage, hemoglobin,
+platelet count, MODS, blood products transfusion,
+mechanical ventilation, PICU admission were statistically
+differences between survivor and non-survivor groups
+(all p < 0.05). A multivariate analysis demonstrated that
+previous surgery and/or trauma (OR = 7.006, P = 0.006),
+mechanical ventilation (OR = 7.997, P = 0.004) appeared
+to be effective predictors for death. Previous antibiotic
+use (OR = 0.132, P = 0.034), normal platelet count (OR =
+0.996, P = 0.037) were protective factors for death caused
+by ESKAPEEc BSI.
+Discussion
+Data concerning the burden of ESKAPEEc BSI in hospitalized
+children was indeedy non-existent. Existing information
+was mainly in adult population with definite
+underly diseases. There were several findings identified
+in this study: (1) 76.3% (n = 174) of BSIs among hospitalized
+children were caused by ESKAPEEc (124 MDRESKAPEEc).
+(2) Several risk factors for BSI due to ESKA
+PEEc and associated with BSI caused by MRD ESKA
+PEEc were identified. (3) The overall mortality rate in
+patients with ESKAPEEc BSI was 14.4% (25/174), and no
+significant difference was ascertained in mortality rate
+between MRD-ESKAPEEc and non-MRD ESKAPEEc
+BSI groups (13.7% vs. 11.4%, P = 0.692). (4) Several predictors
+for mortality among hospitalized children with
+ESKAPEEc BSI were also summarized.
+In the current study, 76.3% of BSIs were caused by
+ESKAPEEc, which was similar to the previous reports in
+Southwest China (58.7%) [12] and Rome (61.7%) [13],
+but higher than that in the US (27.2%) [11]. This discrepancy
+may be associated with geographical regions
+and study population. Previous studies frequently reported
+MDR bacteria were Escherichia coli and Klebsiella
+pneumoniae, most of which trended to be ESBLproducing
+organisms [23–25]. Furthermore, an upward
+trend in the proportion of ESBL-producing Enterobacteriaceae
+ESKAPEEc BSI was found [12]. Similarly, a high
+rate of MRD-ESKAPEEc BSI resulting from an ESBLproducing
+strain among children was also observed in
+this study. One common reason in many developing
+countries which may result in the high incidence of antibiotic
+resistant BSI was the overuse and misuse of antibiotics.
+Meanwhile, our study revealed that the most
+common carbapenem non-susceptibility strains were
+Klebsiella pneumoniae (6.8%,15/222), which was consistent
+with data reported by CHINET (5.5%) [26], but differed
+from the result from southwest China (12.8%) [12].
+Studies have shown that carbapenem-resistant Klebsiella
+pneumoniae (CRKP) was relevant to high mortality [27,
+28]. Yet the treatment regimens for CRKP BSI were limited
+in clinic. CRKP infections have posed an extreme
+antibiotic-resistant threat [28]. Thus, additional studies
+should concentrate on the molecular and epidemical
+mechanism of CRKP.
+To our knowledge, there was no study using multivariate
+analyses to investigate risk factors for ESKAPEEc
+BSI. In the present study, we found that premature and/
+or low birth weight, previous surgery and/or trauma and
+source of urinary tract infection were independent risk
+factors for ESKAPEEc BSI. Moreover, there was only
+two studies among adult population focusing on the risk
+factors for drug-resistant ESKAPEEc BSI in multivariate
+analyses [14, 15]. Gudiol C, et al. in 2014 have found
+that drug-resistant ESKAPEEc bacteremia were significantly
+associated with underlying diseases, previous antibiotic
+use, and source of urinary tract infection [14].
+Marta B, et al. in 2013 have revealed that solid-organ
+transplant patients who had previous antibiotic use and
+septic shock were more likely to develop drug-resistant
+ESKAPEEc bacteremia [15]. Based on the existing information,
+it was likely that underlying diseases, previous
+invasive operation, previous antibiotic use and source of
+infection were the key factors for MRD-ESKAPEEc BSI.
+We further investigated the independent risk factor for
+MRD ESKAPEEc patients with BSI was nosocomial infection
+(OR = 3.314, P = 0.037). This result was not in
+line with those risk factors ascertained in the previous
+studies [14, 15]. The discrepancies may be owing to the
+diverse study population, diverse definition of MRD
+[14–17], diverse inclusion criteria [14–17]. Various studies
+have showed that ESKAPEEc pathogens, especially
+MRD-ESKAPEEc, have emerged as the predominant opportunistic
+organisms responsible for nosocomial infections
+[29–31], resulting in severe infection.
+Accompanying by nosocomial infection, there was urgently
+need for empiric treatment to cover MRD-ESKA
+PEEc pathogens among children with BSI. The association
+between bacterial resistance development and previous
+antibiotic use remained inconsistent. Some studies
+revealed that previous antibiotic exposure (especially
+carbapenem) was an independent risk factor for MRD
+pathogens infection [14, 15, 28, 32]. Conversely, other
+study has demonstrated no association was identified between
+MRD bacterial infections and previous antibiotic
+use [33], in accordance with our data. Thus, further association
+between bacterial resistance development and
+antibiotic use previous to infection need to be monitored
+closely.
+To explore the possible influence of MRD pathogens
+for the outcome of patients with ESKAPEEc BSI, patients’
+characteristics were systematically evaluated. The
+overall mortality rate among children with ESKAPEEc
+BSI was 14.4% (25/174), and no significant difference
+was ascertained in mortality between MRD-ESKAPEEc
+and non-MRD ESKAPEEc BSI patients (13.7% vs. 11.4%,
+P = 0.692), which was in accordance with previous studies
+[16, 17]. This finding reflected the fact that MRDESKAPEEc
+was not a risk factor associated with worse
+outcome, and although resistant strains were not easily
+to cure, might be less virulent. Moreover, previous
+studies have reported various predictors of poor outcome
+in patients with ESKAPEEc BSI, including female
+sex [16], lymphocyte counts < 300/mm3 [16], corticosteroid
+therapy [14] and ß-lactam monotherapy [14], septic
+shock [16, 17],ICU admission [14]. In our study, we
+found that mechanical ventilation (OR = 7.997, P =
+0.004) was the strongest risk factor associated with mortality.
+Further, previous surgery and/or trauma and
+thrombocytopenia increased the risk rates for mortality
+among children with ESKAPEEc BSI. Thrombocytopenia
+was a well-known indicator of serious infections development
+[34, 35], which can be considered an early
+screening tool for poor outcome in children with ESKA
+PEEc BSI. Low platelet count resulting from bacterial infection
+was recorded closely and trended to indicate impaired
+production caused by bone marrow suppression
+and/or increased destruction owing to endothelial cell
+injury and platelet aggregation [36–38].
+Though it is the first time to summarize the main
+characteristics of ESKAPEEc BSI among hospitalized
+children, several limitations exist. First, our study is a
+single-center study representing most of the pediatric
+population in the Southwest China, some findings may
+not be generalizable to other settings. Second, selection
+and recall bias occurred inevitably due to the retrospective
+analysis and these variations may partly affect the
+findings of the study.
+Conclusions
+The present study revealed that more than two-thirds of
+BSI among hospitalized children were caused by ESKA
+PEEc. It also demonstrated that previous surgery and/or
+trauma, thrombocytopenia and mechanical ventilation
+increased the risk rate for mortality in ESKAPEEc BSI.
+The risk factors ascertained could assist physicians to
+early suspect ESKAPEEc BSI and MDR ESKAPEEc BSI.

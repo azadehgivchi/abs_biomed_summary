@@ -1,0 +1,20 @@
+Background: Cancer remains one of the leading causes of death worldwide, despite the possibilities to detect early
+onset of the most common cancer types. The search for the optimal therapy is complicated by the cancer diversity
+within tumors and the unsynchronized development of cancerous cells. Therefore, it is necessary to characterize
+cancer cell populations after treatment has been applied, because cancer recurrence is not rare. In our research, we
+concentrated on small cancer cell subpopulation (microcells) that has a potential to be cancer resistance source.
+Previously made experiments has shown that these cells in small numbers form in specific circumstances after
+anticancer treatment.
+Methods: In experiments described in this research, the anticancer agents’ paclitaxel and doxorubicin were used to
+stimulate the induction of microcells in fibroblast, cervix adenocarcinoma, and melanoma cell lines. Mainly for the
+formation of microcells in melanoma cells. The drug-stimulated cells were then characterized in terms of their
+formation efficiency, morphology, and metabolic activity.
+Results: We observed the development of cancer microcells and green fluorescent protein (GFP) transfection
+efficiency after stress. In the time-lapse experiment, we observed microcell formation through a renewal process
+and GFP expression in the microcells. Additionally, the microcells were viable after anticancer treatment, as
+indicated by the nicotinamide adenine dinucleotide hydrogen phosphate (NADPH) enzyme activity assay results.
+Taken together, these findings indicate that cancer microcells are viable and capable of resisting the stress induced
+by anticancer drugs, and these cells are prone to chemical substance uptake from the environment.
+Conclusion: Microcells are not only common to a specific cancer type, but can be found in any tumor type. This
+study could help to understand cancer emergence and recurrence. The appearance of microcells in the studied
+cancer cell population could be an indicator of the individual anticancer therapy effectiveness and patient survival.

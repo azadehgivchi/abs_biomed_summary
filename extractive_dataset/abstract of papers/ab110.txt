@@ -1,0 +1,23 @@
+Background: Coronary artery disease (CAD) remains one of the leading causes of mortality worldwide and is associated
+with multiple inherited and environmental risk factors. This study is designed to identify, design, and develop
+a panel of genetic markers that combined with clinical and angiographic information, will facilitate the creation of a
+personalized risk prediction algorithm (GEnetic Syntax Score—GESS). GESS score could be a reliable tool for predicting
+cardiovascular risk for future adverse events and for guiding therapeutic strategies.
+Methods: GESS (ClinicalTrials.gov Identifier: NCT03150680) is a prospective, non-interventional clinical study
+designed to enroll 1080 consecutive patients with no prior history of coronary revascularization procedure, who
+undergo scheduled or emergency coronary angiography in AHEPA, University General Hospital of Thessaloniki. Next
+generation sequencing (NGS) technology will be used to genotype specific single-nucleotide polymorphisms (SNPs)
+across the genome of study participants, which were identified as clinically relevant to CAD after extensive bioinformatic
+analysis of literature-based SNPs. Enrichment analyses of Gene Ontology-Molecular Function, Reactome
+Pathways and Disease Ontology terms were also performed to identify the top 15 statistically significant terms and
+pathways. Furthermore, the SYNTAX score will be calculated for the assessment of CAD severity of all patients based
+on their angiographic findings. All patients will be followed-up for one-year, in order to record any major adverse
+cardiovascular events.
+Discussion: A group of 228 SNPs was identified through bioinformatic and pharmacogenomic analysis to be
+involved in CAD through a wide range of pathways and was correlated with various laboratory and clinical parameters,
+along with the patients’ response to clopidogrel and statin therapy. The annotation of these SNPs revealed 127
+genes being affected by the presence of one or more SNPs. The first patient was enrolled in the study in February
+2019 and enrollment is expected to be completed until June 2021. Hence, GESS is the first trial to date aspiring to
+develop a novel risk prediction algorithm, the GEnetic Syntax Score, able to identify patients at high risk for complex
+CAD based on their molecular signature profile and ultimately promote pharmacogenomics and precision medicine
+in routine clinical settings.

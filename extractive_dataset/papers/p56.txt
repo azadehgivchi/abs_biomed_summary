@@ -1,0 +1,185 @@
+Background
+Carbon monoxide is a colorless, odorless, non-irritating
+gas. It is produced endogenously in small amounts as a
+byproduct of the catabolism of heme molecules [1]. It
+can also be inhaled when hydrocarbon-containing fuels
+are not completely burned [1, 2]. Survivors of carbon monoxide poisoning may suffer neurological and psychiatric
+sequelae [1]. Carbon monoxide causes electrical, functional, and morphological changes in the heart [3]. The
+QT interval has long been known to vary significantly
+among the individual leads of a surface 12-lead electrocardiogram [3].
+A potential clinical application of this inter-lead difference was proposed in 1990 by Day et al., who suggested
+that the inter-lead difference in the QT interval might provide a measure of repolarization inhomogeneity, which they
+called “QT dispersion” [3, 4]. Although it has been established that carbon monoxide induces electrocardiographic
+(ECG) changes and alterations of cardiac biomarkers [3, 5],
+it is unclear whether the indices of myocardial damage can
+predict the patient’s prognosis after carbon monoxide
+toxicity. Hence, this study aimed to investigate the relationship between carboxyhemoglobin and ECG changes and
+whether the ECG changes and troponin I levels are related
+to the prognosis of patients with carbon monoxide
+poisoning.
+Methods
+The sample group of this retrospective study comprised
+patients suffering from carbon monoxide poisoning who
+had been admitted to St. Mary’s Hospital, Kurume, Japan
+for treatment between June 2013 and September 2019. St.
+Mary’s Hospital is the emergency medical center for southern Fukuoka Prefecture. Clear electrocardiograms were
+available for each patient and carbon monoxide poisoning
+had been confirmed by arterial blood analysis. Carboxyhemoglobin was measured in the ambulance and/or at admission, with the highest values being adopted. All patients
+whose blood and ECG could be analyzed using these techniques were included in the study. Encephalopathy was defined as the development or recurrence of symptoms such
+as difficulty concentrating, dementia, psychomotor retardation, Parkinson’s disease, and amnesia, which were either
+diagnosed by MRI at time of discharge or up to 6 weeks
+after admission. Sequential disability was defined as the
+major progressive outcomes resulting from carbon monoxide toxicity either at or after discharge. These include encephalopathy, cardiomyopathy, and death.
+QT interval measures and cardiac enzymes
+All 12-lead electrocardiograms were obtained at a paper
+speed of 25 mm/s with standard lead positions. QT and
+RR intervals were measured on each electrocardiogram
+in all patients. The QT interval was measured from the
+beginning of the QRS complex to the end of the T wave.
+The QT intervals for each lead were measured and corrected for heart rate (QTc) using Bazett’s formula (QT/
+√RR) [6]. The QTc dispersion was the difference between the leads with the shortest and longest QTc intervals [4]. QT intervals were measured upon admission to
+the emergency department. Additionally, blood samples
+were obtained and the troponin I level was determined.
+Statistical analysis
+Retrospective statistical analyses were performed using JMP
+and SAS university edition software (SAS Institute Inc.,
+Cary, NC, USA). Results are presented as means ± SDs. An
+independent sample t-test was used to compare continuous
+variables, while Chi-squared tests or Fisher’s exact test were
+used for categorical variables. Spearman’s rank correlation
+coefficient was used to examine the relationships between
+carboxyhemoglobin levels and clinical variables.
+Univariate and multivariate nominal logistic regression
+was performed to examine the relationships between patient prognosis and the level of carboxyhemoglobin,
+troponin I, and ECG parameters.
+Additionally, ROC curve analysis was performed on
+these data, while the cut-off values were calculated using
+the Youden index. A value of P < 0.05 was considered to
+be statistically significant.
+Results
+Patients
+Altogether, 70 patients (42 men, 28 women; mean age
+52 ± 18 years) were included in the study, and their
+clinical characteristics are presented in Table 1. Two patients died after admission. Fifteen patients were diagnosed with encephalopathy either at or after discharge,
+whereas no patients exhibited cardiomyopathy at or after
+discharge.
+Correlation between carboxyhemoglobin and QT intervals
+The correlation between maximum QT intervals and the
+carboxyhemoglobin levels was not significant.
+Conversely, the correlation between the maximum QTc
+interval and the carboxyhemoglobin level was significant
+(P = 0.0072, R2 = 0.1017; Fig. 1), as were the relationships
+between QT dispersion and carboxyhemoglobin (P <
+0.001, R2 = 0.2358; Fig. 1) and the QTc dispersion and
+carboxyhemoglobin (P < 0.001, R2 = 0.2613; Fig. 1).
+Comparison between patients with and without a
+sequential disability
+Death, carbon monoxide encephalopathy, and cardiomyopathy at or after discharge were all considered
+to be sequential disabilities, although none of the
+patients in this study had cardiomyopathy. There
+were no differences in sex or age between patients with
+and without a sequential disability, while the number of
+patients taking tranquilizers of varying strengths or antidepressants and other drugs did not change either (Table 2).
+However, the maximum QT interval (p = 0.0269), the corrected maximum QT interval (p = 0.0002), the QT dispersion (p = 0.0003), and the corrected QT dispersion (p =
+0.0001) were significantly longer in patients who had a sequential disability (Table 2, Fig. 2). Troponin I levels in
+patients with a sequential disability were greater than
+in those who did not (Table 2, Fig. 2). There were
+also no differences in carboxyhemoglobin levels between patients with and without a sequential disability
+(Table 2, Fig. 2).
+Nominal logistic analyses
+The reference values for the maximum QTc interval,
+QTc dispersion, carboxyhemoglobin level, and troponin
+I level were established based on the Classification and
+Regression Tree.
+The univariate logistic analysis showed that the
+significant predictors of sequential disability were
+consciousness disorder on admission (P = 0.0078),
+QTc dispersion (> 46 ms; P = 0.0003), high levels of
+carboxyhemoglobin (> 44%; P = 0.0044), and a high
+Troponin I level (> 0.36 ng/ml; P = 0.0003; Table 3).
+Multivariate logistic analysis was performed on QTc
+dispersion, carboxyhemoglobin levels, and troponin I
+levels. This indicated that the significant predictors of
+sequential disability were QTc dispersion (P = 0.0042)
+and troponin I level (P = 0.0021; Table 3).
+ROC curve analysis was performed on QTc dispersion
+and troponin I levels (Fig. 3). The area under the curve
+was 0.789 for QTc dispersion and 0.780 for the troponin
+I levels. There was no significant difference between the
+two areas. The cut-off values were 45.6 ms for QTc dispersion and 0.12 ng/ml for the troponin I level.
+Discussion
+Carbon monoxide poisoning, a serious health problem,
+is associated with a high incidence of severe morbidity
+and mortality. It causes myocardial toxicity and lifethreatening arrhythmias. Carbon monoxide reduces the
+oxygen-carrying capacity of blood and binds with cardiac
+myoglobin, causing a rapid decrease in myocardial oxygen reserves [6]. Several studies have shown that carbon
+monoxide intoxication causes increased QT intervals
+and QT dispersions [6–8].
+This study showed that QTc dispersion and carboxyhemoglobin are significantly related. Furthermore, both
+QTc dispersion and troponin I are predictors of
+sequential disability.
+Correlation between carboxyhemoglobin and QT intervals
+The QT interval is an indicator of ventricular repolarization on the electrocardiogram. A prolonged QT
+interval reflects impaired myocardial refractoriness.
+QT dispersion reflects the physiological variability of
+regional ventricular repolarization. Increased QT dispersion is related to the heterogeneity of regional
+ventricular repolarization and is accepted as a marker
+for arrhythmia and sudden death [9]. Tanba et al. reported that the normal value of QTc dispersion in
+Japanese patients is 31 ± 11 ms [10].
+In this study, the QTc interval and QTc dispersion
+correlated with the carboxyhemoglobin level. Hanci
+et al. also reported that the QTc interval and QTc dispersion show good correlations with carboxyhemoglobin
+[11]. Increased QTc dispersion and interval in carbon
+monoxide toxicity might be caused by carbon monoxide
+on the myocardium, which causes homogeneous impulse
+formation in the ventricles.
+Relationship between the prognosis of patients with
+carbon monoxide toxicity and cardiac markers
+The univariate logistic analysis indicated that the
+predictors of sequential disability in patients with carbon monoxide toxicity were smoking, consciousness
+disorder, maximum QTc interval, QTc dispersion,
+carboxyhemoglobin, and troponin I. The multivariate
+analysis that was performed on QTc dispersion and
+on the levels of carboxyhemoglobin and troponin I
+revealed that QTc dispersion and troponin I were
+both significant predictors of sequential disability.
+Note that the multivariate analysis did not find that
+carboxyhemoglobin was related to a poor outcome.
+Furthermore, the areas under the curve were not significantly different.
+However, these indicators might be able to predict the
+prognosis of patients with carbon monoxide toxicity.
+Conversely, although the prognosis of patients with carbon monoxide toxicity depends on the length of exposure and its concentration, carboxyhemoglobin was not
+necessarily related to exposure time or the concentration
+of the carbon monoxide inhaled.
+Because patients with carbon monoxide toxicity
+usually receive treatment immediately after exposure,
+carboxyhemoglobin was not measured at its peak
+concentration.
+Hampson et al. found that the level of carboxyhemoglobin in the blood was a poor predictor of the
+clinical prognosis of patients with carbon monoxide
+poisoning [12].
+Moreover, mortality was associated with the absolute difference in carboxyhemoglobin [12]. Satran
+et al., however, reported that moderate-to-severe
+carbon monoxide poisoning causes myocardial injury when assessed by electrocardiography or biomarkers [5].
+Because carbon monoxide binds to hemoglobin with high
+affinity, exposure to carbon monoxide, even in low concentrations, profound tissue hypoxia [13, 14]. Thus, carbon
+monoxide might cause neurological injury and likely contribute to myocardial injury as well. Although there were no
+patients with cardiomyopathy at/after discharge in this
+study, the indices of myocardial injury could lead to neurological injury or even mortality. The mechanisms described
+influence this result. In this study, hyperbaric therapy was
+not found to be significant by the univariate logistic analysis.
+However, patients with severe symptoms as a result of
+serious carbon monoxide poisoning often receive hyperbaric therapy. Therefore, this result may be biased.
+Limitations
+The primary limitations of this study were the small
+sample population, single-center design, and retrospective nature. Additionally, because our subjects included
+patients who had deliberately as well as accidentally exposed themselves to carbon monoxide, several patients’
+exact exposure time could not be precisely calculated.
+Despite these limitations, the study may act as a good
+basis for further study of the topic. The findings must be
+confirmed in prospective, multicenter studies with larger
+populations.
+Conclusion
+The prognosis for patients with carbon monoxide poisoning may be predicted based on the QTc dispersion
+value and the troponin I level. Patients with myocardial
+damage should be monitored not only for their cardiovascular outcome but also for their neurological outcome and their prognosis.

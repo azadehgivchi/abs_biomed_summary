@@ -1,0 +1,21 @@
+Background: Crowdsourcing engages the help of large numbers of people in tasks, activities or projects, usually via
+the internet. One application of crowdsourcing is the screening of citations for inclusion in a systematic review.
+There is evidence that a ‘Crowd’ of non-specialists can reliably identify quantitative studies, such as randomized
+controlled trials, through the assessment of study titles and abstracts. In this feasibility study, we investigated crowd
+performance of an online, topic-based citation-screening task, assessing titles and abstracts for inclusion in a single
+mixed-studies systematic review.
+Methods: This study was embedded within a mixed studies systematic review of maternity care, exploring the
+effects of training healthcare professionals in intrapartum cardiotocography. Citation-screening was undertaken via
+Cochrane Crowd, an online citizen science platform enabling volunteers to contribute to a range of tasks
+identifying evidence in health and healthcare. Contributors were recruited from users registered with Cochrane
+Crowd. Following completion of task-specific online training, the crowd and the review team independently
+screened 9546 titles and abstracts. The screening task was subsequently repeated with a new crowd following
+minor changes to the crowd agreement algorithm based on findings from the first screening task. We assessed the
+crowd decisions against the review team categorizations (the ‘gold standard’), measuring sensitivity, specificity, time
+and task engagement.
+Results: Seventy-eight crowd contributors completed the first screening task. Sensitivity (the crowd’s ability to
+correctly identify studies included within the review) was 84% (N = 42/50), and specificity (the crowd’s ability to
+correctly identify excluded studies) was 99% (N = 9373/9493). Task completion was 33 h for the crowd and 410 h for
+the review team; mean time to classify each record was 6.06 s for each crowd participant and 3.96 s for review team
+members. Replicating this task with 85 new contributors and an altered agreement algorithm found 94% sensitivity
+(N = 48/50) and 98% specificity (N = 9348/9493). Contributors reported positive experiences of the task.

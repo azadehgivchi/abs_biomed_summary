@@ -1,0 +1,17 @@
+Background: The movement of firearm across state lines may decrease the effectiveness of state-level firearm laws.
+Yet, how state-level firearm policies affect cross-state movement have not yet been widely explored. This study
+aims to characterize the interstate movement of firearms and its relationship with state-level firearm policies.
+Methods: We analyzed the network of interstate firearm movement using Bureau of Alcohol, Tobacco, Firearms,
+and Explosives firearm trace data (2010–2017). We constructed the network of firearm movement between 50
+states. We used zero-inflated negative binomial regression to estimate the relationship between the number of a
+state’s firearm laws and number of states for which it was the source of 100 or more firearms, adjusting for state
+characteristics. We used a similar model to examine the relationship between firearm laws and the number of
+states for which a given state was the destination of 100 or more firearms.
+Results: Over the 8-year period, states had an average of 26 (Standard Deviation [SD] 25.2) firearm laws. On
+average, a state was the source of 100 or more crime-related firearms for 2.2 (SD 2.7) states and was the destination
+of 100 or more crime-related firearms for 2.2 (SD 3.4) states. Greater number of firearm laws was associated with
+states being the source of 100 or more firearms to fewer states (Incidence Rate Ratio [IRR] 0.58 per SD, p < 0.001)
+and being the destination of 100 or more firearms from more states (IRR1.73 per SD, p < 0.001).
+Conclusions: Restrictive state-level firearm policies are associated with less movement of firearms to other states,
+but with more movement of firearms from outside states. The effectiveness of state-level firearm-restricting laws is
+complicated by a network of interstate firearm movement.

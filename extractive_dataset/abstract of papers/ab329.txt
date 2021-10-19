@@ -1,0 +1,21 @@
+Background: Protein ubiquitylation is an important post-translational regulation, which has been shown to be
+necessary for life cycle progression and survival of Plasmodium falciparum. Ubiquitin is a highly conserved 76 amino
+acid polypeptide, which attaches covalently to target proteins through combined action of three classes of enzymes
+namely, the ubiquitin-activating enzyme (E1), ubiquitin-conjugating enzyme (E2) and ubiquitin-protein ligase (E3).
+Ubiquitin E1 and E2 are highly conserved within eukaryotes. However, the P. falciparum E3 ligase is substantially
+variable and divergent compared to the homologs from other eukaryotes, which make the E3 ligase a parasite-specific
+target.
+Methods: A set of selected E3 ubiquitin ligase inhibitors was tested in vitro against a chloroquine-sensitive P. falciparum
+D6 strain (PfD6) and a chloroquine-resistant P. falciparum W2 strain (PfW2). The inhibitors were also tested against Vero
+and transformed THP1 cells for cytotoxicity. The lead antimalarial E3 ubiquitin ligase inhibitors were further evaluated for
+the stage-specific antimalarial action and effects on cellular development of P. falciparum in vitro. Statistics analysis was
+done by two-way ANOVA followed by Tukey and Sidak multiple comparison test using GraphPad Prism 6.
+Results: E3 ligase inhibitors namely, JNJ 26854165, HLI 373 and Nutlin 3 showed prominent antimalarial activity against
+PfD6 and PfW2. These inhibitors were considerably less cytotoxic to mammalian Vero cells. JNJ 26854165, HLI 373 and
+Nutlin 3 blocked the development of P. falciparum parasite at the trophozoite and schizont stages, resulting in
+accumulation of distorted trophozoites and immature schizonts.
+Conclusions: Interruption of trophozoites and schizont maturation by the antimalarial E3 ligase inhibitors suggest the
+role of ubiquitin/proteasome functions in the intraerythrocytic development of malaria parasite. The ubiquitin/proteasome
+functions may be critical for schizont maturation. Further investigations on the lead E3 ligase inhibitors shall provide
+better understanding regarding the importance of E3 ligase functions in the malaria parasite as a potential new
+antimalarial drug target and a new class of antimalarial drug leads.

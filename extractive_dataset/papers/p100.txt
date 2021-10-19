@@ -1,0 +1,377 @@
+
+The Emergency Room (ER) remains one of the most utilised 
+areas for paediatric patients in healthcare institutions. 
+It continues to suffer from prolonged length of 
+stay, overcrowding and extended waiting hours, all of 
+which may lead to adverse events [1]. This is especially 
+the case in Saudi Arabia (SA), where the ER may still be 
+considered the main point of entrance to the healthcare 
+system [2]. 
+
+Paediatric ER visits vary worldwide. For example, in the 
+US, it comprised an estimated 20% of all ER visits. In SA, 
+children were reported to comprise 32.6% of all ER visits 
+in a tertiary hospital in the Capital city of Riyadh [3]. 
+
+The Canadian Triage and Acuity Scale (CTAS) has 
+been implemented in almost all tertiary care hospitals in 
+SA. The scale is used to manage and prioritise patients 
+according to the severity of their condition and is based 
+on five levels. It ensures that patients who are critically 
+ill or injured are attended to before the less ill or injured 
+patients [4]. The implementation of this system 
+highlighted the significant problem in which patients arrive 
+at the ER with non-urgent and mild conditions 
+where they would have been more appropriately seen by 
+a primary care physician. 
+
+According to recent research of one tertiary hospital 
+in SA, 78.5% of visits to the ER were of non-urgent cases 
+[5]. Another research which looked into three tertiary 
+hospitals in SA found that non-urgent cases comprised 
+53% of all ER visits and examining paediatric ER visits 
+specifically, non-urgent cases ranged between 35.9 and 
+59.5% [6, 7]. 
+
+This problem has been a focus of the government lead 
+by the Ministry of Health, in which an attempt has been 
+made to reform the healthcare system by including primary 
+healthcare services in its reform strategy for 2010– 
+2020. The strategy aimed at increasing the number and 
+quality of primary care centres including its preventive 
+services. Additionally, more programmes and initiatives 
+for the Saudi Vision 2030 focus on public health and primary 
+healthcare services [8]. 
+
+This study aims at assessing the characteristics of 
+paediatric ER visits, as well as estimating the rate of admissions 
+and its predictors in one large teaching hospital 
+in the Eastern Province of SA. 
+
+Methods 
+
+Study setting and design 
+
+Following ethical approval, we conducted this retrospective 
+study at King Fahd Hospital of the Imam 
+Abdulrahman Bin Faisal University in the Eastern 
+Province of SA. The Paediatrics’ ER contains 7 observation 
+beds, 2 examination rooms, 1 triage room, a waiting area, 
+and a minor surgical room. Major trauma cases are 
+treated in the resuscitation room (for both adults and 
+
+paediatrics). Paediatric ER is supported by pharmacy, radiology 
+services, and the ability to refer the patient for admission 
+as needed. The ER staff is made up of six qualified 
+paediatric emergency consultants, as well as eight paediatric 
+specialists devoted to emergency coverage. This is in 
+addition to rotating paediatric program residents in different 
+levels, one each month. The initial triage in the registration 
+area is done by a qualified nurse while the 
+paediatric ER triage is done by the assigned paediatric 
+nurse and the rotating residents. The ER staff work in 
+three shifts to cover the 24 h, these are the morning shift 
+
+(8:00 am-16:00 pm), the evening shift (pm 16:00–00:00 
+am), and the night shift (am 00:00–8:00 am). To cover the 
+needs in the morning and night shifts, there are two to 
+four physicians, and two to four nurses except for the 
+evening shift where there is a minimum of three physicians. 
+Some shifts also involve rotating interns and students 
+for training and teaching. 
+Study population 
+
+The study included all patients presented to the paediatric 
+ER, aged from 1 day to < 14 years old between the 1st 
+of January 2018 and the 31st of December 2018. According 
+to the hospital’s policy, the paediatric department is 
+responsible for patients who fall within this age range. 
+
+Data collection 
+
+A structured data collection sheet to collect data from 
+the patient’s electronic medical records was used. Data 
+included information about patient’s age, sex, season in 
+which the patient presented in, chief complaint – as reported 
+by the caregiver and categorised by the involved 
+system, which shift received the patient, and whether admission 
+to the hospital ward was ordered. These variables 
+were chosen based on the study objectives as well 
+as the literature and availability of the data. 
+
+Statistical analysis 
+
+The age groups were allocated as the following: neonates 
+(< 29 days), infants (29 days–1 year), toddlers (> 1 year–3 
+years), pre-schoolers (> 3 years–6 years), schoolers (> 6 
+years–12 years) and adolescents (> 12 years–14 years). 
+Nationality as: Saudis and non-Saudis. The time of visits 
+was grouped based on the season; Winter (December, 
+January, February), Spring (March, April, May), Summer 
+(June, July, August), and Autumn (September, October, 
+November). Shifts were divided into three groups: morning 
+(8:00 am-16:00 pm), evening shift (pm 16:00–00:00 
+am), and night shift (am 00:00–8:00 am). The chief complaints 
+were categorized according to the system involved. 
+The triage categories were according to the 
+CTAS implemented in the hospital, in which I is for resuscitation, 
+II for emergent, III for urgent, IV for less urgent, 
+and V for non-urgent [4]. Descriptive statistics 
+
+
+were presented as frequencies and percentages. The 
+main outcome was whether the patient was admitted to 
+hospital or not. The Chi-squared test was performed to 
+compute the P-values, and statistical significance was set 
+at P < 0.05. The Bonferroni adjustment was used to adjust 
+for multiple comparisons. Unadjusted and adjusted 
+Odds ratios (ORs) were drawn through multivariable 
+binary logistic regression, where the reference category 
+was the most frequent. The final model was chosen 
+based on appropriate model diagnostics. Statistical analysis 
+was performed in Stata Software 15 Software [9]. 
+
+Results 
+
+The total number of ER visits by paediatric patients was 
+46,374. The sociodemographic characteristics of patients 
+are presented in Table 1. The sample consisted of 55.4% 
+males and 44.6% females. The highest number of visits 
+belonged to the toddlers age group (32.0%), followed by 
+schoolers (24.9%). The smallest number of visits were 
+for the neonates (0.9%). Most patients were of the Saudi 
+nationality. 
+
+The ER characteristics of paediatric patients are presented 
+in Table 2. Of the total sample, only 2.5% of patients 
+were admitted. The highest number of complaints 
+recorded was for fever followed by respiratory symptoms 
+
+(27.0 and 24.9% respectively). With regards to triage, 
+only 0.02% were for triage I and 0.02% for triage II, 
+whereas triage IV and V made up 71.0 and 26.2% of the 
+visits. Most visits occurred in the evening shift and the 
+winter season had the highest rate of visits (31.9%). 
+When exploring the association between sociodemographic 
+characteristics and admissions, the age group 
+variable was found to be highly statistically associated 
+with admissions (P < 0.001). Analysing this further, 
+
+comparisons between all age groups were statistically 
+significant, except for adolescents with other age groups. 
+Further, the rate of admission was not found to be different 
+between males and females (Table 3). 
+
+Associations between ER visit characteristics and admission 
+are presented in Table 4. The presenting complaints, 
+triage and shifts were found to be highly 
+
+statistically associated with admissions at the P < 0.001 
+level. The Endocrine and Haematological complaints, as 
+well as triage group V, were found to have contributed 
+mostly to the high statistically significant p-value when 
+compared to other groups following multiple comparison 
+testing. For shifts, the only statistical difference was 
+found for the comparison between the evening and the 
+morning shift (Bonferroni adjusted p-value < 0.001). No 
+significant association was observed for the season. 
+
+The unadjusted and adjusted ORs of admissions in relation 
+to the sociodemographic and ER visit characteristics 
+are presented in Table 5. The analysis shows that before 
+and after adjusting for other variables, there is higher odds 
+of admission for both neonates and infants, although the 
+risk is almost fourfold for neonates (Adjusted OR = 3.85, 
+95%CI = 2.57–5.76 and Adjusted OR = 1.89, 95%CI = 1.56– 
+
+2.28 respectively). With regards to the complaint, the highest 
+odds of admission were for haematological illnesses 
+both before and after adjustment, followed by endocrinal 
+conditions when compared to fever which is statistically 
+significant. In comparison with triage IV, triage I had a 
+19.02 OR for admission, followed by triage II (OR = 10.66, 
+95%CI = 1.98–57.23). Triage V had the lowest odds of admission 
+both before and after adjustment and was statistically 
+significant (Adjusted OR = 0.30, 95%CI = 0.23–0.38). 
+Morning shifts were associated with a relatively high odd of 
+admission, although they were not significant after adjustment, 
+and neither were the seasons of the visit. 
+Figure 1 shows the number of admissions by month of 
+visits. It can be seen that the lowest numbers of admission 
+were during July and August, whereas the highest 
+were for January, February and March. 
+
+
+Discussion 
+
+This study supports the evidence that paediatric ERs are 
+very much being used by patients as the first point of 
+contact with the healthcare system, rather than visiting 
+their local primary health care physician. This is a problem 
+which should have eased with the current governmental 
+initiative in promoting the use of primary 
+healthcare. 
+
+
+aDental category dropped in regression analyses due to zero counts 
+
+
+Characteristics of paediatric ER visits 
+
+Within this data, it was found that the most common 
+paediatric age group was for toddlers aged between 1 < 
+3 years. Similar distributions have been found in other 
+paediatric ERs in the US [10], Lebanon [11], and in another 
+Saudi hospital located at the capital city of Riyadh 
+[12]. Toddlerhood is a critical period where children 
+start crawling, walking, learning to run, climbing, and 
+jumping. Therefore, they may be prone to accidents or 
+minor injuries. Moreover, the least common age group 
+in our data were neonates, which is in sharp contrast to 
+data from Pakistan which found that neonates had the 
+highest rate of visits [13]. Cultural differences may have 
+played a role where mothers attempt to treat theirs infants 
+with herbal medicines or over the counter medications 
+when they display certain symptoms such as infantile colic 
+rather than presenting their child to a doctor [14]. 
+
+Fever was the highest presenting complaint in our 
+data. This is similar to other studies in Thailand and 
+Lebanon [11, 15]. Fever is a general complaint and may 
+be a sign of a wide spectrum of illnesses which may explain 
+how it became the most common presenting complaint. 
+Like the Thailand study [15], respiratory 
+symptoms were the second most common complaint, 
+which usually presents in the form of coughing, sneezing 
+and difficulty in breathing. Such symptoms may be 
+brought by air pollution, second-hand smoking or more 
+strongly by changes in weather. Indeed, our findings 
+show that weather has been found to play a role in the 
+rates of ER visits. The highest number of visits were 
+found to be during the winter, in November and December, 
+but more specifically in January. Higher winter visits 
+are mainly due to the common viral infections occurring 
+
+
+in this period such as bronchitis, viral upper respiratory 
+tract infections as well as complicated viral infections 
+superimposed with bacterial infections. On the other 
+hand, the summer season had the lowest number of 
+visits. Prior to the COVID-19 epidemic, families tend to 
+travel abroad during this season [16]. Other studies have 
+also found similar patterns to that of our analysis both 
+locally and internationally [12, 15]. Two Saudi studies, 
+one based in Riyadh (1997) and the other in the Eastern 
+region (2007), have found that non-urgent cases belonging 
+to triage IV and V comprised between 35.9 and 
+59.5% of ER visits [6, 7]. Although, these two studies 
+have been published a long time ago, the issue remains 
+persistent and is worsening. Approximately two thirds of 
+our patients were classified in Triage category IV, indicating 
+they are non-urgent cases which may have been 
+better dealt with in a primary care setting. To date, parents 
+and patients in general in SA still prefer to seek 
+medical services in the ER. Possible explanations may 
+have to do with a lack of knowledge of a primary care 
+centre near their home, long appointment hours in the 
+primary care centre, dissatisfaction with the primary care 
+physician, accessibility issues or even a perception that 
+the condition is urgent and warrants medical attention 
+straight away [5, 17, 18]. The management of such non-
+urgent cases in the ER increases the burden on the ER 
+staff which may subsequently affect the quality of care 
+that should be reserved for the high priority cases. 
+
+Admissions and their associated factors 
+
+The admission rate of paediatric ER cases in this study was 
+2.45%. It is similar to the 3.3% rate of admission reported in 
+the US [19], but much smaller than that reported in 
+
+
+Lebanon, South Korea, and Pakistan, where the rates were 
+reported to be 9.8, 14.3 and 45% respectively [11, 13, 20]. A 
+systematic review by Obermeyer et al. (2015) assessed 
+emergency care in low and middle-income countries and 
+found that the median paediatric admission rate was 22% 
+[21]. Comparing it with the admission rate from this study 
+further emphasizes the role of primary care centres in accommodating 
+the vast majority of patients presenting in 
+the ER. Similar to the South Korean study [20], we found 
+no significant differences in admission rates between males 
+and females. 
+
+Unlike studies conducted in the US, Lebanon, Pakistan 
+and Egypt, analyses here have shown that the neonate 
+age group had the highest odds of admission, even 
+though they were the smallest number with regards to 
+ER visits [11, 13, 22, 23]. Differences in rates may be attributed 
+to the different disease prevalence in these 
+countries which may be affected by genetics, accessibility 
+and the type of healthcare provided in hospitals. A further 
+explanation to the higher odds of admission of neonates 
+could be related to the hospital regulations and 
+protocols to rule out neonatal sepsis [24]. 
+
+Haematological conditions also had the highest odds 
+of admissions. The Saudi population, especially those 
+residing in the Eastern Province, which this data is derived 
+from, are known to have a high prevalence of 
+sickle cell disease (SCD) in children [25]. The prevalence 
+of genetic haematological diseases in SA may be lowered 
+by educating new prospective couples and enforcing recommendations 
+by premarital counselling, as they are yet 
+to be obligatory. Our data contrasts with that of Pakistan 
+and Nigeria, where respiratory complaints had the highest 
+rate of admissions [13, 26]. In Lebanon, complaints 
+related to cardiology were the highest [11]. 
+
+Furthermore, Triage I was associated with the highest 
+odds of admission in these patients. Similar patterns 
+were found in a US study, although the Emergency Severity 
+Index level was used rather than CTAS [27]. Triage 
+V was associated with lower odds of admission, 
+which again highlights that the ER may suffer from overcrowding 
+due to the presentation of non-urgent cases. 
+
+Neither the shift nor the season of the paediatric patients 
+visiting the ER had any association with the rates 
+of admission. It may be of notice that Spring, Autumn 
+and Summer, despite their non-statistical significance, 
+did show lower odds of admission when compared to 
+Winter. In Australia, high and low temperatures were 
+significantly associated with an increase in paediatric ER 
+admissions [28], this was also noted in the UK [29]. 
+Higher admission rates in low temperatures may be explained 
+by children being more prone to cold weather 
+viruses that could subsequently cause bronchiolitis in 
+under 2 years olds and ultimately lead to an increased 
+ER admission [30]. 
+
+ 
+
+Several limitations with this study have been identified. 
+The study is based on retrospective medical records 
+drawn from a single healthcare institution, which may 
+compromise the generalisability of the results. Also, despite 
+the large number of data, some confidence estimates 
+were wide which may be due to the extremely small 
+number of cases within cells. 
+
+Conclusion 
+
+This study examined paediatric ER visits at a large 
+teaching hospital in the Eastern Province of SA. It 
+showed that the admission rate of ER visits is extremely 
+low. It also showed that neonates, patients with haematological 
+conditions and patients classified as triage I 
+had the highest odds of admission. However, patients 
+classified as triage V had lower odds of admission. Clear 
+guidance should be used to inform patients and parents 
+of the proper process for seeking medical assistance, as 
+well as ensuring more accessibility to primary health 
+care centres. Moreover, further analysis focused on the 
+predictors identified in this research is highly recommended 
+to inform hospital administrators of potential 
+minor changes that could lead to significant reduction in 
+the over utilisation of the ER. 

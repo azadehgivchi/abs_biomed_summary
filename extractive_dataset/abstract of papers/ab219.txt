@@ -1,0 +1,15 @@
+Background: Assessing the quality of healthcare data is a complex task including the selection of suitable measurement
+methods (MM) and adequately assessing their results.
+Objectives: To present an interoperable data quality (DQ) assessment method that formalizes MMs based on standardized
+data definitions and intends to support collaborative governance of DQ-assessment knowledge, e.g. which
+MMs to apply and how to assess their results in different situations.
+Methods: We describe and explain central concepts of our method using the example of its first real world application
+in a study on predictive biomarkers for rejection and other injuries of kidney transplants. We applied our open
+source tool—openCQA—that implements our method utilizing the openEHR specifications. Means to support collaborative
+governance of DQ-assessment knowledge are the version-control system git and openEHR clinical information
+models.
+Results: Applying the method on the study’s dataset showed satisfactory practicability of the described concepts
+and produced useful results for DQ-assessment.
+Conclusions: The main contribution of our work is to provide applicable concepts and a tested exemplary open
+source implementation for interoperable and knowledge-based DQ-assessment in healthcare that considers the need
+for flexible task and domain specific requirements.

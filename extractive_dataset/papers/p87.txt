@@ -1,0 +1,516 @@
+Background
+Atrial fibrillation (AF) is the most common type of sustained
+cardiac arrhythmia, and its prevalence rises with
+age, with about 18% of patients older than 80 years being
+affected [1]. Nonvalvular AF (NVAF) is strongly associated
+with increased morbidity and mortality related to
+ischemic stroke and systemic thromboembolism [2, 3].
+The risk of stroke in AF patients is about fivefold higher
+than in the non-AF population [4], and AF-related strokes
+are generally more severe, with increased risk of death
+and disability compared to strokes from other causes
+[5]. Elderly patients with AF are at higher risk of stroke
+than younger AF patients [6, 7]. Indeed, age ≥ 75 years is
+a significant risk factor comparable to a history of stroke
+for the assessment of stroke risk by the CHA2DS2-
+VASc
+score [8]. Prevention of stroke is therefore imperative in
+AF patients, particularly in elderly patients.
+Oral anticoagulation (OAC) with vitamin K antagonists
+(VKA) has traditionally been the mainstay for stroke prevention
+in AF based on the robust clinical evidence of
+their efficacy in preventing stroke or systemic embolism
+and reducing mortality [9]. However, VKAs have several
+known limitations, including the risk of major bleeding
+complications, especially intracranial hemorrhage, many
+food and drug interactions, and the need for frequent
+coagulation monitoring due to their narrow therapeutic
+window. Direct-acting oral anticoagulants (DOACs)
+targeting thrombin or factor Xa emerged as a welcome
+addition for stroke prevention in AF. These agents have
+predictable pharmacodynamic effects, allowing fixed
+dosing without the need for anticoagulation monitoring
+[10]. DOACs, such as rivaroxaban, dabigatran, apixaban
+and edoxaban, have demonstrated to be noninferior to
+warfarin in stroke prevention without an increased risk
+of major bleeding [11–15]. Based on their favorable efficacy,
+safety profile and convenience of use, DOACs are
+recommended over VKAs for stroke prevention in most
+patients with NVAF [16].
+Adequate selection of antithrombotic therapy for
+stroke prevention is critical for improving the clinical
+outcome of patients with NVAF. Several clinical practice
+guidelines have been developed to guide the management
+of AF patients, providing clinicians with recommendations
+on individualization of treatment based on
+the patient’s characteristics [16, 17]. However, the implementation
+of guideline recommendations in routine clinical
+practice may be suboptimal. OAC is still underused
+in AF patients who are at high risk of stroke, and many
+patients are instead treated with antiplatelet agents or do
+not receive antithrombotic treatment [18, 19]. Accordingly,
+despite the higher risk of stroke and bleeding in
+elderly NVAF patients [20], anticoagulation has been
+traditionally underused in this population mainly due to
+the high frequency of associated comorbidities, including
+cardiovascular and kidney disease, multiple drug therapy,
+and concerns about cognitive impairment and risk of falls
+and bleeding [21].
+To date, limited data are available on the clinical management
+of NVAF patients, particularly in those patients
+attended in the internal medicine setting, where these
+patients are typically managed. There is therefore a need
+to identify current therapies used for stroke prevention
+and the factors that may guide the selection of treatment
+in the real-world setting. A better understanding of treatment
+patterns and factors potentially influencing treatment
+strategy is crucial to know whether clinical practice
+is in line with treatment recommendations of the current
+guidelines. Knowledge about the clinical management
+of patients with NVAF in clinical practice may improve
+OAC utilization for stroke prevention and outcomes.
+Based on this background, we conducted a cross-sectional
+study to describe the demographic, functional, and
+clinical characteristics of patients with NVAF attending
+internal medicine departments in Spanish hospitals
+and the potential factors associated with antithrombotic
+treatment patterns.
+Methods
+Study design and patients
+A multicenter, cross-sectional observational study was
+conducted in internal medicine departments from 93
+hospitals distributed across Spain.
+Eligible patients were consecutive adult patients
+(aged ≥ 18 years) diagnosed with NVAF (defined as the
+rhythm disturbance occurring in the absence of rheumatic
+mitral stenosis or a prosthetic heart valve) who
+attended the internal medicine departments either for a
+routine visit (outpatients) or hospitalization (inpatients)
+for any reason during the 9-month enrolment period.
+Patients were selected on the basis of the information
+recorded in the medical charts. The patients must have
+been diagnosed with NVAF before the study inclusion,
+and disease-related data (type of NVAF, disease duration,
+etc.) was collected from medical charts. Patients currently
+receiving anticoagulant therapy for venous thromboembolism
+and patients participating in a clinical trial
+with anticoagulant or antiplatelet agents in the previous
+six months were excluded.
+A cross-sectional chart review was performed to collect
+patients’ sociodemographic, functional and clinical data,
+as well as treatment-related data. The social, functional,
+and cognitive status of patients was also assessed through
+face-to-face interviews with patients at the time of the
+study visit (cross-sectional evaluation). Cognitive impairment
+was evaluated using the Pfeiffer questionnaire [22,
+23], and data on functional disability assessed using the
+Barthel index [24] was collected. Patient comorbidity
+was measured by using the Charlson comorbidity index
+[25] (absent of comorbidity: score = 0–1; low comorbidity:
+score = 2; severe comorbidity: score ≥ 3). The
+PROFUND index score [26] was calculated to estimate
+one-year mortality risk as follows: low-risk (12.1–14.6%)
+for a score of 0–2, low-intermediate risk (21.5–31.5%)
+for a score of 3–6, intermediate-high risk (45–50%) for a
+score of 7–10, and high-risk (61.3–68%) for a score ≥ 11.
+Physician’s estimation of the patient’s life expectancy (< 6
+or ≥ 6 months) was also assessed. The risk of ischemic
+stroke and bleeding was assessed by CHA2DS2-
+VASc
+score [8] and HAS-BLED score [27], respectively.
+The independent ethics committee of La Princesa University
+Hospital (Madrid, Spain) approved the study. All patients
+gave their written informed consent before their inclusion in
+the study. The study was carried out in accordance with the
+Declaration of Helsinki and Good Clinical Practice Guidelines
+and applicable regulatory requirements.
+Statistical analysis
+In order to describe the demographic, functional, and
+clinical characteristics of patients on each antithrombotic
+treatment approach, patients included in the
+study were categorized into five groups according to the
+antithrombotic therapy used for their clinical management
+as follows: no treatment, VKAs (acenocumarol or
+warfarin), DOACs (apixaban, rivaroxaban or dabigatran),
+antiplatelet drugs (aspirin and/or other antiplatelets),
+and antiplatelet plus anticoagulant drugs. Only patients
+who fulfilled the eligibility criteria and could be categorized
+in any of these treatment groups were considered
+as evaluable for the study analysis. A descriptive analysis
+of the characteristics of each treatment group was performed
+using measures of central tendency and dispersion
+(mean [± standard deviation], median [interquartile
+range]) for quantitative variables, and counts and percentages
+for qualitative variables. The Kolmogorov–
+Smirnov test and the Shapiro–Wilk test were used for
+checking normality of data. The Kruskal–Wallis test was
+used to compare continuous non-parametric variables
+and the ANOVA to compare continuous parametric variables.
+The Chi-square or Fisher’s exact test was used for
+comparison of categorical variables.
+Stepwise binary logistic regression analyses were conducted
+to assess the potential factors associated with the
+use of specific treatment strategies whose comparison is
+of clinical relevance. Thus, factors associated with OAC
+(VKAs, DOACs, or any OAC plus antiplatelet therapy)
+versus antiplatelet therapy and with VKAs versus DOACs
+were assessed. Clinically relevant variables and those
+with a p < 0.2 were included in each multivariate model
+with stepwise selection to determine independent factors
+associated with each treatment strategy used for clinical
+management. Odds ratio (OR) and 95% confidence interval
+(95% CI) were calculated.
+All analyses were performed using the Statistical Package
+for the Social Sciences (SPSS) version 18.0 (SPSS Inc.,
+Chicago, IL, USA).
+Results
+Patients and treatment
+A total of 1000 patients from 93 hospitals distributed
+across Spain were enrolled in the study from March to
+October 2015. Thirteen patients were excluded from the
+analysis, as they did not meet at least one inclusion criteria.
+Therefore, a total of 987 patients were included in the
+study analysis. A total of 26 patients could not be categorized
+in any of the five treatment groups. As a result, 961
+patients were evaluable for the study analysis (Fig. 1).
+Most patients received antithrombotic treatment
+(> 95%). Overall, 88.7% of patients received OAC (VKAs,
+DOACs, or any OAC plus antiplatelet therapy). The
+majority of patients were treated with VKAs (nearly 60%
+of patients), and DOACs were received by less than onequarter
+of patients. Antiplatelet therapy alone was used
+in less than 7% of patients, and OAC plus antiplatelet
+therapy was received by nearly 8% of patients (Fig. 1).
+Demographic and functional characteristics, morbidity
+and life expectancy
+The demographic and functional characteristics, morbidity
+and life expectancy of patients according to the
+antithrombotic treatment strategy are shown in Table 1.
+The median age of patients was 81 years, with similar
+proportions of male and female patients. Most patients
+were not institutionalized (> 90%) and had no cognitive
+impairment according to the Pfeiffer questionnaire
+(> 60% of patients in all groups). About 65% of patients
+were not dependent on assistance for activities of daily
+living (ADLs). The median Charlson comorbidity index
+score was 7 (high comorbidity). Most patients (90%) had
+a life expectancy ≥ 6 months according to the investigator’s
+estimation.
+Compared with autonomous patients, non-autonomous
+patients were older (84 [80–88] vs. 78 [72–83]
+years; p < 0.001), predominantly female (62.3% vs. 43.7%;
+p < 0.001), and with higher risk of stroke and bleeding
+according to CHA2DS2-
+VASc (5.6 ± 1.5 vs. 4.4 ± 1.5;
+p < 0.001) and HAS-BLED (3.4 ± 1.1 vs. 2.8 ± 1.1;
+p < 0.001) scores. Similarly, patients with cognitive
+impairment had a more advanced age (83 [79–88] vs.
+79.0 [73–84] years; p < 0.001), were mostly women (61.2%
+vs. 45.1%; p < 0.001), and had higher CHA2DS2-
+VASc
+(5.2 ± 1.6 vs. 4.6 ± 1.6; p < 0.001) and HAS-BLED
+(3.1 ± 1.2 vs. 2.9 ± 1.1; p < 0.001) scores compared with
+patients without cognitive impairment. Additionally, the
+median age of patients with < 4 comorbidities was 64 (54–
+67) years while it was 81 (75–86) years in patients with ≥ 4
+comorbidities (p < 0.001) in whom CHA2DS2-
+VASc and
+HAS-BLED scores were higher (vs. < 4 comorbidities)
+(
+CHA2DS2-VASc: 4.9 ± 1.5 vs. 1.9 ± 1.0; p < 0.001; HASBLED:
+3.1 ± 1.1 vs. 1.2 ± 1.0; p < 0.001). Patients with a
+life expectancy < 6 months (vs. ≥ 6 months) were older
+(86 [81–91] vs. 80 [74–85] years; p < 0.001) and with
+higher CHA2DS2-
+VASc (5.3 ± 1.6 vs. 4.7 ± 1.6; p < 0.001)
+and HAS-BLED (3.5 ± 1.2 vs. 2.9 ± 1.1; p < 0.001) scores.
+The differences in sociodemographic and functional
+characteristics, morbidity and life expectancy between
+the patients undergoing different antithrombotic treatment
+strategies are shown in Table 1. There were statistically
+significant differences in terms of age and
+educational level between the different treatment groups.
+Significant differences in functional characteristics (institutionalization,
+dependence in ADLs, and functional disability
+measured by the Barthel index) were also observed
+between the different treatment groups except in terms
+of cognitive impairment. In addition, there were statistically
+significant differences in estimated prognostic characteristics,
+including comorbidity (Charlson comorbidity
+index score), 1-year mortality risk (PROFUND index)
+and life expectancy (investigator’s clinical judgment)
+among the patients treated with the different antithrombotic
+treatment strategies.
+Clinical characteristics
+Clinical characteristics according to the antithrombotic
+treatment strategy are shown in Table 2. Most patients
+were diagnosed with permanent NVAF (70%), with a
+median time since diagnosis of over four years. The most
+common comorbidities were hypertension (90%), congestive
+heart failure (CHF) (54%), renal disease (43%),
+and diabetes mellitus (40%). A history of bleeding was
+present in less than 15% of patients.
+The vast majority of patients had high thromboembolic
+risk according to the CHA2DS2-
+VASc score (≥ 2), with
+more than 45% of patients with a score ≥ 5 in all treatment
+groups. Most patients (> 60%) had a HAS-BLED
+score ≥ 3.
+The differences in clinical characteristics between
+the patients undergoing different antithrombotic treatment
+strategies are shown in Table 2. There were statistically
+significant differences in the type of NVAF
+and the median time since diagnosis among treatment
+groups. Cardiovascular history also differed among
+the patients treated with each antithrombotic therapy
+except for CHF. No significant differences were found
+in the percentage of patients with high thromboembolic
+risk (
+CHA2DS2-VASc ≥ 2) who were treated with
+each antithrombotic therapy. However, the percentage
+of patients with high hemorrhagic risk (HAS-BLED) differed
+significantly by treatment strategy (p < 0.001).
+Factors associated with antithrombotic treatment patterns
+The results of the multivariate analysis performed to
+identify the independent factors associated with the use
+of OAC versus antiplatelet therapy and of DOACs versus
+VKAs are summarized in Table 3.
+Factors associated with the use of OAC versus antiplatelet
+therapy
+The presence of CHF (OR, 2.084) and permanent NVAF
+(OR, 4.122) was associated with preferential use of OAC
+over antiplatelets, while intermediate- to high-mortality
+risk according to the PROFUND index (vs. low mortality
+risk) (OR, 0.455; 0.144, and 0.133 respectively) was
+associated with a higher likelihood of using antiplatelet
+therapy alone instead of OAC.
+Factors associated with the use of DOACs versus VKAs
+Factors significantly associated with the use of VKAs over
+DOACs were longer time since diagnosis (OR, 1.045) and
+institutionalization (OR, 7.744). However, female gender
+(vs. male), secondary or university or higher studies, and
+having suffered a stroke/transient ischemic attack (OR,
+0.591) were factors associated with preferential use of
+DOACs.
+Discussion
+The present study assessed the demographic, functional,
+and clinical characteristics associated with antithrombotic
+treatment patterns in a large real-life population
+of patients with NVAF. The median age of patients was
+about 80 years, and most patients had permanent NVAF,
+with a median disease duration of over four years. As
+expected, this elderly population had a high comorbidity
+burden, particularly cardiovascular risk factors and
+disease, a very high thromboembolic risk and a moderate
+to high risk of bleeding. Most patients were autonomous
+and had no cognitive impairment. Patients with
+worse functional status and worse prognosis in terms of
+survival were those with more advanced age and with a
+higher risk of stroke and bleeding.
+Despite being a population comprised of elderly
+patients with a high comorbidity burden, we found
+that the vast majority of patients (95%) were receiving
+antithrombotic treatment due to their high thromboembolic
+risk. Most patients received VKA treatment
+(60%) while DOACs were given in less than one-quarter
+of patients. Of note, antiplatelet therapy alone was prescribed
+in less than 7% of patients with NVAF in routine
+clinical practice.
+Older age is a common reason given for not prescribing
+anticoagulation [20, 28]. Thus, the high use of
+OAC shown in this real-world analysis (88%) was especially
+interesting, since 75% of patients were older than
+75 years and 30% of patients were aged ≥ 85 years. This
+study has therefore highlighted that age alone was not
+considered as a contraindication for anticoagulation.
+The underuse of OAC in elderly patients is mainly due
+to overestimation of the risk of bleeding in these patients
+[29]. However, the benefit of stroke prevention outweighs
+the potential increased risk of bleeding in these patients
+[30, 31], in whom a higher net clinical benefit has been
+demonstrated compared to the younger population due
+to their higher thromboembolic risk [32]. We found a
+substantial increase in the use of OAC in elderly patients
+compared to prior studies conducted in octogenarian AF
+patients in Spain, where only half of the patients received
+anticoagulation [33]. This difference may suggest changes
+in physicians’ perceptions of the benefits and risks of
+OAC for older NVAF patients based on the available
+evidence demonstrating its benefit in this population [20,
+34].
+Of note, the percentage of patients who received no
+antithrombotic treatment in our series (4.7%) was similar
+to that previously reported in the European population of
+the GLORIA-AF registry (4.1%) [35]. However, compared
+to other European studies, our analysis showed a significantly
+lower proportion of untreated patients [36, 37]. A
+higher rate of untreated patients has also been reported
+among elderly patients in the internal medicine setting in
+Spain (13.8%) [38].
+Although a history of prior bleeding has traditionally
+been associated with anticoagulation under-prescription
+in elderly patients [39], bleeding history was not identified
+as a factor contributing to anticoagulation underuse
+in our study. Indeed, a high HAS-BLED score should not
+be a reason for non-prescription of anticoagulation but
+rather a tool to identify and control modifiable bleeding
+risk factors to reduce the risk of bleeding [40, 41].
+Antiplatelet therapy has traditionally been used instead
+of anticoagulation to prevent the risk of bleeding despite
+the demonstrated greater efficacy of anticoagulant treatment
+over antiplatelet agents without increasing major
+bleeding [42]. Nevertheless, we found that the use of antiplatelet
+therapy alone (7%) was notably lower than that
+previously reported in primary care (20%) [43]. Interestingly,
+antiplatelet therapy users were less frequent compared
+to prior national studies in elderly inpatients (about
+18%) [38, 44]. Indeed, we found that compared to outpatients,
+the proportion of hospitalized patients receiving
+antiplatelet therapy was higher, probably because these
+patients are more likely to have frailty and more comorbidity
+compared to outpatients and thus may not be considered
+optimal candidates for anticoagulation [28].
+Of note, institutionalized patients and those with total
+or partial dependence for daily activities, who were older
+and with higher thromboembolic and bleeding risk, were
+primarily treated with antiplatelets, which were also preferentially
+used in patients with functional disability and
+worse prognosis. These findings, therefore, suggest that
+there might be functional and prognostic factors driving
+the selection of antiplatelet therapy alone over OAC.
+Indeed, the univariate analysis showed that institutionalization,
+dependence for daily activities, 1-year mortality
+risk assessed by the PROFUND index, and life expectancy
+(physician’s clinical judgment) were factors significantly
+associated with preferential use of antiplatelet
+therapy over OAC. However, among these factors, only
+1-year mortality risk was retained in the multivariate
+model, which showed that poor prognosis (intermediate
+or high risk) was a factor contributing to OAC non-prescription
+in favor of antiplatelet therapy alone.
+This real-world assessment has also highlighted that
+the type of NVAF appears to be a factor that has played
+an essential role in the underuse of OAC in NVAF. In this
+regard, we found that patients with paroxysmal NVAF
+were more likely to receive antiplatelet therapy alone
+instead of OAC compared to patients with permanent
+NVAF in line with prior reports [1, 35, 45]. The underuse
+of OAC in favor of antiplatelet therapy in patients
+with paroxysmal NVAF could be due to the perception
+of a lower thromboembolic risk associated with this type
+of NVAF [46]. However, contrary findings regarding its
+impact on thromboembolic risk have been reported [47,
+48]. Nevertheless, according to current guidelines [16],
+the decision concerning antithrombotic therapy should
+be based on the patient’s risk of stroke and bleeding,
+regardless of the type of NVAF.
+Regarding the type of OAC, we found that a significant
+proportion of patients still received VKAs over DOACs
+despite guideline recommendations [16]. The use of
+DOACs among patients receiving OAC (24.4%) was similar
+to that reported in Spanish studies conducted at the
+regional level during 2015 (24%) and 2011–2014 (25%)
+[49] and the nationwide FANTASIIA registry (22%) [50].
+Thus, a substantial proportion of Spanish NVAF patients
+who could benefit from DOACs did not receive them, as
+recognized by experts [51]. In addition, the preference for
+VKAs over DOACs may be due to the lack of available
+targeted DOAC reversal agents for patients with bleeding
+at the time of the study. Moreover, the prescription
+of DOACs can be challenging in Spain due to the restrictions
+for their use stated in the national Therapeutic
+Positioning Report (TPR) [52] and the different administrative
+requirements of the Spanish Autonomous Communities.
+This study also found that the use of DOACs in
+Spain is still far behind other European countries, where
+an overall rate of DOAC prescription of approximately
+50% [35] has been reported. However, geographical
+differences have been found in prescription patterns [36,
+53, 54].
+We found that neither the functional characteristics
+nor the prognosis (PROFUND index) or morbidity were
+associated with the use of DOACs. Nevertheless, preferential
+use of VKAs over DOACs was found among
+institutionalized patients, probably due to a more controlled
+environment which may enhance VKA treatment
+adherence and might avoid unacceptable risks derived
+from poor anticoagulation control. There appear to be
+sociodemographic factors driving DOAC selection, such
+as gender and educational level. Thus, educational level
+was identified as an independent factor associated with
+the use of DOACs, with a preference of these agents over
+VKAs in more educated patients, probably also with a
+higher income, in line with prior reports [55]. This may
+be explained by better access of patients with a high educational
+level to the available information on new oral
+anticoagulants, which may influence treatment decision
+for stroke prevention. In addition, patients with longer
+disease duration were also more likely to receive VKA
+therapy over DOACs probably because prescription of
+DOACs may have only increased over the past few years
+due to current guidelines recommendation [16]. A prior
+history of stroke was also associated with a higher likelihood
+of receiving DOACs according to the European recommendations
+[16].
+DOAC prescription has been traditionally limited by
+renal function, especially in elderly patients whose renal
+function is often unstable and affected by concomitant
+comorbidities and hospitalizations [56, 57]. However,
+abnormal renal function was not identified as a factor
+contributing to DOAC non-prescription, in contrast to
+other reports in the primary care setting [49]. Indeed,
+renal impairment should not be a limitation to DOAC
+prescription and reduced dose regimens of DOACs are
+approved for use in moderate and severe chronic kidney
+disease.
+The main limitations of this study are due to the
+research design. This was a cross-sectional study which
+included a mixed incident and prevalent NVAF population;
+new starters and switchers from antithrombotic
+therapy, who were selected from a large sample of hospitals
+in Spain. However, it is noteworthy that this study did
+not aim to focus on treatment patterns, such as switching
+or discontinuation. In addition, we must take into
+account the obvious limitations of a retrospective chart
+review that uses patients’ data already recorded in the
+medical charts for reasons other than research, including
+incomplete or unrecorded information. A further
+limitation that should be acknowledged is the unequal
+number of patients in each group defined by the therapeutic
+strategy used for NVAF management. However,
+we should note that these groups were created according
+to clinical practice, given that patients could be receiving
+any treatment for NVAF when they were included
+in the study. Indeed, this study did not aim to assess the
+differences between these groups, and the comparisons
+made between them are exploratory and descriptive.
+Despite these limitations, this study provides valuable
+real-world data on the profile and treatment patterns of
+NVAF patients and grounds for discussion on whether
+antithrombotic treatment strategies are in line with
+guideline recommendations. Thus, the findings obtained
+in this analysis may be used to identify critical issues
+that should be improved in the management of NVAF
+patients, which might optimize patient care and outcomes.
+The strengths of this study include a highly representative
+population of non-selected elderly patients with
+NVAF in clinical practice, including inpatients and outpatients,
+attended in the internal medicine departments
+of more than 90 hospitals distributed homogeneously
+throughout the country. To our knowledge, this is the
+first and the most extensive study to assess the real-world
+characteristics of NVAF patients according to antithrombotic
+treatment after approval of DOACs in the internal
+medicine setting in Spain.
+Conclusion
+This study showed that the vast majority of elderly
+patients with NVAF, with high comorbidity burden and
+high thromboembolic risk, received OAC in the realworld
+setting, with VKAs as the most frequently prescribed
+treatment, while DOACs remained underused.
+Longer duration of AF and institutionalization were
+identified as determinants of VKA use over DOACs.
+Antiplatelet therapy was still offered to a proportion of
+patients. A poor prognosis according to the PROFUND
+index was identified as a factor preventing the use of
+OAC.

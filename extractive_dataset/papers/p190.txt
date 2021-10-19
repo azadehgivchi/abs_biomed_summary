@@ -1,0 +1,638 @@
+Introduction
+Rationale
+Over the past two decades cannabis use and dependence
+are estimated to have increased, with cannabis
+use disorder (CUD) reported as one of the most common
+drug use disorders globally [1]. In Canada, it has
+been reported that nearly 17 percent of Canadians aged
+15 years and older reported using cannabis between
+October and December of 2019, an increase from 14
+percent between January to March of 2018. Additionally,
+cannabis consumption rates are higher among males
+than females [2]. Concerningly, cannabis has been associated
+with substantial adverse effects. Like other drugs,
+cannabis can result in cravings, dependence, and drugseeking
+behaviour [3, 4]. During intoxication, cannabis
+can interfere with memory, motor coordination, altered
+judgement, and at higher doses, paranoia or psychosis
+[3]. Further, repeated use of cannabis can have long lasting
+effects, including altered brain development, poor
+education outcome, cognitive impairment, diminished
+life satisfaction and achievement, poor professional and
+social achievements, symptoms of chronic bronchitis and
+increased risk of chronic psychotic disorders [3, 5].
+Heritability estimates for cannabis use initiation varied
+from 30 to 48%, and from 51 to 59% for problematic
+cannabis use, suggesting a genetic component exists [6].
+Genome-wide association study (GWAS) meta-analyses
+have identified possible regions of association on chromosome
+3 for lifetime cannabis use (CADM2), chromosome
+10 for CUD (rs77300175), and chromosome 16
+for age of first cannabis use (ATP2C2) [7–9]. Moreover,
+candidate gene studies have detected some significant
+associations with cannabis use on the CNR1, GABRA2,
+FAAH, and ABCB1 genes, but as with genome-wide association
+studies (GWASs), replication of these associations
+has been inconsistent [10].
+GWASs provide a ‘hypothesis-free’ method of identifying
+novel variant-trait associations, leading to the discovery
+of novel biological mechanisms and diverse clinical
+applications [11]. As such, in this systematic review, we
+will summarize GWAS findings relevant to cannabis use
+or CUD outcomes and discuss future directions.
+Objectives:
+The main goal of this systematic review is to identify
+genetic variants from GWASs associated with cannabis
+use.
+Primary objectives of this systematic review include the
+following:
+1. Identify genetic variants associated with current cannabis
+use. Current cannabis use is defined by either
+self-report or positive urine drug screens within
+1 month of the study being conducted.
+2. Identify genetic variants associated with lifetime cannabis
+use. Lifetime cannabis use is defined by any
+self-reported or positive urine drug screens of cannabis
+use within one’s lifetime.
+3. Identify genetic variants associated with CUD. CUD
+is defined by any diagnostic and classification systems
+used to diagnose CUD or questionnaires validated to
+assess CUD.
+Secondary objectives of this systematic review include
+the following:
+1. Identify genetic variants associated with the adverse
+outcomes of cannabis use, including psychiatric
+(cognitive impairment, psychotic symptoms, depression,
+anxiety, suicidal behavior) and non-psychiatric
+(chronic bronchitis, lung infections, chronic cough,
+increased risk of motor vehicle accidents) [12–14].
+2. When feasible, perform subgroup summaries by sex
+or ethnic differences.
+Methods
+This systematic review is reported in accordance with the
+Preferred Reporting Items for Systematic Reviews and
+Meta-Analyses (PRISMA) statement [15] (see PRISMA
+checklist in Additional file 1). The Human Genome Epidemiology
+Network (HuGENet) guideline was used to
+supplement the PRISMA guideline. While this review
+does not conform with the HuGENet guideline expectations
+of reporting on candidate gene study findings, the
+HuGENet is used to uphold the standard of reporting
+research specific to genetic association studies [16].
+Protocol and registration
+The protocol for this systematic review has been registered
+within the International Prospective Register of
+Systematic Reviews (PROSPERO) (registration number:
+CRD42020176016) [17]. The full protocol has been published
+in the journal of Systematic Reviews [18].
+Eligibility criteria
+This review investigates GWASs presenting original data
+on associations between cannabis use and genetic polymorphisms
+using any study design (i.e. case–control,
+cohort, etc.). We include studies investigating CUD as
+well as any studies measuring any use of cannabis. Studies
+that investigated CUD as defined by any version of
+the Diagnostic and Statistical Manual (DSM) or other
+diagnostic and classification systems such as the International
+Statical Classification of Diseases and Related
+Health Problems-10 (ICD-10) were included. We define
+cannabis use based on the included studies’ definitions
+and accept the following definitions: current cannabis
+use is defined as either self-report or positive urine
+drug screens within one month of the study being conducted,
+and lifetime cannabis use is defined as any selfreported
+or positive urine drug screens of cannabis use
+within one’s lifetime [19]. All other studies that did not
+perform a GWAS and investigate cannabis use or CUD
+were excluded. No restrictions were placed on the study
+setting or participant’s age, sex, ethnic background or
+language. Further details on the inclusion criteria can be
+found in the study protocol [18].
+Information sources and search strategy
+A Health Science Librarian was consulted to develop
+a comprehensive search strategy. OVID MEDLINE
+1946-Present, Web of Science 1976-Present, OVID
+EMBASE 1974-Present, EBSCOHost CINHAL 1981-Present,
+GWAS Catalog, GWAS Central, and NIH Database
+of Genotype and Phenotype databases were searched
+using the established strategy, modified for each database.
+All databases were searched from inception to February
+2nd,
+2021. The search strategy included all terms
+relevant to genome-wide association studies and cannabis.
+The search strategies for each electronic database are
+provided in Table 1.
+Study selection and data collection process
+Calibration was completed prior to the formal screening
+process. Title and abstract screening, full-text screening
+and data extraction phases were completed in duplicate
+through Covidence [20]. Conflict resolution at the title
+and abstract and full-text stages was performed by a senior
+reviewer (AH or CC), blind to the reviewer’s vote.
+Disagreements at the data extraction stage was resolved
+by the consensuses of the two reviewers. The reason for
+study exclusion was recorded at the full-text stage.
+Data items
+Data extracted included baseline participant characteristics,
+the measure of cannabis used, relevant and significant
+measured outcomes, statistical measures, and
+reported study limitations and conflicts. For this review,
+the threshold of significance of genetic variants reaching
+p ≤ 10–
+7 was set, as some GWAS results with this significance
+level have been shown to be replicable within the
+literature [21].
+Risk of bias within studies and data analysis
+Quality assessment was completed in duplicate for each
+included study using the Quality of Genetic Association
+Studies (Q-Genie) tool [Version 1.1] [22]. Disagreements
+of quality assessment was resolved through discussion
+between the two reviewers, and the first author reviewed
+and confirmed all quality assessments.
+Summary measures and synthesis of results
+A random-effects meta-analysis through pooled odds
+ratios was planned to quantitatively assess the data.
+However, these measures were not appropriate as
+data extracted from each study were unique and could
+not be combined. For the aforementioned reasons, a
+heterogeneity test, and a subgroup meta-analyses could
+not be completed.
+Risk of bias across studies
+The Grading of Recommendations Assessment, Development
+and Evaluation (GRADE) was used to assess the
+strength of evidence, with specific consideration of prognostic
+factors [23, 24]. GRADE scores assess outcomes
+according to the risk of bias, publication bias, consistency,
+directness, and precision [23].
+Results
+Study selection
+The search strategy, along with hand-searching, yielded
+5984 studies. After removing duplicates through the
+Zotero reference manger and Covidence, 4344 studies
+were unique and screened for eligibility at the title and
+abstract phase [20, 25]. Of the 69 studies eligible for fulltext
+screening, 6 studies were included in this review and
+underwent data extraction and quality assessment.
+Studies frequently failed to meet the eligibility criteria
+for inclusion for the following reasons (i) conducted
+a GWAS meta-analysis, (ii) conducted a candidate gene
+study or (iii) were investigating a factor associated with
+cannabis use (i.e. aggression) rather than cannabis use
+itself.
+Please see the PRISMA flow diagram in Fig. 1.
+Study characteristics
+Individual study characteristics are reported in Table 2.
+Two studies were case–control, two were cohort, one
+was case-cohort, and another was case-cohort and
+cohort. Interestingly, the first GWAS in the field of cannabis
+use was published in 2011 and the most recent
+conducted in 2019 [26, 27]. All studies used data from
+large study datasets. Three studies utilized the Study
+of Addiction: Genetics and Environment (SAGE) [4,
+26, 28]. The International Cannabis Consortium (ICC),
+UKBiobank, and 23andMe were utilized in one study
+which performed three independent GWAS on the
+aforementioned datasets [9]. Another study combined
+the Yale-Penn and the International Consortium on the
+Genetics of Heroin Dependence (ICGHD) to perform
+a single GWAS [4]. Finally, one study utilized the Integrative
+Psychiatric Research (iPSYCH) [27] and another
+the Netherlands twin registry [29]. Studies varied in
+size from 3053 to 51,372 participants. Of the studies
+which reported participants’ sex and age, three studies
+had a population comprised of mostly female participants
+[9, 26, 28, 29], while only one reported majority
+male [4]. The mean age of study participants varied
+from mid-thirties to mid-fifties. Three studies reported
+on participants of European or African American
+ethnicities [4, 26, 28] and three studies reported a European
+only ethnicity [9, 27, 29]. Reported outcomes of
+interest included lifetime cannabis use [8, 9], CUD
+as defined by either the DSM-IV [26] or ICD-10 [27],
+CUD criteria count [4, 28] or age of onset of cannabis
+use [29].
+Risk of bias within studies
+The Q-Genie tool [version 1.1] was completed in duplicate
+and used to assess study quality. Studies were
+assessed on a scale of 1 to 7 for 11 items. An overall
+score greater than or equal to 45 for studies with a control
+group and studies with an overall score greater than
+40 without a control group were considered good quality
+according to the Q-Genie tool [22]. All studies were considered
+to be good quality except for one study, Minica
+et al., which was deemed moderate quality. It should be
+noted that Minica et al. did not discuss any potential
+sources of bias or limitations within their study. Additionally,
+the study was conducted using the Netherlands
+twin registry and while individuals with a genetic relatedness
+larger than 0.025 were excluded for some analyses,
+heritability was not accounted for in all analyses and
+may therefore introduce bias [29]. Three studies reported
+potential conflicts of interest due to involvement with
+industry funding [4, 26, 28], two studies report conflict
+in a patent involved in identifying SNPs associated with
+addiction [26, 28] and one study reports authors are
+employees of deCODE genetics [27]. Please see Table 3
+for the studies Q-genie scores of the included studies.
+Results of individual studies
+All six studies included in this systematic review reported
+outcomes that reached the significance threshold set a
+priori (Table 4).
+Agrawal et al. [26] identified two SNPs associated with
+DSM-IV cannabis dependence within the ANKFN1 gene
+(chromosome 17). European and African American participants
+were selected from the SAGE study which was
+aimed to primarily study DSM-IV alcohol dependence.
+Case status was defined as a lifetime history of DSM-IV
+cannabis dependence, with controls defined as using cannabis
+at least once in their lifetime but not meeting criteria
+for DSM-IV cannabis dependence.
+Agrawal et al. [28] identified a SNP reaching borderline
+significance threshold on chromosome 3 associated with
+CUD factor scores in African Americans, however, no
+associated gene was identified. Participants were European
+and African Americans selected from the SAGE
+study. DSM factor scores were developed from 12 DSMIV
+and DSM-5 criteria for CUD.
+Demontis et al. identified 26 SNPs associated with
+CUD on chromosome 8, with no associated gene identified.
+However, only 5 SNPs were discussed and identified
+in the paper, and thus only 5 SNPs are reported in
+this review. Participants were selected from the iPSYCH
+cohort and were of European ancestry. The iPSYCH
+cohort was established to study six major psychiatric disorders,
+however, identified participants meeting ICD-10
+CUD [27].
+Minica et al. reported 3 SNPs associated with cannabis
+initiation and 24 SNPs associated with the age of
+onset of cannabis use. Identified SNPs were found on
+chromosomes 5, 9, 18 and 19, with one SNP associated
+with cannabis initiation was found on the Zinc finger
+protein, ZNF181. All participants were of European
+descent and were selected from the Netherlands Twin
+Registry. Cannabis initiation was defined as ever/never
+having used cannabis while age of onset was determined
+by asking participants an open-ended question
+[29].
+Pasman et al. conducted three independent GWASs
+in three separate cohorts, all of which included European
+participants: ICC, UKBiobank, and 23andMe.
+While results from 23andMe were unable to be shared
+due to privacy policies, the lead author kindly provided
+SNPs reaching borderline significance threshold with
+lifetime cannabis use for GWAS conducted in the ICC
+and UKBiobank cohort. One SNP in the ICC cohort
+and 18 SNPs in the UKBiobank were associated with
+lifetime cannabis use, with no genes specified in either.
+Lifetime cannabis use was defined as any cannabis use
+during lifetime [9].
+Sherva et al. identified 42 SNPs associated with DSMIV
+cannabis dependence criteria count across 27 different
+genes/regions including INTS7, SNORA26,
+RPS20P10, PI4K2B, CSMD1, PSMB7, HABP2, MEFV,
+CST7, APMAP, ACSS1, snoU13, TPST2, SCN9A, CTA-
+445C9.15, CTA-445C9.14-CTA-4, SCN9A-SCN7A,
+ARL2BPP5-RP11-541P9.3, RP11-755E23.3-CCDC67,
+SNORD11-RNU6-1014P, RP5-860P4.2-CST7, RNU6-
+1257P, APMAP-ACSS1, C9.15, RPS20P10-CYP26B1,
+PI4K2B-ZCCHC4, and CST7-APMAP. European and
+African American participants were selected from
+the Yale-Penn Study, the SAGE study and the ICGHD
+cohorts [4].While no SNPs were reported within the same region
+not allowing further quantitative analysis, several phenotypic
+similarities exist across studies. Interestingly, two
+studies found that educational attainment was negatively
+associated with CUD [26, 27] and a third found positive
+genetic correlations with educational attainment [9]. Two
+studies found that cannabis dependence was significantly
+related to alcohol, nicotine, and cocaine dependence [4,
+26] with a third reporting a positive genetic correlation
+between lifetime cannabis use and smoking and alcohol
+use and dependence [9].
+Risk of bias across studies
+Outcomes assessed for GRADE include lifetime cannabis
+use, diagnosis of CUD, criterion count for CUD and
+age of onset of cannabis use. All outcomes included two
+studies except for age of onset of cannabis use which only
+included one study. The full GRADE table can be found
+in Table 5. All outcomes were rates as important, and no
+outcome was rated as having a “very serious” concern
+pertaining to any certainty criteria. Only the outcomes
+of diagnosis of CUD and criterion count for CUD had a
+serious rating, both of which were in the category of indirectness.
+Both of these outcomes were downgraded due
+to the use of different diagnostic criteria. More specifically,
+for the outcome of diagnosis of CUD Agrawal et al.
+[26] utilized the DSM-IV and Demontis et al. (2019) utilized
+the ICD-10 and for the outcome of criterion count
+of CUD Sherva et al. [4] utilized the DSM-IV criteria and
+Agrawal et al. [28] utilized a combination of DSM-IV and
+DSM-5 criteria.
+Discussion
+Summary of evidence
+In this review we identified 96 genetic variants to be
+associated with different measures of cannabis. Of these
+genetic variants, 18 reached the genome-wide significance
+threshold of p ≤ 5 × 10–
+8, all of which are available
+in Table 4. As no genetic variants included in this review
+were reported in more than one study, meta-analyses
+were not possible. However, of the genetic variants identified
+in this review, several are located on genes in which
+previous studies have reported associations with mental
+health, namely ANKFN1, INTS7, PI4K2B, CSMD1, CST7,
+ACSS1, and SCN9A.
+With cannabis being a legal substance, research on
+the benefits and harms of cannabis has been on the rise.
+However, a limited number of GWASs have been conducted
+on cannabis use to determine any genetic associations.
+This systematic review was able to qualitatively
+summarize findings from GWASs reporting borderline
+genome-wide significance to aid in identifying SNPs that
+may be replicable in future studies. We have identified six
+eligible studies that reported independent GWAS results,
+one of which primarily focused on a GWAS meta-analysis.
+Of the included studies, only participants from European
+or African American ethnicities were included,
+suggesting a need for genetic studies being conducted in
+more diverse ethnic populations. All six studies reported
+at least one borderline significant SNP; however, no two
+studies identified the same SNP. SNPs were found to be
+associated with CUD, cannabis initiation, age of onset
+of cannabis use, DSM-IV cannabis dependence criteria
+count, or lifetime cannabis use on various gene regions.
+According to assessment using the Q-genie tool and
+GRADE tool, no study or outcome was deemed to be of
+poor quality. Additionally, with GWAS requiring a sample
+size of thousands of participants for adequate power,
+all studies met this threshold [30].
+While the majority of genes identified in the included
+studies had either no known function or biological plausibility,
+and none had any additional associations with
+cannabis use, as mentioned above, several did have associations
+with mental health conditions and are discussed
+briefly, namely ANKFN1, INTS7, PI4K2B, CSMD1,
+CST7, ACSS1, and SCN9A. ANKFN1 is a protein coding
+gene which has been associated with smoking cessation
+and nicotine dependence [31]. INTS7 is a component of
+the integrator complex, which is involved in the small
+nuclear RNA U1 and U2 transcriptions [32] and has been
+associated with bipolar temperament [31, 33]. PI4K2B
+contributes to the overall PI4-kinase activity of the cell
+[32] and is associated with attention deficit hyperactivity
+disorder (ADHD), logical memory and abnormality
+of neuronal migration [33]. CSMD1 has been associated
+with behavioural disinhibition, schizophrenia, cognitive
+tests, chronic bronchitis, and bipolar disorder [31, 33].
+CST7 is associated with alcohol consumption and myocardial
+infarction [31, 33]. ACSS1 catalyzes the synthesis
+of acetyl-CoA and has been associated with performance
+on standardized cognitive tests and bitter alcoholic
+beverage consumption [31–33]. SCN9A medicates the
+voltage-dependent sodium ion permeability of excitable
+membranes and plays a role in pain mechanisms, especially
+in the development of inflammatory pain [31]. As
+it is known that cannabis can have a negative impact on
+learning, memory and chronic bronchitis, known relation
+to mental illness and suggested role in pain management,
+these regions may have implications in cannabis
+use despite having no clear known biological relevance
+[3, 19].
+Additionally, it is also important to highlight that
+genes identified in this review associated with cannabis
+use or CUD have also been associated with other neuropsychiatric
+disorders namely nicotine dependence,
+ADHD, bipolar disorder, schizophrenia, and alcohol
+consumption suggesting that the genetic risk for the
+development of these disorders may not be independent.
+Previously genetic associations have been found amongst
+schizophrenia, bipolar disorder, ADHD, depression, and
+autism spectrum disorder, with a high genetic correlation
+between schizophrenia and bipolar disorder and a moderate
+correlation between ADHD and depression, ADHD
+and autism spectrum disorder, and ADHD and depression
+[34]. A recent GWAS meta-analysis added to the
+evidence on shared genetic associations amongst neuropsychiatric
+disorders by identifying that an increased
+risk of cannabis use disorder is genetically correlated with
+increased liability for smoking initiation, alcohol use, nicotine
+dependence, and psychiatric disorders (e.g. ADHD,
+schizophrenia, major depression) [35]. These genetic correlations
+among neuropsychiatric disorders, including
+cannabis, could reflect genuine pleiotropy or could indicate
+these psychiatric disorders, including CUD, are not
+completely independent [34, 35]. As such, it is important
+to discuss the biological and individual factors that influence
+the development of neuropsychiatric disorders.
+Neuropsychiatric disorders are influenced by a range
+of factors, including genetics, personality/mood characteristics,
+psychological status, behaviour, neurocognitive
+functioning, and demographic characteristics [36, 37]. To
+begin, non-specific to CUD, the prenatal environment,
+including prenatal nutrition, maternal stress, and maternal
+substance abuse, can impact brain development and
+therefore the behavioural outcome of children. Potential
+mechanisms through which the prenatal environment
+can impact brain development occurs on multiple levels
+including genetic selection, epigenetic modification,
+mediation of brain-immune communications, abnormal
+metabolism pathways, synthetic mediation of hormones
+and the hypothalamic–pituitary–adrenal axis, and mediation
+of the microbiota-gut brain axis [37]. Furthermore,
+nutritional deficiency during critical stages of pregnancy
+has been linked to emotional and behavioural problems
+in children including decreased attention, decreased IQ,
+language delay, and neurodevelopment and related neuropsychiatric
+disorders [37–39]. More specifically, prenatal
+malnutrition has been linked to an increased risk of
+schizophrenia during the 1944–1945 Dutch Hunger Winter
+and the 1959–1961 Chinese famine. Additionally, a
+“U” relationship between serum 12(OH)D concentration
+and emotion, behaviour and attention has been found
+[38, 40]. Interestingly, the hippocampus, which plays an
+important role in learning and memory, has been suggested
+to be sensitive to the exposure of prenatal nutrition
+deficiency [39, 41]. The hippocampus has also been
+proven to be crucial in the pathophysiology of many
+neuropsychiatric disorders, in which the changes result
+from alerted brain development [41]. Maternal stress has
+been associated with poor offspring outcomes including
+cognition, health and educational attainment, however
+methodological challenges exist leading to potential
+misattribution of socially mediated (i.e. postnatal parenting)
+mechanisms to biological ones (i.e. alterations to
+developing fetal brain) [42, 43]. Finally, prenatal exposure
+to alcohol and other substances has been increasingly
+common and the consequence of the exposure differs
+depending on the substance used. Alcohol, tobacco, cannabis
+and opioids are among the most frequent used
+substances during pregnancy and offspring outcomes
+may include birth defects, developmental disability, fetal
+alcohol syndrome, childhood obesity, decreased birth
+weight, poor inhibitory control and other organ deficits
+[44]. Thus, many neuropsychiatric disorders appear to
+result from interactions among genetic background, the
+prenatal environment and postnatal lifestyle choices [45,
+46]. Given the known association between deficits within
+the prenatal environment and other neuropsychiatric disorders
+it is plausible to suggest that the prenatal environment
+and subsequential gene expression may play a role
+in future cannabis use and/or CUD.
+As previously mentioned, a variety of factors contribute
+to the complex etiology of neuropsychiatric disorders
+such as epigenetic modification. Epigenetic modifications
+that can regulate gene expression include DNA methylation,
+nucleosomal structure and positioning, post-translational
+modification of nucleosome histones, histone
+replacement and small RNA molecules that influence
+protein production [47]. The most studied form of epigenetic
+modification is DNA methylation, which can be
+influenced by a range of factors including genetic factors,
+disease, environmental exposures, and lifestyle. DNA
+methylation changes can be either persistent or reversible
+once the exposure is no longer present, adding value
+for biomarker development [48]. How cannabis, THC
+and other exogenous cannabis receptor modulators alter
+epigenetic mechanisms have been previously reviewed
+[47]. Relatively little is known about the molecular pathways
+influenced by cannabis, however, one study identified
+13 proteins, 3 metabolites and 2 lipids significantly
+associated with a metabolite of THC and another found
+acute effects of cannabis or THC on the central nervous
+system and heart rate [49, 50]. In addition to DNA
+methylation, post-transcriptional chemical medication of
+RNA is rapidly emerging as a key role in regulating gene
+expression, known as epitranscriptomics [51]. Of growing
+interest within this felid is N4-acetylcytidine (ac4C),
+a key role in the transcriptional translation process. ac4C
+has been implicated in the occurrence of various disease
+such as inflammation, metabolic diseases, autoimmune
+diseases, and cancer [52]. While the role ac4C may play
+in neuropsychiatric disorders remains unknown, it is
+important to consider the role epitransciptomics plays in
+the gene expression with normal development.
+Current knowledge on cannabis has demonstrated that
+cannabis can induce structural changes to brain regions
+including the hippocampus, amygdala, cerebellum, prefrontal
+cortex and striatum as well as grey matter volume
+[53–55]. Potential pre-existing neurobiological factors
+may exist in cannabis use as well as gene x drug interactions.
+For instance, in young teens, reduced orbitofrontal
+cortex volume has been found to predict initiation of cannabis
+use in later adolescence. The G allele of rs2023239
+of CNR1 is linked with higher cortical CBR1 and is associated
+with smaller hippocampal volume in chronic cannabis
+users, but not healthy controls and findings that
+suggest only individuals with a high genetic risk of schizophrenia
+experience a negative impact on cortical maturation
+during early adolescence thus suggestive of gene
+× drug interactions [56–58]. In addition, functional MRI
+evidence suggest specific brain activity signatures with
+cannabis use such as increased functional connectivity
+associated with the default node network and insula networks
+and hippocampal and parahippocampal atrophy
+have been associated with chronic cannabis use [59, 60].
+However, neuroimaging studies of cannabis users have
+yielded inconsistent findings and may reflect individual
+differences that preceded cannabis use. The inconsistent
+findings in the literature highlight the need for large
+longitudinal studies utilizing before-and-after cannabis
+use neuroimaging [61]. Taken together, it is plausible that
+structural differences in brain regions could be influenced
+by genetic differences between individuals, explaining the
+mixed evidence within neuroimaging. Further research is
+required to determine the complex interactions amongst
+individual genetic predispositions, prenatal environment,
+and postnatal environment contributing to individual
+cannabis use behaviour and/or the development of CUD.
+Understanding the genetic predispositions is one piece of
+the puzzle in understanding the complex development of
+cannabis use and CUD.
+Finally, it is important to consider the shared genetic
+basis of other substance use disorders. Heritability estimates
+across substance use disorders vary, with heritability
+lowest for hallucinogens (0.39) and highest for cocaine
+use (0.72) [62, 63]. Additionally, substance use disorders
+are the result of gene x environment interactions, with
+partial risk inborn and another part determined by environmental
+experiences [62]. Previous reviews have summarized
+the literature on GWASs for various substance
+use disorders including alcohol use disorder, nicotine use
+disorder, CUD, OUD, and cocaine use disorder. However,
+genetic studies within specific substance use disorders
+have had varying success in replicating previously identified
+associations, limiting evidence for shared genetic
+basis across substance use disorders [63, 64]. The complexity
+of substance use disorder make genetic prediction
+efforts difficult, and while currently only alcohol use disorder
+have been genetically correlated with CUD, continued
+advancements in molecular genetic studies and
+substance use disorder at larges further our understanding
+of the biological pathways underlying substance use
+disorders [9, 63, 65]. For instance, CNR1 and CNR2, components
+of the endocannabinoid system, are major targets
+of investigation for their impact in neuropsychiatry
+and addiction phenotypes suggested shared genetic risk
+factors [66, 67]. In regards to neuropsychiatric disorders,
+Mendelian randomization studies have found mixed
+evidence on the causal effect of cannabis initiation and
+schizophrenia, finding weak evidence that cannabis initiation
+increases schizophrenia risk and strong evidence
+that schizophrenia liability increases the odds of cannabis
+initiation, and causal evidence of ADHD on cannabis initiation
+[68–72]. Through continued advances, it is hoped
+that the underlying genetic basis for CUD, or a shared
+genetic basis for all substance use disorders, will be identified
+to provide preventative measures and treatment for
+substance use disorders in the future.
+Limitations
+While this systematic review was rigorous and involved
+a peer-reviewed protocol, it is not without limitations.
+First, our inclusion criteria limited our review to only
+GWASs, meaning any GWAS meta-analyses and candidate
+gene studies were excluded. GWAS meta-analyses
+and candidate gene studies are often more powered due
+to their larger sample sizes and minimal genetic variants
+tested, respectfully [11]. However, including only
+GWASs was decided a priori to capture novel genetic
+variants associated with cannabis use and avoid the
+inclusion of multiple studies which could use the same
+genetic dataset. Second, it is important to note that this
+review is susceptible to publication bias, as studies that
+do not achieve genome-wide significance may be less
+likely to be published, and thus, not included in this
+review. Unpublished GWAS findings may exist with
+SNPs reaching the borderline significance threshold.
+While we cannot eliminate publication bias entirely, we
+searched abstracts, GWAS catalogs, and databases for
+any near significant findings that were not published. If
+a relevant abstract was identified, without the full study
+published, the first author was contacted to determine
+whether the full GWAS had been published or was
+going to be submitted to a journal. Finally, if a study
+met our inclusion criteria but did not report any SNPs
+that fell below the genome-wide significance threshold,
+study authors were contacted to confirm if any
+SNPs had reached the borderline significant threshold
+set for this review. Third, due to the heterogeneity of
+the reported findings, it was not possible to conduct a
+meta-analysis or sex and ethnicity subgroup analyses.
+Although we could not conduct a meta-analysis, we
+qualitatively summarized the studies and reported a
+comprehensive list of all SNPs reaching the significance
+threshold for this study.
+Conclusion
+This systematic review was able to summarize GWAS
+findings within the field of cannabis use. The results can
+inform future candidate gene studies and GWASs of possible
+replicable SNPs that require further investigation.
+We were able to identify all GWASs conducted on cannabis
+use, highlighting the need for further research as no
+two GWASs reported the same SNP or gene associated
+with cannabis use. Further, included GWASs had limited
+ethnic diversity, with only European or African American
+participants. Recommendations are made for future
+research to replicate reported associations and include
+diverse ethnic populations to test whether SNPs associated
+with cannabis use reported are generalizable across
+study populations and if associations differ by ethnicity.

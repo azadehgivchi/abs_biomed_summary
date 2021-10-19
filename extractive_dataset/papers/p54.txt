@@ -1,0 +1,399 @@
+Background
+Infuenza A virus (IAV) is one of the most severe respiratory diseases which leads to the high rates of morbidity
+and mortality [1, 2]. Vaccination, as a peventive method,
+can not provide sufcient control against the spread of
+this infection because of continuous antigenic drifts [3].
+Te adamantane derivatives including amantadine and
+rimantadine were used for the treatment and prophylaxis of infuenza disease for several years [4]. Oseltamivir
+(Tamifu®), as FDA-approved drug, which is a neuraminidase inhibitor molecule with the basic structure of shikimic acid was isolated and purifed from the fruits of
+Illicium verum Hook. f. (Illiciaceae) [5]. Treatment with
+conventional drugs including amantadine and oseltamivir has shown side efects on the central nervous system
+and the gastrointestinal tract. Also, because of the genetic
+instability and reassortments of the virus from one side
+and drug resistance from the other side, the prescription
+of these drugs has been inefcient in some cases [6–8].
+Due to the need for having other inhibitors of IAV, the
+scientists have focused on the screening medicinal plants
+and natural products and to fnd and introduce a lead
+compound or structure for the further preclinical trials
+[9].
+Medicinal plants play vital roles in prevention and
+treatment of several diseases. Te natural products and
+medicinal plants are popular in diferent parts of the
+world from developing to developed countries as complementary to common medicines [10, 11]. Medicinal
+plants are cheaper, more available and culturally acceptable especially in Iran with a strong and long history of
+traditional medicine in comparison with some chemical
+drugs with undesirable adverse efects [12].
+Tere are several plants used from ancient times till
+now for the treatment of common cold, fu syndrom
+and infections in throat and upper respiratory systems.
+Although there were many ethnopharmacology articles
+about them, a few reports highlighted their anti-infuenza
+virus efects [13, 14].
+To the best of our knowledge, there are no reports
+about antiviral efects of G. glabra, M. commonis, S.
+alba, T. platyphyllos and C. sinensis (fermented) extracts
+against infuenza A virus. Also, there are no reports about
+anti-infuenza efects of fractions of other mentioned
+plants. Te objective of this study was to investigate the
+potential efects of crude extracts and diferent fractions
+of some Iranian medicinal plants against infuenza replication, and compare their activities with oseltamivir
+and amantadine as control drugs. For this purpose, the
+propagation and cytopathic efects of IAV in the presence
+of diferent extracts and fractions were determined using
+the hemagglutination (HA), hemagglutination inhibition
+(HI), and MTT cytotoxicity assays. Te potent extract(s)
+and fraction(s) can be introduced as sources of phytochemicals with antiviral efects against infuenza A virus.
+Methods
+Preparation of plant extracts and fractions
+Rhizomes of Glycyrrhiza glabra (Leguminosae, PMP246), leaves of Myrtus commonis (Myrtaceae, PMP-421)
+and Melissa ofcinalis (Labiatae, PMP-358), aerial parts
+of Hypericum perforatum (Hypericaceae, PMP-526), and
+bark of Salix alba (Salicaceae, PMP-924) were purchased
+in July 2017 from market in Tehran, Iran. Dried and fermented leaves of Camellia sinensis (Teaceae, PMP-415
+and PMP-416, respectively) were obtained in November 2017 from market of Lahijan, Iran. Flowers of Tilia
+platyphyllos (Malvaceae, 7057-TEH) were collected from
+Ramsar, Mazandaran, Iran. Te voucher speciments were
+identifed by Dr. Zahra Tofghi and Dr. Yousef Ajani, and
+deposited in herbarium of Faculty of Pharmacy, Tehran
+University of Medical Sciences, Tehran, Iran. All dried
+plants were extracted with 80% methanol and fractionated with chloroform to give chloroform fractions and
+the residues were named methanol fractions.
+Cell culture and infuenza virus propagation
+Madin Darby Canine Kidney (MDCK) cells were maintained in Dulbecco’s Modifed Eagle’s Medium (DMEM)
+(Mediatech Cellgro, USA) containing 10% Fetal Bovine
+Serum (FBS) (PAA, Austria) and 1% Penicillin and streptomycin (Mediatech Cellgro, USA) in 5% CO2 incubator
+at 37°C. Infuenza virus strain [A/Puerto Rico/8/1934
+(H1N1) (ATCC VR-1469™)] was prepared from Infuenza Department, Pasteur Institute of Iran, and propagated in MDCK cells. DMEM supplemented with 1μg/
+ml of Trypsin-TPCK (Tosylamide Phenylethyl Chloromethyl Keton-treated Trypsin) (Sigma, USA) was used as
+maintenance medium during antiviral experiments. For
+measuring the virus infectivity dose, the 50% cell culture
+infectious dose (CCID50) was obtained by the hemagglutination assay using Karber method [15, 16].
+Cytotoxicity assay
+Two-fold serial dilutions of the extracts and fractions
+were exposed to the sub-cultured MDCK cells in 96-well
+plates (3× 104
+ cell/well), for 48h at 37°C in duplicates.
+Te test was repeated two times. Te colorimetric MTT
+assay was performed as previously described by Mehrbod et al. [16]. Briefy, the culture medium was replaced
+by MTT 1X [3-(4,5-dimethyl-2-thiazolyl)-2,5-diphenyl2H-tetrazolium bromide; Sigma, USA]. Following 3–4h
+incubation at 37°C in dark, DMSO (100μl) was added
+to each well to release the purple color of formazan.
+Te absorbance at 570nm was measured with a microplate reader (BioTek EL 800, US). Te cell viability was
+calculated based on the following formula: (mean Optical Density (OD) of treated cells/mean OD of control
+cells)×100. Te 50% cytotoxic concentration (CC50),
+the concentration that reduced the cell viability by 50%
+respect to the control cells; and the 50% efective concentration (EC50), the concentration required to achieve
+50% protection against virus induced cytopathic efect,
+were also calculated by analyzing MTT data using SPSS
+software. Te cells without any exposure which were 
+considered as negative controls and DMSO as a vehicle
+control with maximum 0.5% concentration were tested
+in parallel. Amantadine hydrochloride and oseltamivir
+carboxylate, the conventional antiviral compounds, were
+also tested as positive control drugs.
+Selectivity index
+Te selectivity index (SI) calculated by dividing CC50 to
+EC50, represents the relative safety of the extracts or frections. It has been demonstrated that compounds with
+selectivity indices higher than 3 are potentially safe antiviral reagents [17].
+Antiviral assay
+In co-penetration procedure of antiviral evaluations,
+infuenza virus (100 TCID50/0.1ml) was mixed with the
+EC50 of the extracts and fractions for 30min, and then
+incubated with the cells at 37 °C. In pre-penetration and
+post-penetration procedures, the virus was added to the
+cells after and before the extracts and fractions. Following 1h incubation, the unabsorbed viruses were replaced
+by TPCK-containing medium (1μg/ml). Following 48h
+incubation at 37°C, viabilities of the cells were measured
+by MTT assay as described earlier. Concurrently, the
+virus titer was determined by testing the cell supernatants using the HA assay [16]. Amantadine hydrochloride
+(98.5μg/ml) and oseltamivir carboxylate (394.25μg/ml)
+(Sigma, Saint Louis, Missouri, USA) were considered as
+positive control drugs and the cells without any exposure
+were tested as negative controls. DMSO was tested as a
+vehicle control with maximum 0.5% concentration. Te
+test was repeated two times in duplicates.
+Cellular percentage of protection
+Te protection percentages of the samples were calculated by SPSS from the MTT data results of mockinfected and infected cells after 48h exposure, using the
+following formula: Percentage of protection=[(ODT)
+V − (ODC) V] / [(ODC)M − (ODC) V]×100 where
+(ODT)V, (ODC)V and (ODC)M represent the absorbance of the treated sample, the virus-infected control (no
+compound) and the negative control (mock), respectively
+[18].
+Hemagglutination assay (HA)
+For quantifcation of the virus titer from the cell supernatants, the HA assay was conducted as previously
+described [19]. Briefy, serial dilutions of the culture
+media were added to 96-well U-shaped microplates in
+duplicates. Te test was repeated two times. Te HA
+units were measured as the reciprocal of the highest
+dilution giving complete agglutination with chicken red
+blood cells (0.5%). Te precipitation and difuse lattice
+formation of the RBCs demonstrate the absence and the
+presence of the virus, respectively.
+Hemagglutination inhibition assay (HI)
+For investigation of the inhibitory efect of the samples
+on the hemagglutinin activity, the concentration of 4 HA
+unit of virus particles was used. Briefy, the extracts and
+fractions were diluted 2-fold serially from CC50 concentration. Ten, 4 HA unit of the virus was added to each
+well. After pre-incubation for 45min at room temperature, chicken red blood cells (0.5%) were added to the
+solution. Te physical interaction between extracts/fractions and virus surface HA glycoprotein was calculated
+after 1h by the agglutination inhibition pattern.
+Preliminary phytochemical analysis
+Crude extracts, chloroform and methanol fractions of the
+efective anti-infuenza plants were tested for identifying
+the class of active metabolites such as alkaloids, cardiac
+glycosides, tannins, favonoids, steroids, triterpenoids
+and saponins by following the standard procedures [20,
+21].
+Tests for alkaloids
+A) Dragendorf’s test: Te apperance of reddish brown
+turbidity after addition of Dragendorf reagent was indicator for the presence of alkaloids.
+B) Hager’s test: By addition of Hager reagent to the
+samples, yellow turbidity was seen in the presence of
+alkaloids.
+Tests for cardiac glycosides
+Keller-killiani test: Te mixture of ferric chloride and
+glacial acetic acid were added to the sample solutions.
+Apperance of bluish green in the upper layer and reddish
+color in the lower layer of the solutions, after addition of
+concentrated sulphuric acid confrmed the existence of
+cardiac glycosides in the samples.
+Test for tannins
+FeCl3 test: After adding a few drops of 5% w/v solution of
+ferric chloride III in 90% alcohol to the sample solutions,
+the appearance of deep blue or dark green color indicated
+the tannin existence in the samples.
+Test for favonoids (Shinoda test)
+After adding few drops of concentrated HCl and magnesium metal to the samples, the appearance of pink,
+red, crimson or magenta color was the sign of favonoids
+presentation.
+Tests for steroids and triterpenoids
+Libermann-Buchard test: Te appearance of brown ring
+in the middle of green upper layer and deep red lower
+layer after addition of sulfuric acid containing few
+drops of acetic anhydride were indicator for the presence of steroids and triterpenoids.
+Salkowski test: By addition of chloroform and concentrated H2SO4 to the extract and shaking well, the
+color of chloroform layer changed to red, and acid layer
+showed greenish yellow fuorescent if sterols and/or
+triterpenes existed.
+Test for saponins (foam test)
+Te volume of 50 mg of samples in water was shaken
+vigorously in a test tube. If froth characteristic was
+obtained, the presence of saponins was confrmed.
+Statistical analysis
+Te data were expressed as mean±SD, and analyzed
+by one-way analysis of variance (ANOVA) and General
+Linear Model (GLM) (SPSS 18.0), Tukey and Duncan
+post-hoc tests. Sample values with P ≤ 0.05 and P ≤ 0.01
+were considered statistically signifcant and highly signifcant, respectively.
+Results
+In this study, the efcacy of the crude extracts, chloroform and methanol fractions of 8 selected plants with
+history of usages in traditinal and folklore Iranian medicine were tested against IAV. Te cytotoxicity of the
+extracts were evaluated, and non-toxic concentrations
+were defned prior to antiviral assay. Te ability of the
+samples against viral titer and viral cytopathic efects
+varied with diferent extracts and fractions of the same
+plant as determined by the HA and MTT assays. Te
+profle of the extracts and fractions of selected medicinal plants used in this study is listed in Table 1.
+Cytotoxicity and selectivity indices of the compounds
+Te results for CC50 were largely diferent for various
+samples (Table 2). Among the crude extracts, the highest CC50 value belonged to S. alba (3647.45±52.52 μg/
+ml) and the lowest CC50 value (10.41±0.00 μg/ml)
+was obtained for M. communis and H. perforatum
+equally. Among the chloroform fractions, S. alba and
+M. communis showed the highest (1755.28±0.89 μg/
+ml) and the lowest (2.60±0.00 μg/ml) CC50 values,
+respectively. Amongst methanol fractions the highest and the lowest CC50 values were obtained for M.
+ofcinalis (4413.80±3.69 μg/ml) and T. platyphyllos
+(277.56±3.19 μg/ml), respectively. Te EC50 values
+which were the same as non-cytotoxic concentrations
+(NCTC) with no signifcant efects on the cell viability
+were calculated using data obtained from MTT and
+one-way ANOVA analysis as compared to the negative control (Table 2). Te selectivity index values were
+obtained with the highest SI value of 32 with M. ofcinalis (chloroform fraction), H. perforatum (methanol
+fraction), S. alba (crude extract and methanol fraction) and C. sinensis unfermented (methanol fraction)
+and the lowest value of 2 with G. glabra (chloroform
+fraction).
+Inhibitory efect of extracts and fractions on infuenza
+a virus
+Te samples were tested in an in  vitro screening assay
+to defne the antiviral activity against IAV. Te antiviral activity of the plants extracts/fractions was analyzed
+based on the Log10 HA titer (Table 3) and Log HA decrement (Table 4). Among them, in co-penetration treatments, G. glabra (crude extract; 5.00±4.24), G. glabra
+(methanol fraction; 5.50±3.54), M. communis (chloroform fraction; 5.50±3.54) and M. ofcinalis (methanol
+fraction;6.00±2.83); in pre-penetration treatment, M.
+communis (methanol fraction; 5.50±0.71); and in postpenetration treatment: M. communis (chloroform fraction; 5.50±3.54) showed highly signifcant (P≤0.01)
+decrease in HA titer compared to the virus inoculation.
+Tese results were in accordance with the Log HA decrement (Table 5) which showed 5–6 logs decrement in Log
+HA titer for all samples.
+Cell viability and cellular percentage of protection
+Te optical densities (ODs) in MTT assay for the antiviral activity against IAV revealed highly signifcant
+increments in the majority of the combined treatments
+compared to the virus-inoculated cells (P≤0.01). Amantadine and oseltamivir combined exposures also resulted
+in high cell viability (P≤0.01) (Table 5). Te ODs in combined treatments were analyzed to obtain the percentage
+of compounds protection on the cell viability against the
+virus infectivity. Data are presented in Table 6.
+In co-penetration treatments, G. glabra (methanol
+fraction;0.86±0.29), M. ofcinalis (methanol fraction; 0.81±0.05), T. platyphyllos (methanol fraction;
+0.81±0.05), T. platyphyllos (chloroform fraction;
+0.72±0.04), S. alba (crude extract; 0.80±0.07), S. alba
+(methanol extract; 0.66±0.07), S. alba (chloroform
+extract; 0.87±0.11), C. sinensis (chloroform extract;
+0.74±0.13), C. sinensis (fermented crude extract;
+0.87±0.11), C. sinensis (fermented methanol fraction;
+0.80±0.04), C. sinensis (fermented chloroform fraction; 0.81±0.12); in pre-penetration treatments, G.
+glabra (crude extract; 1.05±0.10), M. ofcinalis (chloroform fraction; 1.01±0.31), S. alba (crude extract;
+0.73±0.03), C. sinensis (chloroform fraction;
+0.81±0.16), C. sinensis (fermented crude extract;
+0.74±0.13), C. sinensis (fermented chloroform fraction; 0.79±0.25); and in post-penetration treatments,
+M. communis (crude extract; 0.88±0.05), M. ofcinalis
+(methanol fraction; 0.84±0.09), H. perforatum (methanol fraction; 0.79±0.06), H. perforatum (chloroform
+fraction; 0.915±0.038), T. platyphyllos (chloroform
+fraction; 0.68±0.07), C. sinensis (methanol fraction;
+0.70±0.11) showed the highest cell viability and protection against virus cytopathic efects.
+Dose‑dependent response
+Te test was repeated twice. Some of the extracts and
+fractions showed RBC precipitation (HI+) until a certain dilution which showed dose-dependent responses
+for their HA physical interaction. But some other samples showed RBC precipitation (HI+) in all dilutions
+which is indicative of HA physical interaction in all
+dilutions (Table 7).
+Preliminary phytochemical analysis results
+Te existence of secondary metabolites was investigated
+by diferent preliminary analyses for the crude extracts,
+and chloroform and methanol fractions of fve potent
+anti-infuenza virus plants including G. glabra, M. communis, M. ofcinalis, S. alba and C. sinensis (fermented).
+Phytochemical analysis data (Table  8) confrmed the
+presence of alkaloids, cardiac glycosides, tannins, favonoids, triterpenoids and steroids in the active crude
+extracts of G. glabra, M. ofcinalis and S. alba. Te efective chloroform fractions of M. communis and C. sinensis (fermented) were rich in alkaloids, cardiac glycosides,
+triterpenoids and steroids. Methanol fractions of M. communis and M. ofcinalis with potential antiviral activities
+against infuenza virus contained high amounts of favonoids, tannins, triterpenoids and steroids.
+Discussion
+Medicinal plants have progressively been noticed as suitable alternatives to the synthetic antiviral agents [22–25].
+In the current research, based on the antiviral properties
+of medicinal plants against IAV and other viruses, and
+their traditional and folklore usage in Iran, the antiviral
+efcacy of the crude extracts, and chloroform and methanol fractions of some Iranian native medicinal plants
+including G. glabra, M. communis, M. ofcinalis, H.
+perforatum, T. platyphyllos, S. alba, and C. sinensis (fermented and non-fermented) were evaluated against IAV
+with more details.
+Previous investigation revealed that glycyrrhizin
+derived from the rhizomes of G. glabra has protective
+efects against IAV by induction of interferon [26]. In 
+addition, other compounds of licorice showed signifcant
+inhibition on infuenza A neuraminidase in a computerbased approach [27]. Te efects of polyherbal formula
+containing licorice were confrmed for the prevention
+and treatment of infuenza-like syndrome, clinically [28,
+29].
+M. ofcinalis essential oil could inhibit avian infuenza
+virus (H9N2) through various replication cycle steps
+especially direct interaction with the virus particles [30].
+Also, its extract demonstrated a signifcant anti-infuenza
+efect against H1N1 strain of infuenza virus [31].
+Te extract of H. perforatum showed anti-IAV efect
+both in  vitro and in  vivo. Te EC50 of the extract was
+40 μg/ml against IAV while its CC50 in MDCK cell line
+was 1.5 mg/ml [32]. In an experiment, it was observed
+that H. perforatum extract had signifcant efcacy
+for the treatment of mice infected with IAV [32]. In
+another study an opposite response occurred. Te consumption of oral H. perforatum extract in the mice
+infected with infuenza A virus, enhanced transcription
+of the suppressor of cytokine signaling 3 (SOCS3) and
+led to the impaired immune defense and higher mortality [33].
+Te anti-infuenza activity of green tea (Camellia sinensis) against H1N1 virus was equivalent to green tea
+by-products (EC50 equal to 6.72 and 6.36μg/ml, respectively). Also, hexane-soluble and ethyl acetate-soluble
+fractions of green tea by-products possessed strong
+anti-infuenza activity in chickens [34]. Te other studies demonstrated that dimeric polyphenol molecules in
+green tea display more potent antiviral efects against
+both infuenza A and B viruses than monomers. In addition, the existance of C-4′ hydroxyl group in the B ring
+of planar favonols is necessary for the anti-infuenza B
+virus activity [35, 36]. It was confrmed clinically that formulations containing C. sinensis or green tea metabolites
+including catechines and theanine could prevent infuenza infection [37, 38].
+According to the results, in terms of the selectivity
+index (SI), the extracts and fractions of all tested herbs
+were considered safe for the antiviral treatments except
+chloroform fraction of G. glabra. Its SI value was the
+same as conventional drugs. In addition, C. sinensis, S.
+alba, H. perforatum and M. ofcinalis were categorized
+as the safest plants in cellular studies.
+In HI test, the extracts of T. platyphyllos, S. alba and C.
+sinensis showed RBC precipitation in all tested dilutions
+which indicates the strong physical interaction of these
+compounds with the HA surface glycoprotein of the
+virus. However, amongst the others, methanol fraction of
+M. ofcinalis showed the weakest interaction (3rd dilution), and on the opposite side M. communis and H. perforatum showed stronger interaction (5th dilution). Te
+results of this study confrmed dose-dependent response
+for most of the extracts and fractions. In a previous
+research, the formation of complexes between tannins
+and proteins was confrmed [39]. Also it was demonstrated that antiviral inhibitory efects of hydrolyzable
+tannins were related to the intractions blocking between
+viral glycoproteins and cell surface glycosaminoglycans
+(GAGs) [40]. It is interesting that in our experiment, M.
+ofcinalis, unlike the others, did not contain any tannin
+which justifcated the weakest intraction.
+With a thorough scrutiny on the Tables 3, 4, 5 and 6 and
+comparing their results with the SI values in Table 2 and
+the fact that SI values higher than 3 are safe compounds,
+it was concluded that except one almost all tested samples were safe but not efective against IAV titer.
+Moreover, General Linear Model (GLM) analysis
+which estimated marginal means of all the respective values for diferent exposure ways (combined treatments)
+confrmed all the outcomes. Te data are shown in the
+Supplementary Figs.  1, 2, 3 and 4. Terefore, most of
+the above mentioned plant species might be promising
+alternatives to decrease fu unfavorable efects by afecting the viral and cellular receptors. Te data were considerable because the conventional antiviral drugs;
+amantadine and oseltamivir showed promising efects
+against virus infection, however, growing drug resistance
+has caused a signifcant challenge [41, 42].
+Te phytochemical analysis of the potent anti-IAV
+extracts/fractions demonstrated that they were rich in
+favonoids, tannins, triterpenoids and steroids. Natural
+products have diferent mechanisms against viral infections from interfering with entry, transcription, replication and translation of the virus, nuclear export of the
+virus, viral assembly, packing and budding to enhance the
+host responses [43].
+Tere were many reports that showed favonids act as
+anti-IAV compounds with various mechanisms [44, 45].
+Flavonoids are natural phenolic compounds of plants
+with potent antioxidant and antiviral properties. Tey
+can help viral-infected cells to fx their biochemical
+imbalance resulting from oxidative stress [46]. Also they
+have shown potential inhibition on the neuraminidase
+active site of infuenza virus. Te potency of NA blocking reduced from aurones to favon(ol)es, isofavones,
+favanon(ol)es and favan(ol)es, respectively. Te structure activity relationship (SAR) studies of favonoids
+against infuenza virus demonstrated that the presence
+of 7-OH, 4′-OH, C2= C3 and C4=O functionalities were
+necessary, but the existance of a sugar group reduced the
+efects [47, 48].
+Triterpenoids and steroids are natural components
+elucidated from plants and other organisms which have
+various biological activities including antiviral activities.
+Mechanistic studies revealed triterpenoids bind tightly to
+the viral hemagglutinin (HA) and disrupt the attachment
+of viruses to the cell receptors [49–51].
+Infuenza virus has two envelope glycoproteins named
+hemagglutinin (HA) and neuraminidase (NA). Te binding of hemagglutinin to sialic acid residues of the host
+cells is a key step for initiating the IAV infection. Te role
+of NA is facilitating the movement of virus from infection 
+sites to the respiratory tract [52, 53]. Te presence of favonoids, tannins, steroids and triterpenoids together in
+the potent anti-infuenza extracts and fractions of this
+study, covers the inhibitory efects on both the HA and
+NA may be a reason for such signifcant efects. It is good
+to note that the virus strain used in this study, A/PR/8/34,
+is not pathogenic to humans and may not be the best
+model for these types of studies. However, this strain is
+generally used because it provides acceptable oucomes
+comparable to the pathogenic strains and is also safe for
+the users.
+Conclusions
+Te emergence of new strains of the infuenza A virus
+makes us think about innovative strategies for the
+development of new drugs with improved antiviral
+efects, higher safety and better tolerability. Research
+focusing on traditional herbs as complementary therapies or preventive medicine is becoming more attractive. Medicinal plants have been used for various
+ailments, particularly infectious diseases. Te current
+study indicated that treatment of IAV with the selected
+extracts and fractions reduced the hemagglutination
+activity of the virus, which may result from the physical interaction of the samples with virus hemagglutinin. Based on this scientifc confrmation, the selected
+plants may have the capacity to ease the symptoms and
+burden of fu. Te next focus of this study will be the
+purifcation of pure compounds responsible for the bioactivity against IAV infection as well as their mode of
+action. Recommendations are proposed for strategizing
+the future role and place of medicinal plants in prevention and treatment of infuenza and other infectious diseases in national, regional and international health
+policies and programs.

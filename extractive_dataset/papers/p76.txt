@@ -1,0 +1,281 @@
+Background
+Lung cancer still is the leading malignancy in the global
+cancer spectrum of morbidity and mortality [1].
+Lung cancer mainly comprises non-small cell lung
+cancer (NSCLC) and small cell lung cancer (SCLC),
+with more than 83% of all cases being NSCLC [2].
+Because of late diagnosis and tumor recurrence, the
+5-year overall survival rate of patients with NSCLC
+and SCLC remains low (approximately 23 and 6%, respectively)
+[2, 3]. Tumor proven by the presence of
+malignant cells in sputum or bronchial washings but
+not visualized by imaging or bronchoscopy is considered
+as occult lung cancer [4, 5]. Previous studies on
+the incidence of occult lung cancer have only
+analyzed groups of stroke patients, or incidental case
+reports of other diseases [6–9]. Therefore, for lung
+cancer patients, the incidence information of occult
+lung cancer remains insufficient.
+In addition, accurate tumor-lymph node-metastasis
+(TNM) staging means that the prognosis of the patients
+is accurate [10, 11]. Patients with stage IA
+(classification T1N0M0) have the best long-term survival
+outcomes in all lung cancers [10]. In the guidelines
+of the National Comprehensive Cancer Network,
+occult lung cancers are classified as TxN0M0 [12].
+Thus, the prognosis of occult lung cancer patients remains
+unclear because of the unclear TNM classification.
+The prognoses of diseases have an effect on
+treatment selection and patients’ management. However,
+there was no data about the incidence rate and
+survival analyses of occult lung cancer in the previous
+studies. Thus, we aimed to investigate the incidence
+rate and prognostic level of those patients with occult
+lung cancer.
+Methods
+Patients
+The Ethics Committee of Shanghai Pulmonary Hospital
+approved this study and considered this study exempt
+from ethical review because existing data without patient
+identifiers were used. This study majorly included two
+parts, incidence-rate analysis (step 1) and survival analysis
+(step 2). We retrospectively recruited patients who
+were histologically diagnosed with malignant tumor in
+the lungs as their first primary malignancy from 2004 to
+2015 in Surveillance, Epidemiology, and End Results
+(SEER) database, which contains clinicopathological and
+survival data of cancer patients from 18 registries.
+Therefore, the present study could be considered as a
+multi-center analysis. The selection criteria of patients
+were shown in Fig. 1. A total of 305,054 patients (including
+2958 occult lung cancers) were used to perform incidence
+analysis after step-one case selection. Next, we
+processed step-two case selection. There were 52,472
+eligible patients (including 2353 occult lung cancers) for
+survival analysis. The detailed information was presented
+as Fig. 1. All patient records were anonymized before
+analysis. Information collected from the SEER database
+included sex, race/ ethnicity, survival time, cause on disease,
+age at diagnosis, tumor size, approach of treatment
+(including surgical treatment, radiotherapy, and chemotherapy),
+tumor differentiation, histological subtype,
+tumor location, TNM stage, and marital status.
+Follow-up
+Cancer-specific survival, which was the duration from
+the date of diagnosis to death caused by lung cancer,
+was regarded as our observational endpoint. For survival
+analysis, follow-up duration ranged from 1.0 to 155.0
+months, with a median of 27.0 months. Those patients
+who entered the survival analysis had definitive survival
+status, death or alive.
+Statistical analysis
+All statistical analysis was performed using SPSS statistics
+25.0 software (IBM SPSS, Inc., Chicago, IL, USA),
+and GraphPad Prism 8 (https://www.graphpad.com/
+scientific-software/prism/). Risk ratios (RRs), hazard ratios
+(HRs) and 95% confidence intervals (CIs) were calculated
+using multivariable Logistic regression analysis
+and Cox regression analysis, respectively (regression
+method was Enter selection). The average value of each
+covariate was calculated by the multivariable Cox regression
+model, and estimated the adjusted survival curves
+of T classification. Statistical tests were considered statistically
+significant with two-sided p value < 0.05.
+Results
+Patient characteristics
+In the step-one case selection, there were 305,054 patients
+(including 2958 occult lung cancers) for calculating
+incidence. Majority of the patients were male (N =
+162,448, 53.3%), and 248,125 (81.3%) were non-Hispanic
+whites. The median age was 68 years old (range from 18
+years to 104 years). The detailed information of patient
+characteristics was shown in Table 1.
+After step-two case selection, eligible 52,472 patients
+(including 2353 occult lung cancers) entered into processing
+of survival analysis. Male patients accounted for
+51.2% (N = 26,858). Age at diagnosis ranged from 18
+years old to 100 years old (median 70 years). The major
+part of histological subtypes belonged to adenocarcinoma
+(N = 23,406, 44.6%) as shown in Table 2.
+Incidence-rate analysis
+In the all 305,054 patients, the crude incidence rate was
+1.00 per 100 patients, and it was reduced between 2004
+and 2015 [Fig. 2, 1.4 (95% CI 1.22–1.52) per 100 persons
+in 2004; 0.6 (95% CI 0.53–0.72) per 100 persons in 2015;
+Table 3, adjusted RR = 0.437, 95% CI 0.363–0.527]. The
+results of Linear regression revealed that trends about
+crude incidence rate of occult lung cancer was decreased
+over time (R = 0.023, p < 0.001).
+Survival analysis of T classification
+The median survival time of all 52,472 patients was 27
+months (range from 1 month to 155 months). Besides,
+the 1-year, 3-year and 5-year cancer-specific survival rate
+of this cohort were 62, 49, and 44%, respectively. The
+unadjusted 5-year cancer-specific survival rate was the
+best in the patients with T1a (75%) and the worst in the
+patients with Tx (15%). The median survival time was
+13 months (95% CI 12.10–13.90 months) in the patients
+with Tx, which indicated the rate of death events had
+exceeded 50%. We also found that the classification of
+Tx was the riskiest factor for the prognoses (Table 4, unadjusted
+HR =6.339, p < 0.001). However, the results
+were not inconsistent after multivariable Cox regression
+analysis. We used multivariable Cox regression analysis
+to identify the prognostic role of Tx (occult lung cancer)
+in the different T classifications (Table 4). After adjusting
+for other confounders, patients with Tx had a poorer
+prognosis than patients of T2b (adjusted HR 1.186, p <
+0.001), nevertheless better long-term survival outcomes
+than patients with T4 (adjusted HR 0.845, p < 0.001). Besides,
+the prognosis for patients of Tx was not statistically
+different from that of T3 patients (p = 0.121). The
+adjusted survival curves also presented similar results
+(Fig. 3).
+Prognostic analysis for occult lung cancer
+There were 2353 occult lung cancer patients for survival
+analyses, of which baseline characteristics were shown in
+Table 5. In this cohort, there were 2206 death events in
+the 2353 occult lung cancers. Female patients showed a
+better survival than male patients (Table 6, adjusted
+HR = 0.796, 95%CI 0.726–0.876, p < 0.001). Besides, the
+prognosis in patients with age > 72 years was poorer than
+younger patients (adjusted HR = 1.183, 95%CI 1.063–
+1.295). The number of adenocarcinomas was the most,
+which accounted for 33.0% (N = 776). Its long-term survival
+outcomes were better than squamous cell carcinomas
+(adjusted HR = 0.878, p = 0.042). Of note, 1162
+patients didn’t receive any treatment. However, patients
+who underwent surgical resection or radiotherapy had
+improved survival benefits (Table 6). One-hundred and
+twenty-six patients underwent lobectomy, whose 5-year
+cancer-specific survival rate reached 47%. After adjusting
+for other confounders, we identified sex, tumor differentiation,
+tumor location, age, histological subtypes, radiotherapy,
+and surgical treatment as independent
+prognostic factors.
+Discussion
+In the present study, we used the data of 305,054 patients
+(including 2958occult lung cancer patients) to perform
+incidence-rate analysis. The results revealed that
+the crude incidence rate of occult lung cancer was 1.00
+per 100 patients, and the incidence-rate trend over time
+was likely to be reduced between 2004 and 2015. Next,
+data on 52,472 eligible patients were analyzed by Cox regression
+analysis including univariable and multivariable
+analyses. Those patients included 2353 cases of occult
+lung cancer. According to the results, we found that occult
+lung cancer patients didn’t have satisfactory survival
+outcomes. The prognosis of occult lung cancer was between
+T2b’s and T4’s. Besides, there was no significant
+difference in the prognosis of patients with T3 classification
+or occult lung cancer. After adjusting for other confounders,
+the female, age ≤ 72, well differentiation,
+adenocarcinoma, radiotherapy, and surgical resection
+were considered as independent protective prognostic
+factors for 2353 occult lung cancer patients. Therefore,
+we suggested that surgery might be an appropriate option
+for occult lung cancer.
+The incidence rate of occult lung cancer varied to a
+certain extent in the different populations. Previous
+studies and case reports found that occult lung cancer
+was usually accompanied by symptoms, metastatic diseases
+or other internal-medicine diseases when it was
+detected [6, 13–16]. Yoel Siegel et al. described a case report
+that occult lung cancer could mimic pneumonia
+and a pulmonary embolus by occluding a pulmonary
+vein [7]. A case by William Carrera et al. presented that
+occult small cell lung cancer might have a relation with
+occurring of retinopathy with chorioretinitis and optic
+neuritis [8]. Besides, Hui Mai et al. performed a study
+about characteristics of occult lung cancer-associated ischemic
+stroke, and suggested that occult cancer should
+be considered in the setting of multiple and recurrent
+embolic strokes within the short term in the absence of
+conventional stroke etiologies [9]. The above cases and
+study showed that occult lung cancer might be accompanied
+by different clinical symptoms. However, clinicians
+tend to pay more attention to their specialties,
+thus the diagnosis of the occult lung cancer becomes
+more complicated. Therefore, the research on the incidence
+rate of this disease may provide clinicians with
+some references for disease diagnosis and treatment.
+Because malignant tumors may cause the blood to hypercoagulable
+state, which leads to the occurrence of
+thrombosis [17], the previous researchers began to investigate
+the incidence of occult lung cancer in stroke
+patients. Alejandro Daniel Babore et al. analyzed data of
+over 800,000 patients, and uncovered that the prevalence
+of occult lung cancer was 5.3 per 1000 patients in the
+stroke patients, and 2.6 per 1000 patients in the control
+group [6]. The sample size of their study was large,
+therefore, the results had clinical reference value. However,
+the results of the present study revealed that crude
+incidence rate of occult lung cancer was 10.0 per 1000
+patients, which was much higher than the findings from
+above study. This difference in the incidence-rate results
+between above two studies was likely to be due to different
+selected cohorts. Our study cohort focused on lung
+cancer, which led to a higher incidence rate of occult
+lung cancer in the present study. However, the study by
+Alejandro Daniel Babore et al. majorly compared the incidence
+rate of occult lung cancer in stoke patients with
+that in general patients. Besides, they tried to explore
+the factors which might have effect on incidence rate.
+Though, this present study paid more attention to the
+incidence rate of occult lung cancer in entire lung cancer
+cohort, and illustrated that the incidence rate over
+time was reduced between 2004 and 2015. The reason
+why general trend over time was declined might be the
+popularization of computed tomography screening and
+the promotion of bronchoscopy [4, 18, 19].
+The present study found that the prognosis of occult
+lung cancer patients was poorer than that in patients
+with T2 disease. Those patients might have occult metastasis
+of lymph node or another organ, which leads to
+a poor prognosis. Of note, timely therapy could improve
+the long-term survival in the occult lung cancer. Patients
+who underwent surgical resection had better cancerspecific
+survival than patients who didn’t receive surgical
+treatment. And, the best survival benefit was derived
+from lobectomy. Joel J. Bechtel et al. and Cortese DA
+et al. had similar findings in their research [20, 21]. They
+suggested that 5-year survival rate was 74 and 90% in
+patients with cure resection, respectively. However, the
+sample size was relatively small in their research [20,
+21]. For example, in the study by Joel J. Bechtel et al.,
+only 27 of the 51 patients they enrolled underwent surgical
+resection. Similarly, there were only 54 patients
+underwent operation in the study by Cortese DA et al.
+The sample size of the present study was different from
+above mentioned studies causing the difference of 5-year
+survival rate followed surgical resection. Besides, radiotherapy
+was proven to have survival benefit in the 71-
+case study by M Saito et al [22]. In the present study,
+compared with patients who didn’t receive radiotherapy,
+cases with radiotherapy had a better survival. These findings
+confirmed the results from previous study.
+This study has several limitations. First, some important
+information (such as the invasion depth of tumor in
+the endobronchial wall) wasn’t detailed, as we couldn’t
+obtain the results of bronchoscopy and radiology in the
+SEER database. Thus, we did not further categorize the
+Tx classification. Second, cases with second primary
+lung cancer were excluded from the study. However, the
+incidence rate of occult lung cancer might be much
+higher in the cohort of second primary lung cancer.
+Therefore, the use of those findings was limited to patients
+with primary lung cancer. Third, because the data
+on histological subtypes were not detailed enough, unknown
+non-sarcoma cancer and unknown non-small cell
+carcinoma couldn’t be subdivided. Finally, this study
+belonged to retrospective study. Therefore, more studies
+are necessary to further explore the incidence rate and
+prognosis in patients with occult lung cancer.
+Fig. 3 The adjusted survival curves of different T classifications
+Conclusions
+Occult lung cancer was uncommon. However, the
+cancer-specific survival of occult lung cancer was poor,
+therefore, we should put the assessment of its prognoses
+on the agenda. Timely surgical treatment and radiotherapy
+could improve survival outcomes. Besides, we still
+need more research to confirm those findings.

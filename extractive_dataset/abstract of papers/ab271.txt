@@ -1,0 +1,19 @@
+Background: Undernutrition and cardiac disease are interconnected in a vicious cycle. Little is known about the
+effect of undernutrition on cardiac disease among children in low- and middle-income countries (LMICs). This study
+aimed to assess magnitude of undernutrition and associated factors among children with cardiac disease at
+University of Gondar hospital, northwest Ethiopia.
+Method: This hospital-based cross-sectional study included children with cardiac disease presenting to the
+pediatric outpatient clinic at University of Gondar Hospital, Ethiopia. A self-administered questionnaire was
+administered to participating families, and medical records were reviewed. All participants who fulfill the inclusion
+criteria were included. Anthropometric measurements were made and the presence of malnutrition was diagnosed
+according to the WHO criteria. Associated factors of undernutrition analyzed by using binary logistic regression
+model. Variables with p-value ≤0.2 in bivariate analysis were fitted to the final multivariable analysis and those
+variables with p-value ≤0.05 were considered as having statistically significant association to the outcome variable.
+AOR and 95% confidence interval was calculated to assess the strength of association between the variables.
+Result: A total of 269 patients participated in the study. 177 (65.7%) were undernourished, of whom 96 (54.5%)
+were underweight, 70 (39.7%) were stunted, and 95 (53.9%) were wasted. Pulmonary hypertension (adjusted odds
+ratio [AOR] = 3.82, 95%CI 1.80–8.10), NYHA/modified Ross class III and IV heart failure (AOR = 4.64, 1.69–12.72) and
+cardiac chamber enlargement (AOR = 2.91, 1.45–5.66) were associated with undernutrition.
+Conclusion: Undernutrition is common among children with cardiac disease in northern Ethiopia. Children with
+pulmonary hypertension, high-grade heart failure, and cardiac chamber enlargement may warrant close follow-up
+for malnutrition.

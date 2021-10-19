@@ -1,0 +1,410 @@
+Background
+Esophageal cancer ranks seventh in terms of incidence
+and sixth in mortality overall according to the
+report of the 2018 Global Cancer Statistics [1]. In
+China, esophageal cancer is the sixth most frequent
+malignant tumor and the fourth leading cause of
+cancer-related death [2]. Esophageal adenocarcinoma
+(EADC) and esophageal squamous cell carcinoma
+(ESCC) are the two most common histologic subtypes
+of esophageal cancer [3]. In high-income countries,
+majority of the esophageal cancer patients have
+EADCs. In China, more than 90% of the esophageal
+cancer cases are ESCCs [4]. The most studied region
+of China is located in the North Central Taihang
+Mountain. In this area, ESCC is the leading cause of
+death [5]. Based on a recent report from this region,
+esophageal cancer prognosis is poor and the 5-year
+survival rates are about 30% [6].
+Esophagitis is usually a benign disease. However, it is
+associated with an elevated risk for subsequent ESCC.
+Based on the WHO tumor classification, endoscopic biopsy
+of precancerous lesions yield low-grade intraepithelial
+neoplasia (LGIN) or high-grade intraepithelial
+neoplasia (HGIN) [7]. A report using a sample of containing
+both lesion types reported a 74% risk for esophageal
+cancer [8]. Identification of precursor lesions is
+critical for clinical care because these precursor lesions
+are curable. Early identification can reduce or delay
+ESCC mortality [9]. Overall, epidemiologic studies of
+ESCC show that it is population-dependent. The multifactorial
+basis for ESCC includes environmental exposures,
+lifestyle factors, and genetic traits [10]. In Western
+countries, alcohol consumption and smoking are the
+major risk factors for ESCC leading to a sevenfold increased
+risk of disease for smokers [11]. In high-risk
+areas of China, tobacco or alcohol does not appear to
+play the same role in population level rates of ESCC
+[12, 13]. Epidemiologic studies in these areas have
+not identified alternatives to smoking and alcohol
+consumption to explain these high rates of ESCC
+[14]. By increasing the number of cases of different
+esophageal lesions, this report presents evidence to
+improve our understanding of population-level factors
+in high rate areas of China.
+To fill the gap in our understanding of risk factors at
+different stages of esophageal lesions - esophagitis, LGIN
+and HGIN - this report presents cross-sectional data
+from five high-incidence regions of ESCC in China.
+Methods
+Study population
+This was a multicenter cross-sectional study, which relies
+on the high incidence regions of esophageal, gastric
+and colorectal cancer established by the cancer early
+diagnosis and early treatment project in China [15]. In
+2017, we launched a new screening study of upper
+gastrointestinal cancer in five high-risk regions of upper
+gastrointestinal cancer in China, including Hebei,
+Henan, Shandong, Shanxi, and Gansu Provinces. The
+main purpose of this project is to identify the high-risk
+population of malignant upper gastrointestinal cancer
+and to establish a cancer risk prediction model to provide
+support for the prevention of upper gastrointestinal
+cancer.
+The inclusion criteria were as follows: (1) local permanent
+residents in selected regions, (2) no history of
+endoscopic examination during the last 3 years, (3) no
+history of cancer, mental disorder, or any contraindication
+for endoscopy, (4) signed informed consent, and (5)
+agreement to complete all survey and examination, including
+endoscopy. The participant selection process is
+shown in Fig. 1. We recruited participants from April
+2017 to December 2018. The final analysis included
+44,857 residents aged 40–69 years. Among these participants,
+there were 116 invasive ESCC cases, 321 HGIN
+cases, 1874 LGIN cases, 4890 esophagitis cases, and
+37,656 normal esophagus controls.
+The study was approved by the Capital Medical University,
+Chinese Academy of Medical Sciences and Peking
+Union Medical College. All the experiment
+protocol for involving humans was in accordance to
+guidelines of Declaration of Helsinki. The STROBE
+statement can be found in Additional File 1.
+Survey and measurement
+Comprehensive questionnaire information was collected
+by face-to-face interviews and entered directly into a laptop
+based data entry system by trained investigators.
+The data entry process was facilitated with software designed
+to decrease missing items and reduce logic inaccuracy.
+A full questionnaire commonly took 35 ~ 45
+min to accomplish. Items in the survey included demographic
+characteristics (e.g. gender, age), socio-economic
+status (e.g. occupation, education and income), lifestyle
+habits (e.g. smoking, alcohol and tea drinking), eating
+habits (e.g. fresh fruit, meat and milk), history of diseases
+(e.g. history of chronic hepatitis/cirrhosis), as well as
+medical history (e.g. acid suppressant medications and
+antibiotics). In this study, occupation and education level
+were also classified two categories: farmer/non-farmer
+and formal/no formal. In addition, frequency of consumption
+of specific dietary components was collected
+using an item with a five-level response category. The
+responses included: eating every day, 4–6 days per week,
+1–3 days per week, 1–3 days per month and never eating.
+Body mass index (BMI) was calculated by the formula:
+weight (kg)/height (m2) and then classified as
+underweight if BMI < 18.5 kg/m2, normal if between
+18.5 kg/m2 and 23.9 kg/m2, overweight if between 24.0
+kg/m2 and 27.9 kg/m2, and obese if BMI ≥ 28.0 kg/m2 according
+to the Chinese population recommendation
+[16]. The detailed definitions of the variables were
+shown in Additional File 2.
+The endoscopic examinations were conducted by physicians
+at local hospitals. Procedures were based on clinical
+guidelines for cancer screening and early diagnosis
+and treatment in China [17]. The whole esophagus was
+visually examined. Lugol’ iodine staining in esophagus
+was applied to the diagnosis of suspicious lesions. The
+subjects with suspicious lesions (unstained and inflammatory
+lesions) were needed biopsy. The number of biopsies
+depended on the size of the lesion (> 1 cm, ≥ 2
+biopsy; > 2 cm, ≥ 3 biopsy; > 3 cm, ≥ 4 biopsy). In
+addition, if multiple scattered lesions were found, biopsy
+of all suspicious lesions should be taken as much as possible.
+Subjects without suspicious lesions did not receive
+a biopsy. The biopsy slides were read by two pathologists
+independently. If there were any inconsistencies, a third
+pathologist would give advice through discussion. Doctors
+reported the worst biopsy diagnosis to participants
+with multiple lesions. The histological criteria were as
+previously described [18–20].
+To ascertain severity, esophageal mucosa was ranked
+using 5 categories: normal esophageal mucosa, minor
+mucosa changes, esophagitis, esophageal squamous simple
+hyperplasia (ESSH) or esophageal squamous dysplasia
+(ESD) [21]. ESD was further categorized into 3 levels
+including mild, moderate, and severe. According to
+WHO tumor histological classification [7], mild and
+moderate ESD combined fall under LGIN. Severe ESD
+and squamous cell carcinoma in situ (CIS) are considered
+as the HGIN. In this study, we grouped the participants
+into 4 groups: normal control, esophagitis, LGIN
+and HGIN/ESCC (lesions including severe ESD, CIS,
+and higher-grade lesions).
+Statistical analyses
+Basic, descriptive statistics show categorical variables as
+frequencies and percentages, while continuous variables
+are shown as mean and standard deviations. The appropriate
+tests for significance were applied, χ2 or ANOVA
+test, respectively. In this report, we use the unconditional
+univariable logistic model to calculate crude odds
+ratios (ORs) and 95% confidence intervals (CIs) [22].
+The variables with a P value ≤0.2 in unconditional univariable
+logistic analysis were selected for unconditional
+multivariable logistic analysis. We considered three
+models to calculate the adjusted OR, including ageadjusted
+only, gender-adjusted only and adjusted age,
+gender, education, BMI and income at the same time.
+These adjusted confounders were selected based on the
+previous studies of esophageal cancer. Besides, models of
+adjustment for age or gender only were conducted as
+they may influence the socioeconomic status. In this
+study, dependent variable was the diagnosis outcome of
+disease. The independent variables included environment,
+lifestyle, diet habits, and medical history. We used
+SPSS software (version 24.0) to perform χ2 or ANOVA
+test, and glm function of R software (version 3.6.1) to
+perform logistic regression analysis. All tests of significance
+were two-sided with a P value of 0.05 was considered
+as statistically significant, expect univariable logistic
+regression analysis.
+Results
+Participant characteristics
+A total of 44,857 subjects aged 40 to 69 were incorporated
+in the analysis, including 37,656 (83.95%) subjects
+with a normal esophagus, 4890 (10.90%) people with
+esophagitis, 1874 (4.18%) cases of LGIN and 437 (0.97%)
+cases of HGIN/ESCC. Because the complete statistical
+description table was too long (Additional File 3), we
+only selected a few main variables to show in Table 1.
+The proportion of male in normal group, esophagitis,
+LGIN and HGIN/ESCC was 41.4, 46.8, 48.7 and 56.5%,
+respectively. However, the normal group (54.41 ± 7.26)
+was composed of a slightly younger population than the
+esophagitis (57.29 ± 6.85), LGIN (59.22 ± 6.25) and
+HGIN/ESCC (60.85 ± 5.80) group.
+Risk factors for different esophageal lesions
+We applied two steps to identify risk factors. Firstly, the
+unconditional univariable logistic regression analysis was
+used to test each variable independently and the estimated
+ORs with 95%CI are listed in Additional File 4.
+Secondly, the statistically significant variables in unconditional
+univariable logistic analysis were selected for unconditional
+multivariable analysis and the results were
+shown in Additional File 5. Tables 2, 3, 4 displayed the
+significant factors of 3 lesion groups from unconditional
+univariable logistic analysis and multivariable logistic
+analysis adjusted for age, gender, education, BMI and
+income.
+After final unconditional multivariable analysis, we
+identified a few important risk factors of 3 esophageal lesions.
+For the HGIN/ESCC patients, some unhealthy
+lifestyle and dietary habits (Table 3) were risk factors, including
+alcohol (adjusted OR 1.60, 95%CI 1.23–2.09),
+smoking (adjusted OR 1.46, 95%CI 1.14–1.89), drinking
+well and surface water (adjusted OR 1.55, 95%CI 1.28–
+1.89), salty diet (adjusted OR 1.36, 95%CI 1.07–1.77),
+drinking tea (adjusted OR 1.32, 95%CI 1.08–1.61). Although
+the P value of drinking hot/burning hot tea was
+no statistically significant, the adjusted OR value was
+1.34. In addition, pesticide exposure (adjusted OR 1.44,
+95% CI 1.11–1.84), loose teeth (adjusted OR 1.48, 95%CI
+0.99–2.12), history of chronic hepatitis/cirrhosis (adjusted
+OR 1.91, 95%CI 1.03–3.22), and family history of
+cancer (adjusted OR 1.64, 95%CI 1.34–2.00), also positively
+related to the risk of HGIN/ESCC (Tables 2, 3, 4).
+Based on the results of the adjusted analysis, we also
+found that some risk factors associated with LGIN were
+the same as HGIN/ESCC, consisting of drinking alcohol
+(adjusted OR 1.30, 95%CI 1.12–1.51), drinking well and
+surface water (adjusted OR 1.19, 95%CI 1.08–1.32), salty
+diet (adjusted OR 1.57, 95%CI 1.38–1.81), drinking tea
+(adjusted OR 1.34, 95%CI 1.26–1.54), family history of
+cancer (adjusted OR 1.33, 95%CI 1.20–1.47), pesticide
+exposure (adjusted OR 1.20, 95%CI 1.05–1.37) and loose
+teeth (adjusted OR 1.23, 95%CI 1.00–1.51). In addition,
+occupation as a farmer (adjusted OR 1.20, 95%CI 1.07–
+1.35) was also positively related to the risk of LGIN
+(Table 3). Drinking hot tea still did not find statistical
+significance (adjusted OR 1.10, 95%CI 0.92–1.33). On
+the contrary, eating poultry meat (adjusted OR 0.73,
+95%CI 0.66–0.81), fruits (adjusted OR 0.89, 95%CI 0.80–
+0.98), vitamins (adjusted OR 0.49, 95%CI 0.27–0.82),
+milk (adjusted OR 0.82, 95%CI 0.71–0.94), acid suppressants
+(adjusted OR 0.51, 95%CI 0.39–0.66), antibiotics
+(adjusted OR 0.33, 95%CI 0.14–0.80) and drinking improved
+water (adjusted OR 0.58, 95%CI 0.46–0.72) were
+negatively related to the risk of LGIN.
+Although esophagitis is a benign disease, there are
+more risk elevating and risk reduction factors than the
+diseases mentioned above. For the diet habits (Table 3),
+except that leftovers (adjusted OR 1.49, 95%CI 1.40–
+1.58) and salty diet (adjusted OR 1.57, 95%CI 1.45–1.71)
+were risk factors, the remaining factors had protective
+effect on esophagitis, such as poultry meat (adjusted OR
+0.62, 95%CI 0.58–0.67), fruits (adjusted OR 0.83, 95%CI
+0.78–0.88), vitamins (adjusted OR 0.68, 95%CI 0.50–
+0.90), livestock meat (adjusted OR 0.88, 95%CI 0.81–
+0.95), seafood (adjusted OR 0.89, 95%CI 0.82–0.97),
+spring onion/ginger/garlic (adjusted OR 0.69, 95%CI
+0.65–0.74) and nuts (adjusted OR 0.77, 95%CI 0.71–
+0.84).
+In addition, some unhealthy lifestyles were positively
+related to the risk of esophagitis (Table 3), including
+smoking (adjusted OR 1.09, 95%CI 1.00–1.19), drinking
+well and surface water (adjusted OR 1.61, 95%CI 1.51–
+1.71), and having snore (adjusted OR 1.09, 95%CI 1.02–
+1.15). On the contrary, other healthy lifestyles were
+negatively related to the risk of esophagitis (Table 3), including
+drinking improved water (adjusted OR 0.73,
+95%CI 0.64–0.83), refrigerator use (adjusted OR 0.50–
+0.73, P < 0.001), physical exercise (adjusted OR 0.69,
+95%CI 0.62–0.76) and doing housework (adjusted OR
+0.57–0.63, P < 0.001). Except for foods and lifestyles,
+family history of cancer (adjusted OR 1.22, 95%CI 1.14–
+1.30), history of chronic hepatitis/cirrhosis (adjusted OR
+2.96, 95%CI 2.52–3.47), occupation as a farmer (adjusted
+OR 1.21, 95%CI 1.12–1.30) and missing teeth (adjusted
+OR 1.14–1.94, P < 0.01) were positively related to the
+risk of esophagitis (Tables 2, 3, 4). Taking acid suppressants
+(adjusted OR 0.70, 95%CI 0.60–0.80) and taking
+antibiotics every day (adjusted OR 0.40, 95%CI 0.24–
+0.65) were negatively related to the risk of esophagitis
+(Table 4).
+Discussion
+The high rate of early esophageal lesions progressing to
+esophageal cancer has resulted in a concerted attempt to
+better understand the risk factors associated with this
+difference. In this study, we conducted a cross-sectional
+study in five areas with high incidence of ESCC in
+China, aiming to recognize the risk factors related to different
+esophageal lesions. At last, we identified three important
+risk factors, which persisted across all stages.
+Otherwise, we also find that the key risk factors in different
+stages were various.
+The three common risk factors are drinking well and
+surface water, salty diet, and family history of cancer. At
+present, the main sources of drinking water for some
+local residents in rural area of high incidence region
+were still well and surface water. Since the 1980s, the
+local government has taken significant measures to improve
+the quality of drinking water, and the incidence
+and mortality of esophageal cancer displayed a decreasing
+trend compared with regions where no improvement
+[23]. Our result showed that drinking well and surface
+water was important risk factor from early stage to late
+stage of lesions. We advised that the water improvement
+project still needed to implement in rural regions with
+poor drinking water quality.
+Previous studies found local people of rural areas were
+inclined to eat salty foods, such as salted meat, salted
+duck eggs and pickled vegetables. Both high frequency
+and long-term intakes were associated with elevated risk
+of ESCC. This observation is consistent with other studies
+[16, 24, 25]. However, the underlying mechanism was
+still unclear. We speculate that the mechanism, possible
+similar to gastric cancer [26, 27], is that high salt concentrations
+disrupt the mucosal barrier and lead to inflammation,
+which could increase the possibility of
+bacterial infection. It is noticed that salty diet, an important
+risk factor, existed at all stages of early esophageal
+lesions in our study.
+The association between ESCC and family history of
+cancer had been reported. Some studies showed that
+family history of cancer was strongly associated with
+ESCC risk and that genetic factors could contribute to
+the effect [28, 29]. Based on our results, we suggest that
+the above three common risk factors should be considered
+first in prevention of all stages.
+History of chronic hepatitis/cirrhosis, pesticides exposure
+and alcohol were important risk factors for esophagitis,
+LGIN and HGIN/ESCC, respectively. China has a
+high burden of liver disease [30, 31], previous studies report
+that chronic liver diseases, in particular chronic
+hepatitis B virus infection, are associated with reflux
+esophagitis reflux [32, 33]. In this study, we identified
+that history of chronic hepatitis/cirrhosis was the tremendous
+risk factor both esophagitis and HGIN/ESCC.
+Currently, there is an effective vaccine to prevent hepatitis
+B virus infection. Increased vaccination for hepatitis
+B could also reduce the occurrence of ESCC in high incidence
+regions. Similar to our findings, previous studies
+had confirmed that alcohol is a risk factor for ESCC [4,
+10]. The reason is that acetaldehyde, a class 1 carcinogen,
+is the first metabolite of ethanol metabolism [34,
+35].
+Pesticides had been reported as a risk factor for a variety
+of cancers [36], such as prostate cancer [37] and
+childhood leukemia [38], but the role of pesticides in
+esophageal cancer is still unclear. Our results showed
+that pesticide exposure was an important risk factor,
+which not only increased the risk of LGIN (adjusted OR
+1.20, 95%CI 1.05–1.37) but also HGIN/ESCC (adjusted
+OR 1.44, 95%CI 1.11–1.84). In this study, most of participants
+are farmer, who had a greater chance exposed
+pesticide than non-farmer, which could increase the risk
+of early esophageal lesions. Therefore, the result showed
+that pesticide was a significant risk factor of LGIN and
+HGIN/ESCC. Further study is needed to evaluate the
+mechanism linking pesticide exposure and early esophageal
+lesions.
+It is noticed that our study found that high frequency
+of drinking tea is a risk factor for LGIN and LGIN/
+ESCC, which is similar to previous study [39]. Currently,
+the association between tea consumption and esophageal
+cancer is inconsistent, which could be related to the type
+of tea [40]. In addition, our research found that although
+adjusted OR values were all greater than 1, there was no
+statistically significant correlation between high tea
+temperature and different esophageal lesions. This result
+could be caused by the small sample size of cases. Further
+prospective study is still needed. Interestingly, our
+results revealed that antibiotics were protective factor
+for esophagitis and LGIN. Previous study found that
+Porphyromonas gingivalis was positively correlated with
+the severity of esophageal squamous cell carcinoma and
+might contribute to the pathogenesis of esophageal
+squamous cell carcinoma [41]. We speculated that antibiotics
+intake might change the composition of the gut
+microbiome and reduce their adverse effects on esophagus,
+thus play a positive role in the prevention of ESCC.
+Besides, we also found that with the aggravation of the
+esophageal lesions, the number of risk factors reduced,
+which suggested that the effect of environmental factors
+on the late stage of the disease decreased. These results
+also mean that it is a more meaningful method for prevention
+of ESCC by controlling environmental factors in
+early lesion, such as balanced diet, proper exercise, and
+healthy lifestyle.
+The present study had several limitations. Most of the
+variables analyzed in the study were based on selfreported
+data which may be susceptible to recall bias. In
+addition, there are some factors were not collected in
+the questionnaire, such as cooking methods, history of
+upper gastrointestinal tumors or esophageal cancer. The
+main strength of our study is that it was the first multicenter
+cross-sectional study to identify risk factors in different
+stage of early esophageal lesions. Furthermore,
+detailed questionnaire was collected in a standardized
+data entry system by trained investigator to assure the
+quality of the data. In addition, we used the gold standard
+method to exam esophageal lesions.
+Conclusions
+In conclusion, we performed a cross sectional study of
+44,857 individuals in the age range of 40–69 years. These
+individuals live in regions with high-rates of ESCC regions
+in China. This report has identified drinking well
+and surface water, salty diet, family history of cancer and
+alcohol consumption as factors influencing disease rates
+across all stages. We also identified history of chronic
+hepatitis/cirrhosis and pesticide exposure as essential
+risk factors in esophagitis, LGIN and HGIN/ESCC, respectively.
+The results make a compelling case for environmental
+factors being the main driver of disease. The
+results also suggest directions for efforts to ESCC in an
+early stage of disease in high incidence regions. However,
+considering the complexity of the disease, although
+environmental factors play an important role in the early
+stages of ESCC, these may vary as the severity of the disease
+increases. Further cohort studies are needed to support and expand our understanding of ESCC risk
+factors.

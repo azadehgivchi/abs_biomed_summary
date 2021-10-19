@@ -1,0 +1,15 @@
+Background: Cornin is a commonly used herb in cardiology for its cardioprotective effect. The effect of herbs on
+the activity of cytochrome P450 enzymes (CYP450s) can induce adverse drug-drug interaction even treatment
+failure. Therefore, it is necessary to investigate the effect of cornin on the activity of CYP450s, which can provide
+more guidance for the clinical application of cornin.
+Methods: Cornin (100 μM) was incubated with eight isoforms of CYP450s, including CYP1A2, 2A6, 3A4, 2C8, 2C9,
+2C19, 2D6, and 2E1, in pooled human liver microsomes. The inhibition model and corresponding parameters were
+also investigated.
+Results: Cornin exerted significant inhibitory effect on the activity of CYP3A4, 2C9, and 2E1 in a dose-dependent
+manner with the IC50 values of 9.20, 22.91, and 14.28 μM, respectively (p < 0.05). Cornin inhibited the activity of
+CYP3A4 non-competitively with the Ki value of 4.69 μM, while the inhibition of CYP2C9 and 2E1 by cornin was
+competitive with the Ki value of 11.31 and 6.54 μM, respectively. Additionally, the inhibition of CYP3A4 by cornin
+was found to be time-dependent with the KI/Kinact value of 6.40/0.055 min− 1·μM− 1.
+Conclusions: The inhibitory effect of cornin on the activity of CYP3A4, 2C9, and 2E1 indicated the potential drugdrug
+interaction between cornin and drugs metabolized by these CYP450s, which needs further investigation and
+validation.

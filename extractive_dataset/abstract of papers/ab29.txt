@@ -1,0 +1,35 @@
+Background: This study aimed to assess the feasibility of a pan-cancer panel assay for high-risk renal cell carcinoma
+(RCC) in the Korean population. We also analyzed the clinical and genetic factors contributing to metastasis in clear
+cell RCC.
+Methods: Thirty-one patients with advanced RCC who underwent radical nephrectomy were analyzed. A 1.8 Mb multicancer
+panel (including 25 RCC-related genes, such as VHL, PBRM1, SETD2, and MET), comprising 181 target genes, 23
+fusion genes, and 45 drug target lesions developed by Seoul National University Hospital, was used for this study.
+Results: We extracted DNA from 30 of the 31 (96.7%) RCC specimens. Twenty-one patients (average age 63.3 ± 11.3
+years) with clear cell RCC, 5 with papillary RCC, 3 with chromophobe RCC, and one patient, each with MiT family
+translocation carcinoma RCC and succinate dehydrogenase deficiency RCC, were analyzed. The sequencing depth was
+430.8 ± 206.6 and 97 mutations (7.3 ± 2.7 mutations per patient) were detected. The most commonly mutated genes
+were VHL (46%), PBRM1 (30%), and BAP1, NOTCH4, and POLQ (23.33% each). Compared with TNM stage matched data
+from TCGA of clear cell RCC, VHL and PBRM1 are most common in both cohorts. Univariate and multivariate analyses
+revealed that tumor size (Hazard ratio = 2.47, p = 0.04) and PBRM1 (Hazard ratio = 28.69, p = 0.05) were related to
+metastasis in clear cell RCC.
+Conclusion: The pan-cancer panel comprised of RCC-related genes is a feasible and promising tool to evaluate genetic
+alterations in advanced RCC. However, large-scale studies and a focus on the clinical utility of this cancer panels is needed.
+Keywords: Kidney cancer, Genes, VHL gene, PBRM1 mutation, Metastasis, Pan-cancer panel, Next-generation sequencing
+Background
+Renal cell carcinoma (RCC) is a malignancy that arises
+in the nephron tubules and has very heterogeneous
+histologic and clinical manifestations, accounting for approximately
+90% of all cases of kidney cancer and 2.4%
+of all adult tumors [1]. The incidence of RCC continues
+to increase [2]. As of 216, there are more than 15 RCC
+subtypes classified by the World Health Organization [2],
+based on histologic and molecular criteria. Clear cell RCC
+(ccRCC) is the most common subtype, accounting for
+75% of RCC cases, followed by papillary RCC (pRCC) and
+chromophobe RCC (chrRCC) [3]. The MiT family of
+translocation carcinomas (tRCC) and succinate dehydrogenase
+deficiency RCC (SDHD RCC) are rare subtypes,
+which are diagnosed based on molecular alterations.
+Recent advances in next-generation sequencing (NGS)
+technology have revealed numerous genetic alterations
+© The

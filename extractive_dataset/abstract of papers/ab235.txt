@@ -1,0 +1,17 @@
+Introduction: Diagnosing Kashin-Beck disease (KBD) involves damages to multiple joints and carries variable clinical
+symptoms, posing great challenge to the diagnosis of KBD for clinical practitioners. However, it is still unclear which
+clinical features of KBD are more informative for the diagnosis of Kashin-Beck disease among adolescent.
+Methods: We first manually extracted 26 possible features including clinical manifestations, and pathological
+changes of X-ray images from 400 KBD and 400 non-KBD adolescents. With such features, we performed four classification
+methods, i.e., random forest algorithms (RFA), artificial neural networks (ANNs), support vector machines (SVMs)
+and linear regression (LR) with four feature selection methods, i.e., RFA, minimum redundancy maximum relevance
+(mRMR), support vector machine recursive feature elimination (SVM—RFE) and Relief. The performance of diagnosis
+of KBD with respect to different classification models were evaluated by sensitivity, specificity, accuracy, and the area
+under the receiver operating characteristic (ROC) curve (AUC).
+Results: Our results demonstrated that the 10 out of 26 discriminative features were displayed more powerful performance,
+regardless of the chosen of classification models and feature selection methods. These ten discriminative
+features were distal end of phalanges alterations, metaphysis alterations and carpals alterations and clinical manifestations
+of ankle joint movement limitation, enlarged finger joints, flexion of the distal part of fingers, elbow joint movement
+limitation, squatting limitation, deformed finger joints, wrist joint movement limitation.
+Conclusions: The selected ten discriminative features could provide a fast, effective diagnostic standard for KBD
+adolescents.

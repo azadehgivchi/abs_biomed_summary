@@ -1,0 +1,21 @@
+Background: It is essential for radiologists to communicate actionable findings to the referring clinicians reliably.
+Natural language processing (NLP) has been shown to help identify free-text radiology reports including actionable
+findings. However, the application of recent deep learning techniques to radiology reports, which can improve the
+detection performance, has not been thoroughly examined. Moreover, free-text that clinicians input in the ordering
+form (order information) has seldom been used to identify actionable reports. This study aims to evaluate the benefits
+of two new approaches: (1) bidirectional encoder representations from transformers (BERT), a recent deep learning
+architecture in NLP, and (2) using order information in addition to radiology reports.
+Methods: We performed a binary classification to distinguish actionable reports (i.e., radiology reports tagged as
+actionable in actual radiological practice) from non-actionable ones (those without an actionable tag). 90,923 Japanese
+radiology reports in our hospital were used, of which 788 (0.87%) were actionable. We evaluated four methods,
+statistical machine learning with logistic regression (LR) and with gradient boosting decision tree (GBDT), and deep
+learning with a bidirectional long short-term memory (LSTM) model and a publicly available Japanese BERT model.
+Each method was used with two different inputs, radiology reports alone and pairs of order information and radiology
+reports. Thus, eight experiments were conducted to examine the performance.
+Results: Without order information, BERT achieved the highest area under the precision-recall curve (AUPRC) of
+0.5138, which showed a statistically significant improvement over LR, GBDT, and LSTM, and the highest area under the
+receiver operating characteristic curve (AUROC) of 0.9516. Simply coupling the order information with the radiology
+reports slightly increased the AUPRC of BERT but did not lead to a statistically significant improvement. This may be
+due to the complexity of clinical decisions made by radiologists.
+Conclusions: BERT was assumed to be useful to detect actionable reports. More sophisticated methods are required
+to use order information effectively.

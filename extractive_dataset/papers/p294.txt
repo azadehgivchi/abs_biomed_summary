@@ -1,0 +1,355 @@
+Background
+Denture stomatitis is a common clinical condition occurring
+in removable denture wearers. It is characterized
+by inflammation, erythema and edema of denture bearing
+mucosa which may accompanied by pain or burning
+[1]. Several studies reported that more than two thirds
+of denture wearers can develop denture stomatitis [2, 3].
+The prevalence of this lesion in Iranian population was
+estimated to be 28.9% [4]. Although, the main etiology of
+denture stomatitis is not fully understood, some related
+risk factors have been identified including Candida infection,
+defects in the immune system, mucosal trauma,
+poor denture hygiene, and denture wearing pattern [2, 5].
+As some of the risk factors are interrelated, they should
+be studied with multivariable analysis [5]. Although,
+many studies have been published on prevalence and etiology
+of denture stomatitis, the conclusion is still controversial
+[2, 3, 5, 6].
+It is believed that most cases of denture stomatitis
+are associated with Candida growth [7] while literature
+reveals that cigarette smoking, as one of the local factors,
+either alone or with other factors can lead to candida
+infection [8, 9]. Smoking tobacco in other forms, such
+as hookah (also known as: water pipe, nargileh, shisha,
+ghalyan) indicated to be associated with suppressing the
+immune system cells, change the composition of the oral
+microbiome and proliferate Candida species [10, 11]. To
+date, different hypotheses have been reported regarding
+the pathogenesis of tobacco-related diseases, but none
+of them conclusive. [8]..Hookah smoking is culturally
+popular among Asian people, however its usage becomes
+increasingly prevalent among other societies too [12].
+Various studies reported that the rate of regular or occasional
+use among adults in Iran is 16.3% [13].
+Consumption of opium or its derivatives as a psychoactive
+drug in Middle East, especially Afghanistan, Pakistan,
+and in our country Iran is exceptionally common
+[14]. A general population-based survey performed in
+Kerman province, Iran, indicated that the prevalence of
+opium abuse was 17.1% and addiction rate was 5.3% [15].
+Some studies investigated the correlation between opium
+addiction, as a suppressive factor of immune system, and
+candida infection which showed a higher risk of fungal
+infection in addicts [16, 17].
+Moreover, risk indicators such as cigarette, hookah
+and opium consumption and denture hygiene have less
+investigated in the previous studies. Therefor the aim of
+this study was to investigate the association of denture
+stomatitis prevalence with cigarette, hookah and opium
+consumption also dose–response relationship between
+the cigarette smoking duration and odds of denture stomatitis
+in population of Rafsanjan cohort center.
+Methods
+Study design and patient selection
+This cross-sectional study based on data of Rafsanjan
+Cohort Study (RCS) which is a part of the prospective
+epidemiological research studies in Iran (PERSIAN) [18].
+RCS conducted in Rafsanjan as one of the cities located
+southeast of Iran with 10,000 participants of both gender
+aged 35–70 years old [19]. The only inclusion criterion for
+the present study was wearing at least one complete denture
+and the exclusion criteria were as follows; immunocompromised
+individuals, history of drug ingestion in the
+past 30 days including; wide spectrum antibiotic, antimycotic,
+or corticosteroids and history of organ transplantation
+as they should receive lifelong immunosuppressive
+therapy. After applying the exclusion criteria, 1619 cases
+were included in the analysis. Study was designed based
+on the PERSIAN protocol and was approved by the Ethics
+Committee of Rafsanjan University of Medical Sciences
+(IR.RUMS.REC.1398.058).
+Data collection
+Data were collected by completion of interviewerbased
+questionnaires and intra-oral examination.
+Intra-oral examination performed by examiners who
+were trained and calibrated in workshops hold by an
+oral medicine specialist to diagnose denture stomatitis.
+The oral medicine specialist was consulted in case
+of uncertainty. A clinical diagnosis of denture stomatitis
+was made when inflammatory alterations were
+found under a removable denture according to newton’s
+criteria [20]. For a lesion to be classified as denture
+stomatitis, there must be visible inflammatory
+changes under the denture [21] and Patient-reported
+discomfort in the absence of inflammation was not
+recorded as denture stomatitis.
+Questionnaires included questions on demography,
+cigarette and hookah smoking, opium consumption,
+alcohol consumption, medical history (diabetes and
+hypertension), body mass index (BMI), Wealth score
+index (WSI), nutritional habit and oral health questions
+such as denture hygiene habits. In terms of income, WSI
+was categorized into two groups: lower and higher than
+median.
+To determine cigarette, hookah and opium consumption,
+a structured questionnaire about frequency of use
+and years of smoking was used. We classified cigarette
+smoking as current and former smoking; participants
+who had smoked more than 100 cigarettes in lifetime
+and are still smoking considered as current smoker and
+who quit smoking prior to admission considered as
+former smoker. Duration of cigarette smoking in current
+smokers divided into four quartiles: ≤ 11 year,
+12–24 year, 25–34 year and ≥ 35 year. Opium consumption
+was defined as self-report of opium use at least once
+per week for 6 months prior to admission, and hookah
+smoker was defined as active smoking of tobacco using a
+hookah over the past 30 days [19]. Alcohol consumption
+was defined as drinking approximately 350 mL of beer or
+150 mL of wine or 45 mL of liquor, once per week for at
+least 6 months[19]. Qualitative and quantitative aspects
+of food intake were evaluated by use of food frequency
+questionnaire; Vitamins A (Micrograms per day), B12
+(Milligrams per day), a- and b-carotene (Micrograms per
+day) and calcium and magnesium (Milligrams per day)
+were computed by nutritional records. Questionnaires
+were verified in the PERSIAN [18].
+Statistical analyses
+Data of the present study were analyzed by STATA 14.0
+(STATA Corp, College Station, TX) software. Categorical
+variables across denture stomatitis were analyzed
+using chi-square test. T-test was used to compare the
+continuous variables between denture stomatitis groups.
+For investigating the association between cigarette,
+hookah and opium consumption and denture stomatitis
+prevalence, logistic regression models were used. Confounders
+were identified using relevant epidemiological
+literature. Thereafter, they were sequentially entered
+into models according to their hypothesized strengths of
+association with denture stomatitis. To achieve this goal,
+separate models at bivariate level were run to acquire
+variables associated with denture stomatitis. Afterwards,
+variables with a p-value < 0.25 were considered for multivariate
+analysis. Adjusted model 1 included sociodemographic
+characteristics (age, gender, education years
+and WSI) considered to be related to cigarette, hookah
+and opium consumption and denture stomatitis. Model
+2 contained additional adjustments for oral health factor
+(The frequency of brushing per day), history of hypertension,
+alcohol use that were additionally considered
+to confound cigarette, hookah and opium consumptiondenture
+stomatitis associations. Model 3 included all
+variables in adjusted model 2 and additionally included
+vitamins A, B12 and a- and b-carotene, calcium and magnesium
+intake per day. In all models related to cigarette
+smoking and denture-associated stomatitis the effect
+of hookah and opium use was controlled and in models
+related to opium consumption the unwanted effects
+of cigarette and hookah smoking was also controlled.
+Since opium consumption is known as stigmatized
+and marginalized attitude, in the present study some
+degree of nondifferential misclassification is likely as a
+consequence of misreporting and recall bias. Therefore,
+to evaluate the direction and extent of the misreporting
+bias, we conducted a simple bias analysis, and compared
+the results with those of the conventional result [22]. The
+results of an internal validation analysis can be used to
+define the bias parameters (sensitivity and specificity
+of self-reported opium consumption). When resources
+are not available for performing an internal validation
+analysis, previously conducted validation studies which
+are applicable to the acquired data can be used. Finally,
+in the absence of relevant studies, the researchers must
+use their experience to classify parameters. Also, due
+to lack of any internal validation study for evaluation of
+the self-reporting of opium consumption, utilizing of the
+results of an external validation study [23] and estimation
+based on the current condition [19] to determine the bias
+parameters and applying of simple bias analysis to correct
+the exposure measurement error were inevitable [22].
+Results
+In the present study, 1619 participants in the baseline
+data collection phase of the Rafsanjan cohort study,
+763(47.1%) women and 856 (52.9%) men, with the
+mean ± SD age of 58.07 ± 7.36, who had maxillary or
+mandibular dentures, were included. Prevalence of denture
+stomatitis in all removable complete denture wearers
+was 21.6% (Table 1).
+Characteristics of participants from the aspects of sociodemographic,
+cigarette and hookah smoking, opium
+consumption, alcohol use, BMI, nutrient intake and oral
+health based on stomatitis denture status are shown in
+Table 1. There are significant differences regarding gender,
+cigarette smoking, opium consumption and history
+of hypertension among denture stomatitis and non-denture
+stomatitis participants. As expected, cigarette smoking
+and its duration had significant effects on prevalence
+of denture stomatitis.
+Table 2 shows the association of denture stomatitis
+diseases with cigarette, hookah and opium consumption
+using the crude and three adjusted models.
+In the crude regression model, the odds of denture stomatitis
+among current cigarette smokers and opium users
+were about 2.12 and 1.33 times greater than those of noncigarette
+smokers and non-opium users respectively (OR;
+2.12, 95% CI 1.63–2.76 and OR; 1.33, 95% CI 1.05–1.69
+respectively). This association has been persisted after
+adjustment for confounders among current cigarette
+smokers (adjusted OR; 2.27, 95% CI 1.52–3.38), but not
+in opium users and former cigarette smokers (adjusted
+model 2). Adjusted model 3 includes all variables considered
+in adjusted model 2, additionally included vitamins
+A, B12 and a- and b-carotene and calcium and magnesium
+intake. Although, the result showed no marked
+changes after adjusting for the variables among current
+cigarette smokers (adjusted OR; 2.29, 95% CI 1.53 to
+3.41) (adjusted model 3). As the results classified by quartile
+of cigarette smoking duration, dose–response rises
+were shown, with the highest odds ratios for denture
+stomatitis in the 4th quartile (adjusted OR; 2.09, 95% CI
+1.29–3.37). Also, we investigated the interaction between
+opium consumption and cigarette smoking and denture
+stomatitis and the results showed that participants who
+were opium consumer and cigarette smoker at the same
+time had no higher odds of denture stomatitis (adjusted
+OR: 1.65, 95% CI 0.85–3.22). Also, we failed to find any
+association between hookah use and denture stomatitis
+in any of the models.
+As previously mentioned, since opium consumption
+is known as stigmatized attitude in the studies, we conducted
+a simple bias analysis and compared the results
+of the analysis with conventional results, assuming that
+the specificity and sensitivity of the self-reported opium
+consumption in both denture stomatitis and non-denture
+stomatitis groups are 90%. The adjusted odds ratios for
+this bias about denture stomatitis are 1.44. These Odds
+ratios were reported in the crude logistics model before
+adjusting for this bias as 1.33. According to this analysis,
+percent biases, were − 7% for association between denture
+stomatitis and opium consumption, demonstrating
+that the odds ratio increased or, in other words, there was
+7% error towards null prior to controlling for this bias.
+Discussion
+The aim of the present cross-sectional study was to investigate
+the association of denture stomatitis prevalence
+with cigarette, hookah and opium consumption in participants
+of Rafsanjan cohort study, a district in southeastern
+Iran with a high rate of opium consumption. The
+present study would provide basic data for better understanding
+of distribution and association of denture stomatitis
+and cigarette, hookah and opium consumption
+as essential information for prevention, early diagnosis,
+treatment and also for better dental health services.
+According to our findings, the prevalence of denture stomatitis
+in all removable complete denture wearers was
+21.6% which was in accordance with similar previous
+studies [4, 24]. Also In agreement with some other studies
+[6, 25], male participants showed a higher prevalence
+of denture stomatitis (62.75%). However, there are studies
+indicating that denture stomatitis is more frequent
+among female gender [24, 26].
+We found that denture stomatitis were almost two
+times more prevalent in current cigarette smokers compared
+with non-cigarette smokers (also when adjusted
+for several potentially confounding variables). This findings
+were similar to those reported by several studies [5,
+8, 9]. Shulman et al. found that cigarette smokers had
+increased OR of denture stomatitis [5]. This association
+could be in relation with increasing candida carriage, as
+cigarette increases epithelial thickness and changes functional
+activity of the keratinocytes which leads to candida
+colonization [27]. Hypothetically, cigarette smokers had
+a reduced salivary flow rate and, as a result, decreased
+saliva pH may result in an acidic environment that is also
+likely to increase Candida colonization. Furthermore,
+it has been proposed that smoking causes a decrease in
+salivary immunoglobulin A (IgA) and reduction in neutrophil
+function, both of which promotes oral Candida
+colonization [28]. In addition, our findings on dose–
+response relationships between the cigarette smoking
+and odds of denture stomatitis strengthened the conclusion
+that cigarette smoking were directly associated with
+an increased odds of denture stomatitis.
+However, it should be noted that, the cross-sectional
+studies does not allow us to determine the directionality
+of observed associations, and further prospective studies
+are warranted to reconsider these associations.
+Also, It has been reported that 23.81% of the Rafsanjan
+adults (46.19% of men and 4.27% of women) use opium
+[19]. Our finding indicated that the prevalence of denture
+stomatitis was 0.81 times lower in opium users compared
+to non-opium users (not statistically significant). Therefore,
+this result suggests that opium consumption has no
+effect on denture stomatitis. Interestingly, our additional
+analysis indicated that the interaction between opium
+consumption and cigarette smoking was also not associated
+with higher odds of denture stomatitis. Kathwate
+et al. observed antifungal effect of tramadol, an opioid
+agonist, at certain concentration [29] and in contrast
+to this study, Hadzic et al. [30] reported higher candida
+growth in opium users. There is a study suggesting that
+impairing immune system cells by opium can provide a
+candida infection condition and consequently increase
+the possibility of denture stomatitis incidence [31]. Due
+to these conflicting evidence, it is suggested that in the
+follow-up phase of the study, this association is further
+investigated.
+According to the findings of the present work, contrary
+to opium users, denture stomatitis were more prevalent
+in hookah smokers versus non-hookah smokers which
+are consistent with those of the previous studies [10, 11]
+although they were not statistically significant.
+This study had strengths and limitations. Populationbased
+nature of the study with a large size of the sample,
+the high population coverage and extensive data collection
+for the exposure of interest (cigarette, hookah and
+opium consumption) and potential confounders (e.g. age,
+gender, education, oral heath factor, medical history and
+nutrient intake) were strongly enhancing the external
+validity of this study. The study design had a number of
+limitations too.
+The major limitation of the study was the design where
+both outcome and predictor variables were assessed
+simultaneously. The cross-sectional design of the present
+study does not allow us to determine the directionality
+of observed associations. For example we are not
+able to determine if participants started smoking before
+or after the onset of denture stomatitis, accordingly, it is
+suggested that this relationship be reconsidered in the
+follow-up phase of this prospective study.
+Also, it is likely that a number of individuals have not
+fully disclosed their opium consumption status. However,
+there might be a degree of misclassification because of
+self-reporting and recall biases. As a result, measurement
+errors may occur in this form of study, leading to incidence
+bias [32–34]. However, self-reporting bias whole effect varies
+according to sex, age, geographical location, and study
+population [35, 36]. Interestingly, since opium consumption
+in this population was related to a lower social stigma, we
+believe that the validity of the data on opium consumption
+in study population is almost high. Abnet et al. in agreement
+with this study showed a high rate of sensitivity of opium
+consumption among residents of northern cities of Iran [23].
+It has been reported that this population, use opium as a traditional
+medicine with low social stigma. However, in the
+present study, findings from simple bias analysis indicated
+that the direction and value of this bias may be towards null
+and the adjusted OR for this bias about denture stomatitis is
+stronger than that of the conventional result and the validity
+of the results of this model is influenced by the accuracy
+of bias parameters [22]. Hence, it is suggested to perform an
+internal validation research on our population to examine
+the magnitude and direction of this bias more accurately.
+These findings may shed a more light in the field of causative
+association of denture stomatitis prevalence with opium
+consumption or tobacco smoking as determining factors for
+updating dental health services and education.
+Conclusion
+According to the findings of this study while cigarette
+smoking has a dose–response relationship with increased
+odds of denture stomatitis; this association was not found
+with opium consumption. Also, we failed to find any
+association between hookah smoking and denture stomatitis.
+Accordingly, denture wearers should be more
+aware of adverse effects of cigarette smoking.

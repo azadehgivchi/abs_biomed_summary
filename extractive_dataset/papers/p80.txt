@@ -1,0 +1,365 @@
+Background
+Coronary heart disease (CHD) remains the most sig-
+nificant cause of mortality and a substantial contribu-
+tor to reduced quality of life worldwide [1, 2]. Along 
+with improved stent design, procedural techniques, and 
+effective pharmacological treatments, revasculariza-
+tion therapy has become an essential part of the treat-
+ment of CHD [3, 4]. Nonetheless, cardiovascular and 
+Open Access
+non-cardiovascular death and other ischemic events 
+driven by atherosclerosis after percutaneous coronary 
+intervention (PCI) remain concerning [5]. Cardiovas-
+cular death is the predominant issue in the short term 
+after PCI [6]. The progression of atherosclerosis does 
+not stop, even in patients who have undergone coronary 
+revascularization with PCI or coronary artery bypass 
+grafting (CABG) [7]. Mechanical manipulation can also 
+cause damage to blood vessels, which can lead to the 
+occurrence of adverse cardiovascular events. Although 
+revascularization with PCI or CABG has repeatedly 
+demonstrated to be the best treatment for patients with 
+severe coronary stenosis or occlusion, intraoperative or 
+perioperative medical therapy is generally emphasized. In 
+contrast, concomitant optimal medical therapy (OMT) is 
+often ignored after patients have undergone PCI.
+OMT is recommended in the current practice guide-
+lines to improve further symptoms and reduce the inci-
+dence of adverse events [8, 9]. In recent years, several 
+registries have evaluated the use of OMT after PCI. There 
+are substantial within-country differences in the manage-
+ment of patients after PCI [10], as is the case in China. 
+Moreover, several observational studies found that the 
+application of OMT after PCI was suboptimal in the real 
+world [11, 12]. Limited data are available on the use of 
+OMT after PCI in China.
+Accordingly, our study aimed to investigate the long-
+term trend in the utilization of OMT, evaluate the 
+utilization and impact of OMT on the main adverse car-
+diovascular and cerebrovascular events (MACCEs) in 
+post-PCI patients and analyze the predictive factors of 
+OMT after patient discharge in China.
+Methods
+Patient enrollment
+  Our study was a single-center prospective observa-
+tional study. A total of 3812 patients diagnosed with 
+coronary heart disease who successfully underwent PCI 
+at TEDA International Cardiovascular Hospital from 
+2016.10 to 2017.09 were selected.  The study protocol 
+was approved by the TEDA International Cardiovascu-
+lar Hospital Research Ethics Committee, and informed 
+consent was obtained from the patients before enroll-
+ment. Figure 1 showed the study flow chart. The inclu-
+sion criterion was successful PCI. The following were 
+exclusion criterion: (1) a definite history of allergy and 
+allergies to or intolerance of the drugs recommended 
+by the guidelines (including statins, antiplatelet drugs, 
+β-blockers, and various blood pressure and glucose-
+lowering drugs); (2) a diagnosis of malignant tumors or 
+a life expectancy < 1 year; (3) a diagnosis of an immune 
+system disease and/or taking hormones therapy; (4) 
+a serum creatinine level ≥ 265  mol/L or renal fail-
+ure detected in the past or during hospitalization; (5) 
+lack of autonomy or a diagnosis of a mental illness; (6) 
+incomplete clinical data or coronary angiography data; 
+and (7) in-hospital death after PCI.
+Data collection
+Demographic data included age, sex, height, weight, 
+occupation, education, and type of medical insurance. 
+Other clinical data included admission diagnosis, family 
+history of cardiovascular disease and history of hyper-
+tension, diabetes, hyperlipidemia, chronic heart failure 
+(CHF), chronic renal insufficiency, stroke, old myocar-
+dial infarction, angina pectoris, PCI, CABG, smoking and 
+other concomitant diseases. We also collected data from 
+all included patients on the levels of hemoglobin, low-
+density lipoprotein cholesterol, fasting blood glucose, 
+serum creatinine, alanine aminotransferase and the sur-
+gical records, including information about the vascular 
+lesions and the number of stents placed. All clinical data 
+were obtained from the electronic medical record system.
+
+ 
+Follow‑up, definitions, endpoints
+In this study, medication use was recorded before dis-
+charge and at 1 month, 6 months and 1 year after dis-
+charge. MACCEs and the occurrence of individual 
+events were also recorded. Follow-up was mainly per-
+formed by telephone (contact with the patient or the 
+patient’s family), outpatient clinic visits and readmis-
+sion. OMT was defined as the combination of dual 
+antiplatelet therapy (DAPT), statins, β-blockers, and 
+angiotensin-converting enzyme inhibitors (ACEIs) or 
+angiotensin receptor blockers (ARBs) during follow-up 
+after PCI. The primary endpoint was the occurrence 
+of any MACCEs, defined as a composite of death from 
+any cause, nonfatal myocardial infarction, stroke, or 
+target vessel revascularization (TVR). The secondary 
+endpoints were each of the individual clinical events 
+described above. TVR was defined as repeat PCI or 
+CABG in the vessel treated during the index PCI or any 
+coronary artery segment containing the target lesion.
+Statistical analysis
+All statistical analyses were performed with SPSS 
+22.0 (SPSS Inc., Chicago, Illinois). Continuous vari-
+ables with a normal distribution are expressed as the 
+means ± standard deviations (`x ± s). Independent 
+samples t-tests were used to compare the differences 
+between groups. Nonnormally distributed data are rep-
+resented as the median (quartile ranges) [M(Q1–Q3)]. 
+The Mann–Whitney U test was used for intergroup 
+comparisons. Logistic regression was used to calculate 
+the odds ratio (OR) with 95% confidence intervals (CI) 
+to find out the factors on OMT status after PCI. OMT 
+status was regarded as the dependent variable. Socio-
+demographic and medical variables were independent 
+variables. Chi-square test was used to compare the cat-
+egorical variables between groups. The effect of base-
+line variables on OMT status was equalized by applying 
+propensity scores match (1:1 match, caliper value set to 
+0.02). Multivariable Cox regression model was devel-
+oped to calculate the hazard ratio (HR) with 95% CI 
+for significant differences and clinically significant vari-
+ables between groups on MACCEs. MACCEs status 
+were regarded as the dependent variable. Significant 
+differences and clinically significant variables between 
+groups were independent variables. P value below 0.05 
+was considered statistically significant. The follow-
+up period was from admission to the day when the 
+MACCE was observed or until 1 year after discharge 
+from the hospital.
+Results
+Baseline data analysis
+Our study included 3812 patients who underwent PCI 
+at TEDA International Cardiovascular Hospital from 
+2016.10 to 2017.09. The median follow-up was 13.0 
+months (range from 0.2 to 13.0); 224 patients were lost 
+to follow-up (including those who refused follow-up, 
+changed contact number or stopped responding), and 
+3588 patients were included in the statistical analysis 
+(Fig. 1). As shown in Table 1, the study population was 
+dominated by male ACS patients with high prevalence 
+of smoking (62.2%) and hypertension (64.2%). Approxi-
+mately 30% of patients had a myocardial infarction or 
+revascularization, and 89.0% were diagnosed with ACS 
+(ST-elevation myocardial infarction, non-ST-elevation 
+myocardial infarction, or unstable angina). Patients 
+treated with OMT at the end of follow-up had higher 
+incidence of baseline coronary risk factors (e.g., older 
+age, history of hypertension, hyperlipidemia, diabe-
+tes), more comorbidities and more advanced coronary 
+artery disease (as measured by the number of diseased 
+vessels). See Table 1 for details.
+Utilization of OMT and its components in patients after PCI
+Of the 3588 patients included in the final analysis, 
+58.8% received OMT during hospitalization. The utili-
+zation rates of aspirin tablets, P2Y12 receptor antago-
+nists, statins, β-blockers and ACEI/ARB were 99.6%, 
+100%, 96.2%, 75.3 and 75.1%, respectively, in the hos-
+pital at baseline. As the time since discharge increased, 
+the utilization rate of aspirin tablets, P2Y12 receptor 
+antagonists, statins, β-blockers and ACEIs/ARBs grad-
+ually decreased (decrease to 97.0%, 98.7%, 88.9%, 59.4 
+and 53.0%, respectively, at the end of follow-up); this 
+was especially notable for ACEIs/ARBs and β-blockers, 
+which showed the most significant decreases. However, 
+the utilization rate of antiplatelet drugs still exceeded 
+90%. The proportion of patients who remained adher-
+ent to OMT for 12 months was 36.0%, with a reduction 
+of 38.7% over time (Fig. 2).
+Predictors of OMT status
+As shown in Table 1, the single-factor analysis showed 
+that age, BMI, medical insurance, education, history 
+of PCI, comorbidities, number of coronary lesions, 
+the number of types of pills, FBG, and SCR influenced 
+OMT status after PCI. There were significant differ-
+ences in OMT based on all the aforementioned vari-
+ables (P < 0.05). After multivariable analysis (method: 
+forward logistic regression), we found that the baseline 
+
+OMT (OR = 52.868, 95% CI 38.129–73.305, P < 0.001) 
+was a strong predictor of OMT after PCI, as shown in 
+Table 2. Correlation between MACCEs and adherence to OMT
+By the end of follow-up, MACCE occurred in 123 
+of 3588 patients (3.4%) after PCI. Among them, 36 
+patients died of all causes (15 patients died of cardiac 
+death), 22 patients had nonfatal myocardial infarc-
+tion, 26 patients had stroke, and 58 patients had TVRs 
+(see Fig.  3). Propensity-score matching in a 1:1 ratio 
+was used to balance the influence of baseline variables 
+on OMT and eliminate confounders (matching fac-
+tors included age, BMI, history of PCI, hypertension, 
+hyperlipidemia, diabetes, number of coronary lesions, 
+complications, FBG, and SCR), and 2598 patients were 
+included in the final statistical analysis. A Cox hazard 
+ratio model found that adherence to OMT at the 1-year 
+follow-up (P = 0.001, HR = 0.486, 95% CI 0.312–0.756) 
+was a significant prognostic factor for a lower incidence 
+of MACCEs (see Table 3). The survival function curve 
+based on the Cox regression model illustrated that the 
+event-free survival of MACCEs was significantly higher 
+in the OMT group than in the non-OMT group (Fig. 4). 
+OMT adherence after PCI was a decisive protective 
+factor against MACCEs.
+Discussion
+To the best of our knowledge, this is the first of 
+few large-sample studies to evaluate the correla-
+tion between adherence to OMT and the occurrence 
+of MACCEs after PCI in Chinese patients and to 
+investigate the clinical and social factors affecting com-
+pliance with OMT.
+Our study drew some conclusions as follows: (1) There 
+was still a gap between OMT utilization after PCI and 
+the recommendations in the evidence-based guidelines. 
+With increasing time since discharge, the utilization 
+rates of the components of OMT gradually decreased, 
+especially ACEIs/ARBs and β-blockers. to antiplatelets and statins at 1 year was generally good. 
+However, we should pay more attention to the adher-
+ence to ACEIs/ARBs and β-blockers. (2) Education, type 
+of medical insurance, baseline OMT status, number 
+of types of pills, and the history of PCI, hypertension, 
+hyperlipidemia, and diabetes influence OMT utilization 
+in patients after PCI. (3) Smoking cessation after PCI is 
+crucial for improving the prognosis of CHD patients. (4) 
+Furthermore, after Cox multivariate adjustment, OMT is 
+an independent protective factor against the incidence of 
+MACCEs after PCI.
+It is noteworthy that medical therapy is the foundation 
+of the management of CHD. Clinical guidelines recom-
+mend the evidence-based use of OMT as secondary pre-
+vention to reduce the risk of events associated with CHD. 
+Previous studies indicated that the utilization of OMT 
+decreased as time passed after discharge, and risk factor 
+control was generally suboptimal [13, 14]. Medication 
+adherence was independently associated with a favora-
+ble prognosis [15–17]. Only 36% of the patients were still 
+adherent to OMT at the end of follow-up. Our results are 
+consistent with those of a previous trial, which noted that 
+OMT was associated with a 51.4% reduction in the 1-year 
+risk of MACCEs (P = 0.001, HR = 0.486, 95% CI 0.312–
+0.756). Iqbal et al. [16] reported that the most prominent 
+effect of OMT was seen within the first year after revas-
+cularization because the majority of MACCEs occurred 
+within the first year. In addition, the beneficial effect of 
+OMT was sustained throughout the 5-year follow-up. He 
+et al. [17] reported that the use of OMT was associated 
+with fewer hospitalizations and lower all-cause direct 
+medical costs among patients in China. OMT is signifi-
+cant to reduce the risk of future MACCEs.
+Our study also found that smoking cessation after PCI 
+is crucial. Smoking itself is a risk factor for CHD. Smok-
+ing cessation is beneficial for the secondary prevention 
+of CHD. However, it is undeniable that there are still 
+some patients who continue to smoke, which leads to 
+higher rates of all-cause mortality and MACCEs, seri-
+ously affecting patient prognosis [18]. Smoking affects 
+drug efficacy and is associated with a greater risk of high 
+platelet reactivity [19]. In addition, smoking is related to 
+various markers of inflammation that have been found 
+to be independent risk factors for CHD [20]. Our study 
+supports the finding that there are severe consequences 
+of continuing to smoke after PCI, as doing so was associ-
+ated with a more than 200% higher risk of MACCEs in 
+the first year after PCI (P = 0.001, HR = 2.060, 95% CI 
+1.346–3.151).
+  The burden of CHD is very high in China due to the 
+high prevalence and poor control of risk factors in the 
+large Chinese population [21]. Yang et al. [22] reported 
+that there are geographic differences in the management 
+of CHD after PCI in China, and targeted adjustments of 
+strategies with the consideration of these geographic dif-
+ferences are needed in the future to enhance CHD man-
+agement in China as a whole and in specific provinces. 
+Therefore, with coordination among the medical insti-
+tutions within each region, a long-term follow-up strat-
+egy for patients with cardiovascular diseases is gradually 
+being constructed to maintain their adherence to OMT 
+and reduce the readmission rate, thereby improving 
+patient health and promoting the rational use of social 
+resources.
+Adherence to OMT is a crucial factor affecting the pro-
+gression and prognosis of CHD. The factors influencing 
+OMT status after PCI were found to be multifaceted. 
+The results of our study can be used by physicians to 
+improve patient compliance with OMT after PCI. Physi-
+cians can use information (including sociodemographic 
+data and clinical history) obtained during a patient’s 
+hospitalization to predict that patient’s compliance with 
+the medication regimen after discharge. Binary logistic 
+regression analysis found that education, type of medi-
+cal insurance, baseline OMT status, number of pill type, 
+and history of hypertension, hyperlipidemia and diabetes 
+influenced OMT application in patients after PCI. Base-
+line OMT status was the strongest predictor. The baseline 
+OMT status reflected physician prescribing practices. 
+Kähkönen et al. [23] reported that a prescription is a pre-
+dictor at discharge of high postoperative OMT adherence 
+by patients. The Get with the Guidelines project [24] 
+(GWTG) in the United States advocated for increasing 
+the prescription of OMT to ACS patients during hospi-
+talization because it could increase the long-term out-
+of-hospital medication adherence among these patients. 
+Our results showed that the education level affected 
+OMT status. A higher level of education has been found 
+to be associated with better patient awareness and coop-
+eration with health care professionals [25]. Employee 
+medical insurance has a higher reimbursement rate than 
+basic medical insurance. Educationally or economically 
+disadvantaged patients need more support and informa-
+tion. Another study found that first-time PCI patients 
+underestimated their condition and lacked knowledge 
+of their disease [26, 27]. Nursing after PCI should con-
+tinue into the outpatient and community settings. In 
+addition, general practitioners play an irreplaceable role 
+in patient management and rehabilitation after PCI. We 
+should establish a hospital-community-family CHD 
+management model, with grading diagnosis and treat-
+ment performed by both specialists and general practi-
+tioners, and establish diagnostic and treatment norms 
+for CHD in primary medical institutions. The number 
+of types of drugs can be represented by the daily num-
+ber of pills prescribed. Several studies have shown that 
+Page 8 of 9
+Zhang et al. BMC Cardiovasc Disord          (2021) 21:258 
+clinicians can improve adherence by reducing patients’ 
+daily pill burden when possible [28]. We can simplify 
+patients’ prescriptions and use combination pills when 
+available to improve adherence. This study has several 
+potential implications for clinical practice. These predic-
+tors provide a basis for the use of OMT in patients after 
+PCI. Based on the findings of this study, management 
+methods can be formulated to increase the proportion of 
+patients who remain adherent to OMT, reduce the inci-
+dence of MACCEs, reduce the rate of rehospitalization, 
+reduce medical expenditures, and improve the health of 
+post-PCI patients. OMT is a new method of managing 
+chronic disease in primary hospitals.
+Our present study has some limitations. First, our 
+study was a single-center observational study, and our 
+current findings may not be generalizable to other popu-
+lations due to selection bias. Second, the follow-up time 
+was relatively short, while the application of OMT after 
+PCI continues in the long-term. It is expected that future 
+studies with longer follow-up durations after PCI will 
+help guide clinical practice. Third, the reasons for discon-
+tinuing drug treatment were not collected in this study 
+design. Finally, although we extensively adjusted for some 
+covariates, it remains possible that unknown confound-
+ers influenced the association between medication non-
+adherence and MACCEs and the factors influencing the 
+utilization of OMT.
+Conclusions
+Overall, the utilization of OMT after PCI is still inad-
+equate compared with the recommendations in the evi-
+dence-based guidelines. The 1-year rates of adherence to 
+antiplatelets and statins were generally good. However, 
+the utilization of ACEIs/ARBs and β-blockers should 
+receive more attention. Sociodemographic and clinical 
+factors influenced the utilization of OMT, and we can use 
+these factors to predict the population at risk of nonad-
+herence to OMT. The use of OMT is an independent pro-
+tective factor that can reduce the incidence of MACCEs 
+after PCI. Therefore, we should use the identified predic-
+tors to strengthen adherence to OMT after PCI, thereby 
+improving patient outcomes. In addition, smoking cessa-
+tion after PCI should also be promoted.

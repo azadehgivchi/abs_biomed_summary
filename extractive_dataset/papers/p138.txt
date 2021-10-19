@@ -1,0 +1,236 @@
+Background
+The gastrointestinal (GI) tract is the largest organ system
+of the human body and exerts a variety of physiologic
+functions during a normal state. Other than serving as
+a digestive conduit, the GI tract also plays an important
+role in immunomodulation, hormone control, fluid
+and electrolyte balance, and physical protection from
+ingested environmental threats [1–3]. During the period
+of critical illness, GI complications may occur as a result
+of diverse injurious mechanisms, such as hypoperfusion,
+ischemia–reperfusion injury and pro-inflammatory
+cytokine responses [1, 4, 5], and these complications
+are linked to increased mortality and morbidity among
+patients suffering from them [5, 6]. In this regard, occurrence
+of GI complications under a myriad of conditions
+may not be simply viewed as an innocent victim but can
+otherwise precipitate deleterious consequences.
+Along this line, GI dysfunction has been proposed to
+be the motor of multiple organ dysfunction in critical
+illness although the pathophysiology involved (e.g., bacterial
+translocation, altered intestinal tight junctions,
+cytokine production and interaction with the gut microbiome)
+remains incompletely understood [3, 7–9]. However,
+despite of scientific interest in this issue, the clinical
+relevance of GI complications is still controversial with
+an unknown yet probably adverse impact on the outcome
+of patients. In addition, outside of intensive care settings,
+little if any is known about the effects of GI complications
+on clinical trajectories and prognosis of non-critically ill
+patients.
+Therefore, in this study, we aimed to investigate the
+incidence of GI complications and their influence on
+patient outcomes under a non-critical care setting. Specifically,
+we chose to focus on the analysis of clinical
+information on patients with pneumonia because it is the
+most common cause of hospitalization and carries a significant
+risk of mortality around the globe. Moreover, by
+this way, we could include a more homogeneous patient
+population for comparisons of clinical presentation
+and disease severity between different groups of study
+subjects.
+Materials and methods
+Study settings and population
+This retrospective observational study was conducted at a
+university-affiliated hospital in Taiwan. The protocol has
+been approved by the Research Ethics Committee of the
+National Taiwan University Hospital (201902005RIND)
+and written informed consent was waived because of the
+retrospective and non-interventional design of the study.
+Adult patients ≥ 20 years of age admitted to the general
+medical wards between January 2012 and December
+2014 were screened for eligibility in this study. Patients
+with an admission diagnosis of pneumonia were identified
+as the study subjects. The diagnosis of pneumonia
+was verified by a board-certified chest physician based on
+the overall medical records and radiologic findings [10].
+For patients who were hospitalized twice or more during
+the study period, we included only the first hospitalization.
+Patients were excluded if they had an admission
+diagnosis other than pneumonia, were transferred from
+other facilities, or had missing data for calculating the
+severity score for pneumonia. In addition, patients with
+pre-existing GI disorders that may interfere the assessment
+of GI complications, such as inflammatory bowel
+disease, gastric/colorectal cancer, colostomy/ileostomy,
+and short bowel syndrome, were also excluded from the
+analysis.
+Data collection and definitions
+Data retrieved on hospital admission included patient
+demographics, physical signs, comorbidities, laboratory
+testing results, and pertinent clinical events. Comorbidities
+of interest were chronic kidney disease, chronic
+obstructive pulmonary disease, coronary artery disease,
+diabetes mellitus, heart failure and malignancy [11, 12].
+The Confusion, Urea, Respiratory rate, Blood pressure
+and age ≥ 65 (CURB-65) score was calculated to assess
+the severity of pneumonia [13]. GI complications were
+evaluated during the first 3 days of hospitalization and
+their definitions were described as follows: (a) bowel
+dilatation: radiologically confirmed bowel dilatation in
+any bowel segment; (b) diarrhea: loose or liquid stool
+three or more times per day; (c) GI bleeding: appearance
+of blood in vomited fluids, nasogastric aspirate or
+stool; (4) ileus: absence of stool for three or more days
+[2, 5]. Pertinent clinical events included development
+of septic shock and acute respiratory distress syndrome
+[14, 15], which were also assessed in the first 3 hospital
+days. In case that patients were rehospitalized after the
+index admission, the main reasons for rehospitalization
+were also obtained and categorized as infectious or
+non-infectious etiologies.
+Outcomes
+Patients were followed up until death, 30 days after
+discharge or loss to follow-up, whichever came first.
+The primary outcome was the survival status at hospital
+discharge. Other outcomes of interest included
+length of stay during the hospitalization, and incidence
+of unscheduled readmission and time to readmission
+within 30 days after the index discharge among the hospital
+survivors.
+Statistical analysis
+Continuous variables were presented as mean ± standard
+deviation or median (interquartile range) per data
+distribution, and were analyzed by the independent
+sample t-test or Mann–Whitney test, respectively. Categorical
+variables were reported as number (%) and
+were compared using the chi-square or Fisher’s exact
+test, as appropriate. The logistic regression model was
+built to identify factors independently associated with
+hospital mortality in the multivariate analysis. Variables
+of laboratory testing were dichotomized by either the
+upper or lower limit of the reference range, as appropriate.
+All potentially confounding covariates were entered
+into the multivariate model without model selection. A
+two-tailed P value of < 0.05 indicated statistical significance.
+The statistical analyses were conducted by using
+the SPSS version 15.0 (SPSS Inc., Chicago, IL) software
+package.
+Results
+During the study period, a total of 1001 patients were
+included in this study (Fig. 1). The mean age of the study
+population was 73.7 ± 15.2 years and 598 (59%) of them
+were males (Table 1). On average, the CURB-65 score
+was 1.6 ± 1.0. The leading comorbidities were diabetes
+mellitus (28%), malignancy (19%) and chronic obstructive
+pulmonary disease (12%). Only few patients developed
+septic shock (2.3%) or acute respiratory distress
+syndrome (0.7%) in the first 3 days of hospitalization. The
+median length of hospital stay was 8 (5–12) days. The
+incidences of GI complications are presented in Table 2.
+Diarrhea (5.2%) was the most common complication and
+approximately 1 out of 9 patients (11%) experienced one
+or more GI complications.
+There were 862 (86%) survivors and 139 (14%) nonsurvivors
+on hospital discharge (Table 1). The non-survivors
+were older (77.2 vs. 73.2 years; P = 0.003) and had
+a higher CURB-65 score (2.1 vs. 1.6; P < 0.001) than the
+survivors. Also, non-survivors were more likely to have
+comorbid malignancy (28% vs. 17%; P = 0.002) and experience
+septic shock (12% vs. 0.7%; P < 0.001) compared to
+survivors. Regarding laboratory testing, a higher white
+blood cell count (13.0 vs. 11.0 K/μL; P = 0.006), neutrophil-
+to-lymphocyte ratio (15.6 vs. 10.3; P < 0.001), and
+C-reactive protein value (8.6 vs. 7.4 mg/dL; P = 0.017)
+were observed in non-survivors than survivors. On the
+contrary, non-survivors had lower serum albumin levels
+than survivors (3.2 vs. 3.4 g/dL; P < 0.001). The length of
+hospital stay was longer in non-survivors compared to
+survivors (8 vs. 8 days in medians; P = 0.025). Regarding
+GI complications, no statistically significant differences
+were found in any single complication between the survivors
+and non-survivors (Table 2). However, non-survivors
+more often developed any of the GI complications
+compared to survivors (17% vs. 10%; P = 0.019).
+Table 3 shows the logistic regression model incorporating
+patient demographics, comorbidities, laboratory
+results, clinical events, CURB-65 scores and the presence
+of GI complications for odds ratios (ORs) of hospital
+mortality in the pneumonia patients. Independent
+risk factors of mortality included an increase in CURB-
+65 scores (OR 1.952 per point increase; 95% confidence
+interval [CI] 1.516–2.514), comorbid malignancy (OR
+1.943; 95% CI 1.209–3.123), development of septic shock
+(OR 25.896; 95% CI 8.970–74.765), and the presence of
+any GI complication (OR 1.753; 95% CI 1.003–3.065).
+In addition to an association with increased hospital
+mortality, the presence of GI complications in patients
+with pneumonia was also associated with a longer hospital
+stay (Table 4). Moreover, among the pneumonia
+patients surviving to hospital discharge, those with any
+of the GI complications during the first 3 days of hospitalization
+seemed more likely to be readmitted within
+general wards. Instead, simple, easily recognizable GI
+signs and symptoms were used to delineate the clinical
+profile of GI complications in our study population. As
+the first study in this field, our results should encourage
+researches to define explicit characteristics of GI
+conditions in non-critically ill patients.
+An interesting finding in this study is that pneumonia
+patients with GI complications were readmitted
+within 30 days of discharge more often than those
+without, although the difference did not reach statistical
+significance. Great efforts have been put on identification
+of risk factors for readmission following
+hospitalization for pneumonia. Comorbidities, socioeconomic
+status, and so on play a pivotal role in this
+regard [27, 28]; however, to our knowledge, none of
+the studies identified the association between GI dysfunction
+during the index hospitalization and risks of
+readmission. Our finding may not be that unexpected
+but is pathophysiologically plausible. Gut origin of
+sepsis hypothesis proposes that translocation of potentially
+harmful bacteria across the intestinal barrier
+causes sepsis at distant sites [29]. Thus, GI dysfunction
+may render the host susceptible to infections and consequently
+result in rehospitalization. The observation
+that the majority of readmissions in this study could be
+ascribed to infectious diseases may partly support this
+hypothesis.
+A number of limitations pertaining to this study
+should be considered. First, the incidence of GI complications
+can be underestimated since clinically insignificant
+events may not be reported by the patients
+or well documented in the medical records. However,
+important and influential GI conditions are unlikely
+to be missed, and our results are practically informative
+to clinicians in daily practice. Second, that only
+pneumonia patients were enrolled for analysis may
+limit the generalizability of the study findings to other
+non-critically ill populations. Nonetheless, inclusion
+of this non-GI disease alone is also the strength of our
+study because we were able to clearly delineate and
+analyze the effects of GI complications on patient outcomes.
+Undoubtedly, more studies are encouraged to
+validate our findings in other disease contexts. Third,
+the impact of pre-existing GI disorders on GI complications
+and the interactions between them remain to
+be elucidated. In our study, patients with pre-morbid
+GI diseases were excluded from analysis in order to
+distinctly define the development of GI complications.
+This is the advantage and also the disadvantage of our
+study design, and prospective, well-defined studies
+(e.g., meaningful changes in GI signs and symptoms)
+are required to solve these issues.
+Conclusions
+GI complications are not that commonly observed outside
+of ICU settings; however, they still exert a negative
+impact on prognosis of pneumonia patients, including
+higher mortality and prolonged length of hospital
+stay. In addition, development of those complications
+in patients with pneumonia during the index hospitalization
+seems to be associated with the post-discharge
+outcome, namely, 30-day rehospitalization. Therefore,
+the findings altogether illustrate the important prognostic
+role of GI complications in patients with non-GI
+diseases under a non-critical care setting.

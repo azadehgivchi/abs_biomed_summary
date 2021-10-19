@@ -1,0 +1,20 @@
+ 
+Abstract 
+Background: Accurate prediction of major adverse cardiovascular events (MACEs) is very important for the man-
+agement of acute coronary syndrome (ACS) patients. We aimed to construct an effective prognostic nomogram for 
+individualized risk estimates of MACEs for patients with ACS after percutaneous coronary intervention (PCI).
+Methods: This was a prospective study of patients with ACS after PCI from January 2013 to July 2019 (n = 2465). 
+After removing patients with incomplete clinical information, a total of 1986 patients were randomly divided into 
+evaluation (n = 1324) and validation (n = 662) groups. Predictors included in the nomogram were determined by a 
+multivariate Cox proportional hazards regression model based on the training set. Receiver operating characteristic 
+(ROC) curves and calibration curves were used to assess the discrimination and predictive accuracy of the nomogram, 
+which were then compared with those of the classic models. The clinical utility of the nomogram was assessed by 
+X-tile analysis and Kaplan–Meier curve analysis.
+Results: Independent prognostic factors, including lactate level, age, left anterior descending branch stenosis, right 
+coronary artery stenosis, brain natriuretic peptide level, and left ventricular ejection fraction, were determined and 
+contained in the nomogram. The nomogram achieved good areas under the ROC curve of 0.712–0.762 in the training 
+set and 0.724–0.818 in the validation set and well-fitted calibration curves. In addition, participants could be divided 
+into two risk groups (low and high) according to this model.
+Conclusions: A simple-to-use nomogram incorporating lactate level effectively predicted 6-month, 1-year, and 
+4-year MACE incidence among patients with ACS after PCI.
+

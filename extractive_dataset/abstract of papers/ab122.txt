@@ -1,0 +1,21 @@
+Background: Within-consultation recruitment to primary care trials is challenging. Ensuring procedures are efficient
+and self-explanatory is the key to optimising recruitment. Trial recruitment software that integrates with the electronic
+health record to support and partially automate procedures is becoming more common. If it works well, such software
+can support greater participation and more efficient trial designs. An innovative electronic trial recruitment and
+outcomes software was designed to support recruitment to the Runny Ear randomised controlled trial, comparing
+topical, oral and delayed antibiotic treatment for acute otitis media with discharge in children. A qualitative evaluation
+investigated the views and experiences of primary care staff using this trial software.
+Methods: Staff were purposively sampled in relation to site, role and whether the practice successfully recruited
+patients. In-depth interviews were conducted using a flexible topic guide, audio recorded and transcribed. Data were
+analysed thematically.
+Results: Sixteen staff were interviewed, including GPs, practice managers, information technology (IT) leads and
+research staff. GPs wanted trial software that automatically captures patient data. However, the experience of getting
+the software to work within the limited and complex IT infrastructure of primary care was frustrating and time
+consuming. Installation was reliant on practice level IT expertise, which varied between practices. Although most had
+external IT support, this rarely included supported for research IT. Arrangements for approving new software varied
+across practices and often, but not always, required authorisation from Clinical Commissioning Groups.
+Conclusions: Primary care IT systems are not solely under the control of individual practices or CCGs or the National
+Health Service. Rather they are part of a complex system that spans all three and is influenced by semi-autonomous
+stakeholders operating at different levels. This led to time consuming and sometimes insurmountable barriers to
+installation at the practice level. These need to be addressed if software supporting efficient research in primary care
+is to become a reality.

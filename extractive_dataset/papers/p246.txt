@@ -1,0 +1,358 @@
+Background
+Sepsis is a major global cause of high morbidity and
+mortality for critically ill patients [1] with a continuously
+increasing incidence [2]. Besides, sepsis is an enormous
+burden, accounting for ∼850,000 emergency visits per
+year and up to 381,000 annual related deaths in the USA
+[2, 3]. Sepsis can lead to various complications. For
+instance, SA-AKI is a common and severe complication
+of sepsis that meets consensus criteria for both sepsis
+and AKI [4], indicating multiple organ dysfunction and
+significant poor clinical outcomes [5, 6]. Noteworthy,
+sepsis is associated with up to 50 % of AKI [7], and up to
+60 % of patients with sepsis have AKI [8]. Among
+critically ill patients with SA-AKI, the mortality rates
+range from 38.2 to 70.2 % [8, 9]. Nevertheless, so far, no
+single effective therapy has been reported to change the
+outcome of SA-AKI [10]. Notably, early diagnosis and
+treatment improve the long-term outcome of patients.
+Therefore, early identification of high-risk patients is
+important for AKI prevention [11].
+SA-AKI is diagnosed based on specific, contextdependent,
+and imperfect definitions, besides, an increase
+in serum creatinine or a decline in urine output remains
+its key diagnostic criteria [12]. Accumulating knowledge
+has highlighted the clinical risk factors, pathobiology,
+response to treatment, and elements of renal recovery
+thereby improving the prevention, detection, and treatment
+of SA-AKI [4]. Nonetheless, the pathogenesis of SAAKI
+remains completely unclear and its risk factors
+emerge from various sources, making it a major clinical
+challenge in early detection [13, 14]. Despite many novel
+biomarkers related to the early diagnosis and prognosis of
+SA-AKI being reported, few are applied in clinical practice
+[15]. Recent studies have used the patient and disease
+characteristics of AKI to identify patients with an increased
+risk, however, most of them have not integrated
+these with clinical prediction models [16–19]. Other studies
+have developed risk assessment models for AKI in
+patients based on patient and disease characteristics alone
+[20, 21], yet few have been developed for SA-AKI. As
+such, there is an urgent need for a more modern framework
+for rapid clinical diagnosis of SA-AKI.
+A nomogram is a reliable tool that predicts and quantifies
+risk for a clinical event by creating a visualized
+graph of the predictive model based on relevant factors
+[22, 23]. Herein, we identified a combination of routinely
+available clinical variables for a highly precise prediction
+of SA-AKI in critically ill patients.
+Methods
+Database
+Retrospectively, data were extracted from the MIMIC-III
+database (version 1.4), a large US-based, publicly available
+critical care database [24]. The MIMIC-III (v1.4)
+database included unidentified health-related data of 61,
+532 ICU stays at the Beth Israel Deaconess Medical Center
+between June 2001 and October 2012. The
+establishment of MIMIC-III (v1.4) was approved by the
+institutional review boards of the Beth Israel Deaconess
+Medical Center (Boston, MA) and Massachusetts
+Institute of Technology (Cambridge, MA), thus, this
+study was granted a waiver of informed consent. One
+author (L-H F) completed the online training course of
+the National Institutes of Health (certification number
+35,897,462) to access the MIMIC-III (v1.4).
+Participants
+Adult patients (≥ 18 years old) diagnosed with sepsis
+identified from the International Classification of
+Diseases 9th Edition (ICD-9) code were selected from
+the MIMIC-III v1.4 database. Patients with AKI before
+admission to the ICU were excluded. For patients with
+more than one ICU stay, only the first ICU admission of
+each patient was analyzed.
+A pre-seeded random number (123) generator in R
+software (version 3.6.2) was used to determine the
+grouping. Finally, the patients were randomly divided
+into primary (n = 2012) and validation (n = 859) cohorts
+based on the ratio of 7:3.
+Data extraction
+Data extraction was performed using PostgreSQL tools
+(V.1.13.1). The following information was extracted directly
+or calculated using data from the database: Age, gender,
+body mass index (BMI), Systemic inflammatory score
+(SIRS), laboratory variables, chronic medical conditions,
+comorbidities, length of stay in the intensive care unit, the
+time of AKI, administration of drugs. Laboratory variables
+including hemoglobin, platelet counts, glucose, serum
+creatinine, and albumin were measured during the first
+24 h in the ICU. Chronic medical conditions included
+chronic obstructive pulmonary disease (COPD), chronic
+kidney disease (CKD), diabetes, coronary disease, malignant,
+chronic liver disease, and hypertension. Comorbidities
+included acute pancreatitis, lactic acidosis, heart failure, and
+hypotension. Notably, comorbidities and chronic medical
+conditions were collected based on the recorded ICD-9
+codes in the MIMIC-III database. The drugs administrated
+to patients included vasoactive drugs, diuretic, aminoglycosides,
+lactated Ring, and human albumin. Variables associated
+with the risk of SA-AKI were assessed a priori based
+on scientific knowledge, clinical importance, and predictors
+identified in previously published articles [9, 14, 25].
+Definitions and outcomes
+AKI during ICU stay was the primary outcome. AKI was
+defined following the Kidney Disease Improving Global
+Outcomes (KDGIO) criteria [26]. Considering that the
+patients might have used diuretics, AKI was defined only
+based on the change of serum creatinine value. Vasoactive
+drugs, diuretic, and aminoglycosides were defined
+as any vasoactive drugs, diuretic and aminoglycosides
+use during ICU stay for any reason. The severity of
+anemia was established following the reference standard
+of the World Health Organization (WHO) [27]. WHO
+international BMI cut-off points were used for BMI
+group categorization [28]: underweight (BMI < 18.5),
+normal weight (BMI 18.5 to 24.9), overweight (BMI 25
+to 29.9), and obesity (BMI > 30).
+Statistical analysis
+Continuous variables were presented as interquartile
+ranges (M (P25, P75)) unless indicated otherwise while
+categorical variables were presented as frequency and
+proportion of patients in each category. In the primary
+cohort, the assumption of linearity in the logistic for
+the continuous variable was assessed and univariate
+logistic analyses were used to analyze the relationships
+of relevant variables with SA-AKI. All variables with
+P < 0.05 in the univariate logistic analyses were further
+assessed by multivariable logistic regression using
+backward stepwise selection, where the variable with
+the largest p-value was eliminated at each step until
+all remaining variables had significant p < 0.05. Multicollinearity
+was evaluated using variance inflation factors
+and there was no evidence of Multicollinearity.
+Nomograms predicting the risk of SA-AKI were determined
+using the independently selected significant
+variables. While ensuring the stability of prediction
+performance, a few features were removed to simplify
+the nomogram [23].
+The performance of the nomograms was evaluated
+using the C-index [29] and calibration curves. The
+discriminative ability of the nomograms was evaluated
+by C-index, where a C-index of 0.5 indicated
+the absence of discrimination, whereas a C-index of
+1.0 suggested perfect discrimination. Calibration was
+assessed using calibration curves, graphic representation
+of the relationship between the frequency of
+observations and the probability of prediction, with a
+1000-bootstrapped sample of the primary cohort. The
+final nomogram was verified in the validation cohort
+to assess the stability and generality of the nomogram.
+Moreover, the clinical utility of the final nomogram
+was evaluated using decision curve analysis by
+quantifying the net benefit at different threshold probabilities.
+The net benefit was calculated by subtracting the
+proportion of false positives from the proportion of true
+positives and weighing by the relative harm of foregoing
+treatment compared to the negative consequences of an
+unnecessary treatment [30].
+For missing data, median imputation was used if the
+numbers were small (< 5 %), while multiple imputations
+were used if the numbers with missing data were large.
+All statistical analyses were performed using the R
+software (version 3.6.0). All tests were two-sided, with
+a significance level of 5 %.
+Results
+Characteristics of patients with SA‑AKI
+In total, 2,871 patients with sepsis were recruited and 1,
+137 patients (39.6 %) positively tested for SA‑AKI. The
+mean age of patients was 67 years, and a majority
+(55.1 %) were male. Patients were randomly assigned to
+primary (2,012 patients) or validation (859 patients) cohorts.
+Table 1 shows the characteristics of the patient in
+each cohort. The baseline clinical characteristics were
+similar between the two cohorts, with SA‑AKI
+proportions of 39.2 and 40.6 % in the primary and validation
+cohorts, respectively.
+Model specifications and predictors of SA-AKI
+Established risk factors, AKI, and demographic characteristics
+of clinical importance were selected as candidate
+variables for the prediction model. Variables relevant to
+SA-AKI in the primary cohort were subjected to univariate
+and multivariate logistic regression analyses, and the
+result is illustrated in Tables 2 and 3. Final statistical
+analysis identified 12 predictors for SA-AKI, including
+BMI, LOS in ICU, baseline SCr, glucose, anemia incidence,
+CKD, heart failure, coronary disease, chronic liver
+disease, and the use of human albumin or vasoactive
+drugs.
+Nomograms and model performance in the primary cohort
+Nomograms for SA-AKI incorporating significant
+predictive factors from the multivariate analysis were
+established (Figs. 1 and 2). Nomogram 1 included 12
+significant predictors for SA-AKI prediction (Fig. 1),
+depicting moderate discrimination in prediction with an
+unadjusted C-Index of 0.773 (95 %Cl, 0.752–0.794).
+However, nomogram 1, combining 12 predictors was
+cumbersome. Besides, BMI, albumin, CKD, heart failure,
+coronary disease, chronic liver disease, and human albumin
+predictors demonstrated insignificant influence on
+the point in nomogram 1. For effective visualization, a few
+predictors were reduced to simplify the nomogram.
+Nomogram 2 (Fig. 2) including factors with LOS in ICU,
+baseline SCr, glucose, anemia, and vasoactive drugs maintained
+similar discrimination (C-index 0.752, 95 %Cl
+[0.730–0.774]).
+Therefore, nomogram 2 was identified as the effective
+predictive model. To use nomogram 2, a vertical
+line should be delineated to the point raw to assign
+point values for each predictor. Each patient obtains a
+total point by plus the points of five predictors in
+nomogram 2. For instance, a patient with mild
+anemia, the glucose of 10 mmol/L, is using vasoactive
+drugs, baseline SCr of 200 umol/L and 10 days Los in
+ICU, total point taken from nomogram 2 of the patient
+is 38 (5 + 4 + 12 + 6 + 11 = 38), and the risk of
+SA-AKI probability is 60 %. The weights for each feature
+are list in Table 4 for calculation without a
+nomogram. The bootstrap-corrected C-index for the
+prediction nomogram 2 was 0.749 and the calibration
+plot for the probability of SA-AKI revealed a good
+correlation between nomogram 2 prediction and actual
+observation (Fig. 3), indicating moderate discrimination
+by our final model.
+External validation of the nomogram 2 in the validation
+cohort
+In the validation cohort, nomogram 2 displayed a Cindex
+of 0.757 (95 % CI 0.724–0.790) for estimation of
+SA-AKI risk. Also, there was a good calibration curve
+for risk estimation (Fig. 4).
+Clinical use of nomogram 2
+The decision curve analysis (DCA) for nomogram 2 and
+the individual predictor is illustrated in Fig. 5. The DCA
+revealed that nomogram 2 would effectively predict SAAKI
+if the threshold probability of SA-AKI is between
+15 and 80 %. Within this range, the predictive effect of
+the nomogram is better than that of a single predictor,
+respectively.
+Discussion
+Sepsis Associated Acute Kidney Injury (SA-AKI) is a frequent
+complication among critically ill patients causing
+alarming mortality and morbidity. SA-AKI has a higher
+risk of in-hospital death and longer hospital stay than
+AKI caused by other factors [31]. However, crude
+markers of renal function including SCr and Urine
+output are not effective in early diagnosis. This study developed
+and verified a diagnostic nomogram for predicting
+SA-AKI in critically ill patients. The nomogram
+incorporates five items, including LOS in ICU, baseline
+SCr, glucose, anemia, and vasoactive drugs which can be
+used to diagnose critically ill patients, enabling individualized
+decisions on the surveillance and treatment. Our
+findings are valuable since the nomogram was established
+based on a large database of critically ill patients.
+Additionally, in contrast with previously proposed
+models based on the clinical risk factors [25], the current
+nomogram has stable performance with ease of
+visualization.
+Inflammation, oxidative stress, microvascular
+endothelial dysfunction, and renal tubular epithelial
+cell injury are the potential mechanisms of SA-AKI,
+however, its pathogenesis remains elusive [9]. The
+occurrence and development of these mechanisms [4,
+9, 20] are potentially attributed to the variables in
+our model which might promote or balance each
+other and influence the process of SA-AKI. Therefore,
+predicting the occurrence of SA-AKI via these
+clinical variables is of importance.
+Our study considered a wide array of clinical risk
+predictors previously linked to SA-AKI [4, 9, 14]. Specifically,
+in the medical treatment, we noted no relationship
+between diuretic, aminoglycosides, and SA-AKI. In contrast,
+data on SA-AKI demonstrated that diuretics might
+not be conducive to the prevention of AKI [4], and
+aminoglycosides are harmful to renal function. Predictors
+associated with AKI extensively vary, but rarely
+for sepsis and limited studies have integrated them
+with clinical prediction models. Recently, Zhou et al.
+analyzed 2,617 patients with sepsis and constructed a
+comprehensive risk score comprising 16 factors to
+predict SA-AKI [25], and lacked analysis of drug use
+(For example, vasoactive drugs), which might be
+unspecific for clinical use. The multivariable model
+including all contrast-enhanced ultrasonography
+variables created by Liu et al. was also complex and
+unsuitable for quick risk assessment [32]. This work
+differs from the previous simple multi-factor analysis
+[33] in that we removed predictors with little effect
+on the points in the nomogram to simplify the model
+for clinical application. Furthermore, none of the
+existing risk models was estimated by the DCA for
+their clinical utility. To our knowledge, this is the
+first risk model to consider previously proposed risk
+factors to develop a nomogram for prediction the
+prognosis of SA-AKI.
+Since the treatment strategies are potentially heterogeneous,
+accurate AKI risk stratification of the critically ill
+patients with sepsis is critical. Although the prevention
+of AKI in critically ill patients has formed a certain consensus,
+instances, where a recommendation cannot or
+should not be followed for an individual patient, have
+been reported [11]. Rather than using biomarkers or
+clinical risk factors alone, derived based on large population
+or cohort data, the nomogram provides a more individualized
+admonition for risk information to septic
+patients. For example, the European Society of Intensive
+Care Medicine suggests a mandatory review of all medications
+with cessation of nephrotoxic ones in addition to
+the treatment measures [11]. However, many aspects
+may affect the treatment strategy of septic patients and
+the lesions changed quickly, clinicians depend on their
+clinical experience. Clinicians may be more accurate in
+selecting treatment strategies for a higher probability of
+benefiting from treatments, using a nomogram with clinical
+factors.
+The most important and final argument for the use of
+the nomogram is based on individual needs for additional
+investigation or care [22]. Although is have good
+prediction performance, discrimination and calibration,
+the nomogram cannot capture the clinical consequences
+of miscalibration or a particular level of discrimination.
+The DCA is a valuable decision-making tool when
+different means are compared with their clinical value
+[34–36]. Therefore, to justify its clinical utility, DCA was
+applied to unravel the usefulness of nomogram 2 decisions.
+This novel method provides insights into clinical
+consequences based on threshold probabilities, where a
+net benefit is derived [34]. The decision curve revealed
+that nomogram 2 caused a positive net benefit with a
+threshold probability of between 15 and 80 %. For example,
+if the threshold probability of a patient is 40 %,
+the net benefit would be 15 % when nomogram 2 is used
+to predict AKI, hence more benefit than either the treatnone
+or the treat-all scheme.
+Despite these promising findings, this paper has some
+limitations. First, the nomogram was retrospectively
+constructed and new biomarkers were not included in
+the analysis, potentially reducing the performance of
+the model. Secondly, the urine standard was not used
+in the diagnosis of AKI since urine volume data may
+be unreliable due to the use of diuretics. This may
+reduce the overall incidence rate of AKI. Thirdly, the
+missing data were settled with median imputation and
+multiple imputation techniques, potentially decreasing
+the accuracy and C-index of the final model. Nonetheless,
+data for these predictors can easily be obtained
+in the intensive care units and not an obstacle
+in implementing the nomogram. Furthermore, these
+disadvantages are natural in any retrospective studies,
+and population-based research thereby increasing
+concerns on the stability of the results. Nevertheless,
+this nomogram may somewhat help clinicians make
+reasonable risk judgments and treatment strategies in
+the absence of high-quality SA-AKI prediction tools.
+Conclusions
+This study developed and verified an AKI risk prediction
+nomogram applied to critically ill patients with sepsis,
+which may partially help clinicians make reasonable risk
+decisions and treatment strategies. Nonetheless, further
+verification using external data is essential to enhance
+the applicability of this nomogram in clinical practice.

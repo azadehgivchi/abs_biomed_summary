@@ -1,0 +1,323 @@
+Dementia places a tremendous burden on society worldwide.
+The total number of people with dementia in the
+world was estimated to be 35.6 million in 2010, and this
+number is projected to increase to 115.4 million in 2050
+[1]. The total cost of dementia is also enormous, estimated
+at US$ 604 billion in 2010 [1]. Under these
+circumstances, the prevention of dementia and
+dementia-related disorders is of high priority.
+The role of sleep in cognitive function and dementia
+has drawn attention, although evidence is still insufficient
+[2]. According to recent reviews and metaanalyses,
+sleep duration and sleep disturbance are determinants
+of cognitive decline and dementia [3–7]. Moreover,
+daytime napping is reportedly associated with
+cognitive function in older adults [8–11]. However, findings
+from previous studies have been somewhat inconsistent;
+some reported possible adverse effects of
+napping, especially long napping, on cognitive function
+[9, 11], whereas others reported possible beneficial effects
+of napping, especially short napping [8, 10]. Furthermore,
+except for one longitudinal study [8], only
+cross-sectional studies [9–11] have been conducted.
+We previously conducted an epidemiologic study to
+investigate associations between cognitive impairment
+and lifestyle factors, including sleep characteristics and
+daytime napping, in community-dwelling older adults
+[12]. The present study aimed to clarify longitudinal associations
+between cognitive decline and sleep characteristics,
+in particular whether daytime napping is beneficial
+or harmful for cognitive function, based on 5-year
+follow-up data from participants of the study mentioned
+above.
+Methods
+Design and participants
+This study was a 5-year follow-up cohort study. Participants
+of the baseline study were included in the study,
+and those with cognitive impairment diagnosed by the
+revised Hasegawa’s dementia scale (HDS-R) at baseline
+were excluded. Participants at baseline were communitydwelling
+older adults living in the following three areas
+of Ojiya City, Niigata, which were set by the city government
+as model areas: Heiseicho (an urban area), Matto
+(a rural, farming area), and central Katakai (an urban
+area) [12]. Among all 592 residents aged ≥65 years who
+were not receiving long-term care insurance services and
+who were invited to participate in the study, 535 (90.4%)
+underwent the baseline examination. A high participation
+rate (90.4%) was obtained due to efforts of public
+health nurses in charge of each area. Of these 535 residents,
+509 (95.1%) who were considered cognitively normal
+were invited to participate in the present 5-year
+follow-up study, and 371 (72.9%) underwent the followup
+examination. We also included 18 individuals who
+had normal cognitive function at baseline and did not
+participate in the follow-up examination, but were diagnosed
+with dementia at medical facilities during the
+follow-up period, because these individuals met our
+diagnostic criteria of cognitive decline described below.
+The final study cohort thus comprised 389 individuals.
+Figure 1 shows the flow of participant enrollment. Informed
+consent was obtained from all participants who
+underwent the follow-up examination. The consent was
+verbal because, according to the Ethical Guidelines for
+Medical and Health Research Involving Human Subjects
+in Japan [13], investigators are not required to obtain informed
+consent in writing for human studies which are
+not invasive or do not involve interventions. The protocol
+of this study was approved by the Ethics Committee
+of Niigata University.
+Baseline examination
+The baseline examination was conducted in three areas
+of Ojiya city in October–December 2011 for Heisei-cho
+residents, August–November 2012 for Matto residents,
+and July–September 2013 for Katakai residents. Trained
+nurses visited and interviewed participants to collect the
+following information: demographic characteristics,
+health status (including cognitive function) and lifestyle,
+family environment (living with family or alone), current
+occupational status (unemployed/retired or employed),
+and histories of hypertension, cerebrovascular disease,
+and diabetes. The interviewer’s guide of this study is
+shown in Additional Information 1. Cognitive function
+was assessed using the HDS-R [14]. We also collected
+information regarding alcohol consumption (classified
+into five categories: 1) non-drinker, 2) < 7 gou (1 gou is
+equivalent to 180 mL of Japanese sake), 3) 7–13 gou, 4)
+14–20 gou, and 5) ≥21 gou per week) and smoking status
+(classified into three categories: 1) non-smoker, 2) past
+smoker, and 3) current smoker). Usual bedtime and
+sleeping hours were asked and recorded, and the duration
+of daytime napping was recorded as 1) none, 2) <
+30 min, 3) 30–59 min, and 4) ≥60 min. We did not consider
+the number of daytime naps because this information
+was not obtained during the interviews. Participants
+were also asked about current sleep disturbances and
+the use of sleeping pills. Details of the baseline examination
+have been described previously [12].
+Five-year follow-up examination
+The follow-up examination, including the HDS-R test,
+was conducted 5 years after, and in the same manner as,
+the baseline examination, i.e., in October–December
+2016 for Heisei-cho residents, August–November 2017
+for Matto residents, and July–August 2018 for Katakai
+residents.
+Assessment of cognitive function
+The HDS-R, a 30-point test, was used to assess general
+cognitive function, with a score ≤ 20 defined as cognitive
+impairment at baseline. The HDS-R was developed to
+screen for dementia (sensitivity: 0.90, specificity: 0.82)
+with a cutoff of 20/21 [14]. The HDS-R has been used in
+East Asian populations [15, 16] and demonstrated to
+have a diagnostic accuracy similar to that of the MMSE
+[17]. One advantage of using the HDS-R over the MMSE
+is its diagnostic accuracy regardless of education level
+[17]. The HDS-R was administered during baseline and
+follow-up examinations, and change in HDS-R (ΔHDSR
+= [score at follow-up] – [score at the baseline]) was
+calculated. We used a cutoff of ΔHDS-R ≤ -3 to detect
+the presence of cognitive decline, referring to the cutoff
+of ΔMMSE ≤-3 (30-point test) used in previous studies
+[18, 19], based on the fact that longitudinal scores of
+HDS-R and MMSE change in the same direction in
+community-dwelling individuals [20]. We also included
+18 individuals who had normal cognitive function at
+baseline and did not participate in the follow-up examination,
+but were diagnosed with dementia at medical facilities,
+as having cognitive decline.
+Statistical methods
+The χ2 test was used to test for independence of categorical
+data for participant characteristics. Cumulative incidence
+of cognitive decline was calculated and compared
+according to levels of potential predictor variables by
+odds ratios (ORs) computed using simple and multiple
+logistic regression analyses. Dose-dependent associations
+were assessed by simple and multiple logistic regression
+analyses and reported as P for trend values. First, unadjusted
+ORs for cognitive decline according to potential
+predictors were calculated. Second, ORs were adjusted
+for age and baseline HDS-R. Third, we calculated
+multivariable-adjusted ORs (hereafter referred to as
+“fully-adjusted ORs”) of bedtime, duration of sleep, and
+duration of nap for cognitive decline using the forced
+entry method to adjust for the confounding effects of all
+potential predictor variables. For example, the OR for
+duration of sleep was calculated and adjusted for age,
+baseline HDS-R, sex, region (dummy variables), family
+environment, job status, histories of hypertension, cerebrovascular
+diseases, and diabetes, alcohol consumption,
+smoking status, bedtime, duration of nap, presence of
+sleep disturbance, and use of sleeping pills. Duration of
+nap was transformed into a dummy variable (0, 1–29
+min; 1, others) because the results suggest that a 1–29
+min nap is associated with a decreased risk of cognitive
+decline. Although a cutoff of ΔHDS-R ≤ -3 was used to
+detect cognitive decline, we used cutoffs of ≤ − 4 and ≤ −
+2 for the sensitivity analyses. Outliers exceeding 3SD
+were not found among continuous variables. SAS statistical
+software (release 9.1.3, SAS Institute Inc., Cary, NC,
+USA) was used for data analysis. P < 0.05 was considered
+statistically significant.
+Results
+The mean age of participants was 74.6 years (SD 6.4).
+Table 1 shows the baseline characteristics of participants
+by sex. Significant sex-based differences were observed
+in family environment, job status, and alcohol consumption.
+Specifically, significantly higher proportions of
+women lived alone, were unemployed, had lower alcohol
+consumption, and had a later bedtime than men. Moreover,
+women took significantly shorter naps than men,
+and had a greater proportion of those who do not nap at
+all.
+The overall cumulative incidence of cognitive decline
+was 106/389 (27.3%). Table 2 shows the cumulative incidence,
+unadjusted ORs, and age- and baseline-HDS-Radjusted
+ORs for cognitive decline according to levels of
+predictor variables. Age was robustly associated with unadjusted
+ORs for cognitive decline. The age- and
+baseline-HDS-R-adjusted OR was significantly lower for
+“1–29 (min)” daytime napping relative to no napping
+(reference).
+The fully-adjusted OR was significantly lower for “1–
+29 (min)” daytime napping relative to no napping (OR =
+0.47, 95%CI: 0.23–0.96) (Table 2, Fig. 2). Earlier bedtime
+was dose-dependently associated with cognitive decline
+(fully-adjusted P for trend = 0.0480) (Table 2). However,
+the duration of nighttime sleep was not associated with
+cognitive decline, sleep disturbance, or the use of sleeping
+pills. Napping duration and nighttime sleep duration
+were not significantly correlated with each other (Spearman’s
+correlation coefficient r = 0.082, P = 0.1036).
+Sensitivity analyses were conducted to confirm the significant
+findings above. When a cutoff of ΔHDS-R ≤ -4
+was used to detect cognitive decline, the fully-adjusted
+OR for cognitive decline was significantly lower for “1–
+29 (min)” daytime napping relative to no napping (fullyadjusted
+OR = 0.39, 95%CI: 0.16–0.91; Additional Figure
+1), and the fully-adjusted P for trend of bedtime was
+0.1612. When a cutoff of ΔHDS-R ≤ -2 was used, the
+fully-adjusted OR was marginally lower for “1–29 (min)”
+daytime napping relative to no napping (fully-adjusted
+OR = 0.58, 95%CI: 0.32–1.05; Additional Figure 2), and
+earlier bedtime was associated with cognitive decline
+(fully-adjusted P for trend = 0.0025), with a fullyadjusted
+OR of 0.28 (95%CI: 0.11–0.71) for “11:00 p.m.-”
+relative to “-8:59 p.m.” (reference).
+Discussion
+This study is the first to report a significant decrease in
+cognitive decline in older adults who habitually take
+short daytime naps (< 30 min). Cross-sectional studies
+previously showed associations between daytime napping
+and cognitive impairment. Cross et al. [9] reported
+that longer napping is significantly correlated with increased
+levels of cognitive deficits in 133 adults aged >
+50 years. Similarly, Owusu et al. [11] showed that unintentional,
+longer naps were correlated with poorer performance
+on cognitive tests in 2549 communitydwelling
+adults aged ≥65 years. While these studies suggested
+the unfavorable effect of longer napping, shorter
+napping reportedly had a favorable effect on cognitive
+performance [21]. In a cross-sectional study in clinical
+settings, Asada et al. [21] found that napping for up to
+60 min, but not more than 60 min, was protective
+against the development of Alzheimer’s disease. Lin
+et al. [10] conducted a large-scale cross-sectional study
+in 10,740 Chinese older adults (≥60 years) and found
+that short nappers (< 30 min) had a significantly lower
+prevalence of cognitive impairment as assessed by the
+MMSE compared to no nappers and long nappers (≥30
+min). Our findings are consistent with this report.
+To date, only one longitudinal study of up to 10 years
+has been conducted [8], which reported that the risk of
+MMSE-assessed cognitive impairment was significantly
+lower in those who habitually take naps, regardless of
+duration, in a UK cohort (median age, 75 years). The discrepancy
+between their findings and ours may be due to
+the different definitions of cognitive impairment. The
+present study used a decrease in HDS-R score of ≤ − 3
+points to define cognitive impairment, whereas Keage
+et al. [8] used newly diagnosed cognitive impairment according
+to MMSE scores. It is also possible that factors
+such as the difference in ethnicity might have played a
+role.
+A number of studies have reported on the physiologically
+beneficial effects of napping on cognitive performance
+in adults [22, 23]. One study even suggested that
+napping leads to improved cognitive performance in
+older adults [24]. However, the specific effects of short
+naps are not fully understood. Short naps (< 30 min) reportedly
+improved cognitive performance and alertness
+and were associated with less sleep inertia [22, 24].
+Moreover, an epidemiologic study found that short naps,
+but not long naps, had a protective effect against cardiovascular
+risk [23], suggesting that short naps have stressreleasing
+effects. These findings suggest that short naps
+might also be beneficial for cognitive function, since
+cognitive decline and dementia are considered stressrelated
+conditions/diseases [25, 26].
+The underlying mechanism by which short napping
+confers a beneficial effect is unclear. However, there is
+growing evidence that brain β-amyloid is cleared during
+sleep through the glymphatic system [27], and that low
+sleep quality is associated with brain β-amyloid burden
+in older adults [27]. Thus, short napping may be beneficial
+against brain β-amyloid by improving sleep quality.
+Short napping may also have a direct, favorable effect on
+β-amyloid clearance, although this will need to be investigated
+in future studies.
+Recent meta-analyses have found an association between
+longer sleep duration and increased risk of cognitive
+decline [3, 4]. However, we did not find a significant
+association between the duration of nighttime sleep and
+the risk of cognitive decline, although longer sleep
+groups (“8–8.9-h” and “≥9-h” groups) tended to have a
+higher risk of cognitive decline (OR = 1.55, 95%CI: 0.74–
+3.26, N = 67, and OR = 1.47, 95%CI: 0.50–4.35, N = 23;
+respectively). The non-significant ORs may partly be due
+to insufficient sample sizes of the longer sleep groups.
+Nonetheless, our findings are consistent with the findings
+of the meta-analyses mentioned above [3, 4].
+In the present study, an earlier bedtime was associated
+with a higher risk of cognitive decline (fully-adjusted P
+for trend = 0.0480). While evidence is scarce, a large cohort
+study [28] found no association between bedtime
+and the risk of dementia, although that study only classified
+bedtime as earlier or later than 11 PM. Older people
+living with dementia reportedly go to bed early [29].
+Thus, the effect of bedtime on cognition warrants further
+examination.
+Some baseline characteristics differed by sex, including
+the duration of daytime nap, in our study population.
+Moreover, a significantly greater proportion of women
+took no daytime nap compared to men, suggesting that
+this, as well as other female-specific characteristics (e.g.,
+family environment, job status, alcohol consumption),
+may account for the higher risk of dementia in women
+relative to men.
+The present study has several strengths. First, we used
+a cohort design, which is preferable for detecting causal
+associations. Second, this study had a high participation
+rate at baseline (90.4%) and an acceptable follow-up rate
+(72.9%). Finally, information regarding participant lifestyle
+was obtained and confirmed through interviews
+during home visits by experienced nurses.
+This study also has some limitations. First, we obtained
+sleep-related information through interviews by
+trained nurses, but the information was based on selfreport.
+Therefore, there is a possibility of misclassification
+bias, which might have led to an underestimation of
+associations between predictors and outcomes. Second,
+we did not collect information on naptime, although the
+timing of naps is an important factor related to cognitive
+function [24]. We did not systematically obtain information
+on the number of naps either. These two aspects, as
+well as nap duration, could influence sleep quality at
+night, which in turn could affect cognitive function. Finally,
+we did not evaluate conditions which could affect
+sleep, such as depression and sleep apnea.
+Conclusion
+Short daytime napping (< 30 min) reduces the risk of
+cognitive decline over 5 years for community-dwelling
+older adults. Further studies will be needed to determine
+if short naps decrease the risk of clinically-diagnosed
+dementia.

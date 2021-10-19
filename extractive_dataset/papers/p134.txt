@@ -1,0 +1,338 @@
+In recent decades, with the rapid development of the
+social economy and change in lifestyle, the prevalence
+of non-alcoholic fatty liver disease (NAFLD) has risen
+sharply worldwide. Estimates suggest that more than
+1/4 of individuals worldwide have NAFLD, which has
+become one of the most common chronic diseases [1–3].
+Similar to the characteristics of other chronic diseases,
+NAFLD usually has a long course of illness, affects multiple
+organ systems of the body, and has many complications
+and low public awareness rates [1, 4–6]. However,
+because the physical injuries caused by NAFLD are often
+chronic and asymptomatic, the actual prevalence rate
+may be underestimated, creating a vast hidden burden of
+disease to the already overburdened health care system
+[2–4, 6, 7]. Combined with the previous valuable experience
+in exploring the pathogenic features of hypertension,
+diabetes, and other chronic diseases in humans
+[8–10], we believe that preventing the occurrence and development of NAFLD will be the primary goal in the
+future. Thus, the early detection of important risk factors
+for NAFLD is the most important task presently [7].
+The waist circumference (WC) and body mass index
+(BMI) are currently the most widely used anthropometric
+indicators to assess obesity worldwide and are also the
+most critical risk factors for NAFLD [1, 3, 11]. These indicators
+are simple to measure and provide excellent convenience
+to prevent and manage many diseases [12, 13].
+However, in recent years, in-depth studies have found
+that the waist-to-height ratio (WHtR) can better assess
+the risk of central obesity, diabetes, hypertension, and
+other metabolic diseases [14–17]. Furthermore, several
+recent cross-sectional studies have shown that WHtR is
+a stronger predictor of NAFLD risk and its severity and
+is more sensitive to diagnosis than WC and BMI [18, 19].
+However, few studies have investigated the association
+between WHtR and NAFLD, which contain deeper relationships,
+such as non-linear relationships, and whether
+a special population exists among different subgroups.
+Additionally, the sample sizes of several existing studies
+on the association between WHtR and NAFLD are relatively
+small (N = 250–6143). Therefore, this study aimed
+to further explore and analyse the association between
+WHtR and NAFLD in adults using a large sample size.
+Methods
+Subject population and design
+Our study population was from a large-scale health
+examination programme called ‘human dock’ in Japan
+that aims to promote public health and assesses common
+chronic diseases and their risk factors through physical
+examination. The research data have been uploaded
+to Dryad public database by Okamura et al. According
+to the terms of service of Drayad database, we can use
+this data for secondary data analysis based on different
+assumptions [20]. In previous studies, research ethics
+was approved by the Murakami Memorial Hospital Ethics
+Committee and informed consent was obtained from
+all subjects; Additionally, in order to protect the privacy
+of patients, the effective identification ID of all subjects
+in the study was replaced by health codes, and the whole
+study process followed the Declaration of Helsinki. Since
+this study was a secondary analysis of previous studies,
+there was no need to apply for separate ethical approval.
+In previous studies, the researchers used a longitudinal
+design and analysed the risk factors for diabetes [20].
+In this study, we adopted a cross-sectional design that
+included participants in the ‘human dock’ physical examination
+programme from 2004 to 2015. We have added
+some exclusion criteria to the previous research design:
+(a) male alcohol consumption ≥ 210 g/w and female
+alcohol consumption ≥ 140 g/w [21]; (b) viral hepatitis
+or diabetes diagnosed at baseline; (c) on medication at
+baseline; (d) impaired fasting blood glucose (FPG); (e)
+age < 18 years and (e) missing covariant data.
+Data collection
+As mentioned previously [20], the clinical baseline information
+in this study was collected through a standardised
+self-administered questionnaire, including age, sex,
+height, weight, WC, smoking status, drinking status,
+systolic blood pressure (SBP), diastolic blood pressure
+(DBP) and habit of exercise. Information such as height,
+weight and WC came from the patient’s self-report. The
+habit of exercise was defined as participating in any exercise
+more than once a week; Smoking status was divided
+into nonsmokers, former smokers, and current smokers
+by asking about smoking history when baseline data were
+collected. Drinking status was divided into non-drinking
+or small drinking (< 40 g/w), light drinking (40–139 g/w)
+and moderate drinking (140–209 g/w) depending on
+the amount of alcohol consumed. BMI was calculated
+as weight/height2, and WHtR as WC/height. Haematological
+indicators were tested by sampling venous blood
+after a night of fasting and included gamma-glutamyl
+transferase (GGT), alanine aminotransferase (ALT),
+high-density lipoprotein cholesterol (HDL-C), aspartate
+aminotransferase (AST), total cholesterol (TC), haemoglobin
+A1c (HBA1c), triglyceride (TG), and FPG.
+Diagnosis of NAFLD
+NAFLD was assessed by abdominal ultrasound, and
+experienced gastroenterologists reviewed the ultrasound
+images without knowing the participants’ personal
+information. According to the results of four types
+of ultrasound, such as liver brightness, hepatorenal echo
+contrast, vascular blurring, and deep attenuation, the
+evaluation was made and a final diagnosis was made [22].
+Statistical analysis
+All the analyses in this study were performed using R
+(version 3.4.3) and Empower (R) (version 2.0) statistical
+software. To understand the association between WHtR
+and other variables more intuitively, we grouped WHtR
+into quintiles, and the linear trend of baseline characteristics
+was tested by logical regression or linear regression.
+Additionally, we used a multivariate logical regression
+model to examine the NAFLD risk corresponding to each
+WHtR quintile. As a sensitivity analysis, we treated the
+WHtR quintile as a continuous variable and examined
+the WHtR quintile and NAFLD risk trend. In multivariate
+analysis, the adjustment rules of variables were followed
+according to the Strengthening the Reporting of
+Observational Studies in Epidemiology (STROBE) statement
+[23]. The adjustment results of different degrees were shown in different models, where model 1 was the
+unadjusted model, model 2 adjusted the basic demographic
+variables (adjusted for age and sex), model 3
+adjusted for variables whose impact on the WHtR and
+NAFLD matching risk was greater than 10% (adjusted
+for BMI, ALT, HDL-C, TG and height) [24], and model
+4 adjusts all non-collinear variables (collinearity diagnosis
+discriminates according to variance inflation factor
+[25], Additional file 1: Table S1). We also checked
+whether a non-linear relationship existed between WHtR
+and NAFLD using the generalised additive model (GAM,
+spline smoothing function). Finally, to further explore
+the association between WHtR and NAFLD, we used the
+likelihood ratio test to examine the interaction between
+the pre-determined subgroup (sex, age, BMI, habit of
+exercise, and drinking status) and WHtR.
+In this study, the distribution pattern of the quantitative
+variables was judged by the QQ plot, and the expression
+was summarised as medians (quartile interval) or
+means ± standard deviation (SD). The frequency of qualitative
+variables was reported as a percentage, and chisquared
+test evaluated the differences between groups.
+Results
+Baseline characteristics of WHtR
+In total, 20,944 participants were enrolled, among which
+6693 participants were excluded because they did not
+meet the screening criteria (736 participants with viral
+hepatitis or diabetes, 2321 participants were on medication
+at baseline, 808 participants had impaired FPG,
+1952 participants were heavy drinkers, 10 participants
+for unknown reasons and 863 participants with missing
+covariates), leaving 14,251 adults for analysis, including
+7411 male and 6840 female, with an average age of
+43.53 ± 8.89 years.
+In this study, the WHtR values ranged from 0.28 to
+0.79, and Table 1 evaluates the association between
+the baseline data and WHtR quintiles. With the gradual
+increase in WHtR, the proportion of male participants
+gradually increased, the age, height, weight, BMI,
+WC, SBP, and DBP of all participants showed a gradual
+increase, the NAFLD patients, smokers and drinkers, and
+the levels of ALT, AST, GGT, TC, TG, HbA1c and FPG
+were also on the increased (all Ptrend < 0.05). Notably,
+when the WHtR was elevated, we found that the number
+of individuals who maintained the habit of exercise
+gradually decreased, and the HDL-C levels were also
+decreased (Ptrend < 0.05).
+Baseline characteristics of NAFLD
+Table 2 shows the baseline characteristics of the participants
+diagnosed with NAFLD and non-NAFLD. Among
+the 14,251 participants, the prevalence of NAFLD was
+17.59%, mainly male patients (80.93%). In the NAFLD
+group, the general clinical indexes (age, height, weight,
+BMI, WC, WHtR, SBP, DBP, smoking status, and drinking
+status) of the participants were higher than those in
+the non-NAFLD group (P < 0.001). Additionally, among
+the participants with confirmed NAFLD, significantly
+fewer participants had a habit of exercise (15.04%). Furthermore,
+except for HDL-C, the haematological indicators
+of the NAFLD participants were all higher than
+those of the non-NAFLD participants (P < 0.001).
+Association between WHtR and NAFLD
+In the multivariate logistic regression model, WHtR
+was significantly positively correlated with NAFLD, and
+this association remained unchanged in the unadjusted
+model (model 1), the basic adjusted model (model 2),
+the model adjusted according to the method recommended
+by the STROBE statement (model 3), and the
+model adjusted for all non-collinear variables (model
+4). In the model that adjusted all the non-collinear
+variables, we observed a 66% increase in NAFLD risk
+for per SD increase in WHtR (adjusted odds ratio
+(OR):1.66; 95% confidence interval (CI): 1.45, 1.89).
+Additionally, among the quintile groups of WHtR, participants
+in quintile 2, quintile 3, quintile 4, and quintile
+5 showed 3.62-fold, 5.98-fold, 9.55-fold, and 11.08-fold
+increased risks of NAFLD, respectively, compared with
+that in quintile 1 (P trend < 0.0001) (Table 3). These
+results suggest that individuals with higher WHtR are
+more likely to develop NAFLD than those with lower
+WHtR.
+We continued to use GAM to model the association
+between WHtR and NAFLD. The regression spline
+curve indicated that the relationship between WHtR and
+NAFLD was non-linear, in which a WHtR of approximately
+0.4 might be the threshold effect of NAFLD risk,
+0.6 might be the saturation effect of NAFLD risk, and a
+value between 0.4 and 0.6 might demonstrate linear relationship
+with the risk of NAFLD (Fig. 1).
+Subgroup analysis
+To further reveal the deep association between WHtR
+and NAFLD, interaction tests were performed in the predefined
+subgroups (Table 4). Among these subgroups,
+we found a significant interaction between WHtR and
+BMI (P interaction < 0.01). Among them, this risk association
+was significantly higher in non-obese individuals
+than in those with BMI ≥ 24 kg/m2 (adjusted OR: 2.73
+vs 1.94). Additionally, the interaction tests for age, sex,
+habit of exercise, and drinking status were not significant
+(Pinteraction > 0.05).
+Discussion
+This cross-sectional study, based on the general adult
+population, examined the association between the
+WHtR and the prevalence of NAFLD and found that
+the risk of NAFLD was significantly associated with
+an elevated WHtR value. Even after adjusting for all
+the non-collinear covariates, the association remained
+strong and positive (adjusted OR: 1.66; 95% CI: 1.45,
+1.89), and this risk association was more significant in
+non-obese individuals (adjusted OR: 2.73; 95% CI: 2.37,
+3.14; Pinteraction = 0.0006).
+The prevalence of NAFLD in this study was 17.59%,
+which was relatively low compared with that in Asia
+(27.37%) [2]. The cause may be related to a significant
+proportion of participants in this study still maintaining
+their habit of exercise (17.33%). It is well known
+that regular exercise can reduce the risk of NAFLD and
+is currently the primary way to prevent NAFLD occurrence
+and control NAFLD development [1, 4, 5, 26]. In
+this study, 84.96% of patients with NAFLD were from
+individuals who had no habit of exercise (Table 4).
+Additionally, although the prevalence of NAFLD in
+non-obese people (BMI < 24 kg/m2) was lower than that
+in overweight or obese people (BMI ≥ 24 kg/m2), the
+subgroup analysis showed that the risk of NAFLD in
+non-obese people was significantly higher than that in
+overweight or obese people (adjusted OR: 2.73 vs 1.94,
+Pinteraction < 0.01). In some recent studies, researchers
+have expressed similar concerns, believing that nonobese
+individuals in Asia are vulnerable to NAFLD and
+the health problems of this unique population should
+be given attention [2, 18, 27, 28].Compared with other studies on the association
+between WHtR and NAFLD [18, 19, 28–30], the main
+advantage of this study was based on the large sample
+data, further analysis of various potential confounding
+factors to perform strict statistical adjustment, revealing
+the positive association between WHtR and NAFLD,
+and examining the possible unique population through
+hierarchical analysis and interactive tests. Additionally,
+our analysis showed a non-linear relationship between
+WHtR and NAFLD. A WHtR of approximately 0.4 likely
+indicated a threshold effect of NAFLD risk; 0.6 might be
+a saturation effect on the risk of NAFLD. A WHtR value
+between 0.4 and 0.6 likely indicated a linear relationship
+between WHtR and NAFLD risk. In previous studies,
+researchers generally believed that the optimal cut-off
+value for WHtR was approximately 0.5 [18, 19, 29–31];
+our latest evidence also supports this conclusion, and we
+visualised the association between WHtR and NAFLD.
+We believe that when WHtR is in the range of 0.4–0.6,
+the risk of NAFLD must be evaluated carefully. To our
+best knowledge, this is the first study to demonstrate
+a non-linear association between WHtR and the risk of
+NAFLD.
+The mechanism by which WHtR correlates with
+NAFLD remains unclear. However, related studies have
+shown that WHtR is closely related to chronic inflammation
+and insulin resistance (IR), which may lead to
+NAFLD occurrence [32, 33]. As explained in the ‘parallel
+multiple-hit theory’, IR is the primary factor that triggers
+NAFLD [34]. IR causes an increase in free fatty acids in
+hepatocytes, and these fat molecules make the liver more
+vulnerable to a second blow, increasing the liver’s susceptibility
+to other damage factors [35, 36]. Additionally,
+chronic inflammation can cause hepatocyte stress and
+IR, which lead to lipid accumulation and form a vicious
+circle, further increasing the risk of NAFLD [37, 38].This study’s advantage is that, based on a large sample
+size, a standard questionnaire was used to evaluate the
+habit of exercise as an important risk factor, and a rigorous
+statistical adjustment was made to explore the
+association between WHtR and NAFLD deeply. Additionally,
+this study is the first to confirm that the association
+between WHtR and NAFLD is non-linear and
+provides a reference range of WHtR associated with
+NAFLD risk.
+This study’s limitations are mainly due to the following
+aspects: (a) a cross-sectional design was adopted;
+thus, the causal association between WHtR and NAFLD
+could not be determined. However, due to the retrospective
+nature of the study, the issue of observational bias
+was avoided. Additionally, the data analysis in this study
+was based on a large sample, and the conclusions drawn
+could be considered relatively reliable; (b) IR was not
+evaluated; thus, regarding the association between WHtR
+and NAFLD, we can only speculate that the mechanism
+of IR may be involved in one of the important links; (c)
+the diagnosis of NAFLD was evaluated by abdominal colour
+ultrasound, and the true prevalence of NAFLD may
+be underestimated compared with liver biopsies—that
+is, the effect of WHtR on NAFLD may also be underestimated.
+However, abdominal colour ultrasound has
+reduced the economic burden and physical damage of
+physical examination in healthy individuals; with the
+improvement in ultrasonic detection technology, the sensitivity
+and specificity of abdominal colour ultrasound
+in detecting NAFLD have reached a high level [39]; (d)
+although we have adjusted a large range of known risk
+factors, many risk factors may exist that we have not yet
+discovered or cannot measure, causing inevitable residual
+confusion; (e) since this study is based on a secondary
+analysis of previous research data [20], diabetes patients
+are not included in the data package, so it may cause a
+certain selection bias. But from another point of view,
+the positive correlation between diabetes and NAFLD
+has been proved many times in many previous studies
+[1, 2, 6], but this study still found that there is a positive
+correlation between WHtR and NAFLD even excluding
+patients with diabetes, so it can be considered that this
+association is relatively reliable.
+Conclusion
+In summary, the results of this study suggest that in
+adults, the WHtR is positively associated with NAFLD,
+and the relationship between the two is non-linear, with
+significant threshold and saturation effects. These findings
+further enrich the latest evidence and may benefit
+the public in terms of the prevention and intervention of
+NAFLD. Given that the WHtR is a repeatable and easyto-
+measure indicator, we suggest that WHtR should be
+promoted as a routine programme to screen adults for
+NAFLD.

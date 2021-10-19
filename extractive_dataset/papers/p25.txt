@@ -1,0 +1,644 @@
+Background
+Baclofen has been clinically available for over 60 years [1].
+It is a gamma amino butyric acid (GABA) derivative that
+is thought to work via the metabotropic GABAB
+receptor.
+Used mainly for the treatment of muscle spasticity,
+it has also found a role in the treatment of neuropathic
+pain [2–4]. Recent experiments reported by ourselves
+[5] which assessed the effects of commonly employed
+adjuvant agents on peripheral nerve stimulation-related
+neuromodulation identified that baclofen may have an
+analgesic effect on bladder nociception. However, the
+rats used in those particular experiments had extensive
+surgeries and received numerous other manipulations.
+Therefore, to properly assess the effects of baclofen on
+responses to urinary bladder distension (UBD), experiments
+need to be performed in isolation from those
+other manipulations. Moreover, concerns about opioid
+overdose/misuse have become of paramount clinical
+concern [6] and so it is important to determine whether
+non-opioid drugs which are already approved for use in
+humans may be repurposed for the treatment of specific
+types of pain such as bladder pain.
+Numerous basic science reports suggest that
+baclofen, administered either systemically or intrathecally,
+inhibits nociception. It is known to produce analgesia
+by itself as measured in rats and mice in the hot
+plate, tail flick and acetic acid-induced writhing [7–21].
+Baclofen also produces analgesia in primates in the formalin
+test [22]. In chemotherapy-induced neuropathic
+pain models baclofen produces significant but erratic
+analgesia [4]. It has also been demonstrated to have
+peripheral analgesic effects in a mouse arthritis model
+[23]. In humans, baclofen has had a particular role as
+an analgesic for cranial nerve-related neuropathic pains
+such as trigeminal neuralgia [2]. Anecdotal reports (e.g.
+[3]) suggest it also works for postherpetic neuralgia
+in facial distributions. In humans, the spinal administration
+of baclofen has also demonstrated short-term
+analgesic effects on spinal cord injury-related pain and
+post-stroke pain [24] and provides analgesia following
+surgery, in most cases by augmenting opioid effects
+[25–27].
+Despite these encouraging basic science and clinical
+reports, baclofen has not been used frequently for
+non-neuropathic pain in humans. This is unfortunate
+because baclofen may have other beneficial effects
+related to the attenuation of abuse/misuse of opioids.
+In rat models, baclofen dose-dependently reduced heroin-
+seeking behavior [28, 29], reversed behavioral sensitization
+to morphine [30], prevented reinstatement of
+heroin-seeking behaviors [28] and enhanced extinction
+of opiate and methamphetamine-induced conditioned
+place preference [31, 32]. These effects of baclofen on
+reward and dependence systems are particularly important
+given the present societal concerns related to opioid
+overuse and misuse. Having an effective non-opioid
+therapy (or supplemental therapy), such as baclofen, as
+an alternative to high doses of opioids is therefore both
+desirable and an ethical imperative. The following studies
+were therefore performed to test the potential utility
+of baclofen as an analgesic agent in the treatment of
+bladder pain and more generally, to enhance the database
+for alternatives to the use of opioids in the treatment
+of chronic pain.
+Experimental procedures
+Overview
+In the present experiments, we examined the antinociceptive
+effects of both systemic and spinal administration
+of baclofen. We used several models of bladder nociception
+with endpoints which included spinal dorsal horn
+neuronal responses, UBD-evoked changes in arterial
+blood pressure and the VMR (abdominal contractions)
+evoked by UBD. In addition to normal, healthy rats,
+we also assessed responses in rats whose bladders were
+made hypersensitive to bladder distension by inflammation.
+These studies were all approved by the UAB Institutional
+Animal Care and Utilization Committee.
+Animal subjects
+A total of 205 Sprague–Dawley female rats obtained
+from Harlan/Envigo (Prattville, AL) were used as adults
+(mean weight 283 ± 12 g) in all experiments. In some
+experiments, rats were raised from birth, treated as
+pups and allowed to mature to adulthood (description
+in section “Neonatal bladder inflammation (NBI)”). All
+rats were housed with food and water available on an
+ad libitum basis. A 12:12-h light:dark cycle was maintained,
+where lights were off between 6:00 pm and 6:00
+am. Female rats were exclusively employed for practical
+reasons (difficult to cannulate male rats’ urethras) but
+can be justified by the observation that VMRs and cardiovascular
+responses to urinary bladder distension in
+female rats are more reliable and robust than in male rats
+[33] and chronic bladder pains have a high female prevalence
+in humans [34]. There was no attempt to control
+for estrous cycle, as the focus of this study was not on
+estrous-related changes in pain, and we have previously
+shown that hormone fluctuations due to the estrous cycle
+do not alter the vigor of UBD-evoked VMRs in rats without
+bladder inflammation when the current methodology
+is employed [35].
+Adult bladder inflammation (ABI)
+As adults, some rats received a treatment 24 h prior to
+UBD testing on the following day. At that time, animals
+were anesthetized with inhaled isoflurane and oxygen
+(5% for induction, 2% for maintenance) and separated
+into groups receiving either no treatment or intravesical
+zymosan. Intravesical zymosan treatment has been demonstrated
+to produce a robust bladder inflammation and
+hypersensitivity to UBD [36]. Zymosan-treated animals
+had their urinary bladders catheterized with a 22-gauge
+angiocatheter via the urethra. Zymosan (0.5 ml, 1% in
+saline) was administered intravesically for 30 min and
+drained. Rats in the anesthesia only control group were
+maintained on 2% isoflurane for 30 min, immediately
+after induction with 5% isoflurane. All animals received
+ampicillin at the end of the procedure (50–100 mg/kg,
+s.c.).
+Neonatal bladder inflammation (NBI)
+Some groups of female rat pups were given three daily
+neonatal treatments of zymosan beginning on postnatal
+day 14 (P14–16). Each rat was anesthetized with
+isoflurane (5% induction; 2% maintenance) delivered by
+mask. In one group, a 1% zymosan (0.1 ml) solution was
+instilled intravesically via a 24 gauge angiocatheter placed
+through the urethra and allowed to dwell for 30 min. The
+bladder then was drained, the catheter removed, and the
+rat permitted to recover. The control group only received
+anesthesia and no catheterization or zymosan treatment.
+All rats were kept on a warmed heating pad during treatments
+and received ampicillin (0.05 mg in 0.05 ml s.c.) at
+the end of each treatment before being returned to their
+dams. All rats were weaned at 3 weeks and then raised
+to adulthood before use (12–15 weeks of age). This treatment
+has been demonstrated to produce hypersensitivity
+to UBD and is described more completely elsewhere [37].
+Reflex responses to urinary bladder distension (UBD)
+Animals were anesthetized with urethane (1.2 g/kg s.c.)
+and/or isoflurane (2–5% during surgery, later reduced
+to < 0.75%). A 22-gauge polytetrafluoroethylene angiocatheter
+(Johnson and Johnson, Arlington TX) was
+placed into the bladder via the urethra and held in place
+by a tight suture around the distal urethral orifice. Silver
+wire electrodes were inserted into the external oblique
+musculature immediately superior to the inguinal ligament
+for recording of abdominal EMG activity. In some
+cases, a carotid arterial catheter was placed to allow for
+hemodynamic measures. Following surgery, anesthesia
+was reduced until flexion reflexes were present in
+the hind limbs but spontaneous escape behaviors were
+absent. In most experiments, the primary response
+measure was the visceromotor reflex (VMR), an abdominal
+contraction evoked by UBD which consisted of air
+distension of the urinary bladder using the intravesical
+catheter. An in-line, pneumatically-linked, low volume
+pressure transducer was used to monitor distending
+pressures. VMRs, recorded as electromyographic activity
+of the abdominal musculature, was measured via
+the electrodes using standard differential amplification
+and rectification and saved on a computer (Spike 2 software,
+Cambridge Electronic Design, UK). “Evoked” VMR
+responses were defined as the mean rectified electromyographic
+activity (in mV) during 20 s of UBD minus the
+mean baseline electromyographic activity (in mV) measured
+in the period immediately preceding the onset of
+UBD. Hemodynamic responses to UBD were defined as
+the maximal sustained change in mean arterial pressure
+measured during UBD minus the mean arterial pressure
+measured immediately prior to UBD. This model system
+has been described more extensively elsewhere [38, 39].
+Intrathecal catheters
+In experiments in which selective spinal action of drugs
+was studied a 7.8 cm catheter made of PE10 tubing was
+inserted via an incision in the atlanto-occipital membrane
+following surgical exposure and threaded down
+through the subarachnoid space to the lumbosacral
+region under deep isoflurane/oxygen anesthesia. In most
+cases, the catheter was used immediately in non-survival
+experiments (as per sections “Protocol for spinal baclofen
+cumulative dosing experiments” and “Protocol for assessing
+effects on hemodynamic responses to UBD”), but
+in 13 rats the catheter was attached to an Alzet 2001
+osmotic minipump (Durect Corp, Cupertino, CA, USA)
+allowing for a 7-day infusion of either normal saline or
+a baclofen solution as described in section “Dorsal horn
+spinal neuronal responses to UBD”.
+Protocol for systemic baclofen cumulative dosing
+experiments
+Repeated 60 mmHg UBDs were administered with a
+3 min inter-trial interval until stable VMRs were established.
+Graded, constant-pressure air distensions of the
+urinary bladder (20 s duration; 3 min inter-trial interval)
+of ascending pressures at intervals of 10, 20, 30, 40,
+50 and 60 mmHg were then administered to quantify
+the graded stimulus–response. A cumulative dosing
+paradigm was then initiated with consecutive doses of 1,
+1, 2 and 4 mg/kg of baclofen (Sigma-Aldrich, St. Louis,
+MO, USA; Cat. No. B5399) or equal volumes of normal
+saline (1 ml/kg) administered IP for cumulative doses of
+1, 2, 4 and 8 mg/kg respectively in the case of baclofen.
+The saline injections served as a repeated measures control
+procedure. Fifteen minutes following each injection
+graded stimulus–response measures (10–60 mm Hg, 20 s
+UBDs) were re-determined using the method described
+above.
+Protocol for spinal baclofen cumulative dosing
+experiments
+Rats were prepared following a surgical procedure similar
+to that used in section “Protocol for systemic baclofen
+cumulative dosing experiments”, but with the addition
+of an acutely placed IT catheter. A protocol similar to
+that described in section “Protocol for systemic baclofen
+cumulative dosing experiments” was then performed
+using consecutive doses of 10, 10, 20, 40 and 80 ng of
+baclofen (or equal volumes of normal saline) dissolved in
+10 μl of normal saline followed by a 10 μl normal saline
+flush through the IT catheter. Graded stimulus–response
+measures were determined 15 min following each
+baclofen/saline injection.
+Protocol for assessing effects on hemodynamic responses
+to UBD
+In these rats, a single 40 ng dose of IT baclofen (10 μl
+injection; 10 μl normal saline flush) or equal volume of
+IT normal saline was administered and responses to
+repeated UBDs (60 mm Hg, 20 s, 3 min intervals) measures,
+allowing for assessment of the time course of the
+baclofen effect. In this case, responses included both
+VMRs and hemodynamic responses measured using a
+carotid arterial catheter. The IT saline-treated rats served
+as a control for repeated measures.
+Protocol for assessing actions of baclofen via GABA‑B
+receptors
+To verify that baclofen was acting through GABAB
+receptor
+mechanisms, an antagonist was administered IT
+prior to administration of baclofen. Specifically, these
+rats received repeated UBDs (60 mm Hg, 20 s 3 min ITI).
+After VMRs to UBD were stable (± 20%), responses to
+graded UBD (10–60 mm Hg, 20 s) were obtained. Rats
+then received a single IT injection of either CGP35348
+(30 μg; Tocris Biosciences, Minneapolis, MN, USA; Cat.
+No. 1245) or an equal volume of normal saline (10 μl)
+followed by a 10 μl normal saline flush. Fifteen minutes
+after the injection repeat graded UBD stimulus–response
+measures were obtained. Rats then received an IT injection
+of baclofen (40 ng) in normal saline or an equal volume
+of normal saline (10 μl) followed by a 10 μl normal
+saline flush. Fifteen minutes after this injection, repeat
+graded UBD stimulus–response measures were obtained.
+These dosing combinations resulted in three separate
+measures in four separate groups.
+Protocol for assessing tolerance to spinal baclofen
+Thirteen rats which had received neonatal bladder
+inflammation (section “Reflex responses to urinary bladder
+distension (UBD)”) had IT catheters placed (section
+“Intrathecal catheters”) and attached to seven day
+minipumps that were then secured in the subcutaneous
+tissues between the rats’ scapulae. Incisions were closed
+with sutures and the rats allowed to recover. Half of the
+rats received an infusion of baclofen at a rate of 1 μl/h or
+20 ng/h for 7 days. The other half of the rats received a
+normal saline infusion at the same rate. The day before
+testing, all rats were re-anesthetized with isoflurane,
+adult bladder inflammation induced (section “Adult bladder
+inflammation (ABI)”) and their IT catheters externalized
+and minipumps removed. They were allowed to
+recover overnight and then underwent cumulative dosing
+of IT baclofen in a fashion identical to that noted in
+section “Protocol for spinal baclofen cumulative dosing
+experiments”.
+Dorsal horn spinal neuronal responses to UBD
+Animals were anesthetized with isoflurane (5%) and a
+tracheal cannula placed allowing for mechanical ventilation.
+The cervical spinal cord was exposed surgically,
+injected with 50 μl of 1% lidocaine solution and subsequently
+transected using a sharp scalpel. The brain was
+then pithed mechanically, anesthesia discontinued and
+the rats allowed to recover until demonstrating robust
+hindlimb flexion reflexes in response to paw pinching
+(typically 1–2 h). A laminectomy was then performed
+and the dura incised exposing the L6-S2 spinal segments
+since these are known sites for spinal processing of afferent
+information from the bladder [40]. The vertebral
+column was clamped both rostrally and caudally to the
+laminectomy for stabilization. Skin flaps were arranged
+to form a protective coating for exposed tissue except
+for the site of recording which was covered with warmed
+mineral oil. A PE10 catheter was secured at the edge of
+the exposed spinal dorsal horn for future use in the topical
+administration of drugs. Tungsten microelectrodes
+(MicroProbe, Clarksburg, MD; 1.2–1.8 MOhm) were
+used for conventional extracellular single-unit recording.
+The dorsal horn 0–1.0 mm from midline and 0–1.2 mm
+below cord dorsum was searched using microelectrodes
+positioned using a stereotaxic apparatus. All units
+responded in a consistent excitatory fashion to UBD. To
+quantify neuronal responses, units were displayed oscillographically
+for continuous monitoring, discriminated
+conventionally from background, converted into uniform
+pulses and counted and saved by computer. The
+total number of unit action potentials (discharges) were
+counted in 10 s epochs before, during and after the UBD
+stimulus. Evoked Activity of the dorsal horn neurons was
+defined as the number of unit discharges during UBD
+minus the level of activity immediately preceding the
+onset of UBD. Because responses of different neurons to
+the same distending stimulus naturally vary in maximal
+response and total number of unit discharges, each unit’s
+response was normalized to that produced by the 60 mm
+Hg response for purposes of within- and between-group
+comparisons. Noxious and non-noxious somatic stimuli
+were also presented to each neuron and excitatory/inhibitory
+responses determined in a fashion similar to that
+which we have previously published [39]. Following characterization,
+the effect of the spinal application of 160 ng
+baclofen or an equal volume of normal saline (20 μl) on
+spinal dorsal horn neuronal responses to repeated UBD
+(60 mm Hg, 20 s; 3 min intervals) was determined by
+measuring multiple responses prior to and following
+drug administration. All of the rats studied in this protocol
+had also experienced neonatal bladder inflammation
+and adult bladder inflammation as per sections “Adult
+bladder inflammation (ABI)” and “Reflex responses to
+urinary bladder distension (UBD)”.
+Statistical analyses
+Statistics are presented as the mean ± S.E.M in the
+graphs. Area-Under-the-Curve (AUC) statistics were
+generated as measures of global responses to graded
+UBD and reported as a percentage of mean pre-drug
+measures. In some studies, repeated measures ANOVAs
+were performed followed by post-hoc analyses of means
+when appropriate. Paired t-tests of pre/post measures
+were used for comparisons when appropriate.
+Results
+IP baclofen produced dose‑dependent inhibition of VMRs
+to UBD
+The upper portion of Table 1 presents mean Area-Underthe-
+Curve (AUC) measures normalized as a percentage
+of the pre-drug measures. These values were obtained
+following cumulative IP dosing of baclofen (1, 2, 4, and
+8 mg/kg) or repeated doses of saline in otherwise healthy
+adult rats which had not experienced any neonatal bladder
+inflammation (NBI) or adult bladder inflammation
+(ABI) and so designated the “No NBI, No ABI Groups”
+and in adult groups which had received both NBI and
+ABI pretreatments, the “NBI—ABI Groups.”. Notably, the
+predrug VMRs were more robust in the NBI-ABI Groups
+compared with the No NBI-No ABI Groups: predrug
+AUCs were 115 ± 14 V*mmHg versus 78+6 V*mmHg
+respectively (p = 0.0188 for unpaired t-test, n = 16/
+group). Baclofen dosing, as compared with repeated
+saline dosing, produced statistically significant, dosedependent
+suppression of the normalized AUC measures.
+This suppression was similar in both pretreatment
+groups.
+IT baclofen produced dose‑dependent inhibition of VMRs
+to UBD
+Figure 1 and the lower portion of Table 1 present the
+results of the cumulative IT dosing of baclofen (10, 20,
+40, 80 and 160 ng) or repeated doses of normal saline.
+There were no significant differences between-groups
+in baseline AUC measures prior to dosing with baclofen
+(NBI-ABI predrup AUC 184+28 V*mmHg versus the No
+NBI-NoABI predrug AUC of 128+43 V*mmHg (n = 12/
+group) although this lack of difference may have represented
+a smaller sample size and greater variability of
+VMRs in rats which had IT catheters placed. Similar
+to the IP-treated rats described in section “IP baclofen
+produced dose-dependent inhibition of VMRs to UBD”,
+IT baclofen-treated groups, when compared with their
+corresponding IT saline-treated groups manifested significant
+dose-dependent suppression of their VMRs as
+quantified by the AUC when normalized to their predrug
+measures.
+Baclofen inhibited cardiovascular responses to UAB
+UBD (60 mm Hg, 20 s) produced a reliable pressor
+response that averaged 22.5 ± 1.3 mm Hg in the 12 rats
+studied. Figure 2A shows the analgesic effect of 40 ng of
+IT baclofen on pressor responses evoked by a 60 mmHg
+UBD stimulus presented every 3 min when compared
+with IT saline-treated controls. In these same rats the
+mean VMR also significantly decreased as a function of
+time after baclofen administration (Fig. 2B).
+Blockade by the receptor antagonist CGP 35348
+Table 2 reports the effects of sequential IT administration
+of saline or 30 μg of the GABAB
+receptor antagonist
+CGP35348 followed by the IT administration of 40 ng
+of baclofen or saline in the relevant comparison groups.
+In Sequence 1—40 ng of baclofen produced significant
+suppression of the AUC response to UBD when it followed
+an IT saline administration. In Sequence 2—IT
+CGP35348 significantly attenuated the suppressive action
+of baclofen. However in Sequence 3, when administered
+by itself, CGP35348 did not produce significant effects.
+Likewise in Sequence 4—repeated measures of the VMRs
+were unaffected when only saline was administered IT.
+There was no significant quantitative or qualitative difference
+in the effects of the different drugs on different rat
+bladder inflammation pretreatment groups (i.e., NBI Plus
+ABI Group vs. No NBI Plus ABI Group vs. No NBI-No
+ABI Group).
+IT baclofen still effective after chronic infusion
+Baclofen or saline were infused continuously for 7 days
+via implanted osmotic minipumps to evaluate whether
+tolerance to the effects of baclofen would be apparent. As
+noted in Table 3, the dose-dependent inhibition of VMRs
+by cumulative doses of IT baclofen in rats which had
+previously received 7 day infusions of IT baclofen, when
+compared with similar measures in those rats which
+had received a 7 day infusion of IT saline demonstrated
+no statistically significant quantitative or qualitative
+differences.
+IT baclofen inhibits UBD‑evoked activity of spinal dorsal
+horn neurons
+As evidenced by Fig. 3, a single 160 ng dose of baclofen
+applied topically to the dorsal surface of the exposed
+spinal cord produced consistent, statistically significant
+inhibition of neuronal responses evoked by UBD when
+compared with responses following topical saline administration.
+Effects on Spontaneous Activity were more
+variable; changes in Spontaneous Activity due to baclofen
+administration failed to reach statistical significance. The
+neurons studied were located 0.515 ± 0.09 mm deep to
+the cord dorsum: all had convergent cutaneous receptive
+fields demonstrating either excitation by both noxious
+and non-noxious cutaneous stimuli (Class 2) or excitation
+only by noxious stimuli (Class 3). Specifically, the
+Baclofen-treated Group consisted of eight Class 2 and
+two Class 3 neurons and the Saline-treated Group consisted
+of seven Class 2 and three Class 3 neurons. The
+two treatment groups also consisted of neurons that were
+equally distributed according to previous classifications
+of UBD-excited neurons which used heterosegmental
+noxious stimuli as a discriminating factor [39]. In that
+classification scheme, Type I neurons are those which are
+inhibited by heterosegmental noxious stimuli whereas
+Type II neurons are neurons which are not inhibited by
+such stimuli. Using this classification scheme, both the
+Baclofen-treated Group and the Saline-treated Group
+consisted of five Type I and five Type II neurons. Baclofen
+had similar inhibitory effects on both the Type I and Type
+II neuronal subgroups with no statistically significant differences
+noted. None of the rats studied had experienced
+bladder inflammation. A more complete characterization
+of spinal neurons responsive to UBD has been presented
+elsewhere [39].
+Discussion
+The most important finding of the present study was that
+the non-opioid agent, baclofen, inhibited responses to
+UBD in a variety of models of bladder nociception. These
+actions included spinal sites of action and the activation
+of GABAB
+receptors. To the best of our knowledge, this
+is the first report of such a finding in bladder nociceptive
+systems. We studied these effects in multiple models
+(e.g., reflex responses, neuronal responses, inflammatory
+and noninflammatory conditions) of bladder nociception
+and observed similar effects in all models suggesting this
+pharmacology may be generalized to many different etiologies
+of bladder pain and is not just a model-specific
+antihyperalgesic therapy. Given its long history of clinical
+use and low toxicity, a trial in humans for the treatment
+of bladder pain would seem an appropriate next step [41].
+The models studied here included one in which rats
+experience neonatal bladder inflammation and then
+receive a second bladder inflammatory challenge as
+adults [37]. It is thought that this model may be particularly
+relevant to the disorder interstitial cystitis/bladder
+pain syndrome [34] in that it is associated with multiple
+features of IC/BPS including the presence of increased
+micturition rates, a functionally small capacity hypersensitive
+bladder, altered bladder neurochemistry, the presence
+of vascular fragility of submuscosal tissues following
+prolonged hydrodistension, the presence of increased
+pelvic floor muscular tone, increased responsiveness to
+acute stress and increased responsiveness to intravesical
+cold and potassium-containing fluids [37, 42]. One
+would think that the pelvic floor spasm noted in these
+patient populations should be justification enough (as an
+antispastic agent) for the clinical assessment of baclofen.
+Indeed, targeting pelvic floor hypertonicity associated
+with chronic pelvic pain syndromes has been the strategy
+of mainstay therapies such as myofascial physical therapy
+[46–49] and new clinical research involving local injections
+of botulinum toxin with and without physical therapy
+[50–52].
+Effects of baclofen on urodynamic measures that are
+independent of pain has been extensively investigated
+in non-humans [53–61] and humans [60, 61] most commonly
+in the context of neurological injury [62–71] or
+for symptoms of overactive bladder [59, 60, 72]. Inhibitory
+effects of baclofen, administered either systemically
+or spinally, on urodynamic measures was the consistent
+observation. Given that all dorsal horn neurons excited
+by UBD were robustly inhibited, this result should not be
+surprising as these neurons are likely important in both
+nociceptive and non-nociceptive bladder sensory functions.
+Despite all of the above listed studies, the present
+report is the first to specifically use models of bladder
+nociception in the characterization of baclofen effects
+and therefore establish a relevance to clinical pain.
+As noted previously, baclofen has been demonstrated
+to have significant benefits in association with reduction
+of addictive behaviors. The presumed mechanisms for
+its actions on addictive behaviors is an interaction with
+dopaminergic neurons of the ventral tegmental area [77]
+with a subsequent reduction in dopamine release in the
+nucleus accumbens. As such, it is notable that Fadda et al
+[78] observed that baclofen blocked morphine-induced
+dopamine release at the nucleus accumbens. Baclofen
+also reduced nicotine- and morphine self-administration
+in rats [79] whereas a GABAB
+receptor antagonist
+increased morphine administration [80]. Baclofen
+administered into the locus coeruleus attenuated
+morphine withdrawal signs [81] and in a randomized,
+double-blind placebo-controlled clinical trial Assadi
+et al [82] used baclofen for the maintenance treatment
+of opioid dependence and found baclofen to be superior
+over placebo in terms of opiate withdrawal syndrome
+and depressive symptoms. In that study, trends towards
+reductions in opioid craving and self-reported opioid
+and alcohol use were also noted but not proven. Given
+the clinical literature demonstrating that baclofen may
+potentiate opioid antinociceptive effects [25, 26] one can
+imagine co-administration of baclofen with opioid analgesics
+[83] so that one might optimize analgesia and minimize
+reward system activation. DeFeudis [84] suggested
+that GABAergic drugs might have a role in both analgesia
+and drug addictions, particularly related to opioids but
+did not go so far as to suggest co-administration. Future
+studies would be needed to test this supposition. Studies
+in opioid-tolerant rats could also assess whether there
+could be particular clinical benefits in subjects already
+treated with opioids prior to a trial of baclofen.
+In determining the potential analgesic benefit of
+baclofen for human use, it is important to consider the
+most efficacious route of administration that produces
+strong analgesia with the fewest side effects or toxicities.
+For example, odd reactions to systemic baclofen include
+things such as the induction of hiccup-like respirations
+[85] or diabetes insipidus [86]. In rats, intraventricular
+baclofen impaired memory [87]. Toxicity has been
+reported in some studies with CNS effects (loss of consciousness,
+delirium, hypertension) but these have been
+predominantly related to withdrawal [88] or excessive
+dosing (e.g. [89]). Oral baclofen may be dose-limited
+by side effects (e.g. drowsiness, dizziness, or weakness)
+when treating patients with spasticity. When administered
+by IT infusion baclofen has been demonstrated to
+be an effective therapy for severe spasticity associated
+with multiple sclerosis, spinal cord injury, cerebral palsy
+and traumatic/ischemic brain injury [90–92]. As baclofen
+is zwitterionic at physiologic pH, by bypassing the blood–
+brain barrier and directly targeting the central nervous
+system, when administered IT, efficacy can be maximized
+and side effects can be minimized significantly in
+many patients. For this reason, the present study examined
+the effects of the IT administration of baclofen. A
+comparison of the potency of baclofen needed to inhibit
+UBD-evoked responses demonstrated that IT dosing
+was approximately 20,000 times as potent as IP administration.
+This suggests that the most beneficial route of
+administration in humans may be spinal delivery because
+it is primarily restricted to the spinal segment to which it
+is administered and could potentially avoid issues related
+to CNS effects and toxicity due to high dosing. One
+option for a proof-of-concept clinical trial would be to
+administer a single IT dose of baclofen (versus placebo)
+in a fashion similar to what is described in the product
+insert for the drug [92].
+It is clear that baclofen produces spinal antinociception
+given its inhibitory effects on spinal dorsal horn
+neurons as well as the fact that the IT baclofen inhibited
+cardiovascular responses evoked by UBD. That said, a
+limitation of the present study is that the main endpoints
+in most of the study were VMRs, a motor reflex. As a
+consequence, it must be considered whether baclofen,
+administered spinally, may have also been acting on
+motoneurons thereby increasing its potency in that assay.
+Spinal administration would also likely miss some of the
+potential behavioral benefits (e.g. addiction prevention)
+associated with systemic baclofen use. As in all analgesic
+regimens, particularly opioids, one must be concerned
+with the development of tolerance to the administered
+agent. It is therefore fortunate that tolerance did not
+appear to be a problem after a seven day continuous
+infusion of “chronic” IT baclofen prior to assessing the
+potency and efficacy of acutely administered IT baclofen.
+Longer infusions would be necessary to fully assess this,
+but these results are consistent with the clinical observations
+by others [93, 94] that tolerance to the continuous
+infusion of baclofen does not appear to be a problem.
+The precise mechanisms of baclofen’s antinociceptive
+actions are not known. The present study gave evidence
+that it is through spinal GABAB
+receptor activation since
+the IT preadministration of the antagonist CGP36348
+blocked subsequent IT baclofen effects, but the precise
+sites of action are not well defined. There is some suggestion
+in the literature that GABAB
+receptors may interact
+with spinal Substance P and its receptors [95, 96] but
+numerous other neurotransmitters have also been implicated.
+Baclofen’s analgesic effects may be acting via the
+same mechanism by which segmental and heterosegmenal
+noxious stimuli produce inhibition (e.g. [97]), a
+phenomenon referred to as nocigenic inhibition [98] or
+Noxious Stimulus Induced Analgesia, since such inhibition
+has been demonstrated to act via GABAB
+and mu
+opioid mechanisms [17]. In the spinal substantia gelatinosa
+activation of GABAB
+receptors presynaptically
+block neurotransmitter release [99] and NK1 receptor
+expression [96]. Other supraspinal sites of action related
+to pain include the rostral agranular insular cortex [12]
+and lateral preoptic area [21]. Functional magnetic resonance
+imaging using continuous arterial spin labelling
+of the brain in humans before and after 21 days of systemic
+baclofen treatment (20 p.o. QID) demonstrated
+reduced regional cerebral bloodflow (rCBF) in the ventral
+striatum and medial prefrontal cortex and increased
+rCBF in the lateral orbital frontal cortex, (a region
+involved in suppressing previously rewarded behavior)
+and cerebellum. rCBF was also blunted in the insula
+bilaterally, a site commonly activated in painful conditions
+[100]. The supraspinal analgesic effects of baclofen
+appear to act via adrenergic and opioidergic spinal mechanisms
+[12, 87, 101] with potentially a cholinergic and
+GABAA
+receptor contribution [16, 20]. Intrathecal nociceptin
+antagonized baclofen-induced analgesia in a mouse
+tail flick assay [10] and baclofen-induced analgesia was
+absent in GIRK2 knockout mice [102] all suggesting the
+potential for a complex pharmacology.
+Conclusions
+In summary, the compound baclofen, a drug currently
+approved for clinical use, which can be administered
+systemically or spinally, was demonstrated to have
+antinociceptive effects in animal models of bladder
+pain. This supports the assertion that a clinical trial for
+the treatment of bladder pain should be undertaken.

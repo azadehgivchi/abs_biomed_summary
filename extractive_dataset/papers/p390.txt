@@ -1,0 +1,821 @@
+Background
+Lightweight is a division of rowing in which athletes are
+required to weigh below a certain criterion 2 h prior to
+competition to be eligible for racing [1]. As greater height
+and lean mass is related to superior performance [2], it is
+common for athletes to weigh above the criterion and utilize
+weight loss techniques over the 24 h before competition
+to qualify for racing [1]. Dehydration is a common
+technique used to achieve weight loss because it allows
+for temporary reductions in weight without muscle
+protein loss, and hydration status can be at least partially
+restored over the 2-h rehydration window between
+weigh-ins and racing [3]. However, dehydration may still
+reduce performance [4].
+Rowing performance relies on multiple components
+including an athlete’s efficient use of the aerobic and
+anaerobic energy systems, and capacity to produce power
+[5]. Additionally, the neuromotor system controls stroke
+execution and balance maintenance by continuously
+adapting the execution signal in response to sensory
+feedback [6, 7]. These systems have been demonstrated
+to be vulnerable to weight reduction via dehydration in
+settings outside of rowing [8]. It is unclear how and if
+changes in these systems contribute to changes in rowing
+performance following weight-reducing dehydration
+practices.
+Some research suggests that the effect of weight-reducing
+dehydration practices may depend on the dehydration
+technique used [8, 9]. Four common options exist
+for rowers to achieve weight loss through dehydration
+before weighing in: diuretics, exercise, thermal exposure,
+and fluid abstinence [10]. As use of diuretics is illegal in
+elite sport [11] and exercise-induced dehydration appears
+to impair aerobic [12], anaerobic [9], and balance performance
+[13] to a greater extent than other dehydration
+techniques, these are poor candidates for rowers. Instead,
+rowers may choose to reduce weight by using either
+thermal exposure or fluid abstinence. Previous work [3,
+4, 14–17] has demonstrated effects of large amounts of
+dehydration on 2000 m rowing performance: a common
+performance test in rowing. Within a pilot study [18],
+we found that this performance test may be negatively
+affected by smaller amounts of dehydration but that this
+effect depended on the technique used to elicit dehydration.
+Currently, there is a need to better understand
+how smaller amounts of dehydration effect rowing performance,
+the physiologic systems involved, and whether
+the dehydration technique used matters.
+The present study examined elite collegiate rowers
+within an exploratory, quasi-experimental, within-participants
+design to investigate whether changes in weight
+resulting from mild weight-reducing dehydration practices
+are related to changes in bodily systems involved in
+rowing. Further, we sought to determine whether these
+relationships were dependent on the technique through
+which weight loss was achieved. We examined proxies
+of the aerobic energy system, anaerobic lactic energy
+system, anaerobic alactic energy system, and the neuromotor
+control system following weight loss via thermal
+exposure and fluid abstinence. Affected systems
+may contribute to poorer rowing performance following
+weight-reducing practices.
+Methods
+Participants
+A total of 6 heavyweight and 6 lightweight competitive
+male rowers participated in the study (Table 1). Females
+were not included because body weight and total body
+water vary idiosyncratically with the menstrual cycle
+[19]. Participation was restricted to individuals ≥ 16 years
+who had competed at least 1 season at the university
+level or were members of a Canadian National Rowing
+Hub. All methods, including the study experiments and
+dehydration protocols (developed in consultation with
+coaches and athletes), were approved by the Trent University
+Research Ethics Board (REB#25493) and complied
+with the Declaration of Helsinki. All participants
+provided informed written consent prior to participating
+in the study.
+Design
+Rowers completed an incremental VO2max
+test, peak
+power test, and 3 visuomotor tasks after 3 different
+weight loss conditions: once following weight loss
+through thermal exposure (SAU), once following weight
+loss through fluid abstinence and thermal exposure
+(FA + SAU), and once following no weight loss (CON).
+These hydration manipulations were used to achieve
+varying amounts of weight loss that further varied in the
+amount of each dehydration technique used to cause it.
+We quantified the observed amount of weight loss owed
+to each dehydration technique by measuring the change
+in weight across the timespan allotted for it on each of
+the 3 testing days. We summed these values to get the
+total weight change on each day. Through this process, we
+obtained a weight loss for each participant on each testing
+day associated with fluid abstinence, thermal exposure,
+and their sum (which approached zero on CON
+day because they were unexposed during the timespans).
+These changes in weight were used as the independent
+variables in our analyses (further details follow). Participants
+were tested on 3 separate days within a 2-week
+period and experienced the weight-loss conditions in a
+counterbalanced order. Blood osmolality, urine osmolality,
+and 2 dehydration questionnaires were recorded with
+body mass to assess whether this weight loss could be
+attributed to dehydration.
+Procedure
+Baseline body weight, from which the weight reduction
+was calculated, was determined from a series of 5 baseline
+weigh-ins that were completed on non-test days
+immediately prior, during, and immediately following
+the study period. On the first testing day involving weight
+loss, participants attempted to achieve a weight reduction
+of 2.5% their average body mass by an official weigh-in
+time. This target weight loss was used as a guide to enable
+participants to reasonably match weight loss on future
+testing days. This target weight loss was selected based
+on findings from a pilot study [18]. On a participant’s second
+testing day involving weight loss, they attempted to
+match their previous weight loss. In all conditions, participants
+were required to fast from midnight until after
+the official weigh-in to minimize the impact of differing
+food consumption on body weight.
+On the SAU day, the participants achieved weight loss
+by sitting in a sauna. On the FA + SAU day, participants
+were instructed to abstain from fluid intake for 15 h over
+the evening and night prior testing to achieve weight loss.
+Similar fluid restriction protocols have been previously
+employed by other authors [16, 17, 20, 21]. This fluid
+restriction protocol has been previously used over 12 h
+within a pilot study to induce 1–2% body mass loss [18].
+This was followed by time in the sauna, if necessary. In
+both conditions, exposure to the sauna (70 °C) was provided
+in 15-min increments up to a total of 60 min. Temperatures
+within this range have been previously used to
+elicit dehydration [22, 23] and were used within our pilot
+study [18]. If at the end of any of these 15-min increments
+the target weight loss was achieved, the participant
+was exempt from further time in the sauna and maintained
+their weight loss until the official weigh-in time.
+Sauna exposure on FA + SAU day was included to enable
+matched weight loss across testing days and to ensure
+that total weight loss was not correlated with dehydration
+technique. On the CON day, the participants’ weight was
+not manipulated. Participants waited in the laboratory
+until their official weigh-in time for a matched amount of
+time (1 h and 15 min); their hydration was not restricted
+during this time.
+Mimicking international competition, participants
+were provided 2 h to rehydrate between their official
+weigh-in time and exercise testing. It was recommended
+they rehydrate aggressively. Water, sport electrolyte
+drinks and breakfast foods were provided, and participants
+recorded the fluid and food they consumed. They
+completed a 24-h diet recall for the day prior (50 min following
+their official weigh-in) and a battery of visuomotor
+tests (80 min following their official weigh-in). This
+24-h diet recall was also completed the day prior to testing
+to assess fluid and food intake 2 days prior testing.
+Participants then completed a 10-min warm up period
+at a self-prescribed intensity, a peak power test, and,
+finally, an incremental VO2max
+test. All tests were completed
+within 90 min of the end of the rehydration window.
+All protocols were completed between 7 am and
+1 pm under thermoneutral conditions.
+To track weight loss/dehydration over the testing
+day(s), participants were weighed and completed thirst
+and dehydration symptomology questionnaires upon
+arrival, at the time of the official weigh-in and following
+the rehydration window. Blood and urine samples were
+taken at the time of the official weigh-in and following
+the rehydration window.
+Instruments and tasks
+Body mass change
+All body mass measurements were completed postvoided
+on a scale in pre-weighed clothes that were factored
+in (Health-O-Meter 349KLX, Health-O-Meter
+Professional, McCook, USA). Baseline body mass measurements
+were completed in the morning (6AM-9AM)
+after fasting from midnight onwards (without restricting
+water consumption). These baseline body mass measurements
+were completed on non-test days (CON, SAU,
+FA + SAU). Weight changes were expressed as percent
+changes in body mass (%BMC).
+The total change in weight (total%BMC), the change
+in weight due to thermal exposure (thermal%BMC),
+and the change in weight due to fluid abstinence
+(abstinence%BMC) was calculated for each testing day
+(CON, SAU and FA + SAU; see equations in Additional
+file 1). Each measure should approach 0 on CON day.
+Weight changes due to fluid abstinence and thermal exposure
+were considered the observed weight changes over
+the time allotted for each (i.e. abstinence%BMC = the
+weight change at arrival; thermal%BMC = the weight
+change between arrival and the official weigh-in). The
+change in weight over the rehydration window was also
+calculated. The equations for determining total%BMC
+and partitioning abstinence%BMC and thermal%BMC
+are provided in the supplementary material.
+Additional measures of hydration
+We checked our hydration manipulation by assessing
+the athlete’s blood plasma osmolality (mmol/L) and
+urine osmolality (mmol/L). Blood was collected in BD
+PST Gel and Lithium Heparin vacutainers according via
+standard phlebotomy procedures [24] and immediately
+centrifuged (relative centrifugal force: 1000; 10 min).
+Urine samples were self-collected mid-stream. Blood and
+urine samples were aliquoted and subjected, in triplicate,
+to freezing point depression osmometry (3320 Single-
+Sample Micro Osmometer, Advanced Instruments, Norwood,
+USA). The average osmolality was recorded for
+each specimen.
+Additionally, questionnaires were used to measure rowers’
+perception of thirst (Visual Analogue Scale of Thirst;
+VAST) [25] and dehydration symptomology (Symptom
+Evaluation Subscale [SES] of the Sport Concussion
+Assessment Test 3; SCAT3) [26] and assessed relative to
+scores recorded during the baseline weigh-in sessions.
+The SCAT3 has previously been used to assess the effects
+of dehydration due to its overlap in symptomology with
+concussion [27].
+Visuomotor tasks
+Three tests were used to assess aspects of visuomotor
+control: the double-step, stop-signal, and interception
+tasks [28]. The tests were coded in Matlab (The
+Mathworks, Inc., Natick, USA), using the Psychophysics
+Toolbox extensions [29–31] and were presented on the
+detachable touchscreen of a personal computer (Surface
+Book 2, Microsoft, Redmond, WA). The code is available:
+https:// github. com/ liana bro/ Table tTask s4Mat lab.
+In brief, the double-step task assesses the participants’
+ability to adjust ongoing movements to an unexpected
+change in target location. Targets jumped unpredictably
+(on 25% of trials) either forward or backward along
+the movement path. Movement time (ms) and endpoint
+accuracy (mm) to the final target location were
+recorded. The stop-signal task assesses the ability to
+interrupt a planned and signaled movement in response
+to a variably-delayed signal to halt the movement (50 ms,
+100 ms, 150 ms, 200 ms). The proportion of trials in
+which the participant was able to successfully interrupt
+their response in the most challenging delay condition
+(200 ms) was analyzed. The interception task assesses the
+ability to detect, predict, and use visual motion information
+to precisely intercept a moving target that varied in
+speed (13.5 cm/s, 21.4 cm/s, and 26.5 cm/s) and acceleration
+(0 cm/s [2] and 0.18 cm/s [2]). The percentage of
+successful hits and interception position and timing (ms)
+were analyzed for the most challenging speed (26.5 cm/s)
+and acceleration (0.18 cm/s [2]) condition. All testing was
+performed in a quiet, well lit room. The order of the visuomotor
+tasks was counterbalanced across participants
+but consistent over the testing days.
+Rowing ergometer performance
+Participants completed a maximal peak power test
+and an incremental VO2max
+test on a rowing ergometer
+(Concept II model D, Morrisville, USA). The same
+ergometer was used for all testing. Verbal encouragement
+was provided.
+During the peak power rowing test, rowers completed
+two 10-stroke efforts on the rowing ergometer with
+the drag factor set to 200 (≤ 40 strokes/minute). The
+10-stroke effort consisted of 6 preparatory strokes followed
+by 4 maximal strokes. Rowers were provided a 30 s
+rest between efforts. The highest wattage was recorded
+and averaged across the 2 tests. This test is a modified
+version of similar 5–15 stroke power tests that have been
+previously employed [32, 33]. This version of test was
+familiar to our athlete participants.
+During the incremental VO2max
+test, rowers completed
+a stepwise-then-ramp incremental VO2max
+test
+to exhaustion with intermittent blood lactate sampling
+using a portable lactate meter (The Edge Lactate Analyser,
+ApexBio, Hsinchu, China). Expired gases were
+measured breath-by-breath using a metabolic cart (Cortex
+Metalyzer 3B, Cortex Medical, Walter-Köhn-Str. 2d,
+Leipzig, Germany). Wattage production and stroke rate
+were measured stroke-by-stroke using PainSled software
+(PainSled Indoor Rowing Dashboard [Version 0.7],
+Exerscreen).
+The test began with a 1-min familiarization period at
+a wattage (W) equal to the first stage of the test. This
+starting wattage was calculated using a procedure that
+was adapted [34] and modified to calculate a wattage
+instead of split-time: 32 s was added to the rower’s selfestimated,
+current 2000 m test split-time; this split-time
+was converted to a wattage; and 35 W was subtracted
+from this number. The immediately proceeding stepwise
+portion of the test consisted of 3-min stages, separated
+by a 1-min rests, that increased by 35 W each stage. The
+ramp portion of the test began on the stage following the
+rest period at which blood lactate exceeded 4 mmol/L.
+A final a 1-min break was provided, and ramp portion
+began at 35 W higher than the last completed stage. During
+this portion, the wattage increased by 35 W every
+minute without breaks. A final 15 s maximal sprint was
+conducted when 3 consecutive strokes could not be
+completed at the prescribed wattage. Blood lactate was
+sampled within the first 30 s of each rest period and
+immediately following the final sprint.
+Rowers were instructed to keep their stroke rate consistent
+across tests for each stage. The ergometer drag
+factor was set to the level at which the athlete trained
+most commonly and was consistent across tests. Data
+from the test was used to calculate the total wattage
+produced during the test, maximal and submaximal
+oxygen consumption/stroke efficiency (
+VO2max, VO2
+at 2 mmol/L blood lactate, and VO2
+at 4 mmol/L blood
+lactate), lactate production (wattage at 2 mmol/L blood
+lactate, wattage at 4 mmol/L blood lactate, blood lactate
+at test completion [maximum blood lactate], blood lactate
+prior test initiation [resting blood lactate]). Details
+regarding the calculation of these variables follow in the
+“Results” section.
+Dietary assessment
+An online 24-h diet recall tool (Automated Self-Administered
+24-Hour-Canada [ASA24-Canada] Dietary Assessment
+Tool 2016; https:// epi. grants. cancer. gov/ asa24/)
+was used to determine total calorie, carbohydrate, fat,
+protein, sodium, and water intake for the 2 days prior
+testing. Food and fluid consumption recorded during the
+rehydration period was separately translated into these
+nutrient categories using the nutrient label on each food
+and fluid item.
+Statistical analysis
+For each performance outcome variable we sought to
+determine: 1) whether the dehydration-related performance
+change was better explained by total%BMC or by
+the %BMC achieved via each technique (thermal%BMC
+and abstinence%BMC; i.e. does dehydration technique
+matter?), and 2) the magnitude of the dehydrationrelated
+performance change [change in the outcome
+measure for a 1% change in BMC (1%BMC)].
+To do this, 2 linear mixed-effects models were used to
+assess the association between the weight change measures
+and each outcome variable (using participant ID
+as a random intercept term). In the present study, this
+model can be thought of as a within-subjects regression
+model from which the model weights (b) describe
+the change in the outcome measure for a 1% change
+in BMC. The first model contained only total%BMC
+and the second model contained thermal%BMC,
+abstinence%BMC, and their interaction. We compared
+the models using a likelihood ratio test. When the likelihood
+ratio test was significant, suggesting that dehydration
+technique affected the outcome, we interpreted
+only the second model. Otherwise, the first model was
+interpreted (the interpreted model is bolded, when
+significant, in all Tables; the uninterpreted model is
+italicized). Because thermal weight loss in the sauna
+(when necessary) always followed fluid abstinence, this
+interaction term can be interpreted as the added effect
+of dehydrating in the sauna after abstaining from fluid
+overnight, accounting for the individual effects of thermal
+exposure and fluid abstinence.
+Model weights were assessed for significance using the
+Wald Test. Pairwise dependent 2-tailed t-tests were also
+used to check our hydration manipulation. Measures of
+central tendency are reported: mean ± standard deviation.
+Values greater than 3 standard deviations from the
+mean were removed within levels and conditions of the
+raw data. All models were assessed visually and revealed
+no violations of any statistical assumptions. Alpha was
+set to 0.05. All analyses were completed in the R programming
+language (Version 1.1.453, RStudio, Inc., Boston,
+USA).
+Results
+Weight loss manipulation check
+All participants completed study testing. Participants
+completed a mean of 53.58 ± 11.79 min in the sauna
+during the SAU condition and 36.41 ± 21.65 min in the
+sauna during the FA + SAU condition. The 3 hydration
+conditions successfully resulted in ranging total%BMC
+(1.73% − -3.88%), abstinence%BMC (1.68% − -2.36%),
+and thermal%BMC (0.47% − -4.09%; Table 2). Positive
+values represent a gain in weight and negative values
+represent a loss of weight.
+Comparisons (pairwise dependent t-tests) of the
+weight changes across the 3 weight-loss conditions
+indicate that the total%BMC, abstinence%BMC, and
+thermal%BMC are related to the hydration manipulations,
+as expected (Table 3). SAU and FA + SAU
+days resulted in greater total weight loss and thermal
+weight loss than CON days. FA + SAU days resulted in
+greater fluid abstinence weight loss than SAU or CON
+days. Participants on average consumed 223% of their
+total weight loss in water (kg) during the rehydration
+window.
+Hydration variables
+Perception of thirst, symptom number, and symptom
+severity scores on test days were converted to Z-scores
+before analysis using a mean and standard deviation
+that was derived from questionnaires completed on
+their baseline weigh-in days (see Table 4). Linear mixedeffects
+models demonstrated that the observed changes
+in weight were directionally related to these measures
+of hydration as would be expected if these weight
+changes were due to dehydration (Table 5). Except
+for the number of symptoms experienced at the official
+weigh-in (LR = 6.23, p = 0.044) and their severity
+(LR = 6.84, p = 0.033), measures of hydration were not
+better explained by the separation of total%BMC into
+thermal%BMC and abstinence%BMC (p > 0.05).
+While no sole fixed effects were significant alone,
+thermal%BMC (b = -0.41, CI = [-0.88, 0.05], p = 0.098)
+predicted greater increases in symptom number
+than abstinence%BMC (b = -0.33, CI = [-1.00 – 0.34],
+p = 0.342). Increasing thermal%BMC also predicted
+greater symptom severity (b = -0.95, CI = [-2.05, 0.16],
+p = 0.108) than equivalently increasing abstinence%BMC
+(b = -0.73, CI = [-2.30, 0.84], p = 0.374).
+Visuomotor performance
+Double‑step task
+The average time between target appearance and target
+touch (movement time) as well as the average
+absolute distance from the target (absolute error) was
+calculated. Movement time was explained 17.64 times
+(p = 0.001) better by the separation of total%BMC into
+thermal%BMC and abstinence%BMC (Table 6). While
+statistically accounting for the jump direction of the target
+and its interactions with thermal and fluid abstinence
+weight loss, increasing abstinence%BMC was associated
+with a 38.06 ms increase in movement time (b = -38.06,
+CI = [-62.09, 14.03], p = 0.004) for every 1% increase
+in %BMC. By contrast, increases in thermal%BMC
+(b = 30.44, CI = [13.64, 47.23], p = 0.001) and its interaction
+with abstinence%BMC (b = -30.49, CI = [-60.09,
+-0.89], p = 0.057) predicted lower movement time. These
+changes in movement time could not be explained by
+associated changes in the absolute error (p > 0.05).
+Stop‑signal task
+The logit-transformation of the percent of successful trials
+on the stop-signal task was determined. The proportion
+of successful trials was logit transformed to produce
+a normally distributed dependent measured that was
+unconstrained by 0 and 1. No weight change measure
+was significantly associated with this variable (p > 0.05).
+Interception task
+The absolute error in time between finger and target
+arrival, the absolute error in position between finger and
+target arrival, and the logit-transformation of the percent
+of successful interceptions during the interception task
+were calculated. No weight change measure was significantly
+associated with any of these variables (p > 0.05).
+Peak power test
+The average of the highest wattage achieved on the two
+10-stroke ergometer tests was calculated. No weight
+change measure, other than abstinence%BMC, was significantly
+associated with this variable (p > 0.05; Table 7).
+While greater abstinence%BMC (b = 12.14, CI = [1.96,
+22.31], p = 0.029) was related to a 12.14 W reduction in
+performance for every %BMC achieved within the model
+containing abstinence%BMC and thermal%BMC, we
+required the model containing abstinence%BMC and
+thermal%BMC to better explain the data than model containing
+total%BMC in order to be interpreted.
+Incremental VO2 max test
+Total test wattage
+The wattage produced on each stroke of the incremental
+VO2max
+test was summed to determine the total
+test wattage produced. Total test wattage was explained
+6.59 times better (p = 0.037) by the separation of weight
+loss into thermal%BMC and abstinence%BMC (Table 7).
+While thermal%BMC (b = -1874.35, CI = [-3798.05,
+49.35], p = 0.070) and the interaction of thermal%BMC
+and abstinence%BMC (b = 3412.85, CI = -31.69,
+6857.39], p = 0.066) failed to demonstrate an association
+with total wattage production, weight lost through fluid
+abstinence was associated with a 4261.51 W decrease in
+the total wattage produced for every 1%BMC achieved
+(b = 4261.51, CI = [-1502.68, -7020.34], p = 0.006).
+VO2max
+To calculate VO2max
+per kilogram body weight
+(
+VO2max/kg), the highest 30 s average of oxygen consumption
+during each incremental VO2max
+test was
+retrieved and divided by the participant’s baseline weight
+(kg). No weight change measure was significantly associated
+with this variable (p > 0.05).
+Submaximal oxygen consumption
+To obtain measures of submaximal oxygen consumption,
+oxygen data from each stage of the incremental VO2max
+test was trimmed (to allow oxygen consumption to plateau
+and limit influences of participant behaviour) to
+include 1 min and 45 s of data occurring 2 min before
+the end of the stage. The trimmed oxygen data was averaged
+for each stage and the first stage was dropped to
+limit influence from the rest period. The average stroke
+wattage for these periods was similarly recorded. A loglinear
+(oxygen consumption, wattage) model was fit to
+the data from each test and used to determine the oxygen
+consumption (L/min) at the wattage that produced
+2 mmol/L blood lactate and 4 mmol/L blood lactate on
+CON day. No weight change measure was significantly
+associated with either of these variables (p > 0.05).
+2 mmol/L and 4 mmol/L blood lactate
+The wattages that elicited 2 mmol/L and 4 mmol/L
+blood lactate was determined for each incremental
+VO2max
+test by fitting a cubic-linear model to the lactate
+readings and wattage data collected during the test
+and solving for these values. The 2 mmol/L (LR = 12.78,
+p = 0.002) and 4 mmol/L (LR = 12.78, p = 0.002) blood
+lactate variables were both better fit by the model
+that included thermal%BMC and abstinence%BMC
+(Table 8). In the 2 mmol/L (b = 27.84, CI = [14.69,
+40.99], p < 0.001) and 4 mmol/L (b = 20.45, CI = [8.91,
+31.99], p = 0.002) models, each 1%BMC achieved
+through fluid abstinence predicted a reduction of
+27.84 W and 20.45 W in the wattage required to elicit
+these blood lactate concentrations, respectively. By
+contrast, weight lost thermally did not have a meaningful
+effect on the wattages required to elicit concentrations
+of 2 mmol/L (b = -9.50, CI = [-18.68,
+0.31], p = 0.055) and 4 mmol/L (b = 0.22, CI = [-4.31,
+4.74], p = 0.926) blood lactate. The effect of preceding
+thermal weight loss with fluid abstinence had inconsistent
+effects on 2 mmol/L (b = 22.46, CI = [6.18, 38.75],
+p = 0.013) and 4 mmol/L (b = -0.97, CI = [-9.02, 7.07],
+p = 0.815) blood lactate. No weight changes measures
+were meaningfully related to resting or maximal blood
+lactate values (p > 0.05), suggesting that the observed
+faster rate of lactate accumulation is not explained by a
+higher lactate at the start of exercise or a lower achievable
+lactate concentration.
+Ruling out alternative explanations
+Order effects
+The effect of testing order (i.e. familiarity and learning)
+were ruled out by repeating each significant model in
+analysis and including testing order as a fixed effect. No
+significant effects of order or meaningful changes in the
+model weights retrieved were discovered (p > 0.05).
+Foods and fluids over 48 h prior and during the dehydration
+window
+To determine whether the amount of fluids (mL), carbohydrates
+(g), fats (g), proteins (g), sodium (mg) and total
+calories (kcal) consumed over 48-h prior to each testing
+day could explain the performance changes observed, linear
+mixed-effect models were created for each measure
+of dietary intake. No relationship between total%BMC,
+thermal%BMC, abstinence%BMC, or the interaction
+of thermal%BMC and abstinence%BMC, and any of the
+food and fluid variables was observed (p > 0.05).
+Similar models were used to assess food and fluid
+consumed during the rehydration window. Greater
+total%BMC predicted greater consumption of carbohydrates
+(b = -8.66, CI = [-14.04, -3.28], p = 0.004) and fluids
+(b = -238.04, CI = [-359.70, -116.39], p < 0.001). Splitting
+total%BMC into thermal%BMC and abstinence%BMC
+did not improve the fit of either the model (p > 0.05).
+Protein consumption was 6.07 times (p = 0.048) better
+explained by thermal%BMC and abstinence%BMC than
+total%BMC alone. Greater thermal%BMC was associated
+with less protein consumption (b = 2.37, CI = [0.18, 4.55],
+p = 0.046) while greater abstinence%BMC was unrelated
+to protein consumption, b = -1.29, CI = [-4.41, 1.83],
+p = 0.427. No interactive affect was discovered, b = 0.00,
+CI = [-3.79, 3.80], p = 0.999. The total number of calories
+and amount of fat consumed was unrelated to any marker
+of dehydration (p > 0.05). Differences in protein consumption
+following thermal%BMC and abstinence%BMC
+may or may not contribute to our findings. However, this
+seems unlikely as it would suggest that less protein intake
+during the rehydration window was protective against
+weight loss.
+Discussion
+Understanding the effect of weight-reducing dehydration
+practices on rowing performance is important to lightweight
+rowing coaches and athletes. We investigated the
+combined and individual effects of mild weight loss via
+fluid abstinence and thermal exposure on proxies of bodily
+systems that contribute to rowing performance: the
+aerobic system, the anaerobic lactic system, the anaerobic
+alactic system, and the neuromotor control system.
+Manipulation checks suggest that the employed weightreducing
+techniques successfully resulted in weight
+loss that can be attributed to dehydration and can be
+partitioned by the protocol used to achieve it. Our primary
+finding was that in every case that increasing total
+weight loss was related to a measured proxy, the proxy
+was better explained by the separation of weight loss
+into the amount achieved through fluid abstinence and
+thermal exposure (i.e. dehydration technique matters).
+Our secondary findings were that weight lost through
+fluid abstinence but not thermal exposure, was associated
+with: (1) lower total wattage produced on the incremental
+VO2max
+test, (2) lower wattage at 2 mmol/L and
+4 mmol/L blood lactate, and (3) slower movement time
+on the double-step task. In sum, our findings suggest that
+some bodily systems involved in rowing performance
+are vulnerable to weight-reducing dehydration practices
+within the weight loss range studied. This vulnerability
+seems to depend on the weight loss protocol used with
+fluid abstinence, but not thermal exposure, producing
+performance effects.
+The present study supports existing evidence that
+weight-reducing practices can reduce aspects of rowing
+performance. To date, 6 randomized controlled trials
+have tested the effects of weight-reducing dehydration
+practices on rowing [3, 4, 14–17]. All used a withinsubjects
+design, an enveloping marker of rowing performance
+(2000 m time trial performance) and allowed a 2-h
+rehydration window following dehydration. Four of these
+studies, which did not control the technique used to
+elicit weight loss, generally suggest rowing performance
+is reduced (~ 2 s slower) when body mass is decreased
+by 4–6% [3, 4, 14, 15]. However, 1 study which required
+athletes to engage in a period of fluid abstinence found
+much larger effects on performance (22 s slower) [16].
+The final study utilized a similar weight loss protocol but
+failed to adjust for within-subjects’ dependencies in their
+analysis, making comparisons challenging [17]. All studies
+represent large effects relative to the estimated smallest
+meaningful change in on-water rowing performance
+(1.0–1.5 s for a 2000 m race) [35].
+We found that fluid abstinence was more consistently
+associated with performance decrements than thermal
+exposure. No other studies have examined the effect of
+differing weight-reducing dehydration techniques in the
+rowing setting. However, a few studies have investigated
+this in other contexts and support an effect of dehydration
+protocol on performance. Caldwell et al. (1984)
+found that weight loss using diuretics and sauna exposure
+reduced performance more than exercise-induced weight
+loss on VO2max,
+work capacity, and measures of submaximal
+lactate at 4.1% BMC in 62 athletes [23]. Sauna
+weight loss (3.4% BMC) has also been associated with
+worse performance relative to diuretics (3.8% BMC) on
+measures of leg strength and leg force in track and field
+athletes and volleyball players [22]. Additionally, 2 metaanalyses
+have found weight-reducing dehydration practices
+that involve exercise and/or fluid abstinence result
+in poorer muscle endurance [9], lactic and alactic anaerobic
+capacity [9], and cognitive performance [36] than
+passive techniques such as sauna exposure. These studies
+identify weight-loss protocol as a moderator of the relationship
+between weight loss and performance but are
+inconsistent in which weight loss protocol is reported as
+the least harmful. Future research should investigate if
+the type of performance task or the provision of the rest/
+rehydration window prior performance influences which
+weight loss protocol is superior.
+We discovered that weight loss through fluid abstinence
+was related to poorer performance on incremental
+VO2max
+test, but not the peak power ergometer test.
+Interestingly, weight loss through thermal exposure was
+more strongly positively related to the number and severity
+of dehydration symptoms than weight loss through
+fluid abstinence. We used the peak power ergometer test
+as a proxy of the anaerobic alactic energy system and did
+not find reductions in performance with weight loss. This
+finding is in agreement with other studies of moderate
+(2–3%) weight loss via dehydration which also found preserved
+peak power performance [37, 38]. Notably, greater
+amounts of weight loss (3–4% BMC) do seem to be able
+to produce poorer power performance [39]. Thus, it may
+be that while power and strength performance can be
+reduced by weight-reducing dehydration practices, our
+investigation did not employ a large enough magnitude of
+dehydration to observe performance effects.
+Performance on the incremental VO2max
+test is more
+apt to test the lactic anaerobic and aerobic energy systems
+given its longer duration (~ 20 min). The identified relationship
+between increasing weight loss via fluid abstinence
+and lower total wattage production on this test
+may be due to changes in 1 or both energy systems. However,
+we report no effect of any of our weight loss measures
+on maximal aerobic capacity, making the aerobic
+energy system an unlikely candidate for this decline in
+performance. Instead, it may be that changes to the lactic
+anaerobic system explain changes in performance.
+We found an earlier onset of lactate accumulation with
+increasing weight loss through fluid abstinence. Previous
+investigations in other athlete populations have
+found higher blood lactate at submaximal intensities with
+weight-reducing dehydration practices [40, 41]. Nine recreationally
+fit males demonstrated elevated blood lactate
+at all time points during a constant-load cycle-ergometer
+task following a 2%BMC via a warm water bath the previous
+evening [40]. Similarly, a study of intercollegiate
+wrestlers has demonstrated a lower treadmill velocity
+required to achieve the lactate threshold following exercise
+in a rubberized sweat suit [41]. Weight-reducing
+dehydration practices (4–6%BMC) have further been
+demonstrated to reduce muscular endurance performance
+(e.g. 30 s horizontal isometric rowing, 6-min arm
+crank ergometer), which should act as proxies of the
+anaerobic lactic system, even when a rehydration window
+between weight loss and performance is provided [41,
+42]. Earlier lactate accumulation following weight-reducing
+dehydration practices exercise has been explained by
+increased muscle temperature and resultant greater carbohydrate
+oxidation [43].
+In addition, we examined how neuromotor control
+(assessed by the visuomotor tests) and stroke efficiency
+(assessed by submaximal VO2)
+may be affected by
+weight-reducing dehydration practices. We found evidence
+for a reduction in participants’ capacity to alter
+an on-going movement (double-step task), but not their
+capacity to inhibit planned movements (stop-signal task)
+or coordinate motor timing with a moving target (interception
+task) when assessed part way through the rehydration
+window. Further, we did not find a relationship
+between weight loss and stroke efficiency during incremental
+VO2max
+test. Our findings suggest that some
+elements of neuromotor control may be affected by mild
+weight-reducing dehydration practices and that these
+effects depend on technique used to elicit weight loss.
+How/if these changes in neuromotor control impact rowing
+performance either on the rowing ergometer or onwater
+requires further investigation.
+Previous research has demonstrated an effect of fluid
+abstinence on various tests that rely heavily on neuromotor
+control [44, 45]. Only 1 investigation has examined
+an effect of weight-reducing dehydration practices (4–6%
+BMC) on neuromotor control when a rehydration period
+was allowed. They demonstrated poorer reaction and
+movement time during wrestling matches despite 12 h to
+rehydrate and refeed before performing [46]. By contrast,
+weight-reducing dehydration practices that relied on
+sauna exposure have less consistently demonstrated an
+effect on neuromotor control. After eliciting 2.8% BMC
+in via sauna exposure in 2 separate experiments, Cian,
+et al. (2000) and Cian, et al. (2001) were unable to detect
+a change reaction time task performance in either experiment
+or a change in performance on a joystick tracking
+test in the second experiment [47, 48]. In the first experiment,
+sauna weight loss degraded joystick tracking performance
+before but not after 2 h of rehydration [47].
+More work is needed to learn how potential changes in
+neuromotor control with weight-reducing dehydration
+practices might influence stroke performance mechanics
+and race outcomes.
+Strengths
+Using experienced rowers and protocols that mimic
+international competition, we demonstrate relationships
+between weight-reducing dehydration practices
+and proxies of a wide number of bodily systems involved
+in rowing. Our statistical approach (to use %BMC as
+the unit of analysis) allowed us to report our findings as
+a change in a performance measure per %BMC which
+may prove valuable to some stakeholders. Further, this
+approach should improve statistical power of our analysis
+if (1) the effect of weight-reducing dehydration practices
+relies on the amount of weight lost through the protocol
+as opposed to exposure to the protocol itself, and (2)
+weight loss is related to performance in a dose–response
+relationship that can be approximated linearly. Previous
+work supports these assertions [8, 12, 36].
+Limitations
+In the current study, rowers were unblinded to the weight
+manipulation which may have affected their performance.
+However, a lack of blinding is less likely to have
+affected this study given participants’ perceived dehydration
+symptomology was inconsistent with the effects
+observed. Further, all participants were high-level athletes
+and were aware that some data related to performance
+would be provided to them following all testing
+to be used for monitoring training, motivating them to
+perform. Our experimental design did not allow us to
+randomly assign the observed changes in body mass (the
+unit of analysis). As such, our study is quasi-experimental
+in nature and can only suggest causal relationships. Our
+random assignment of participants to counterbalanced
+testing order, careful control of the experiment environment,
+and assessment of potential sources of uncontrolled
+variance (e.g. establishing a relationship between
+%BMC and other markers of dehydration, diet logs)
+improve the likelihood that our demonstrated relationships
+are causal. Because the present study allowed rowers
+to rehydrate ad libitum, we cannot be certain that all
+rowers in the present study rehydrated optimally. While
+this may have introduced error into our findings, we
+chose this approach because 1) this mimics the applied
+setting where fluid and food consumption is unprescribed;
+2) we expected rowers to attempt to rehydrate
+optimally because they were aware that they had experienced
+dehydration, were provided fluids demonstrated to
+maximize rehydration [15], and were advised to rehydrate
+aggressively; 3) this allowed a consistent experience of
+satiety prior testing and minimized gastric upset resulting
+from over or under feeding; and 4) it would have been
+impossible to maintain our design and prescribe fluids/
+foods directly in accordance to weight changes as baseline
+body weight measurements were recorded before,
+during, and after the testing period. Despite these limitations,
+our study provides a strong investigation of weightreducing
+dehydration practices in rowers.
+Conclusions
+We sought to determine whether mild weight-reducing
+dehydration practices compromise rowing performance.
+The total weight loss achieved was related to
+some aspects of rowing performance. When split by the
+manner in which it was achieved, the weight loss due to
+fluid abstinence, but not thermal exposure, was related
+to a lower total wattage produced on the incremental
+VO2max
+test, lower wattages required to elicit 2 mmol/L
+and 4 mmol/L blood lactate, and slower movement time
+on a visuomotor task. It may be that reductions in these
+bodily systems contribute to poorer rowing performance
+following weight-reducing dehydration practices.
+Overall, our findings suggest that proxies of bodily systems
+involved in rowing performance may be negatively
+affected by mild weight loss practices and that the technique
+by which weight loss is achieved is important.

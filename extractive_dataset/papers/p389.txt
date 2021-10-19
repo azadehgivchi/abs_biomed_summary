@@ -1,0 +1,491 @@
+Background
+Gout is a common, chronic inflammatory disease associated
+with high serum uric acid (sUA) levels (i.e., hyperuricemia)
+and characterized by recurrent arthritis attacks induced by
+monosodium urate crystal deposition throughout the body.
+Uncontrolled gout can cause significant joint damage,
+tophaceous deposits, organ damage and comorbidity, as
+well as impairment in quality of life and substantial economic
+costs [1–5].
+There are clear evidence-based guidelines showing
+that treating to target levels of sUA, typically using
+urate-lowering therapy (ULT), will reduce and even remove
+the burden of this chronic disease from the patient
+and society [6–10]. The American College of Rheumatology
+(ACR) and European League Against Rheumatism
+(EULAR) recommend an sUA target (‘control’) level of
+< 6 mg/dl in the majority of clinical cases, while the British
+Society for Rheumatology recommends even stricter
+guidelines for those with tophaceous gout of sUA target
+levels < 5 mg/dl [6, 7, 10]. Furthermore, guidelines recommend
+that gout patients receive urate-lowering therapy
+(ULT) after diagnosis and routine monitoring,
+although several studies show that gout patients are
+poorly managed and that suboptimal treatment of gout
+is common in clinical practice with few patients undergoing
+regular sUA testing, poor adherence and compliance
+to ULT [11–16]. In a study from Germany and the
+United Kingdom between 2000 and 2005 and with an
+average follow-up time of about 2 years, over 63% of patients
+received gout treatment (> 89% with allopurinol),
+but only 9–14% of patients with gout performed at least
+one sUA test in the 3.5–5-year follow-up period [11].
+Additionally, in a recent study using the cross-sectional
+US National Health and Nutrition Examination Surveys
+(NHANES) more than two-thirds of individuals with
+gout had sUA levels above target and less than half of
+those treated with ULT reached control levels [17].
+Among the many barriers to adequate care and
+control of this disease is the presence of concurrent
+kidney disease [18–22]. Approximately 20 to 40% of
+patients with gout have moderate to end-stage
+chronic kidney disease (CKD) [20–22]. According to
+one study assessing gout quality of care, 26% of gout
+patients with renal failure received inappropriate dosing
+of allopurinol [13, 23]. Both chronic kidney disease
+and gout are adversely affected by hyperuricemia
+and require adequate control to minimize adverse
+events, comorbidities and mortality [24]. However,
+despite the clear benefits of proactive care and sUA
+control, choice and dosing of appropriate drug therapies
+for these patients are persistent challenges to
+the healthcare professional [7, 14, 25, 26].
+Studies have shown that patients with gout have
+higher HRU than the general population and that the
+burden to the healthcare system is increasing [4, 27–31].
+In the United States, direct costs of gout were estimated
+as high as $18,362 per capita, gout-specific costs reaching
+$6179 per person, and an annual estimated total burden
+of > $6 billion [4, 31]. Studies show the increased
+health and cost burden of comorbidities and age on this
+relationship with regard to HRU [4, 31]. However, the
+specific contribution of each factor, such as CKD, which
+is highly prevalent among gout patients, is not fully
+understood [31].
+The objective of this study is to determine if healthcare
+utilization and survival differs between patients with
+incident gout in the presence or absence of CKD. We
+will describe healthcare utilization trajectory during the
+first 5 years of care for patients with gout with and without
+CKD, respectively, to provide crucial insights into
+the health outcomes and disease management of the comorbid
+patient.
+Methods
+Study database
+Clalit Health Services (CHS) is the largest health care
+payer/provider in Israel, with about 4,217,000 insured citizens
+that provides care to all ages including > 60% of
+adults older than 65 years of age in Israel. The system is
+characterized by extremely low annual member turnover
+of < 1% [32]. Since 1998, with increasing comprehensiveness,
+CHS’s information is kept in a central computerized
+data warehouse that includes integrated demographic
+data, clinical diagnoses (based on hospital discharge diagnoses,
+primary care physician diagnoses, and specialist
+outpatient clinic diagnoses), laboratory data results, medical
+procedures, and medications (including date of prescription
+and quantity and time of medication dispensed).
+Death records, including date of death from the Israel
+Central Bureau of Statistics, were linked to the Clalit
+population using the unique identification number for all
+Israeli residents. The need for consent was waived by the
+Helsinki Ethics Committee of the CHS (no. 037/2015).
+Study population
+This is a retrospective cohort study of newly diagnosed
+gout between 1/1/2006–31/12/2009 and followed for a
+5-year period. For example, patients identified on 1/1/
+2006 were followed for 5 years through 31/12/2010 and
+patients identified on 31/12/2009 were followed through
+30/12/2014. Follow-up data were included for the partial
+year the patient left the health plan or died.
+Included were patients with continuous enrollment in
+Clalit for 1 year prior to date of diagnosis (index date).
+Patients had to be at least 25 years old as of index date.
+Adults 18–24 years were excluded because the majority
+was serving in the Israeli military where they receive full
+healthcare coverage. The following criteria developed in
+other electronic health record (EHR) studies [33–35] to
+identify incident cases of gout were used (Fig. 1):
+(1) International Classification of Diseases 9th version
+(ICD-9) codes 274 diagnosis from at least one
+rheumatologist visit;
+(2) ICD-9 274 diagnosis or free-text diagnosis of ‘gout’
+from at least two community diagnoses at least 30
+days apart between and either
+(a) the purchase of at least two gout-related prescription
+medications (allopurinol, probenecid,
+colchicine, or sulfinpyrazone) at least 30 days
+apart with the first within 6 months prior to or
+any time after the first community diagnosis or
+(b) two sUA test results > 6 mg/dL with the first
+within 6 months prior to or any time after the
+first community diagnosis at least 30 days apart;
+(3) ICD-9 274 diagnosis from at least one hospital
+admission diagnosis;
+(4) Clalit Health Services internal chronic diagnosis
+registry, based on ICD-9 diagnostic codes, diagnostic
+free text, procedures and test results [36]; and
+(5) Clalit Health Services physician-determined diagnosis
+given a ‘permanent’ status in the patient’s medical
+record, based on ICD-9 diagnostic codes.
+Subject with at least one of these were considered to
+have gout. The earliest diagnosis was considered the index
+date, and patients were required to have 12months without
+any indication of gout (baseline period) to be considered
+newly diagnosed (incident cases). Gout patients who
+had documentation of at least one of the above criteria
+prior to the start of study eligibility were excluded. Patients
+whose free-text diagnosis also included pseudo, suspected,
+family history, or nephrolithiasis were also
+excluded. Finally, 98 subjects with the following diseases
+also known to affect sUA levels were excluded: Familial
+Mediterranean Fever (ICD-9 277.31) (n = 56), glycogen
+storage disease (ICD-9 271.0) (n = 42), Lesch-Nyhan syndrome
+(ICD-9 277.2) (n = 0), juvenile gout (ICD-9 277.2)
+(n = 0), tumor lysis syndrome (ICD-9 277.88) (n = 0), or
+lead toxicity associated with gout (ICD-9 984.9) (n = 1).
+Gout patients were categorized by the presence of
+CKD at index date as defined by an indication of moderate/
+severe chronic kidney disease (based on laboratory
+values and using the CKD-EPI creatinine equation to
+identify CKD ≥ 3 [37], or a diagnosis or claim for chronic
+renal failure, kidney transplantation, or dialysis.
+Measures
+Demographic variables such as age, sex were collected at
+index date. Age was assessed continuously and by groups
+< 55 and 55+ years as quality of gout healthcare management
+has been shown to decrease with older ages [13].
+Socio-economic status (SES) (low, medium, high, or missing)
+is an area-level score calculated based on current or
+last place of residence thus it likely reflects the patient’s
+SES at the end of follow-up. Misclassification of SES as a
+result of this definition is considered minimal as SES is
+considered to be stable during the non-critical 5-year
+period of adulthood in comparison to potential shifts during
+one’s early life course [38]. In addition, the use of the
+latter SES indicator, as an adjustment for the confounding
+effect on resource utilization, is perhaps a better indicator
+of the cumulative influence of SES [39]. Individual-level
+SES data are not collected by any health plan in Israel due
+to Israeli law, therefore SES scores derived by the Israel
+Central Bureau of Statistics and based on small statistical
+areas were used [40, 41].
+Comorbid conditions at or prior to index date include
+cancer (ICD-9 140–208), cardiovascular disease (CVD)
+(ICD-9 410, 411, 413, 414, 429–434, 436, 438, V45.81/2,
+and coronary artery stent insertion and aortic bypass
+surgery procedures), diabetes (ICD-9 250), and hypertension
+(ICD-9 401–405) were identified using CHS algorithms
+[36, 42]. The Charlson Comorbidity Index
+(CCI) [43], was used to represent a weighted sum of
+multiple comorbid conditions predictive of higher
+resource utilization. Greater scores indicated a greater
+comorbid burden on the patient.
+Clinical characteristics included smoking habits
+(current smoker, former smoker, and never smoker) and
+body mass index (BMI) (continuous and categorical
+coded according to the World Health Organization as:
+underweight [< 18.5 kg/m2], normal weight [18.5 to <
+25.0 kg/m2], overweight [25.0 to < 30.0 kg/m2], obese
+[≥ 30.0 kg/m2], or missing).
+Healthcare resource utilization for the five follow-up
+years following index date was calculated as the mean of
+the total number per year of general practitioner visits,
+specialist visits (e.g., rheumatologist or orthopedist), hospital
+admissions, use of imaging services (x-ray, MRI,
+ultrasound, and CT), or allopurinol (ATC M04AA01) purchase
+similar to others’ methods [3, 19, 44]. Mean total
+number of tests and test values for sUA levels (last test
+value prior to index date) ≤ 6 or > 6 mg/dL were reported.
+Survival was examined using date of death.
+Statistical analysis
+Age-adjusted incidence was calculated using the 2009
+Clalit population distribution and direct standardization
+according to the Israeli population in 2009 (Central Bureau
+of Satistics, 2010) was used to calculate
+age-standardized incidence of gout [45]. Standardized
+rates and their 95% confidence intervals (CI) were used to
+assess age-standardized rate ratios by sex. Descriptive analyses
+were performed to characterize the patient population’s
+demographic, medical history, and clinical
+characteristics of patients at index date.
+Generalized estimating equations for repeated measures
+were used to assess change in healthcare
+utilization over the 5-year follow-up period for gout patients
+with and without pre-existing CKD at index date
+and stratified by age groups < 55 and 55+ years. Model
+distributions differed depending on outcome variable
+(general practitioners visits, allopurinol purchase = normal;
+specialist visits, hospitalizations, and sUA testing =
+negative binomial; imaging [data were restructured to binomial
+data, i.e., yes/no annual testing, to account for
+correlated data due to multiple testing for a single
+event] = binomial) with a first order autoregressive (AR
+(1)) correlation structure. The AR (1) order is used since
+the model is fitting longitudinal repeated measures of
+correlated data and similar estimates were observed
+when using the unstructured correlation structure. Annual
+unit change and 95% CI were presented and when
+appropriate, data were transformed from the logarithmic
+scale. Data prior to index date was indexed as year 0 and
+all subsequent years as years 1 through 5. All models
+were adjusted for age, sex, smoking status (current vs
+non-current), SES (low vs other), and CCI. During the
+5-year follow-up 1673 (20.2%) healthy gout patients
+developed CKD. Change in patient kidney disease status
+from index date was not adjusted for in models since
+the goal of the analysis was to examine utilization based
+on characteristics at index date.
+Time-to-death was examined using Kaplan Meier survival
+curves and the log rank test were used to test
+equality of survival distributions between the subgroups
+with and without CKD and stratified by ages < 55 and 55
++ years. Patients were right-censored according to the
+month they left the health plan. Cox proportional hazard
+models were used to assess the risk of death in patients
+with and without CKD at index date and stratified by
+age group < 55 and 55+ years accounting for age, sex,
+SES, CCI, smoking status, BMI, sUA control, and gout
+medication use. Proportional hazard assumptions were
+used examining the effect of age within each age group.
+Hazard ratios (HR) and 95% CI were reported.
+Analyses were conducted using SPSS version 23.
+Results
+A total of 12,940 incident adult gout patients were included
+in the study. Age-specific cumulative incidence
+rates over a 4-year period per 1000 Clalit members increased
+for both sexes with age, reaching the highest
+rates for adults 75–84 years (overall = 3.68 per 1000;
+men = 5.91; women = 2.14) (Fig. 2). The age-standardized
+cumulative incidence for this 4-year time period is 1.28
+per 1000 (95% CI 1.23–1.32). A higher cumulative incidence
+was observed for men (2.07 per 1000, 95% CI
+1.99–2.16) compared to women (0.55 per 1000, 95% CI
+0.52–0.59) with a standardized rate ratio of 3.74 (95% CI
+3.45–4.05, p < 0.05).
+During the 5 years of follow-up from index date, there
+were 8286 (64.0%) and 4654 (36.0%) gout patients with
+and without CKD, respectively (Table 1). Of this cohort,
+3421 patients died (26.4%) and 233 (1.8%) left Clalit with a
+total of 55,206 person-years of follow-up. The average age
+of gout patients at index date was 63.8 ± 15.6 years.
+Thirty-six percent (n = 4654) of all incident cases of gout
+had CKD at their index date. Gout patients without CKD
+at index date tended to be younger (without CKD = 58.1
+± 14.7 years vs with CKD = 74.0 ± 11.3 years), male (without
+CKD = 80.1% vs with CKD = 68.4%), of low SES (without
+CKD = 19.3% vs with CKD = 16.5%), and current
+smokers (without CKD = 15.8% vs with CKD = 6.8%) compared
+to those with these conditions. The health status of
+gout patients at index date indicated that 43.0% of patients
+are obese, with a larger percentage among those without
+(45.3%) than with (38.8%) CKD at index date. CVD
+(38.4%), diabetes (28.9%), hypertension (65.6%) and cancer
+(12.1%) were the most common comorbidities in gout patients
+at index date and were substantially higher among
+those with CKD at index date. Similarly, upon diagnosis
+69.1% of gout patients had a CCI ≥1 with higher CCI
+scores for those with compared to those without CKD at
+index date (without CKD = 58.0% vs with CKD = 89.0%).
+Prior to index date, 29.4% of patients had no recorded
+sUA level. Patients without compared to those with
+CKD at index date had substantially higher missing test
+values (37.8% versus 14.4%). Of those with available sUA
+test data, 19.0% of patient without CKD had controlled
+sUA (< 6 mg/dl) at index date compared to 9.1% of patients
+with CKD at index date. Mean sUA levels were
+7.6 ± 1.7 and 8.9 ± 2.1 mg/dL for those without and with
+CKD, respectively (p < 0.001). In addition, at index date
+31.4% of patients had purchased at least one
+gout-related medication in the previous year, with higher
+rates among those with compared to without CKD at
+index date (with CKD = 27.1% vs without CKD = 39.2%).
+Healthcare utilization was calculated from one-year
+prior to index date to each year after index date over the
+5-year follow-up period for patients with and without
+CKD and stratified by age group < 55 and 55+ years according
+to the population at the beginning of each
+follow-up year (see Table 2). Over the 5-year follow-up
+period from index date, 33.6% of patients presenting
+with CKD at index date either died or left Clalit, compared
+to 9.3% of those without CKD at cohort entry.
+Substantially more patients were lost to follow-up
+among the older age group (12.4% without CKD and
+35.3% with CKD) compared to gout patients in the
+younger age group (4.4% without CKD and 8.5% with
+CKD). During the year prior to diagnosis, younger patients
+with CKD compared to patients without CKD had
+twice as many general practitioner visits and imaging
+tests performed, over four times more hospital admissions,
+almost triple the average months of allopurinol
+purchases per year and the number of sUA tests performed.
+Similar, but more attenuated differences were
+observed for those in the older age group. Between
+group differences for patients with versus without CKD
+were observed for unadjusted and adjusted models (p <
+0.001). There were statistically significant changes in rates
+from year 1 to year 5 for healthcare utilization among all
+gout patients (p < 0.05) with the exception of younger patients
+and general practitioner visits where rates remained
+stable over time regardless of CKD status (Table 2).
+Among younger patients, the rate of change over time did
+not differ for those with or without CKD. Decreasing
+number of visits per patient were observed for specialists,
+imaging, hospitalizations and sUA testing, while the number
+of months of allopurinol use increased similarly for
+those with and without CKD over time. For example,
+those with CKD < 55 years purchased allopurinol on average
+for 3.49 ± 4.15months in their first year from diagnosis
+and 4.36 ± 4.61 months in their fifth year from
+diagnosis. Among those 55+ years, the rate of change differed
+significantly between those with and without CKD
+for (p < 0.05) for average number per year of general practitioner
+visits, specialist visits, and months of allopurinol
+purchases. Healthcare resource use decreased for all with
+the exception of monthly allopurinol purchase for CKD
+patients 55+ years where rates increased from 2.71 ± 4.05
+to 3.39 ± 4.63 from year 1 to 5.
+Survival curves were estimated for this patient population
+illustrating significant differences in survival probabilities by
+subgroups, CKD status and age group (p < 0.001) (Fig. 3). Of
+the 3421 patients who died during the 5-year study period,
+the majority had CKD (without CKD < 55 years = 4.9%; with
+CKD < 55 years = 22.4%; without CKD 55+ years = 29.9%;
+with CKD 55+ years =55.8%). Mean survival times differed
+significantly between groups (without CKD < 55 years: 59.1
+± 6.0 months, with CKD < 55 years: 54.5 ± 14.3months,
+without CKD 55+ years: 53.5 ± 15.3months, with CKD 55+
+years: 45.4 ± 20.3 months; p < 0.001). Cox regression models
+assessed hazard of survival from diagnosis and adjusted for
+index date characteristics: age, sex, SES, CCI, smoking status,
+BMI, sUA control (< or ≥ 6mg/dl), and gout medication
+use. Cox models were examined for those < 55 and 55+
+years. For both age groups, the risk of dying was higher
+among those with compared to those without CKD (HR<55
+years = 1.65; 95% CI 1.01–2.71; HR55+ years = 1.50; 95% CI
+1.37–1.65).
+Discussion
+The present population-based study followed 12,940 incident
+gout patients for 5 years and compared healthcare
+utilization for patients with CKD and without CKD at
+their gout diagnosis. We demonstrated that patients with
+gout and CKD have greater rates of healthcare
+utilization at the start of follow-up than those without
+CKD, regardless of age. The additional health impairment
+of the patient with gout and CKD did not affect
+the rate of change on the burden of healthcare
+utilization over the 5-year period for adults < 55 years,
+however differentially influenced the rate of healthcare
+resource utilization (HRU) use for patients 55+ years.
+An increased mortality risk of 65 and 71% for those with
+CKD compared to without CKD was observed for
+patients < 55 years and 55+ years, respectively. The expected
+differences in HRU among those with CKD and
+elderly compared to non-CKD and younger groups, were
+not unexpected, however were not consistently apparent
+across all resource types and groups.
+The relationship between gout and kidney disease is
+complex. Patients with gout are at an increased risk of
+CKD and CKD-related mortality, and patients with CKD
+are at an increased risk for hyperuricemia, which is a
+risk factor for gout [21, 46, 47]. For all gout patients,
+recommendations support the ability and need to control
+sUA levels to < 6 mg/dl [8, 48]. Reaching this target
+requires close monitoring due to potential drug-drug interactions
+and adverse events related to ULT use especially
+for CKD patients [48, 49]. For example, treating
+gout patients with reduced renal function may require
+dose escalation of allopurinol to offset its interaction
+with furosemide [24, 48]. Among CKD patients, control
+of hyperuricemia is debated among experts [26, 48, 50]
+and clinical guidelines for these patients note that there
+is insufficient evidence to recommend lowering serum
+uric acid in order to prevent CKD progression [51, 52].
+In the present study there were several indicators of
+hyperuricemia monitoring and control, including sUA
+testing rates, sUA levels prior to diagnosis, and allopurinol
+purchase. We observed consistently higher average
+sUA testing per year for patients with CKD compared to
+those without CKD, regardless of age suggestive of closer
+monitoring for this sub-group, however, change in rates
+over time did not reveal differential changes by these
+sub-groups. After controlling for confounding factors,
+the average number of months that a patient purchased
+allopurinol increased for younger patients irrespective of
+CKD status, decreased for older patients without CKD,
+and remained stable for older patients with CKD, indicating
+a sensitivity of approach to treating gout according
+to age and comorbid conditions. It should be noted
+that while uncontrolled disease and poor clinical outcomes
+are often attributed to inadequate clinical monitoring,
+patients in the current study had high annual
+testing rates and ever-tested rates in the previous 5-year
+period relative to the reported rates in other countries
+[11, 19]. Finally, while the relationship between sUA
+monitoring over time and mortality was not assessed, we
+saw substantially higher mortality rates over the
+follow-up period for those with than those without
+CKD. These results may thus provide important insight
+into the burden of this comorbid disease, which persists
+despite effective clinical monitoring.
+The ability to identify incident cases of gout, classify
+them according to CKD status and follow their healthcare
+utilization and survival over a 5-year period is a
+strength of this study and adds further perspective to the
+complexities related to gout management. The healthcare
+system in Israel is universal and provides physician
+care and a basic basket of medications and services to all
+residents. Conducting a population-based study utilizing
+data from the largest health care payer/provider in Israel
+provides an opportunity to study healthcare utilization
+and survival in gout patients independent of the effect of
+access to care. The relevance of these findings lies in the
+generalizability of the Israel cohort to that of others.
+Specifically, it is important to note that the incidence of
+gout in Israel of 1.29 per 1000 (95% CI 1.23–1.32) and
+rates by sex are similar to those reported in other countries,
+such as Sweden, Taiwan and UK [20, 53, 54]. Likewise,
+socio-demographic characteristics of the cohort are
+similar to that of other patient cohorts, with higher proportion
+of gout cases among older adults and men, and
+an unclear association with SES [19, 54, 55].
+The results, however, are not without their limitations.
+First, clinical notes were not available for analysis in the
+dataset, which may lead to a misinterpretation of a
+healthcare encounter. Second, since we did not account
+for change in CKD status from index date, our results
+may reflect an attenuated relationship. Specifically, if
+those in the non-CKD group develop CKD during the
+follow-up period, their HRU and survival will be more
+similar to the CKD group. Also, the use and dose of
+ULT may not be equally distributed among CKD and
+age groups and may influence disease control and the
+resultant resource use. The potential bias associated with
+this uncontrolled confounder is unknown, however,
+others using data from Israel showed that medication
+adherence is related to SES, which is controlled for in
+the regression models and that those with comorbidities
+have improved compliance [30]. Next, identification of
+incident cases was limited by the availability of historical
+data by which we assumed the index date to be the first
+encounter for gout with the EHR system and not the
+first diagnosis. The Clalit EHR records are incomplete
+with regards to emergency department use due to out of
+system use. The lack of this information detracts from
+assessing the full extent of gout, regardless of subgroup
+on the economic burden to the healthcare system. Further
+insights into the relationships identified in the study
+were limited by our inability to examine time from disease
+diagnosis, gout flares or tophi, and cause of death.
+In addition, while the relatively large sample size allowed
+for increased power to detect difference, caution should
+be applied to the relevance of difference.
+Conclusions
+In light of the challenges facing clinicians to ‘cure’ gout,
+these findings provide critical evidence of differences between
+patient characteristics, healthcare utilization and
+outcomes of this at-risk sub-group over the course of the
+disease. Future work should explore factors associated
+with these outcomes and barriers to gout control such as
+annual sUA testing and medication adherence, to better
+understand patient management by these subgroups.

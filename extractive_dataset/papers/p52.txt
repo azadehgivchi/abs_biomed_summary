@@ -1,0 +1,301 @@
+Background
+The incidence of accidental hypothermia (AH), which is
+defined by a body core temperature of < 35 °C [1], is low,
+however, severe hypothermia is associated with a high
+mortality rate [2, 3]. In severe hypothermia, intrinsic
+heat production by means of active movement and shivering, disappeared, leading to further progression in the
+decrease in body temperature. In Japan, which has a
+large elderly population, the mortality rate of all patients
+with AH is as high as 24.4–35% [4, 5], so effective prevention and intervention strategies are required.
+Frailty is characterized by a decline in functioning
+across multiple physiological systems, accompanied by
+an increased vulnerability to stressors [6]. More recently,
+data have suggested that the presence of frailty places a
+person at increased risk of adverse outcomes, including
+hospitalization, and mortality [7]. Recently, frailty has
+also been noted in critically ill patients [8, 9]. However,
+to our knowledge, limited data exist regarding the relationship between AH and frailty. Clarification of the relationship between AH and frailty may provide useful
+insight for improving the prognosis of patients with
+hypothermia.
+We hypothesized that frailty would be associated with
+a poor prognosis and mortality in patients with AH. For
+the purpose of verifying this hypothesis, we analyzed the
+Japan’s nationwide registry data on hypothermia.
+Material and methods
+Study design and setting
+We performed a prospective, observational, multi-center
+registries of hypothermia: the Hypothermia STUDY
+2018&2019. This study was conducted from December
+2018 to February 2019 and December 2019 to February
+2020, among a consortium of 120 academic and community medical centers from different geographic regions across Japan. The study has been approved by the
+Ethics Review Board of Teikyo University Hospital in
+Japan (Approval No: 17–090). The requirement for informed consent was waived due to the observational nature of the study by the Ethics Review Board of Teikyo
+University Hospital in Japan. In addition, the institutional review board of each hospital listed in the acknowledgements approved the study.
+Patient selection and data collection
+The present study included consecutive patients whose
+body temperature, as measured by emergency medical
+services (EMS) or at the emergency department (ED),
+was < 35 °C. Patients of < 18 years of age were excluded.
+The following data were collected: age, sex, any preexisting conditions, activities of daily living (ADL), lifestyle, location of hypothermia incidence, mechanism
+underlying hypothermia (acute medical illness [stroke,
+ischemic cardiac disease, infectious disease, malnutrition,
+arrhythmia, diabetes mellitus, renal disease,
+hypoglycemia, cardiac failure, endocrine disease and
+gastrointestinal disease], trauma [submersion, distress],
+alcohol intoxication, other [including drugs]), Charlson
+comorbidity index (CCI) [10], Glasgow coma scale
+(GCS) [11], Sequential Organ Failure Assessment
+(SOFA) score [12], laboratory data, temperature, blood
+pressure, heart rate, respiratory rate, cardiac arrest during pre-hospital, intubation, hospital length of stay, mortality, and Cerebral Performance Category (CPC) [13]
+score at 30 days after admission, and complications. The
+temperature was recorded as the core temperature from
+the rectum, urinary bladder, or esophagus if available;
+otherwise, the peripheral temperature from the axilla or
+ear was noted. The severity of hypothermia was classified according to the temperature as mild (35–32 °C),
+moderate (32–28 °C), or severe (< 28 °C) with reference
+to previous studies [1] [3].
+The laboratory data included the pH value, potassium
+level, lactate level, platelet count, CPK level, BUN level,
+and creatinine level measured at the ED. The pH value
+in principle was evaluated by an arterial blood gas analysis, and the pH value measured using the venous blood
+gas was adjusted as described in a previous study [14].
+In the present study, the patients who did not stay in a
+hospital, or in whom the length of hospital stay or body
+temperature was unknown or > 35 °C were excluded
+from the present analysis.
+Complications during hospitalization were recorded
+and classified as arrhythmia, pneumonia, pancreatitis,
+electrolyte abnormality, or other. Pneumonia was defined as an obvious shadow on chest radiography or
+computed tomography (CT). Pancreatitis was defined as
+cases meeting at least two of the following conditions: 1)
+abdominal pain, 2) elevation of pancreatic enzyme levels
+in the blood, and 3) edema of the pancreas or peripancreatic effusion on ultrasound/CT.
+The rewarming duration to target temperature was defined as the time interval between arrival at the ED and
+the moment at which the target temperature was
+reached. The rewarming rate (°C per hour) was defined
+as follows: (target temperature-temperature at ED) / the
+rewarming duration to target temperature.
+Rewarming methods were divided into active external
+rewarming (warmed blanket, forced warm air, heating
+pad, and warmed bath) and active internal rewarming
+(warmed fluid infusion, lavage, hemodialysis, intravascular catheter, and extracorporeal membrane oxygenation
+[ECMO]).
+Definition of frailty
+The clinical frailty scale (CFS) score was used to determine the presence and degree of frailty, as described
+previously [15]. The CFS score was determined using
+the activities of daily living and pre-existing conditions,
+as shown in our previous study [16]: CFS 1, very fit, defined as ADL 1 (independent) and CCI 0; CFS 2, well,
+defined as ADL 1 and CCI ≥1, or ADL 2 (sometimes out
+of the door) and CCI 0; CFS 3, well with treated comorbid disease, defined as ADL 2 and CCI 1–2; CFS 4, apparently vulnerable, defined as ADL 2 and CCI ≥3, or
+ADL 3 (indoors); CFS 5, mildly frail, defined as ADL 4
+(almost needing assistance) and CCI ≤2; CFS 6, moderately frail, defined as ADL 4 and CCI ≥3; and CFS 7, severely frail, defined ADL 5 (needing total assistance).
+Patients were defined as frail if they had a CFS score of
+≥5 before hospital admission.
+Outcome measures
+Patient demographics and outcomes were compared between frail and non-frail patients. The primary outcome
+was the comparison of mortality between the frail and
+non-frail patient groups. The secondary outcomes were
+the comparisons of the length of intensive care unit
+(ICU) stay, hospital stay, CPC at 30 days after admission,
+and complications between the frail and non-frail patient
+groups. A favorable outcome was defined as a CPC of 1
+or 2, whereas an unfavorable outcome was defined as a
+CPC 3–5.
+Data analyses
+Data are expressed as the number (%), median (interquartile range) or the mean ± standard deviation, as appropriate. Intergroup comparisons were made using the
+Fisher’s exact test for categorical data and MannWhitney U test or Student’s t-test for continuous data.
+Ninety-day survival was calculated using a Kaplan-Meier
+curve and the difference in survival between frail and
+non-frail patients was determined using a log-rank test.
+Hazard ratios (HRs) and the corresponding 95% confidence intervals (CI) of the association between frailty
+and 90-day survival were derived using Cox proportional
+hazard survival models. The following covariates were
+included in the multivariable model based on the relevant literature [2, 3], or the consideration of clinically
+significant variables: age, sex, potassium level, lactate
+level, pH value, CPK level, heart rate, platelet count, location of hypothermia incidence, and rate of tracheal intubation. Missing data were managed with multiple
+imputation by chained equations [17, 18]. The variables
+included in the imputation model were those from the
+multivariable model. Twenty-five datasets were imputed
+with 10 iterations each. A Cox proportional hazards analysis was applied to the 25 imputed datasets, and final
+estimates were obtained by averaging the 25 estimates
+according to Rubin’s rules. Furthermore, a complete data
+set was used for the sensitivity analysis. We also
+performed a subgroup analysis with the exclusion of
+cases in which a warmed blanket or ECMO were applied. All tests were two-sided, and P values of < 0.05
+were considered statistically significant. All statistical
+analyses were performed with EZR (Saitama Medical
+Center, Jichi Medical University, Saitama, Japan), a
+graphical user interface for the R software program.
+Multiple imputation was performed using the mice
+package in R (version, 4.0.3 R Foundation for Statistical
+Computing, Vienna, Austria).
+Results
+Of the 1363 patients with hypothermia who were included in the Hypothermia STUDY 2018&2019, 443
+were excluded from the present study because of unknown temperature or temperature > 35 °C (N = 147),
+unknown outcome (N = 127), unknown length of hospital stay (N = 150), or unknown ADL (N = 19). The
+remaining 920 patients were eligible for inclusion in the
+present analysis. A patient flow diagram is shown in
+Fig. 1. According to the CFS score, the 920 patients were
+divided into the frail patient group (N = 221) and the
+non-frail patient group (N = 699).
+Baseline characteristics of the study population
+Supplemental Fig. 1 shows the age distribution of the patients included in the present study. The present population included only a few relatively young patients, with
+81% of the total patients being ≥65 years old, and the
+median patient age being 79 years old. Table 1 shows the
+baseline characteristics of the study population and a
+comparison of the clinical characteristics of frail and
+non-frail patients. The non-frail patient group had a larger percentage of male in comparison to the frail patient
+group. The frail patient group was older, had higher CCI
+values, and included a higher percentage of AH cases
+that occurred indoors in comparison to the non-frail patient group. Regarding the mechanism of hypothermia,
+the rate of acute medical illness in the frail patient group
+was higher than that in the non-frail patient group.
+Clinical and laboratory data
+Among the 920 patients, the core body temperature was
+measured in 585 (63.6%). The clinical and laboratory
+data are presented in Table 2. There were no significant
+differences in the severity grade of temperature, blood
+pressure, respiratory rate, potassium level, creatinine
+level, or cardiac arrest during the pre-hospital period between frail and non-frail patients. Frail patients had a
+lower GCS, heart rate, lactate level, platelet count, CPK
+level, and rate of tracheal intubation in comparison to
+non-frail patients. The pH values of frail patients were
+significantly higher in comparison to non-frail patients.
+Primary outcome
+As shown in Table 3, the overall 30-day mortality rate
+was 23.5% (N = 216). After 30 days of hospitalization,
+32.6% of frail patients and 20.6% of non-frail patients
+had died (p < 0.001). A survival time analysis revealed
+that there was significant difference between frail and
+non-frail patients (log-rank test p < 0.001) (Fig. 2). The
+results of the Cox proportional hazards analysis are summarized in Table 4. In the unadjusted analysis, frail patients had a significantly higher risk of 90-day mortality
+(Hazard ratio [HR], 1.64; 95% confidence interval [CI],
+1.25–2.17; p < 0.001). Based on the Cox proportional
+hazards analysis using multiple imputation, after adjustment for age, potassium level, lactate level, pH value,
+sex, CPK level, heart rate, platelet count, location of
+hypothermia incidence, and rate of tracheal intubation,
+frail patients still had a significantly higher risk of 90-day
+mortality (Hazard ratio [HR], 1.69; 95% confidence interval [CI], 1.25–2.29; p < 0.001). A sensitivity analysis performed using the complete dataset of cases excluding
+cases with missing values (N = 679) confirmed the robustness of the results.
+Secondary outcomes
+Among the 920 total patients, the median length of ICU
+stay was 3 days, and the median length of hospital stay
+was 13 days. There was no significant difference in the
+length of stay at the ICU or hospital between frail and
+non-frail patients (Table 3). However, in the neurological
+assessment, frail patients showed a higher rate of patients with a worsened neurological score (CPC 3–5) at
+30 days after admission in comparison to non-frail patients, while non-frail patients showed a significantly
+higher rate of patients with a favorable neurological outcome (CPC 1–2) in comparison to frail patients. There
+was no significant difference in the incidence of complications between the frail and non-frail patient groups.
+Rewarming method and rewarming rate
+The rewarming method and rewarming rate are presented in Table 5. The rates of warmed blanket (P <
+0.001) and ECMO (P = 0.039) use in the frail patient
+group were lower in comparison to the non-frail patient
+group. However, the other rewarming methods did not
+differ between the two groups to a statistically significant
+extent. The rewarming rate in frail patients was significantly slower than that in non-frail patients (p < 0.001).
+Subgroup analyses
+In the subgroup analysis with the exclusion of cases in
+which a warmed blanket or ECMO were applied, the
+rewarming rate in frail patients was still lower than that
+in non-frail patients (Supplemental Table 1).
+Discussion
+The present nationwide study showed that frail patients
+with AH had a significantly higher risk of mortality in
+comparison to non-frail patients with AH, even after adjustment for important confounders. Additionally, the
+frail patient group included a higher rate of patients with
+a worsened neurological outcome in comparison to the
+non-frail patient group. The rewarming rate in frail patients was delayed in comparison to non-frail patients.
+Recently, frailty has been shown to be associated with
+mortality and adverse outcomes in patients with various
+conditions [7], including patients with chronic obstructive pulmonary disease [19], patients with inflammatory
+bowel disease [20], patients with AIDS [21], patients
+awaiting liver transplantation [22], hip fracture patients
+[23] and patients undergoing elective vascular surgery
+[24], independent of chronological age. However,
+whether or not frailty is associated with mortality in patients with AH has not previously been investigated. The
+present nationwide study showed, for the first time, that
+frailty is an important prognostic factor in patients with
+AH.
+Previous studies showed that prognostic factors in AH
+include the potassium level, pH value, lactate level, and
+age [2, 3, 25–27]. Although these factors may be useful
+for predicting the prognosis and selecting an appropriate
+rewarming intervention, these factors cannot be controlled and do not help improve the prognosis of patients with AH. However, in contrast to the other
+factors, frailty is a factor that can be avoided with preventive intervention [28] [29]. The reduction of frailty
+might consequently lead to a decrease in the number of
+deaths caused by AH.
+The rewarming rate in frail patients was slower
+than that in non-frail patients. Although the rates at
+which ECMO or a warmed blanket were used in the
+frail patient group were lower in comparison to the
+non-frail patient group, the results were also similar
+in the subgroup analysis that excluded cases in which
+ECMO or a warmed blanket were used. The reasons
+for the difference in the rewarming rate may be as
+follows. It is hypothesized that intrinsic heat production by the patient, such as shivering thermogenesis,
+does not occur sufficiently in frail patients with AH,
+resulting in delayed rewarming. In the present study,
+the finding that the CPK level was lower in the frail
+patient group may support this mechanism. A previous study showed that a decreased rewarming rate in
+patients with AH is associated with a high risk of
+underlying infection [30] and mortality [31]. In recent
+years, many studies have shown that the prognosis of
+septic patients with hypothermia is poor [32–34]. For
+this reason, it has been pointed out that homeostatic
+dysfunction, such as immune dysfunction, is related
+to the poor prognosis of these patients [35, 36]. Although there was no significant difference in the occurrence of infectious complications between the frail
+and non-frail patient groups in the present study, a
+similar mechanism may be responsible for the relationship between frailty and a poor prognosis in patients with AH. On the other hand, the results of this
+study could not clarify whether or not the rapid
+rewarming using invasive internal rewarming methods
+will reduce mortality and improve the prognosis of
+frail patients with AH. Thus, further studies are
+needed to address this problem.
+In our previous study, we found that frail patients with
+AH showed prolonged hospitalization [16]. However, in
+this study, there was no significant difference in the
+length of hospital stay between the frail and non-frail patient groups. The reasons are as follows: the previous
+study excluded patients who died within 30 days,
+whereas the present study included these patients. The
+rate of early mortality within 30 days was higher in the
+frail group than in the non-frail group. As a result, the
+length of hospital stay in the frail group was shorter than
+that in the non-frail group, although the difference was
+not statistically significant.
+A previous study showed that, among ICU patients
+requiring mechanical ventilation, the presence of
+frailty increased the likelihood of short-term mortality, and that these findings might play a role in informed shared decision-making with patients and
+families prior to the provision of mechanical ventilation [37]. In this study, the rate of tracheal intubation
+was lower among frail patients than among non-frail
+patients. This may be because these patients and their
+families did not wish to receive invasive treatment
+with intubation and ventilation.
+Regarding complications, previous studies have reported
+that the incidence of complications is higher in frail patients [7]. However, in this study, the incidence of complications in the frail and non-frail patient groups did not
+differ to a statistically significant extent. The complications defined in this study (arrhythmia, pneumonia, pancreatitis, electrolyte abnormality and coagulopathy)
+occurred infrequently, which may have contributed to the
+lack of a significant difference.
+The present study was associated with some limitations.
+First, we used the CFS score, which was calculated based on
+ADL and the CCI to determine frailty, while the standard
+tools for the diagnosis of frailty are the frailty index [38] or
+frailty phenotype [39]. Therefore, it remains to be verified
+whether the diagnosis of frailty in this study was accurate. In
+this regard, a comparative study regarding the accuracy of
+the CFS score is currently in progress [40]. Second, there
+were numerous missing data in relation to the rewarming
+rate. However, the volume of data including in this nationwide study was sufficient; thus, the results are considered robust. Third, we could not to determine the rewarming rate
+according to individual rewarming methods, because several
+rewarming methods were used in combination. Finally, this
+study was based on the findings of registry data on
+hypothermia, and it did not include any data that was related to frail research, such as ADL after a long-term followup. Therefore, further studies will be needed to investigate
+the long-term ADL of frail patients with AH.
+Conclusions
+This study found that, after adjustment for multiple factors, mortality in frail patients with AH was higher than
+that in non-frail patients with AH. According to the
+neurological outcome after 30 days, the percentage of
+patients with a poor prognosis in the frail patient group
+was higher than that in the non-frail patient group. It is
+important to recognize that frail patients with AH are at
+risk for more severe hypothermia.

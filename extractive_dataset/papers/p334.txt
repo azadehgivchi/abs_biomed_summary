@@ -1,0 +1,480 @@
+Background
+Different levels and types of genetic variation exist in the
+human genome, ranging from single nucleotide mutations
+to structural or numerical chromosome abnormalities.
+One or more genetic variations may exist in an
+individual, and some genetic variations cause severe congenital
+malformations or death. In addition to triploid
+and numerical chromosome abnormalities, pathogenic
+chromosome microdeletion/duplication also leads to
+poor fetal prognosis. For example, Wolf-Hirschhorn syndrome
+mostly results in developmental retardation, unusual
+faces and structural abnormalities, and Miller-
+Dieker syndrome can be complicated by pachygyria;
+22q11.21 microdeletion syndrome often has various degrees
+of cardiac malformations [1–6]. If pathogenic
+chromosome microdeletion/duplication can be diagnosed
+prenatally, the births of children with such severe
+congenital defects can be avoided.
+However, the target diseases of traditional maternal
+serum screening are limited to common aneuploidies.
+Fetal ultrasound scanning is mainly used to monitor
+fetal growth and development, and to find structural
+fetal abnormalities and soft markers. Noninvasive prenatal
+testing (NIPT) using maternal plasma cell-free fetal
+DNA has made prenatal screening for pathogenic
+chromosome microdeletion/ duplication possible.
+Traditional cytogenetic karyotyping has been used as
+the gold standard diagnosis of chromosome abnormalities
+for decades. However, it is time-consuming and
+labor-intensive, largely dependent on cell culture, and
+has a low chromosome resolution of 5 ~ 10 Mb. In recent
+years, the application of high-resolution chromosome
+micro-array analysis (CMA), which can detect
+abnormal chromosome number, micro-deletions/duplication,
+uniparental disomy, has revolutionized the testing
+methodology of prenatal diagnosis. It has been
+suggested in some studies that CMA can be solely used
+instead of cytogenetic karyotyping in prenatal diagnosis
+laboratories with limited human resources [7]. Nextgeneration
+sequencing (NGS) now offers an alternative
+methodology to CMA, named copy number variation sequencing
+(CNV-Seq) with a resolution of 0.2 Mb for the
+detection of clinically significant chromosomal abnormalities.
+CNV-Seq has uniform sequencing coverage and
+relatively low price and has been gradually used in prenatal
+diagnosis [8]. However, more studies are required
+to further verify the efficiency of CNV-Seq in prenatal
+diagnosis.
+Traditional karyotyping has characteristics of low-cost
+and covering the whole genome, including abnormal
+chromosome number and structural variation of specific
+regions, such as euchromatic and heterochromosomal
+regions. It highly depends on the experience of technicians
+to recognize these regions using different banding
+techniques under the microscope, which provide information
+about the frequency and location of these variations.
+Due to the morphologic similarity between
+chromosomes, karyotyping is difficult to accurately distinguish
+subtle structural variations. Genome copy number
+variation (CNVs) refers to structural variations of
+DNA sequence of more than 0.2 Mb. Karyotyping by
+conventional chromosome banding technology cannot
+distinguish these subtle variations. Compared with
+karyotyping, CNV-Seq which based on next-generation
+sequencing technology and comparative genomics has
+high resolution, high throughput, and simple laboratory
+operations. However, CNV-Seq also has limitations such
+as short read lengths and not covering the whole genome,
+and it cannot detect balanced translocations, polymorphism,
+marker chromosomes, and other genetic
+variations out of the detection range, and it cannot accurately
+detect polyploidy and low-proportion chromosome
+mosaic. Karyotyping and CNV-Seq are two
+different technologies, and the combination of them in
+prenatal diagnosis may make up for each other’s shortcomings
+and verifie each other’s results to improve the
+accuracy of prenatal diagnosis. Therefore, in this study,
+we comparatively analyzed the difference between cytogenetic
+karyotyping and CNV-Seq for the same fetal
+samples, evaluated the value of adding CNV-Seq in traditional
+prenatal diagnosis, analyzed the performances of
+maternal age, maternal serum screening, NIPT and fetal
+ultrasound scanning for the screening of pathogenic fetal
+CNV and investigated whether combined application of
+these prenatal screening methods could improve the
+sensitivity and specificity for fetal pathogenic CNV.
+Methods
+Study patients
+All methods were carried out in accordance with relevant
+guidelines and regulations. The proposal of this
+study had been approved by the Ethics Committee of Institutional
+Research Board (IRB), First People’s Hospital
+of Yunnan Province before this study was conducted.
+The study patients were 9452 singleton pregnant women
+who received invasive prenatal diagnosis after informed
+consent forms were signed, including allowance of data
+management and consent for manuscript publication, in
+the First People’s Hospital of Yunnan Province, China,
+from January 2018 to December 2019. Among the study
+patients, 3582 (37.9%) women were served by our hospital
+for their prenatal care, and 5870 (62.1%) were
+transferred from the other hospitals because we are the
+provincial prenatal diagnosis center. The maternal age
+calculated by the expected date of confinement was 31
+(27–36) years. The gestational age at prenatal diagnosis
+was 20 (19–21) weeks. Invasive prenatal diagnosis
+consisted of 8855 amniocentesis (93.7%), 552 cordocentesis
+(5.8%) and 44 chorion villus sampling (0.5%).
+Prenatal screening
+Four types of prenatal screenings were involved in this
+study: (1) combined screening in 11 ~ 13+ 6 weeks that
+comprised of fetal NT measurement + maternal serum
+screening using pregnancy associated plasma protein-A
+(PAPP-A), placental growth factor (PLGF) and free human
+chorionic gonadotropin beta unit (fβ-HCG), with
+or without NIPT; (2) maternal serum screening in 16 ~
+20+ 6 weeks using alpha fetoprotein (AFP), fβ-HCG and
+unconjugated estriol (uE3), with or without NIPT; (3)
+NIPT only if gestational weeks at screening ≥21 weeks,
+and (4) all study patients had fetal ultrasound scanning
+in our department. The cases with high risk of Down
+Syndrome (DS), high risk of Edwards Syndrome (ES), or
+high risk of both by maternal serum screening were all
+classified as high-risk cases. Fetal ultrasound scanning
+was classified into five grades based on the severity of
+abnormalities: grade 0: without abnormal findings; grade
+1: fetuses with subtly ultrasound abnormalities other
+than grade 2, e.g. gallbladder was not detected; grade 2:
+soft markers that were closely associated with chromosome
+aneuploidy, such as thickened nuchal fold (NF),
+nuchal translucency (NT) ≥ 3.0 mm, absence and/or dysplasia
+of nasal bone, mild to moderate ventriculomegaly,
+aberrant subclavian arteries, fetal growth restriction
+(FGR), short limb bones length, micrognathia, and
+acromphalus; grade 3: mild to moderate structural fetal
+malformations; grade 4: severe structural fetal malformations
+or lethal abnormalities. Maternal age ≥ 35 years at
+the expected date of confinement was defined as advanced
+maternal age.
+Invasive prenatal diagnosis
+Three types of surgeries for invasive prenatal diagnosis
+were used in this study. Amniocentesis: Twenty mL of
+amniotic fluid was collected by aspiration for cell culture
+and cytogenetic karyotyping, and 5 mL for CNV-Seq. If
+amniotic fluid was contaminated by maternal blood, adherent
+amniocytes after cell culture were used for CNVSeq.
+Cordocentesis: Five mL of amniotic fluid was collected
+at first for CNV-Seq, and then 1.5 mL of cord
+blood for cell culture and cytogenetic karyotyping, and
+0.5 mL of cord blood for hemoglobin electrophoresis to
+exclude maternal blood contamination. In prenatal diagnosis,
+the standard method to exclude maternal blood
+contamination should be linkage analysis of DNA polymorphism.
+We had used the method of STR polymorphism
+linkage analysis. In recent years, we used
+hemoglobin electrophoresis instead because STR polymorphism
+linkage analysis was much more timeconsuming
+and labor-intensive. Chorion villus sampling:
+a small amount of villous tissue was sampled for CNVSeq
+directly. Before 2019, we were inexperienced in villus
+cell culture techniques. Therefore, the cases received
+chorion villus sampling were those with severe fetal
+structural abnormalities. No villus cell culture was applied
+for those cases, and only CNVs was provided.
+Laboratory testing
+Cell culture and cytogenetic karyotyping
+Amniotic fluid and umbilical blood samples were set up
+for cell culture following the standard protocols.
+Chromosome preparations were G-banded using
+trypsin-Giemsa staining for cytogenetic karyotyping after
+a series of standard protocols including colchicine treatment,
+hypotonic treatment, fixation and centrifugation.
+Karyotypes were diagnosed according to the international
+system for human cytogenetic nomenclature
+(ISCN, 2009) [9, 10]. The classification and abbreviations
+of abnormal karyotypes in this study were as follow: DS,
+ES, Patau syndrome (PS), super female syndrome (XXX),
+super male syndrome (XYY), Klinefelter syndrome
+(XXY), Turner syndrome (Turner), abnormal sex
+chromosome number mosaic (Sex A Mosaic), autosomal
+aneuploid mosaic (Auto A Mosaic), possibly balanced
+mutual translocation (Translocation), chromosome polymorphism
+(Polymorphism), triploid, chromosome fragment
+duplication/deletion, subtle structural variations
+such as inv. (21), inv. (4), dup (21), inv. (Y), inv. (1), inv.
+(5), inv. (12), inv. (8), inv. (19), inv. (Y), inv. (10), inv.
+(16). A total of 52 cases had only CNV-Seq results, but
+no karyotyping results. Among them, 44 cases who received
+chorion villus sampling, since our center cannot
+provide villus cell culture during that time; 8 cases encountered
+amniotic fluid cell culture failure. The maximum
+and minimum gestational weeks of amniotic fluid
+cell culture failure were 31 and 20 weeks, respectively. It
+should be noted that none of the 52 cases with missing
+results were used in the data analysis of this study.
+CNV-Seq and result interpretation
+Nextseq 550AR platform (Illumina, San Diego, CA) was
+used for DNA sequencing, with an average sequencing
+depth of 0.08×, following the Q30 sequencing quality
+standard. The amount of fetal DNA used for CNV-Seq
+was 10 ~ 50 ng for each prenatal sample. AnnoroadPD
+software (Annoroad Gene Technology Co., Ltd., Beijing,
+China) was applied to analyze the sequencing data referring
+to the human reference genome GRCh37/hg19. The
+identified fetal CNV were interpreted [11] and classified
+into five categories: pathogenic (P-), likely pathogenic
+(LP-), uncertain significance (VUS-), likely benign (LB-)
+and benign (B-), according to the standards and guidelines
+that were jointly developed by the American College
+of Medical Genetics and Genomics (ACMG), the
+Association for Molecular Pathology (AMP) and the
+College of American Pathologists (CAP) in 2015. To
+conveniently show the CNV-Seq results, we used “P-
+“as abbreviation for pathogenic chromosome microdeletion/
+duplication, “None” for no copy number variation
+found, “auto A” for autosomal aneuploidy, “sex
+A” for abnormal sex chromosomes number, “auto
+AM” for autosomal aneuploidy mosaic, and “sex AM”
+for abnormal sex chromosomes number mosaic. Cytogenetic
+karyotyping was the diagnostic method for
+numerical and structural chromosome abnormalities,
+and high-throughput sequencing for CNV. For LPand
+VUS-, family (parents and fetuses) CNV-Seq
+tests, fluorescence in-situ hybridization (FISH) or
+multiplex ligation probe amplification (MLPA) were
+used for further verification.
+Statistical analysis
+The data were analyzed statistically using IBM SPSS
+Statistics (version 22.0, IBM Corp., Armonk, NY,
+USA). Continuous variables (for example, age and
+gestational weeks at prenatal diagnosis) were
+expressed as “median [lower quartile, upper quartile]”,
+and analyzed using Kruskal-Wallis one-way
+analysis of variance. Categorical variables are represented
+by “n (%)” and analyzed using Chi-square test
+for two-way disordered R × C table. Calculation for
+sensitivity and specificity: sensitivity = true positive /
+(true positive + false negative) *100%; specificity =
+true negative / (true negative + false positive) *100%.
+Paired chi-square test was used to test the difference
+between CNV-Seq and various prenatal screening
+methods and prenatal diagnosis results (P< 0.01 was
+considered statistically significant). Missing items
+were not applied in data analysis.
+Results
+Basic characteristics of study patients
+Basic information of 9452 cases of prenatal diagnosis
+was listed and statistically analyzed in Table 1. Among
+study patients, 9452 (100%) had received one to two
+times of fetal ultrasonography in our center, 5688
+(60.2%) had maternal serum screening, 1409 (14.9%) had
+NIPT, 551 (0.58%) had both NIPT and maternal serum
+screening, and 3142 cases (33.2%) were in advanced maternal
+age. The results showed that only 1165 (12.3%) of
+patients received invasive prenatal diagnosis due to high
+risk of NIPT. Other indications for prenatal diagnosis included
+advanced maternal age, abnormal fetal ultrasound
+scanning, high risk of maternal serum screening,
+adverse reproductive history, family history of singlegene
+genetic diseases, or others.
+Comparison of results between CNV-Seq and cytogenetic
+karyotyping
+The results of 9452 cases of cytogenetic karyotyping
+were listed in Table 2: a total of 704 (7.5%) cases of fetal
+chromosome abnormalities, 171 (1.8%) chromosomal
+polymorphism, 20 (0.2%) subtle structural variations, 74
+(0.7%) mutual translocation (possibly balanced), 52
+(0.6%) without karyotyping results, and 8431 (89.2%)
+normal karyotypes were detected.
+The results of CNV-Seq in Tables 2, 8,354 fetuses with
+CNV-Seq findings were included as None, B-, and LB-,
+cytogenetic karyotyping showed that except for 2 cases
+of triploid, the rest 271 cases of abnormal karyotypes
+had good prognosis. A total of 530 cases of fetal aneuploidies
+(DS, ES, PS, XXY, XYY) were diagnosed, and
+the results of karyotyping and CNV-Seq were consistent.
+The details for 60 cases of pathogenic microdeletion/duplication
+detected by CNV-Seq were shown in Table 3.
+CNV-Seq detected 1 case of chromosomal aneuploidy
+and 2 cases of mosaic in fetuses with normal cytogenetic
+karyotypes. Furthermore, 2 cases (No.29 and 30) of
+pathogenic microdeletion/duplication were detected in 9
+fetuses with marker chromosomes, and 1 case (No.38) of
+pathogenic microdeletion/duplication were detected in
+fetuses with mutual translocations (Seen in Table 4).
+Therefore, we may conclude that the combination of the
+two methodologies significantly improved the accuracy
+of prenatal diagnosis for fetal pathogenic CNV and was
+helpful to assess fetal prognosis. Due to its detection
+limitations, for example, two cases of triploid by karyotyping
+had normal CNV-Seq results, CNV-Seq could not
+replace karyotyping at present stage but might be an effective
+complement.
+Performances of maternal age, maternal serum screening,
+NIPT and fetal ultrasound scanning for pathogenic CNVSeq
+results and pathogenic karyotypes
+The target diseases of maternal serum screening are
+common chromosomal aneuploidies. For fetuses with
+pathogenic microdeletion/duplication, the prognosis is
+mostly poor. NIPT is the ideal prenatal screening
+method for pathogenic microdeletion/duplication, but
+the cost may limit its clinical use to a certain extent. If
+NIPT was unavailable, we wondered whether other
+screening methods could recognize pathogenic microdeletion/
+duplication. In this study, we retrospectively analyzed
+the results of maternal age, maternal serum
+screening, NIPT, and fetal ultrasound scanning for
+women with pathogenic fetal CNV-Seq results, including
+pathogenic microdeletion/duplication and Auto A, Sex
+A, Auto AM, Sex AM, as shown in Table 5. NIPT
+missed one case of Auto AM (CNV-Seq) and Triploid
+(karyotypes), shown in Table 6. In maternal serum
+screening, 55.2% of pathogenic microdeletion/
+duplication (CNV-Seq) and 42.1% of unbalanced fragment
+deletion/duplication (karyotypes) showed high
+risks results. As to abnormal ultrasound findings (grades
+2–4), there was significant difference between CNV-Seq
+of auto A and pathogenic microdeletion/ duplication
+(73.6% versus 43.2%, P < 0.001). Regarding to pathogenic
+karyotypes, NIPT missed one case of triploid,
+whose maternal serum screening and fetal ultrasound
+were abnormal. Only 42.2% of severe chromosomal abnormalities
+(aneuploidy, unbalanced fragment deletion/duplication, triploidy) were screened out by advanced
+maternal age. The detection rate of abnormal fetal
+ultrasound findings (grade 2–4) in fetuses with abnormal
+karyotypes were DS 69.9%, ES 85.5%, PS
+91.7%, unbalanced fragment deletion/duplication
+56.8%, triploid 100%, XXX 14.3%, XYY 24.2%, and
+XXY 18.1%. We speculated that there might be a
+dose-effect between fetal ultrasound abnormalities
+and chromosomal diseases, and a difference between
+autosomal and sex chromosomal abnormalities.
+Therefore, maternal age, maternal serum screening,
+fetal ultrasound scanning and NIPT all had certain
+predictive values for pathogenic CNV-Seq results
+and pathogenic karyotypes (chromosomal aneuploidy,
+unbalanced segment deletion/duplication, and
+triploid).
+As seen in Table 7, for pathogenic fetal CNV-Seq
+results, NIPT had the highest sensitivity of 1.00
+(0.99–1.00) but lowest specificity of 0.22 (0.18–0.26),
+while maternal serum screening had higher sensitivity
+of 0.63 (0.57–0.68) and lower specificity of 0.37
+(0.35–0.39). The sensitivity and specificity of fetal
+ultrasound scanning were 0.69 (0.66–0.72) and 0.59
+(0.57–0.60), respectively. Advanced maternal age had
+a specificity of 0.68 (0.67–0.70) and a sensitivity of
+0.39 (0.35–0.42).
+Correlation between fetal CNV-Seq and indications for
+prenatal diagnosis
+According to the number of indications for prenatal
+diagnosis, the 9452 women were divided into four
+groups: (1) single indication, (2) positivity for any two or
+(3) three or (4) four indications. Indications included
+high risk in NIPT, high risk in maternal serum screening,
+fetal ultrasound abnormalities (Grade 2–4), advanced
+maternal age, and other indications such as
+adverse childbearing history except monogenic diseases.
+The sensitivity and specificity of different prenatal diagnostic
+indications for the screening of pathogenic microdeletion/
+microduplication were lists in Table 8. Single
+indication had the highest sensitivity and the lowest specificity.
+In a similar trend, four indicators had the lowest
+sensitivity and the highest specificity. Accordingly, to
+achieve the optimal sensitivity and specificity, a prenatal
+screening program that combines two methods could be
+considered.
+Discussion
+Combination of cytogenetic karyotyping and CNV-Seq
+can prenatally diagnose more fetal pathogenic
+microdeletion/duplication and provide comprehensive
+prenatal information
+In addition to traditional cytogenetic karyotyping, CMA
+and CNV-Seq have gradually been used in prenatal diagnosis.
+CNV-Seq is worth applying in prenatal diagnosis
+due to its lower cost and uniform sequencing coverage.
+Fetuses with normal karyotype/chromosome polymorphism
+usually have good prognosis, but pathogenic microdeletion/
+duplication cannot be excluded. In this study,
+among fetuses with normal karyotypes, CNV-Seq diagnosed
+60 (0.6%) cases of pathogenic CNV, and fortunately
+the births of 44 fetuses with poor prognosis were
+avoided. A complex case was also prenatal diagnosed
+with CNV-Seq result of 47,XXY and karyotyping result
+of 46,XX. SRY gene detection indicated a male gender,
+but all 6 loci on AZF gene were missing. Fetal ultrasound
+showed male external genitalia. Taking fetal ultrasound
+findings together, the fetus might have sexual
+reversal and risks of abnormal reproductive system development
+in puberty. The parents were fully informed
+the advantages, disadvantages and limitations of karyotyping
+and CNV-Seq, and to make clear that the two results
+cannot be denied by each other but be mutually
+complementary. The couple chose to continue the pregnancy.
+The boy is now 1.5 years old and is generally
+healthy. Follow-up and etiological examination were recommended.
+On the other hand, we should make clear
+that not all fetuses with structural chromosomal abnormalities
+by karyotyping have poor prognosis. For example,
+mutual translocation (paternal/maternal/de novo)
+with normal CNV-Seq and fetal ultrasound is very much
+likely that the fetuses have good prognosis. The combination
+of karyotyping and CNV-Seq enables mutual verification
+of the results in prenatal diagnosis and helps to
+avoid misdiagnosis and provide more information for
+comprehensive evaluation of fetal prognosis. However,
+the combined application of CNV-Seq and karyotyping
+may lead to increased economic burden. It needs further
+verification about whether the cost-effectiveness is worth
+promoting. We need to choose an appropriate prenatal
+diagnosis program based on our own characteristics.
+Combined several prenatal screening significantly
+improves the specificity but reduces the sensitivity for
+fetal pathogenic CNV
+Maternal serum screening detects 70 ~ 80% of DS, at a
+false positive rate of 5% [12]. It was reported that a small
+portion of sex chromosome abnormalities showed abnormal
+findings in maternal serum screening [13]. It is
+unknown whether maternal serum screening is abnormal
+for pathogenic CNV. The findings of this study indicated
+that maternal serum screening can detect 55.2% of
+fetal pathogenic chromosomal microdeletion/ duplication
+in fetuses with normal or abnormal karyotype. The
+intrauterine phenotype of fetuses with pathogenic microdeletion/
+duplication lacks specificity, so prenatal
+ultrasound scanning is difficult to identify. In this study,
+fetuses with autosomal aneuploidy had the most severe
+ultrasound abnormalities, followed by pathogenic microdeletion/
+duplication with a large variability that some fetuses
+had completely normal ultrasonography. Fetuses
+with abnormal sex chromosome number and structure
+and the mosaic had mild ultrasound abnormalities. Fetal
+ultrasound scanning had higher sensitivity for autosomal
+aneuploidy. However, if other prenatal screening
+methods such as NIPT and maternal serum screening
+are unavailable at the same time, the ultrasonologist’s
+subjective assessments of fetal subtle facial features/
+minor heart variations are inadequate for accurate assessment
+of fetal prognosis, and the clinical value is
+limited. NIPT has been widely used as a first-line prenatal
+screening method [14]. It was reported that the
+sensitivities of NIPT for Trisomy 21, 18, 13 are 99.1,
+98.2 and 100%, respectively [14]. The detection rates of
+NIPT for fetal aneuploidy and CNV > 20 Mb were
+reported to be 100% [15]. NIPT was an effective method
+for prenatal screening of fetal CNV ranging from 1 to
+129 Mb, with a sensitivity of 84.2% [16]. The findings of
+this study indicated that NIPT was a reliable method for
+prenatal screening of fetal pathogenic microdeletion/duplication.
+However, NIPT cannot detect fetal polymorphism,
+polyploids, balanced translocations and other
+fetal structural abnormalities. Therefore, the combination
+of maternal age, maternal serum screening, fetal
+ultrasound scanning and NIPT had been recommended
+for prenatal screening in some studies [17]. Our findings
+were partially in agreement with this perspective. For
+pathogenic CNV, the sensitivity of single prenatal diagnosis
+indication was 0.99 (0.98, 0.99), but the specificity
+was 0.10 (0.09, 0.11). When prenatal diagnosis indications
+increased from two to four, the sensitivity was decreased
+to 0.02 (0.01–0.03) and the specificity increased
+to 1.00 (1.00–1.00). According to our data, the combination
+of two screening method was possibly to achieve a
+maximal summation of sensitivity and specificity. Moreover,
+each combined screening program had its own advantages
+and limitations, which require comprehensive
+consideration by the couples and doctors.
+In short, we would recommend that combined at least
+two kinds of prenatal screening could be used as the efficient
+program if medical resources for prenatal care are
+sufficient and the couples are willing to receive the
+screening.
+Conclusions
+Combination of cytogenetic karyotyping and CNV-Seq
+significantly improves the detection rate of fetal pathogenic
+chromosome microdeletion/duplication. NIPT was
+recommended for the screening of pathogenic chromosome
+microdeletion/duplication, and NIPT combining
+with other screening methods further improved the
+screening performance for pathogenic fetal CNV.

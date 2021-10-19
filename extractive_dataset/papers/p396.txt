@@ -1,0 +1,247 @@
+Background
+Controlling exercise intensities has been shown to be
+one of the key measures to improve endurance capacity and performance: The concept of using submaximal workload parameters such as lactate (LT) or
+ventilatory thresholds (VT) to determine individual
+cardio-respiratory fitness and to schedule training intensities is commonly accepted in this context and
+has been demonstrated in endurance as well as teamsports athletes [1–3].
+Assessment of parameters of the autonomic nervous
+system (ANS) has gained pronounced attention. The
+concept of testing biomarkers of the ANS for estimating
+thresholds is based on the idea that the ANS exerts distinct influences on the cardiorespiratory system during
+exercise to regulate heart rate, cardiac contractility and
+blood pressure. Recently, different study groups implemented the evaluation of autonomic biomarkers to control training intensities and to detect training-induced
+states of fatigue [4]. Measuring ANS biomarkers is
+promising as it is non-invasive and cost-efficient. Heart
+rate variability (HRV)-derived parameters reflecting ANS
+activity showed an association with LT in healthy and
+diseased cohorts [5–8]. Despite different methods to assess AT including metabolic markers (lactate, glucose),
+ventilatory responses, autonomic markers (e.g. HRVderived markers such as RMSSD) or neuroendocrine
+markers (catecholamines), they all determine AT within
+close ranges [9]. However, as the physiological downstream is faster in some systems than in others, these
+different methods assessing the anaerobic threshold may
+show slightly different workloads at the AT. Nevertheless, as all these methods differ in invasiveness, costs,
+time-consumption and easiness of determination, new
+methods to indicate AT may be helpful.
+Sympathetic-activity associated periodic repolarization
+dynamics (PRD) is a novel ECG-based parameter, that
+reflects influences of efferent cardiac sympathetic activity
+on the ventricular myocardium during repolarization
+[10, 11]. The non-invasive assessment via highresolution ECG is based on beat-to-beat changes of the
+T wave vector (dT°) with periodic components of repolarization in the low-frequency range (≤ 0.1 Hz). Large
+clinical trials demonstrated that increased levels of PRD
+are strong predictors of sudden cardiac death (SCD) in
+patients with ischemic and non-ischemic cardiomyopathy [11–13].
+As exercise is known to affect ventricular repolarization crucially [4, 14] we previously tested repolarization
+instability (dT° signal) during exercise testing [15]: We
+demonstrated that the dT° signal shows a characteristic
+three-phasic pattern that allows a reliable and noninvasive estimation of the anaerobic threshold (we called
+it ATdT°) in healthy recreational athletes. This pattern at
+the anaerobic threshold is characterized by a maximal
+discordance of dT° and heart rate and this point highly
+significantly correlated with lactate thresholds measured
+by the methods of Mader and Dickhuth [15].
+In the present study we validated this non-invasive
+ECG-based assessment of the anaerobic threshold by
+our previously described methods in a cohort of 65 team
+sport athletes to check if this method can be transferred
+to professional athletes as well as well-trained amateur
+athletes who are able to achieve markedly higher maximal workloads during exercise and have increased
+workloads at lactate thresholds.
+Methods
+Study population
+We included 65 healthy team sport athletes (14 women,
+51 men, mean age 22.3 ± 5.2 year. (standard deviation),
+minimum age 14 year., maximum age 36 year.) who
+underwent a graded cycle ergometer test until maximal
+exhaustion. Our study cohort consisted of 32 professional athletes (1st league and 2nd league European football clubs and 1st league basketball club) and 33
+amateur athletes (4th and 6th league European football
+clubs). Exclusion criteria were acute or chronic infections, presence of pacemakers or implantable cardioverter defibrillators (ICDs), history of cardiovascular
+diseases or risk factors and other contraindications for
+performing exercise testing [16].
+All individuals gave written informed consent. For participants under 16 years old, written informed consent
+was obtained from a parent or guardian. This study was
+approved by the local ethics committee (Ethikkommission der Medizinischen Fakultät der LMU München)
+and was conducted in accordance to the Declaration of
+Helsinki.
+Exercise testing
+All subjects performed a standardized graded cycle exercise test [17] (starting at 90 W workload) until fatigue
+which we defined as not being capable to maintain pedal
+cadence above 70 rpm. Increases of 30 W took place
+every 3 min while pedal cadence was kept constantly at
+70–90 rpm.
+Assessment of ECG-based cardiac repolarization
+instability and detection of anaerobic threshold via dT°
+(AT(dT°))
+Determination of AT via dT° signals was carried out
+analogously to a previous study by our group [15]. For
+details, we thus refer to this publication. In brief, we analyzed high-resolution data from Frank’s orthogonal lead
+ECG (1000 Hz, Schiller medilog AR4 plus, Schiller diagnostics, CH) which was recorded throughout the entire
+exercise test including a 5 min resting phase prior and
+after the end of each cycle test with SMARTlab computer and R peak and T wave detection algorithms [17,
+18]. In this process, the obtained spatiotemporal properties of each T wave are then used to assess the angle dT°
+between two successive repolarization (T wave) vectors
+[11, 13, 15]. When plotted over time dT° displays a variability with typical underlying oscillations in the lowfrequency range (≤ 0.1 Hz) [11, 13, 15]. During exercise
+this dT° signal shows a characteristic three-phasic pattern and ATdT° is defined as the point of maximal discordance between dT° signal and heart rate [15].
+Figure 1 illustrates an exemplary dT° signal and corresponding heart rate signal during graded exercise test
+and shows the moment of maximal discordance between
+these signals defined as ATdT°. This point was converted
+into power output (W) assuming a linear increase in exercise increments and the corresponding heart rate was
+extracted from the ECG signal.
+Detection of lactate thresholds via methods by Mader
+and Dickhuth
+Capillary blood samples were obtained from earlobes
+and lactate concentrations (in mmol/l) were measured
+(lactate Scout+, EKF Diagnostics, Cardiff, GB) before exercise at rest, during exercise at the end of each incremental step and after exercise. The individual lactate
+threshold was calculated using a standardized computer
+software (winlactat V 5.2.1.6., Mesics, Münster,
+Germany). The calculation of LT was determined
+according to the methods by Mader (fixed threshold at 4
+mmol/l) and Dickhuth [1, 19]. Dickhuth definded the LT
+as the lactate concentration 1.5 mmol/l above the lactate
+equivalent (i.e. the lowest value of the lactateperformance ratio marking the onset of the lactate increase during exercise) [19].
+Statistics
+All results are represented as mean ± standard deviation.
+For statistical analyses and graphical illustration, we used
+CRAN “R” 3.6.3. Kruskall-Wallis test was performed to
+detect statistical differences between mean determined
+thresholds (ATdT°, LTMader and LTDickhuth). The relationship between the three different methods was assessed
+using the Pearson correlation coefficient test. Intra class
+correlation (ICC) was tested for these three methods.
+Bland-Altman plots were performed to visualize the differences between the methods and the respective
+average.
+Results
+Baseline characteristics of study participants
+Table 1 shows the baseline characteristics of all study
+participants (A) as well as of professional athletes (B)
+and amateur athletes (C) as subgroups. Altogether 65
+healthy team sport athletes (14 women, 51 men, mean
+age 22.3 ± 5.2 yrs.) were included in this study. Mean
+BMI was 22.7 ± 1.8 kg×m− 2
+, mean maximum workload
+was 262.3 ± 60.8 W (241.8 ± 64.4 W for amateur athletes
+and 283.4 ± 49.5 W for professional athletes). All
+participants finished exercise testing until exhaustion.
+Table 2 shows performance parameters, heart rates and
+lactate thresholds assessed via methods by Mader and
+Dickhuth as well as ATdT° for all participants (A) and
+professional (B) and amateur athletes (C) alone. To exclude that maximal performance was not reached during
+the test, we calculated theoretical maximal heart rate
+using the formula 208-(age x 0.7) as described elsewhere
+[20] and calculated %HRmax expected for all thresholds.
+dT° signal pattern during exercise and determination of
+AT(dT°)
+We were able to identify the typical, previously described
+three-phasic dT° pattern [15] in all participating athletes
+during cycle exercise test: We found a low dT° signal at
+rest (first 15 min) which immediately increased concordantly to the heart rate with the beginning of exercising.
+At ATdT°, dT° and heart rate showed minimal correlation. Then dT° transiently declines before increasing
+again until the end of the exercise test (exemplary signal:
+see Fig. 1). During recovery the dT° signal drops but
+remains higher than baseline levels. ATdT° was determined as previously described [15].
+Correlation of ATdT° with LTs by Mader and Dickhuth
+ATdT° occurred at 187.6 ± 44.4 W, LTDickhuth at 181.1 ±
+45.6 W and LTMader at 184.3 ± 52.4 W. Mean heart rate
+at ATdT° was 154.0 ± 14.2 bpm, at LTDickhuth 152.8 ±
+14.9 bpm and at LTMader 153.1 ± 14.9 bpm (Table 2).
+ATdT° highly significantly correlated with LTDickhuth
+(R = 0.96, R2 = 0.92, p < 0.001) and LTMader (R = 0.98,
+R2 = 0.96, p < 0.001) (Fig. 2A and C, respectively) investigating power output. Similar results were detectable correlating heart rates at ATdT° with LTDickhuth (R = 0.97,
+R2 = 0.94, p < 0.001) and with LTMader (R = 0.92, R2 =
+0.85, p < 0.001). Intra class correlation for these three
+methods was excellent with intraclass correlation coefficients (ICC) of 0.95 (power output) and 0.93 (heart rate).
+Bland-Altman plots illustrate close concordance between
+ATdT° and LTDickhuth (Fig. 2B) as well as between ATdT°
+and LTMader (Fig. 2D) with power output showing a
+mean difference of 6.6 W between ATdT° and LTDickhuth,
+of 3.3 W between ATdT° and LTMader and of 3.2 W between LTDickhuth and LTMader.
+We further investigated thresholds for subgroups of
+professional athletes (n = 32) and amateur athletes (n =
+33). In professional athletes mean ATdT° was at 204.1 ±
+33.9 W, LTDickhuth at 196.2 ± 37.0 W and LTMader at
+196.2 ± 37.0 W (ICC = 0.91). Elite athletes had a mean
+heart rate of 151.7 ± 14.3 bpm at ATdT° of 151.0 ±
+15.7 bpm at LTDickhuth and of 151.3 ± 15.8 bpm at LTMader
+(ICC = 0.94). In amateur athletes we detected ATdT° at
+171.7 ± 47.9 W, LTDickhuth at 166.5 ± 48.8 W and LTMader
+at 170.4 ± 58.6 W (ICC = 0.96). Amateur athletes had a
+mean heart rate of 156.0 ± 14.1 bpm at ATdT° of 154.3 ±
+14.4 at LTDickhuth and of 154.6 ± 14.1 at LTMader (ICC =
+0.93). Figure 3 visualizes the strong correlation between
+ATdT° and LTDickhuth for both subgroups of amateur (R =
+0.97, R2 = 0.94, p < 0.001, Fig. 3A and B) and professional
+athletes (R = 0.93, R2 = 0.86, p < 0.001, Fig. 3C and D) regarding power output. Figure 4A shows box plots for
+power outputs at ATdT°, LTMader and LTDickhuth with no
+significant differences between methods of threshold determination. Intergroup comparison revealed no significant differences as checked by Kruskal-Wallis test (p =
+0.73). Figure 4B shows box plots for heart rates at ATdT°,
+LTMader and LTDickhuth with no significant differences
+between methods of threshold determination. KruskalWallis test again detected no significant differences between assessment methods (p = 0.91).
+Discussion
+In the present study we were able to validate a noninvasive cardiac repolarization-based method [15] to determine AT in a large cohort of professional and amateur team sport athletes while performing a standardized
+incremental cycle exercise test. We confirmed the characteristic three-phasic pattern in all study participants
+who showed a gradual increase concordantly to the heart
+rate at the start of exercise, a sudden drop in repolarization instability (here at a power output of mean 187.6 ±
+44.4 W) discordantly to the heart rate and a new rise of
+the dT° signal at the end of the workout. The moment
+of minimal concordance of dT° and heart rate (ATdT°)
+correlated highly significantly with lactate thresholds by
+Mader and Dickhuth.
+Therefore, this pattern has been shown to be characteristic in both young and healthy average-trained athletes as well as professional athletes and very welltrained amateur athletes undergoing standardized incremental cycle exercise tests. It is thus valid and reproducible in both athletes who are only able to perform
+exercise until lower maximal workloads and in athletes
+capable to continue exercise tests up to very high maximum workloads. This determination of AT is similar to
+results previously published by Milagro et al. who also
+found changes in the profile of ventricular repolarization
+instability as well as of oscillations in the low frequency
+spectrum once reaching the anaerobic threshold [21]. It
+is noteworthy that these changes in repolarization instability cannot be provoked by increased heart rate or
+by fixed atrial pacing [11, 15]. The dT° signal occurs independently of breathing rates and is not associated with
+heart rate variability [11]. Emerging data validly attributes the dT° signal to efferent sympathetic cardiac
+nerve activity at the ventricular myocardium [11, 22].
+Studies have broadly investigated the alterations within
+the autonomic nervous system during exercise and the
+mechanisms found are dynamic, complex and still remain incompletely understood: It is established that the
+activity of the sympathetic ANS gradually increases with
+greater workloads shifting from an approximately 4:1
+vagal-sympathetic balance to a 4:1 sympatho-vagal balance in the course of an exercise [23]. The change in
+autonomic cardiac modulation during increasing workload subsequently results in altered HRV-derived parameters and this has been used to assess AT in athletes [24,
+25]. Our present study, studies assessing AT via HRVderived parameters [24, 25] and previous studies investigating the connection of changes in repolarization instability and AT [15, 21] thus suggest that the
+autonomic control of the electrical activity of the myocardium, especially on the level of the ventricular myocardium seems to change once reaching the anaerobic
+threshold.
+While the exact physiological mechanisms underlying
+ATdT° remain unclear, our study provides several relevant practical implications for future sports research and
+training physiology: (i) We were able to present a
+method which is non-invasive and does not require any
+puncture to gain blood samples. (ii) Furthermore, as it is
+ECG-based it is less cost-intensive as point-of-care lactate measurements. (iii) A link between HRV indices and
+blood lactate levels was found during resistance exercise
+[6–8], in endurance athletes [5] and team sports athletes
+[24, 25]. Of note, HRV indices are dynamic and rather
+sensitive to environmental conditions [4]. dT° was
+proven to be independent of heart rate and breathing
+rate [11]. Nevertheless, up to date there has no study
+been conducted comparing the assessment of thresholds
+based on HRV indices with repolarization patterns. (iv)
+As threshold-based training has been shown to lead to
+performance benefits in endurance as well as teamsports athletes [1–3] the investigation of ATdT°-based
+training intensities in athletes might be of high interest
+and should be investigated in future studies.
+Our study has some limitations. First, we investigated
+only team sport athletes and the group of professional
+athletes contained no female athletes. Whether determination of LTs via ATdT° can be validly transferred to
+endurance athletes has to be elucidated in future studies.
+Secondly, we only investigated the dT° signal on a cycle
+ergometer and not with different methods such as treadmill running. Third, ATdT° was only correlated to LT
+and not to ventilatory thresholds as assessed during cardiopulmonary exercise testing. This should be performed
+in future studies. Additionally, we performed graded exercise tests. However, the gold standard to determine
+lactate thresholds is the assessment of the maximal
+steady state during multiple rectangular exercise
+protocols. Finally, our study included healthy individuals
+without any known underlying cardiovascular diseases.
+Whether the assessment of ATdT° can be performed in
+patients with cardiovascular disease or on medication influencing the ANS has to be investigated in future
+studies.
+Conclusions
+We demonstrated that ATdT° is a reliable and noninvasive measurement to assess AT. It correlates with
+established methods of LT assessment in a large cohort
+of professional and well-trained amateur athletes. The
+results of this validation study indicate that ATdT° might
+represent a promising tool for future routine application.

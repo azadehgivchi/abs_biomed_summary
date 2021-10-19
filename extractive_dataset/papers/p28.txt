@@ -1,0 +1,463 @@
+Background
+Nocturia is defined as ‘the complaint that the individual
+has to wake at night one or more times to void’ by International
+Continence Society (ICS) [1]. Until recently, the
+definition has been revised as ‘waking up to pass urine
+during the main sleep period’ [2]. Nocturia can affect all
+age groups although the disease prevalence does increase
+with age. Bosch and Weiss reviewed the nocturia prevalence
+studies in community based, predominantly populations
+in the western countries and some Asian countries
+(including China, Taiwan, Japan, Korea, Hong Kong and
+Singapore) [3]. They reported that prevalence of nocturia
+among younger populations (20–40 years old) with one
+or more voids per night varies from 11–44% whilst those
+with two or more voids per night has been reported to
+range between 2–18% [3]. Nevertheless, nocturia is more
+frequent among the older populations (> 70 years old),
+with 69–93% having one or more voids per night while
+28–62% reported two or more voids per night [3]. Similarly,
+a longitudinal study conducted by van Doorn and
+colleagues in the Dutch municipality Krimpen aan den
+IJssel showed that the prevalence of nocturia increases
+over time and with increasing age among men aged 50 to
+78 years [4].
+Several studies have demonstrated that nocturia has
+negative impact on quality of life and general health
+[5–8]. Increase in the number of voids per night has serious
+consequences on sleep, symptoms, morbidity from
+fatigue and falls and health-related quality of life [5–7].
+Unfortunately, nocturia is often unreported, with the
+general lack of knowledge that nocturia is a treatable
+medical condition being cited as a crucial barrier to treatment
+seeking [9].
+In Malaysia, there is lack of up-to-date prevalence studies
+on nocturia, only very limited studies are available as
+reference. A cross-sectional study had been carried out in
+Institute of Urology and Nephrology (IUN), Kuala Lumpur,
+Malaysia in 2007 and reported that the prevalence of
+nocturia was 29% among patients presented with lower
+urinary tract symptoms (LUTS) [10]. Similarly, Low and
+colleagues reported that high prevalence (19%) of LUTS
+was found among women in Northern Malaysia in 2006
+and many of them did not seek treatment due to low disease
+awareness [11]. Most of these studies were at least
+10 years ago, and thus the relevance remains questionable.
+Therefore, the aim of this present population-based
+study was to investigate the prevalence of nocturia and
+awareness pertaining to nocturia among communitydwelling
+adults in Malaysia.
+Methods
+A cross-sectional population-based study was conducted
+among community-dwelling Malaysian adults
+aged ≥ 18 years old across all states in Malaysia from
+May 2019 to September 2019 (Fig. 1). Convenience sampling
+was applied to obtain responses from any Malaysian
+adult aged ≥ 18 years old. The respondents were
+approached based on the age population percentage
+reported by Department of Statistics Malaysia (https://
+www. dosm. gov. my). Individuals who were unable to read
+or understand English, Malay or Chinese, or with cognitive
+impairment or active mental illness, and all incomplete
+responses were excluded. A complete response was
+considered when the respondent answered all required
+questions until the last page of the survey, whereas for
+the questionnaire that was not done until the last page of
+survey was categorised as ‘incomplete response’.
+Questionnaire
+The questionnaire consisted of three sections was developed
+for this study (Additional file 1). The first section of
+the research questionnaire consisted of items to extract
+the demographic data of the subjects. The second part
+was made up of three domains, namely present medical
+condition and disease pattern (2 items), night urination
+and sleeping issues (5 items) and treatment-seeking
+behaviour (2 items). Nocturia was defined as one or more
+voids at night based on the definition from ICS [1]. Those
+who had to wake up from sleep at night to urinate at least
+once were required to answer all items, while those without
+night urination were exempted from some questions
+pertaining to night urination and sleeping issues and
+treatment-seeking behaviour. The questionnaire was validated
+by a panel of experts on content validity and clarity.
+The English version of the questionnaire was checked
+by a native English speaker. The questionnaire was translated
+into Malay and Chinese languages based on ISPOR
+guideline with two forward-translation and two backtranslation
+[12]. Three languages of questionnaire were
+pre-tested with a pilot study (n = 40, respectively) to confirm
+on the simplicity of language used and to assess the
+comprehension of the questions. Feedbacks were taken
+into consideration to incorporate into the final questionnaire.
+A second pilot study was conducted after the
+changes made to the questions, followed by a retest of the
+pilot study to assess internal consistency.
+Data collection
+Previous to the data collection, the researchers or the
+trained research assistants used a pre-trained structured
+protocol to introduce the instrument to the participants
+based on the inclusion criteria. In order to increase the
+response rate and outreach nationwide, data was collected
+by mixed mode, i.e. face-to-face and online modes.
+Face-to-face data collection was important to address the
+low level of technology literacy and/or limited access to
+the internet among certain segments of the population
+i.e. the elderly as well as the suburban and rural folks. It
+took place in public areas i.e. shopping malls, parks, restaurants,
+cafeteria and markets in rural and urban areas.
+The approached subjects spent approximately 5–10 min
+on the printed self-administered questionnaires. For the
+online mode, a third-party online platform was utilised
+to collect the responses. An information sheet about
+this research study along with a written consent form
+were attached to each copy of the questionnaire. All subjects
+signed the written informed consent form prior to
+answering the questionnaire.
+Data analysis
+Continuous variables were presented as mean and standard
+deviation; whilst categorical variables were presented
+as frequency and percentage. All data collected were
+tabulated and analysed using the Statistical Package for
+Social Sciences software, version 24.0. Pearson’s chisquared
+(χ2) test was used to assess the significance in
+prevalence differences between dichotomous variables,
+such as sex, age group and employment status (or Fisher’s
+exact test when the frequency of respondents was less
+than 5 for any category). For ordinal or continuous variables
+(e.g. age and degree of bother), the Mann–Whitney
+U test was used to determine the difference between two
+independent groups (or Kruskal Wallis test if there was
+more than two independent groups). Univariable analysis
+were performed for the respondents’ characteristics
+in relation to prevalence of nocturia using logistic regression
+analysis. Variables with an association of p < 0.05
+were selected for multivariable analysis using logistic
+regression analysis. Significance was defined as p < 0.05.
+Results
+The response rate was 74.5%, meaning that a total of 6198
+respondents across the states in Malaysia participated in
+this study. There were 1538 of incomplete responses and
+44 duplication of responses, which were excluded from
+the study. The demographic data of the study population
+was shown in Table 1. The comparison of demographic
+characteristics of study population with and without nocturia
+was shown in Table 2. Statistical analysis revealed
+that there was significant difference in prevalence
+between mean age, sex, race employment status and
+comorbidities (p < 0.05, respectively).
+The overall prevalence of nocturia (at least one void
+per night) among Malaysian adults was 57.3% (Table 2),
+with 34.1%, 15.3% and 7.9% having an of an average
+of one void per night, two voids per night and three or
+more voids per night respectively. Figure 2 illustrated the
+increasing trend of prevalence with age in both sex and
+frequency of nocturnal voids was associated significantly
+with sex in different age groups. Younger (18–40 years
+old) and older women (> 60 years old) were more likely
+to have one void per night than men from the same age
+group (p < 0.05). Whereas middle-aged men (41–60 years
+old) were more likely to have two voids per night as compared
+to the middle-aged women (p < 0.05; Fig. 2).
+The variables univariately associated with nocturia are
+presented in Table 3. Age group, sex, race, employments
+status and comorbidities such as hypertension, diabetes
+mellitus, renal disease and overactive bladder were
+significantly associated with the prevalence of nocturia.
+In the multivariate analysis, age group between 31 and
+40 or > 60 years old, and those who were presented with
+comorbidities included hypertension, diabetes mellitus,
+renal disease or overactive bladder were associated with
+significantly higher prevalence of nocturia, whereas age
+group of 41–50, male and Chinese or Indian were associated
+with a decreased prevalence (Table 3). This study
+also revealed that the prevalence of nocturia was significantly
+increased with the drink consumption in the late
+evening, including large volume of water, tea and coffee
+(Fig. 3; p < 0.001) although evening drinking habit was
+only one of the few factors predisposing to nocturia since
+the prevalence of nocturia was also significantly high
+among those without any drink consumption in the late
+evening (p < 0.001).
+From the sub analyses, the frequency of nocturnal
+voids among respondents with nocturia and among
+different age groups has been depicted in Fig. 4. Those
+who were more than 60 years old were more likely to
+experience more than one nocturnal void as compared
+to their younger counterparts (Fig. 4). The mean age
+for those with once, twice and three or more times of
+nocturnal voids was 35.51 ± 14.03, 43.41 ± 14.49 and
+46.55 ± 14.97, respectively. The association was significant,
+which indicated that frequency of nocturnal void
+is higher in older age groups (p < 0.001).
+The disease pattern of nocturia encountered by the
+respondents with nocturia has been summarised in
+Table 4. Post urination dribble was the only symptom
+that differed significantly in male respondents with
+nocturia compared to female (p < 0.001). Those with
+higher age (> 50 years old) were more likely to present
+with almost all the symptoms (p < 0.05).
+In terms of impact of nocturia on sleep disturbance,
+37.3% of respondents with nocturia reported that they
+faced sleeping difficulty about half the time or more
+after waking up in the middle of night, particularly
+among those with ≥ 2 voids per night (66.5%), aged > 50
+(40.6%) and employed for wages (62.3%) (Table 5;
+p < 0.001). As consequences of sleep disturbance due to
+nocturia, they complaint of fatigue (60.9%), difficulty in
+concentrating (43.2%), bad mood (41.2%), lack of motivation
+to work (34.5%), forgetfulness (24.6%), depression
+(15.6%), lack of sex drive (4.61%) and erectile
+dysfunction (3.5%; only male respondents). On a scale
+of 1 to 10 for degree of bother, those who had two voids
+as well as ≥ 3 voids per night experienced significantly
+higher mean bother score (3.96 ± 2.41 and 3.91 ± 2.20,
+respectively) than those who had one void per night
+(3.29 ± 2.63) (p < 0.001).
+Our study also found that the awareness on nocturia
+was poor among study population. Out of 4616
+respondents, 56.7% of them were not aware that night
+time urination is a medical condition. Unfortunately,
+the majority (62.2%) of respondents with nocturia did
+not think that it is a medical condition. Only a minority
+(25.2%) of respondents with nocturia had sought medical
+attention for their nocturia (Fig. 5). There was a correlation
+between treatment-seeking behaviour with age,
+sex, employment status, frequency of nocturia, degree
+of sleep disturbance, bother score and nocturia disease
+awareness among respondents with nocturia (p < 0.05;
+Table 6). A total of 60.7% out of 4616 respondents had
+sought or would consider seeking medical attention for
+nocturia from urologist. There were 39.6% and 21.3%
+who opted for general practitioner and gynecologist,
+respectively. This was followed by 17.7% and 17.2% who
+had chosen pharmacist and nephrologist, respectively.
+Discusssion
+This study presented the first nation-wide report on prevalence
+of nocturia (at least one void at night) in a multiracial
+population of Malaysia. The overall prevalence
+of nocturia among Malaysian adults was high (57%),
+which was comparable with those reported from studies
+in Asian population, yet relatively higher compared to
+Western populations. Liew and colleagues reported that
+the prevalence of nocturia among Singaporean adults
+was 55% [13]. Meanwhile, the reported prevalence were
+46% in the Dutch population [14], 31% in the US population
+[5] and 28.4% in the Turkish population [15]. In
+the present study, there was a significant higher prevalence
+among women. This finding is consistent with the
+report from previous studies [13, 14, 16, 17]. Nevertheless,
+information on the exact etiology pertaining to high
+prevalence of nocturia in women is lacking. Nocturia
+was found to be more common among younger women
+(18–40 years old). This is congruent with the finding
+from study in Finland [17].
+In addition, the prevalence of nocturia was found
+to increase with age, which corroborated the findings
+of other studies [4, 5, 18]. This may be due to various
+pathophysiological mechanisms that related to ageing.
+In the elderly, nocturia can be resulted from decline in
+functional bladder capacity with high post void residual,
+deregulation of arginine vasopressin level, sleep disorders
+and comorbidities including diabetes mellitus and diabetes
+insipidus [19]. This also further explains the finding
+in current study that the frequency of nocturnal voids
+was higher among the elderly population than younger
+population. On the other hand, there was higher nocturia
+prevalence among those 31–40 years old than those
+between 41 and 50 years old. The underlying etiology for
+this finding is unknown, but it may be due to the alcoholic
+beverage consumption among this age group. Based
+on the previous National Health and Morbidity Survey
+2011 in Malaysia, those 30–39 years old presented with
+highest prevalence of alcohol consumption than other
+age groups and the drinking pattern waned by older
+population [20]. Nevertheless, further investigation is
+required to reveal the exact etiology of this finding.
+Previous studies have reported the differences in prevalence
+of nocturia among races in the US population. The
+prevalence of nocturia was reported to be higher among
+Black and Hispanic respondents compared to the White
+respondents [21, 22]. Consistently, similar observation
+was reported among the multi-ethnic groups in Malaysia.
+Malay respondents had a significant higher prevalence
+compared to other races as revealed by the univariate
+analysis, yet this prevalence was not significant in multivariate
+analysis. Chinese and Indian respondents on the
+other hand, had significantly lower prevalence compared
+to Malay in both univariate and multivariate analyses.
+However, Liew and colleagues reported that there was no
+significant difference between Malay, Chinese and Indian
+respondents in Singapore [13]. Kupelian and colleagues
+reported that socioeconomic status was accounted for
+the ethnic discrepancies in prevalence of nocturia [22].
+Further investigation is required in order to identify
+the underlying etiology of ethnic discrepancies among
+Malaysians in term of prevalence of nocturia.
+Nocturia is strongly associated with various risk factors
+and comorbidities, including cardiovascular diseases,
+diabetes, sleep disorders, somatic and mental
+health [6, 13, 18, 23, 24]. This supports the findings of
+this study which also showed the significant higher disease
+prevalence among respondents with comorbidities
+such as hypertension, diabetes mellitus, renal disease
+or overactive bladder. The pathophysiological changes
+in hypertensive patients appear to be a significant risk
+factor for nocturia [25, 26]. A prolonged hyperglycemic
+state in diabetes mellitus patients on the other hand,
+may cause an alteration in urinary bladder activity, predisposing
+to diabetic cystopathy [27]. Diabetic cystopathy
+is primarily induced by paralysis of detrusor muscle
+and hyperglycemia-induced polyuria that can further
+lead to bladder hypertrophy in patients with diabetes
+mellitus [27]. Moreover, microvascular complications
+of diabetes, particularly diabetic nephropathy and neuropathy
+have been implicated in nocturia [28]. Diabetic
+nephropathy is associated with polyuria and an
+increase in mean void volume, whereas, diabetic neuropathy
+may lead to impaired bladder sensation, poor
+detrusor contractility and increased post void residual
+[28]. This explains the mechanistic link between diabetes
+mellitus and nocturia.
+Several studies have reported that nocturia is associated
+with chronic kidney disease [13, 29, 30]. This may
+be attributed to the failure of kidneys to concentrate the
+urine as the renal function worsens, and ultimately leads
+to nocturnal polyuria and increased nocturnal urine volume
+in patients with chronic kidney disease [31]. Additionally,
+overactive bladder was also found to be one of
+the risk factors in this study. Indeed, nocturia is a common
+urinary symptom in overactive bladder patients [32].
+However, in this study, there was no significant association
+between nocturia and benign prostatic hyperplasia,
+prostate cancer, bladder cancer and snoring, which had
+been reported in previous studies [22, 23, 33]. This could
+be due to the comorbidities determined by self-reporting
+of respondents in the present study, which might have led
+to underestimation of the prevalence of these comorbidities
+in Malaysia.
+Excessive evening intake of fluid, caffeinated drinks
+or alcohol is known to be one of the causes of nocturnal
+polyuria [1]. In the current study, approximately one
+third of the respondents with nocturia have the habit of
+consuming large volume of water, tea or coffee in the late
+evening. This may suggest that limiting fluid or caffeinated
+drink intake in the late evening among Malaysian
+could be one of the modifiable lifestyle risk factors for
+nocturia. Shiri and colleagues reported that there was
+no significant association between coffee consumption
+and nocturia among 50 to 70 years old men in Finland,
+yet the risk of moderate or severe nocturia was twofold
+higher among men who drank 6 cups coffee or more per
+day than non-drinkers or those who consumed one cup
+per day for this age group [34]. Interestingly, the prevalence
+of nocturia was about one third of respondent
+despite any drink consumption. The actual prevalence of
+nocturia with underlying pathological causes in the population
+may be reflected by eliminating the potential confounding
+factor of drink consumption in the late evening.
+LUTS can be classified according to voiding or obstructive
+symptoms (such as hesitancy, poor stream, straining,
+prolonged micturition, feeling of incomplete bladder
+emptying, post-micturition dribble) and storage or irritative
+symptoms (such as frequency, urgency, urge incontinence
+and nocturia). In the present study, the disease
+pattern of nocturia was not sex-specific, except for postmicturition
+dribble. This interpretation is supported by
+the fact that post-micturition dribble is more common in
+men [35]. Studies also showed that prevalence of LUTS
+was comparable between men and women [36, 37]. In
+addition, with advancing age, the prevalence and severity
+of LUTS increase regardless of sex [36]. This is supported
+by the finding of this study where elderly respondents are
+more likely to exhibit almost all the LUTS compared to
+the younger population.
+Nocturia has been regarded as not only ‘bothersome’,
+but also negatively affects sleep and quality of life [5–8].
+This study also revealed that nocturia was regarded as
+moderately bothersome for Malaysians, particularly
+those with two or more nocturnal voids. This alluded to
+the clinical relevance of at least 2 voids being the threshold
+to patient-reported impaired health-related quality of
+life [38]. Furthermore, more than one-third of respondents
+in this study claimed to have disturbed sleep about
+half the time or more after nocturnal awakening. The
+sleep disturbance was proportionately increased with
+the frequency of nocturnal voids and age. This finding is
+consistent with previous studies [5, 13, 14, 39]. As a result
+of sleep disturbance, nocturia has also been associated
+with excessive daytime sleepiness (7–18%), increased sick
+leaves (27–27%), insomnia (43%), psychiatric disorders
+(28–35%) and poorer health status (15–40%) [40, 41] In
+addition, people with nocturia have a lower productivity
+at work and decreased activity levels [6]. Consistently,
+the respondents with nocturia in this study also reported
+to experience fatigue, difficulty in concentrating, lacking
+of motivation to work, bad mood, forgetfulness and
+depression as consequences of disturbed sleep. Hence,
+it is obvious that nocturia should not be overlooked or
+underestimated due to its serious repercussions on sleep
+quality, work productivity and quality of life.
+Treatment-seeking behaviour for LUTS is correlated
+with the symptom severity, degree of bother, costs and
+benefits of treatment [42, 43]. Consistently, this study
+found that those who had not sought treatment were
+presented with less than two nocturnal voids, less degree
+of sleep disturbance and lower bother score as compared
+to those who had sought treatment. To the best
+of our knowledge, this is the first study to report on the
+association between awareness of nocturia and treatment-
+seeking behaviour in Malaysia. Approximately twothirds
+of respondents with nocturia in this study were
+not aware that nocturia is a medical condition and this
+was significantly associated with behaviour of not seeking
+medical attention. This finding suggests that poor
+awareness might be a factor affecting their treatmentseeking
+behaviour. In Taiwan, Chen and colleagues found
+that the lack of knowledge on nocturia appeared to be an
+important barrier to medical consultation among Taiwanese
+women [9]. In addition, a vast majority of those
+who had not sought treatment in the present study perceived
+that nocturia was not a significant medical issue
+to seek treatment. This appears consistent with finding
+by Low and colleagues who reported that majority of
+women in Northern Malaysia did not seek treatment for
+LUTS due to low level of disease awareness [11]. These
+findings could be attributed to poor knowledge pertaining
+to nocturia among Malaysians. As such, addressing
+the misconceptions about nocturia can help to increase
+the awareness, enhance treatment-seeking behaviour
+and also improve the overall quality of life among people
+with nocturia. Interestingly, this study revealed that most
+women did not seek treatment for nocturia as compared
+to men. This is in contrast with the finding from a study
+conducted in the primary care setting in Malaysia, which
+revealed the higher tendency for women to seek treatment
+when compared to men [44]. Further investigation
+is required to identify the sex difference in treatmentseeking
+behaviour among nocturia patients.
+In the present study, convenience sampling was conducted
+instead of stratified sampling to define the population
+in Malaysia. Despite this limitation, the pool of
+subjects sampled were closely reflecting the real population
+in Malaysia. Although there was slightly difference
+between the sample and population in terms of age
+and sex, these differences were adjusted in the statistical
+analysis. Hence, the outcomes of this study are valuable
+to provide sights into prevalence of nocturia among
+Malaysians.
+Conclusions
+The prevalence of nocturia among Malaysian adults is
+high and strongly influenced by age, sex, race and comorbidities.
+There is a significant correlation between frequency
+of nocturnal voids with sleep disturbance and
+degree of bother. However, the awareness among Malaysians
+pertaining to nocturia being a health issue was
+generally poor. This affects treatment-seeking behaviour
+as many are not aware that it is a symptom that requires
+medical attention. Contrary to common belief that it is
+a natural physiological symptom associated with ageing,
+nocturia as a condition deserves public attention, given
+its profound impact on quality of life that may be associated
+with increased morbidity and mortality. The findings
+from this study may serve as impetus to better address
+this issue via educational intervention.

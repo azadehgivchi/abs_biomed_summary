@@ -1,0 +1,20 @@
+Background: Asset-based indices are widely-used proxy measures of wealth in low and middle-income countries
+(LMIC). The stability of these indices within households over time is not known.
+Methods: We develop a harmonized household asset index using Principal Component Analysis for the
+participants (n = 2392) of INCAP Longitudinal Study, Guatemala using data from six waves of follow-up over the
+period of 1965–2018. We estimate its cross-sectional association with parental schooling (in 1967–75) and attained
+schooling (in 2015–18) of cohort members. We study how patterns of cross-sectional loadings change over time
+and between urban-rural settings. We assess its robustness to omission of assets or study waves and alternate
+specifications of factor extraction procedure (exploratory factor analysis, multiple correspondence analysis).
+Results: The harmonized index constructed using 8 assets and 11 housing characteristics explained 32.4% of the
+variance. Most households increased in absolute wealth over time with median wealth (25th percentile, 75th
+percentile; households) increasing from − 3.74 (− 4.42, − 3.07; 547) in 1967 to 2.08 (1.41, 2.67; 1145) in 2017–18.
+Ownership of television, electricity, quality of flooring and sanitary installation explained the largest proportion of
+variance. The index is positively associated with measures of schooling (maternal: r = 0.16; paternal: r = 0.10; attained:
+r = 0.35, all p < 0.001). In 2015–18, house ownership versus housing characteristics and ownership of electronic
+goods differentiate households in urban and rural areas respectively. The index is robust for omission of assets or
+study waves, indicator categorization and factor extraction method.
+Conclusion: A temporally harmonized asset index constructed from consistently administered surveys in a cohort
+setting over time may allow study of associations of life-course social mobility with human capital outcomes in
+LMIC contexts. The approach permits exploration of trends in household wealth of the sample over a follow-up
+period against repeated cross-sectional surveys which permit the estimation of only the mean trajectory.

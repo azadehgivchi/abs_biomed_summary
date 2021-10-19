@@ -1,0 +1,25 @@
+Background: Prosthesis-related complications, after knee reconstruction with endoprosthesis during operation for
+tumors around the knee, remain an unresolved problem which necessitate a revision or even an amputational
+surgery. The purpose of the current study was to identify significant risk factors associated with implant failure, and
+establish a novel model to predict survival of the prosthesis in patients operated with endoprostheses for tumor
+around knee.
+Methods: We retrospectively reviewed the clinical database of our institution for patients who underwent knee
+reconstruction due to tumors. A total of 203 patients were included, including 123 males (60.6%) and 80 (39.4%)
+females, ranging in age from 14 to 77 years (mean: 34.3 ± 17.3 years). The cohort was randomly divided into training
+(n = 156) and validation (n = 47) samples. Univariable COX analysis was used for initially identifying potential
+independent predictors of prosthesis survival with the training group (p < 0.150). Multivariate COX proportional
+hazard model was selected to identify final significant prognostic factors. Using these significant predictors, a
+graphic nomogram, and an online dynamic nomogram were generated for predicting the prosthetic survival. Cindex
+and calibration curve were used for evaluate the discrimination ability and accuracy of the novel model, both
+in the training and validation groups.
+Results: The 1-, 5-, and 10-year prosthetic survival rates were 94.0, 90.8, and 83.0% in training sample, and 96.7, 85.8,
+and 76.9% in validation sample, respectively. Anatomic sites, length of resection and length of prosthetic stem were
+independently associated with the prosthetic failure according to multivariate COX regression model (p<0.05).
+Using these three significant predictors, a graphical nomogram and an online dynamic nomogram model were
+generated. The C-indexes in training and validation groups were 0.717 and 0.726 respectively, demonstrating
+favourable discrimination ability of the novel model. And the calibration curve at each time point showed favorable
+consistency between the predicted and actual survival rates in training and validation samples.
+Conclusions: The length of resection, anatomical location of tumor, and length of prosthetic stem were
+significantly associated with prosthetic survival in patients operated for tumor around knee. A user-friendly novel
+online model model, with favorable discrimination ability and accuracy, was generated to help surgeons predict the
+survival of the prosthesis.

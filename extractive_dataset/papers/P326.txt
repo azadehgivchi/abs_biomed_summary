@@ -1,0 +1,364 @@
+Background
+Optimal dosing and timing, as well as the route of
+administration and justified use essentially influence the
+outcome of antibiotic therapy. The excessive use of antibiotics,
+including overuse and inappropriate application
+(including using suboptimal doses) of antimicrobial
+agents fosters bacterial resistance, recognized as one of
+the most urgent global public health threats, and being
+the main reason for nosocomial infections [1]. Therefore,
+the World Health Organization (WHO) makes
+continuous efforts to raise the awareness of healthcare
+professionals and patients about proper antibiotic use.
+Some aspects of antibiotic interactions have been
+extensively studied. It is well known that the coadministration
+of several antibiotics with milk products
+should be avoided as bivalent ions, i.e. calcium and magnesium
+in milk form complexes with these pharmacons,
+thereby decreasing their absorption [2]. Although some
+food and herb interactions with antibiotics have also
+been described, the number of studies focusing on this
+issue is limited. For the majority of medicinal herbs it is
+still undiscovered whether they alter the pharmacokinetics
+of antibiotics.
+However, there are reasonable theoretical considerations
+that suggest the risk of potential interactions.
+Some components of medicinal plants may interfere
+with the bioavailability of antibiotics by decreasing their
+absorption. The two most important family of compounds
+that may potentially affect the pharmacokinetics
+of antibiotics include fibres and polyphenols, which most
+frequently occur in commonly used plants. These compounds
+may affect the absorption of different drugs via
+chemical or physical interactions. The effect of fibres
+(chemically polysaccharides) is non-specific, hence these
+compounds affect the bioavailability of various medicines,
+such as digoxin, lovastatin, metformin and penicillins
+[3]. Polyphenols are known to react chemically with
+amine-containing molecules resulting in precipitation
+which may lead to decreased bioavailability [4]. Although
+several drug molecules contain amine functionalities,
+this potential interaction has not been studied in detail.
+This possible interaction may be avoided by consuming
+polyphenol-rich food (e.g. fruits) separately from medicines,
+however, the risk of taking medicines with drinks
+containing polyphenols is neglected. The most popular
+drink with a remarkably high polyphenol content is tea,
+especially green tea. Tea is the most widely consumed
+beverage aside from water, and its consumption is
+growing worldwide [5]. Although, globally, black tea is
+Although, globally, the most frequently consumed the
+most frequently, even in countries where it is the top
+type of tea (e.g. Morocco, Turkey, Ireland and the
+United Kingdom), green tea consumption shows an increasing
+popularity due to a growing consumer interest
+toward healthier beverages [6]. Green tea is one of the
+most popular beverages in Japan, China, as well as in
+some countries in North Africa and the Middle East [7].
+Generally, 40–70% of the Japanese population consumesconsume
+green tea regularly (at least 1 cup/day) [8, 9].In
+Europe is consumed as the top In Europe, green tea is the
+most type of tea in Belgium, Denmark and France [10].
+The health benefits of green teaThe health benefit of
+green tea has been extensively studied: it has proved antioxidant,
+anti-inflammatory, anticarcinogenic, and antimicrobial
+effects [11, 12]. These health promoting effects
+are mainly associated with its polyphenol content, that
+may constitute up to 30% of the dry leaf weigh [7].
+Based on its highly frequenthigh consumption, green
+tea is very likely to be consumed with medicines, including
+antibiotics. In a recent review [13], the interaction
+between green tea and clinically prescribed medications
+was summarized as follows: the plasma concentration of
+some drugs (e.g. diltiazem, clozapine, tamoxifen) changed
+significantly when they were administered concurrently
+with green tea/EGCG to male Sprague-Dawley
+rats. Nevertheless, the interaction between green tea and
+antibiotics has been poorly investigated. The majority of
+the available studies have been carried out in vitro, primarily
+to explore the potential synergistic pharmacodynamic
+interactions [14, 15]. Egyptian scientists found
+that even diluted green tea enhanced the bactericidal activity
+of several antibiotics against 28 microorganisms in
+vitro, and moreover, it increased the susceptibility of
+drug-resistant bacteria [16]. Noormandi et al. thoroughly
+summarized the synergistic effect of green tea on antibiotic
+treatment of urinary tract infections, however,
+they emphasized that despite the promising results of in
+vitro studies, human and animal studies are needed [17].
+Based on the potential antagonistic (inhibition of absorption)
+and agonistic (increase of antibacterial activity) interactions,
+the overall effect of the concomitant
+consumption of green tea and antibiotics seems to be
+contradictorycontradictory.
+Amoxicillin is one of the most commonly used
+antibiotics in primary care, prescribed either alone or in
+combination with clavulanic acid, with a remarkable
+dominance in inpatient therapy [18, 19]. It is reported
+that high-fiber diet reduces the bioavailability of amoxicillin
+[20–22], while regular type food intake [21, 23, 24]
+does not affect it. Interestingly, while most antibiotics
+interact with calcium, and thus the concomitant
+consumption of milk and antibiotics is not recommended,
+this phenomenon was not observed for amoxicillin
+[25, 26]. However, the amoxicillin molecule
+contains amine functionalities, thus it might be subject
+to interaction with polyphenols.
+The interaction between green tea extract and amoxicillin
+was studied in vitro only. In one study synergistic
+interactions between ampicillin, a β-lactam antibiotic
+alike amoxicillin, and green tea against Staphylococcus
+aureus were described [15].. Also, in an in vitro study,
+Passat found that the water extract of green tea leaves
+has synergistic effect on some antibiotics including
+amoxicillin, while it has and antagonistic effect on other
+antibiotics used against urinary tract E. coli isolates [27].
+As in vivo or toxicokinetic studies are still missing in
+the literature, thet aim of our research was to study this
+potentially relevant interaction, i.e. the effect of green
+tea on the absorption of amoxicillin, in an in vivo experiment
+on rats, as a preliminary step for a suggested
+human study. To the best of our knowledge, our work is
+the first in vivo toxicokinetic investigation of this issue
+in vivo.
+Methods
+Experimental substances
+Amoxicillin trihydrate (product number: 31586) and
+potassium clavulanate (product number: 33454) were
+purchased from Sigma-Aldrich. Green tea (China-Chun
+Mee) was obtained from Hungary (Latin Negyed Ltd.,
+Hungary). All the solvents were of LC-MS grade (VWR,
+Hungary).
+Determination of polyphenol content
+Total polyphenol content, determined as pyrogallol
+equivalent, was measured according to the method
+described in the European Pharmacopoeia [28]. In a
+round-bottomed flask 0.5 g (m1) powdered green tea was
+extracted with 150 ml of water in a water-bath for 40
+min. After cooling under running water, it was transferred
+to a 250 ml volumetric flask and was diluted to
+250.0 ml with water. The extract was filtered through a
+filter paper of 125mm in diameter. The first 50 ml of
+the filtrate was discarded. 5.0 ml of filtrate was diluted to
+25.0 ml with water. 2.0 ml of this diluted extract was
+transferred to a 10 ml volumetric flask, 1.0 ml of twofold
+dilution of Folin-Ciocalteu reagent was added, and
+the mixture was diluted to 10.0 ml with a 290 g/l
+solution of sodium carbonate. After 30 min absorbance
+at 760 nm (A1) was measured. For a standard solution
+0.0500 g (m2) of pyrogallol was dissolved in water immediately
+before use, and diluted to 100.0 ml using the
+same solvent. 5.0 ml of this solution was diluted to
+100.0 ml with water. 2.0 ml of this diluted pyrogallol
+solution was transferred to a 10 ml volumetric flask, 1.0
+ml of two-fold dilution of Folin-Ciocalteu reagent was
+added, and the mixture was diluted to 10.0 ml with a
+290 g/l solution of sodium carbonate. After 30 min
+absorbance at 760 nm (A2) was measured. For the
+calculation of total polyphenols as pyrogallol equivalent
+(PGE, %), the next formula was used:
+62:5  A1  m2
+A2  m1
+Test animals and animal care
+24 male SPF Wistar rats, weighing 276–300 g at the
+beginning of the study, were used in the experiment
+(purchased from Toxi-Coop Zrt., Hungary). After 5 days
+of acclimatization the rats were divided into two wellbalanced
+groups according to body weight (antibiotic
+only group (AM) and antibiotic plus green tea group
+(AMG), 12 animals/group). The number of animals per
+group was calculated to maximize the number of blood
+sampling occasions while minimizing the number of animals
+used for blood sampling per occasion. As environmental
+enrichment, unbleached, clean paper tubes were
+provided for the rats. Three rats per cage were placed on
+dust-free wood shavings as bedding material. Animals
+were housed under standard climatic conditions (22–
+24 °C, 30–70% relative humidity, 12 h light/dark cycle
+with light starting at 6:00 a.m.) with free access to tap
+water and restricted access to certified rodent pellet.
+During the whole procedure, the regulations of the
+Hungarian Act No. XXVIII of 1998 on the protection
+and care of animals were strictly followed. Every procedure
+(handling, treatment, anaesthesia) executed in this
+experiment was approved by the Committee on Ethics
+of Animal Experiments of the University of Szeged and
+the Directorate of Food Safety and Animal Health Care,
+Government Agency of Csongrád County (Permit number:
+XXI./151/2013.). All efforts were made to minimize
+animal suffering.
+Administration of the antibiotic and green tea
+The OECD Guidelines No. 417 [29] and No. 423 [30]
+were followed during the experiment. Dose selection
+was based on Ishizaki [31] and Woodnutt [32] and was
+adjusted to bioanalytical detection rate in the samples.
+The suspension of amoxicillin and clavulanic acid (7:1
+w/w; dose: 100 mg amoxicillin/kg b.w.) was administered
+per os in single 1 ml/kg b.w. dose. The suspensions were
+prepared using either distilled water (AM group) or
+green tea infusion (AMG group). The suspensions were
+prepared freshly, no earlier than an hour before treatment,
+and were homogenized with vortex right before
+administration. Green tea infusion was prepared using
+15 g of drug (green tea leaves) and 100 ml of boiling
+water, and after 5 min of maceration the extract was filtered
+on a tea-strainer. The room temperature filtrate
+was used for the preparation of the antibiotic suspension
+applied in the AMG group.
+Access to rodent chow was restricted to approximately
+10 g for a 16-h-period preceding treatment to follow the
+advice of the OECD Guideline No. 423. Treatment
+modelled human medication intake. Right before the
+treatment, the body weights of the animals were
+measured individually in order to precisely calculate the
+amount of suspension to be given. The oral administration
+of AM or AMG took place outside the cage,
+executed by a round-ended gastric tube. Six animals
+were treated daily in the mornings, consecutively, with
+5-min delays.
+Blood sampling
+The number of occasions for blood sampling were
+determined according to the pharmacokinetics of the
+test substance [32, 33]. Altogether, blood samples were
+taken six times: 30, 60, 90, 120, 180, and 240 min after
+the administration of AM/AMG. Considering the limited
+amount and occasions of blood sampling executable per
+animal (8 times at a maximum [34]), only 3 samples per
+animal were taken during the six-hour investigation
+time. To make sure that we obtain enough blood samples
+for the pharmacokinetic measurements, two animals
+were used for the total kinetic measurement. Accordingly,
+a total of twelve rats were used to obtain six data
+for each time point of the kinetics. The sampling protocol
+is given in Table 1.
+Before each blood sampling the animals had been
+warmed with an infrared lamp for thirty minutes in
+order to dilate the tail veins to ease blood sampling. At
+the first sampling occasion, the firmly but securely
+restrained rat was placed on a warm pad, and a Vasofix
+Certo 24 G ¾ (0,7 × 19 mm) intravenous catheter was
+placed in one of the lateral tail veins. To prevent the dislocation
+of the sampling needle a mild aether anaesthesia
+was provided under a ventilation hood to relax the
+animal when it was essential, by placing a small tube
+with a cotton bud containing 0.2 ml aether to the
+nostril of the animal for a couple of seconds with
+careful supervision. A minimum of 0.2ml of blood
+samples were collected in a plastic tube, followed by
+injecting 0.12 ml of heparin into the catheter and
+finally closing and fixing it to the tail using an adhesive
+tape [34]. At each following sampling occasion, a
+couple of blood drops were let out of the catheter before
+taking blood. In-between the sampling occasions
+the rats were awoke. The need for anaesthesia during
+sampling was negligible. Administration and sampling
+volumes are shown in Table 2.
+After the sampling period the animals were overanaesthetized
+(euthanized) with isoflurane inhalation.
+A precision vaporizer with induction chamber and
+waste gas scavenger was used. An isoflurane concentration
+of over 5% in 100% oxygen was slowly
+achieved and continued until one minute after breathing
+stopped.
+Quantification of amoxicillin in plasma samples
+During blood sample processing the serum was
+separated from the clotted fraction by centrifugation
+(2700 G, 10 min). 50 μl of each centrifuged plasma sample
+was pipetted into 250 μl MeOH on a 0.5 mL 96-well
+Costar plate and cooled to 4 °C for 1 h. Samples were
+centrifuged (2000 rcf) for 30 min at 8 °C. 50 μl supernatant
+was taken and evaporated. Calibration standards
+were prepared and injected directly into the LC-MS/MS
+apparatus. The concentration of amoxicillin and clavulanic
+acid was measured using an Agilent 1290 HPLC
+coupled to an Agilent 6470A Triple Quadrupole Mass
+Spectrometer equipped with an RP column (Luna 3 μ
+C8(2) 100 Å 50 × 2 mm; Phenomenex 00B-4251-B0).
+Isocratic elution was applied (85% of 0.1% HCOOH
+aqueous solution; 15% of 0.1% HCOOH in acetonitrile),
+the flow rate was 0.5 ml/min and column temperature
+was set to 40 °C.
+Statistical analysis
+Descriptive and summary statistics were calculated. All
+results are presented as means ± standard error of the
+mean (SEM). The area under the amoxicillin plasma
+concentration-time curves (AUC0–240) were calculated.
+The plasma concentrations and AUC curves for amoxicillin
+in the AM and AMG groups were compared using
+paired Student’s t-test. A p < 0.05 was considered as significant.
+All calculations were performed with the
+GraphPad software (GraphPad Prism v. 8.0.1).
+Results
+Total polyphenol content of green tea was 12.31 ± 0.41%
+PGE. The plasma concentration of amoxicillin was monitored
+by LC-MS/MS measurements in 30–60-min-intervals
+for 240 min. Changes of amoxicillin level are
+shown in Fig. 1. A significant between-group difference
+in the plasma concentrations of amoxicillin was
+observed at 60 min only, while at other time points the
+difference between the groups did not reach the level of
+statistical significance. However, the highest plasma level
+of amoxicillin was significantly lower in the AMG group,
+which suggests an interaction between green tea polyphenols
+and the antibiotic.
+Comparing the AUC0–240 for the two treatment
+groups (AM and AMG, N = 6 both) a slight decrease in
+amoxicillin absorption was observed in the AMG group,
+however, the difference did not reach statistical significance
+(Fig. 2).
+Discussion
+The aim of our study was to assess the presumable
+interaction between a frequently used antibiotic (the
+combination of amoxicillin and clavulanic acid) and
+green tea infusion, in a setting mimicking the intake of
+the medicine with green tea.
+The investigated tea was analytically characterized and
+was proved to be rich in polyphenols [35]. Based on literature,
+in vitro experiments demonstrate that catechins,
+the main polyphenolic compounds of green tea, do
+influence the antimicrobial activity of amoxicillin, and the
+in vitro antibacterial effect of amoxicillin against Helicobacter
+pylori is significantly enhanced by the presence of
+epigallocatechin gallate [36]. Similarly, the synergistic
+effect of catechins and amoxicillin against Escherichia coli
+is also reported [17]. However, these in vitro findings have
+no relevance for the clinical efficacy of amoxicillin, since
+polyphenols have very low bioavailability, thus, in fact, the
+gastrointestinal tract is the space of potential interactions
+between these compounds and amoxicillin. An opposite
+effect was also observed in mice infected with methicillinresistant
+Staphylococcus aureus: in an in vivo experiment
+green tea extract was found to weaken the effect of amoxicillin
+after enteral administration (gastric perfusion) [37].
+Our results confirm this finding, and offer a possible
+explanation for green tea ameliorating the antibacterial
+efficacy of amoxicillin treatment.
+Not only green tea infusion, but also concentrated
+food supplements may contain high doses of catechins
+(up to 1000 mg [38])). As these supplements are likely to
+be taken concomitantly with medications, the occurrence
+of an interaction between polyphenols/catechins
+and amoxicillin has relevance in real-life settings.
+Although the AUC of amoxicillin did not decrease
+significantly during the observation period in our in vivo
+experiment, the concomitant administration of green tea
+induced a significant reduction in the peak plasma concentration
+of the antibiotic [37]. Despite the limitation
+of the study (small but reasonable sample size), our
+findings support the findings of a previously published
+animal experiment, and draw attention to the possibility
+of a pharmacokinetic interaction between green tea and
+amoxicillin upon human application. Further studies are
+needed to explore this interaction regarding per os
+human therapeutic use.
+Conclusions
+Due to its high polyphenol content green tea may interact
+with the absorption of amine-containing molecules, including
+antibiotics. This is the first report on the in vivo
+assessment of the interaction between a widely used antibiotic,
+amoxicillin, and green tea. Although the concomitant
+consumption of green tea did not alter the AUC of
+the antibiotic significantly within the observation period,
+the decrease in the peak plasma concentration of amoxicillin
+refers to an interaction of potential clinical relevance,
+worth being studied in human settings.

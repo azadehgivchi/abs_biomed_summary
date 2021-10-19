@@ -1,0 +1,23 @@
+Abstract
+Background: A significant proportion of newly diagnosed patients with cutaneous squamous cell carcinoma (cSCC)
+have metastasis and eventually die of the disease, necessitating the exploration of novel biomarkers for early
+detection of cSCC aggressiveness, risk assessment and monitoring. Matrix metalloproteinase-13 (MMP-13) has been
+implicated in cSCC pathogenesis. Serum MMP-13 levels have been shown to predict survival in patients with
+esophageal SCC, but their diagnostic value for cSCC has not been explored.
+Methods: We conducted a case-control study to examine serum MMP-13 as a biomarker for cSCC. Patients with
+cSCC undergoing surgical resection and health controls undergoing plastic surgery were recruited. ELISA for
+measurement of serum MMP-13 and immunohistochemistry for detection of tissue MMP-13 were performed, and
+the results were compared between the case and the control group, and among different patient groups. ROC
+curve analysis was performed to determine the diagnostic value of serum MMP-13 levels.
+Results: The ratio of male to female, and the age between the case (n = 77) and the control group (n = 50) were not
+significantly different. Patients had significantly higher serum MMP-13 levels than healthy controls. Subjects with stage
+3 cSCC had markedly higher serum MMP-13 levels than those with stage 1 and stage 2 cSCC. Patients with invasive
+cSCC had remarkably higher serum MMP-13 than those with cSCC in situ. Post-surgery serum MMP-13 measurement
+was done in 12 patients, and a significant MMP-13 decrease was observed after removal of cSCC. Tumor tissues had a
+remarkably higher level of MMP-13 than control tissues. Serum MMP-13 predicted the presence of invasive cSCC with
+an AUC of 0.87 (95% CI [0.78 to 0.95]) for sensitivity and specificity of 81.7 and 82.4%, respectively for a cut-off value of
+290 pg/mL. Serum MMP-13 predicted lymph node involvement with an AUC of 0.94 (95% CI [0.88 to 0.99]) for
+sensitivity and specificity of 93.8 and 88.5%, respectively for a cut-off value of 430 pg/mL.
+Conclusion: Serum MMP-13 might serve as a valuable biomarker for early detection of cSCC invasiveness and
+monitoring of cSCC progression.
+

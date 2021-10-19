@@ -1,0 +1,20 @@
+Background: Understanding prognostic information can help patients know what may happen to their health over
+time and make informed decisions. However, communicating prognostic information well can be challenging.
+Purpose: To conduct a systematic review to identify and synthesize research that has evaluated visual presentations
+that communicate quantitative prognostic information to patients or the public.
+Data sources: MEDLINE, EMBASE, CINAHL, PsycINFO, ERIC and the Cochrane Central Register of Controlled Trials
+(CENTRAL) (from inception to December 2020), and forward and backward citation search.
+Study selection: Two authors independently screened search results and assessed eligibility. To be eligible, studies
+required a quantitative design and comparison of at least one visual presentation with another presentation of quantitative
+prognostic information. The primary outcome was comprehension of the presented information. Secondary
+outcomes were preferences for or satisfaction with the presentations viewed, and behavioral intentions.
+Data extraction: Two authors independently assessed risk of bias and extracted data.
+Data synthesis: Eleven studies (all randomized trials) were identified. We grouped studies according to the presentation
+type evaluated. Bar graph versus pictograph (3 studies): no difference in comprehension between the groups.
+Survival vs mortality curves (2 studies): no difference in one study; higher comprehension in survival curve group
+in another study. Tabular format versus pictograph (4 studies): 2 studies reported similar comprehension between
+groups; 2 found higher comprehension in pictograph groups. Tabular versus free text (3 studies): 2 studies found no
+difference between groups; 1 found higher comprehension in a tabular group.
+Limitations: Heterogeneity in the visual presentations and outcome measures, precluding meta-analysis.
+Conclusions: No visual presentation appears to be consistently superior to communicate quantitative prognostic
+information.

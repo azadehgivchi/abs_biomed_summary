@@ -1,0 +1,253 @@
+Introduction
+Atrial fbrillation (AF) is a common arrhythmia associated with a prothrombotic or hypercoagulable state,
+which may increase the risk of cerebral and systemic
+embolism [1]. In AF patients, most of the thrombus is
+formed in the left atrium (LA).
+It is well known that a hypercoagulative state is demonstrated by high levels of C-reactive protein (CRP) and
+D-dimer [2]. Increased D-dimer levels indicate hyperactivation of secondary fbrinolysis, meaning a tendency
+for intravascular thrombosis [3]. D-dimer is a product
+of cross-linked fbrin degradation, and it is a circulating
+marker of thrombogenesis and thrombus turnover [4].
+Increasing D-dimer levels may refect atrial thrombus
+formation and higher embolic risk in patients with AF.
+D-dimer is universally considered a gold standard test for
+activation of coagulation.
+Catheter ablation is a well-established treatment option
+for patients with symptomatic AF [5]. Apart from vitamin
+K antagonists, the direct oral anticoagulants (DOACs)
+dabigatran, rivaroxaban, apixaban, and edoxaban have
+been approved for oral anticoagulation in patients with
+non-valvular AF [6]. Tus, there are diferent treatment
+possibilities for peri-interventional period anticoagulation in the setting of catheter ablation for AF.
+Our aim was to assess the diference in coagulation
+status of the left atrium and related factors that impact
+patients with AF treated with diferent anticoagulants.
+Methods
+Tis was a single-center, prospective, nonrandomized
+study aimed at identifying the antithrombin efect of
+the baseline steady state of anticoagulation treatment in
+patients with AF. We enrolled consecutive patients with
+AF aged>20  years, who underwent ablation at the Yao
+Municipal Hospital between February 2018 and June
+2019, followed 12 months after enrollment.
+Exclusion criteria were a history of severe valvular
+heart disease, acute heart failure, thromboembolism,
+electrical defbrillation, trauma, and infection within
+3  months. Patients receiving underdose and overdose
+of DOACs were also excluded. All patients underwent
+baseline transthoracic echocardiography (TTE) within
+1  week and transesophageal echocardiography (TEE)
+before the ablation procedure. Baseline demographics
+and clinical information were obtained, and laboratory
+examinations were performed before catheter ablation.
+All patients underwent anticoagulation with dabigatran,
+apixaban, and edoxaban≥4 weeks before the procedure
+(dabigatran 150 mg/110 mg b.i.d., apixaban 5 mg/2.5 mg
+b.i.d., edoxaban 60  mg/30  mg  s.i.d.). Rivaroxaban is not
+included in this study because the standard dose of rivaroxaban (15  mg/10  mg  s.i.d.) in Japan difers from the
+international standard dose (20 mg/15 mg s.i.d.). Anticoagulants were stopped only on the day of ablation. After
+ablation, all patients were followed up for 12 months to
+observe the presence or absence of thromboembolism.
+Written informed consent was provided by all
+patients before participation, and the study protocol was
+approved by the institutional ethics committee.
+Peripheral venous blood samples were collected immediately before the ablation procedure. For the clinical
+ablation procedure, a conventional single transseptal
+puncture was performed using an SL-1 sheath and a
+BRK-1 needle (St. Jude Medical Inc., Sunnyvale, CA,
+USA). Immediately after transseptal puncture and before
+heparin administration, a left atrial blood sample was
+simultaneously collected from the left atrial sheath by a
+cardiologist.
+TTE was performed within a week before catheter
+ablation using a Philips Sonos 7500 ultrasound instrument (Philips Healthcare, Amsterdam, Te Netherlands)
+equipped with a sector transducer (carrier frequency of
+2.5 or 3.75  MHz). A 5-MHz phased-array multiplane
+probe was used for TEE. TTE parameters at baseline
+included left ventricular diastolic dimension (LVDd),
+ejection fraction (EF), left atrial diameter (LAD), and
+left atrial volume index (LAVI). TEE parameters at baseline included left atrial appendage (LAA) peak emptying velocity and presence of spontaneous echo contrast
+(SEC).
+Te following plasma/serum biomarkers were analyzed
+centrally at baseline: (1) thrombogenesis/fbrinolysis biomarkers: D-dimer, fbrinogen, prothrombin fragment
+F1+2, protein C, thrombomodulin, and (2) infammation biomarker: CRP. For the quantitative measurement
+of D-dimer, a latex-enhanced photometric immunoassay (LPIA, Mitsubishi Chemical Medience Corporation, Tokyo, Japan) was used with an automatic analyzer
+(LPIA-S500). Te detection limit of this assay was 0.3 μg/
+mL. Te association of demographic data and medical history on biomarker levels at baseline was investigated. In addition, we assessed the relationship between
+anticoagulants, biomarker levels, and echocardiogram
+characteristics.
+Statistical Analysis
+Data are expressed as mean and SD or median with 25th
+to 75th percentiles for normally distributed and skewed
+variables, respectively. Normality was assessed using
+the Shapiro–Wilk test. We used t-tests and chi-squared
+tests to compare continuous and categorical variables.
+To assess diferences among the three groups, categorical
+variables were compared with the χ2 test, while continuous variables were compared using the Kruskal–Wallis
+test. Propensity score analysis was performed to determine the efect of the drug on D-dimer levels. Te multiplicity of the tests was corrected by the Bonferroni
+method. A P value<0.05 was considered signifcant. Statistical analysis was carried out using IBM SPSS (version
+26.0, SPSS, Inc., Chicago, Illinois).
+Results
+During entry periods, 169 patients with atrial fbrillation
+were initially screened, and fnally 141 patients (on dabigatran n=30, on apixaban n=47, on edoxaban n=64)
+were recruited (Fig.  1). Te study population included
+84 (60%) men, and the mean age at the baseline examination was 68.1±10.1  years. Sixty-two (44%) patients
+had persistent AF. Te mean CHADS2-VASc score was
+2.4±1.4. Tere were signifcant diferences among the
+three groups in terms of gender, age, and history of heart
+failure. Tere was no signifcant diference in the frequency of use of angiotensin-converting enzyme inhibitors/angiotensin receptor blockers, β-blockers, statins,
+and anti-platelet drugs among the three groups (Table 1).
+Laboratory and echocardiographic data of all patients
+are shown in Table 1. Serum creatinine and CRP levels,
+and brain natriuretic peptide levels in peripheral blood
+were not signifcantly diferent between the three groups.
+Echocardiographic parameters (LVDd, EF, LAD, LAVI,
+and SEC) did not difer among them. Tere were signifcant diferences among the three groups in hemoglobin
+concentration and LAA fow velocity (Table 2).
+Fibrinogen and thrombomodulin levels were not significantly diferent among the three groups. However, there
+were signifcant diferences in the D-dimer levels of the
+left atrium (P=0.001). Te prothrombin fragment 1+2
+level of peripheral blood in the dabigatran group was
+lower among the three groups (P=0.021). Te protein
+C level of peripheral blood in the edoxaban group was
+markedly lower (P<0.001).
+In this study, the prevalence of high D-dimer levels
+(≥1.0 µg/mL) was signifcantly higher in the LA than in
+the periphery (20.6% vs. 7.8%, P=0.002) (Fig. 2). We performed a single regression analysis of systemic and LA
+D-dimer, and found a moderate correlation between the
+two parameters (r=0.560, P<0.001) (Fig. 3).
+Te efects of medication with dabigatran, apixaban, or
+edoxaban on peripheral D-dimer and LA D-dimer were
+analyzed by propensity score analysis. Table 2 shows the
+standardized function coefcients of the canonical discriminant analysis performed to calculate the propensity score. Tere were no diferences among the three
+groups with respect to peripheral D-dimer levels. Te
+D-dimer level in the LA was signifcantly lower in the
+apixaban group than in the edoxaban group (P=0.047).
+On the other hand, the D-dimer level in the LA tended
+to be lower in the dabigatran group than in the edoxaban
+group (P=0.074).
+We classifed the patients into two groups according to
+the D-dimer values of the LA i.e., less than 1.0 and 1.0
+or more, and compared their characteristics (Table  3).
+No signifcant diferences were observed between the
+percentage of persistent AF, CHADS2-VASc score,
+hemoglobin concentration, and renal function. Fibrinogen levels were signifcantly higher in the high D-dimer
+group than in the normal D-dimer group (287.1±56.4
+vs. 266.2±46.8, P=0.043). Prothrombin fragment F1+2
+levels were signifcantly higher in the high D-dimer
+group than in the normal D-dimer group (157.0±84.7 vs.
+116.6±39.0, P=0.018).
+Echocardiographic parameters, including LVDd, EF,
+LAD, LAVI, and LAA fow velocity, were not signifcantly diferent between the two groups. Left ventricular
+ejection fraction (LVEF) was signifcantly lower in the
+high D-dimer group than in the normal D-dimer group
+(59.3±13.7 vs. 65.2±9.1, P=0.037). Te proportion of
+patients treated with edoxaban was higher in the high
+D-dimer group than in the normal group (P=0.045). Te
+joint contribution of predictors of high LA D-dimer levels was assessed by multivariate analysis (Table  4). Prothrombin fragment F1+F2 (odds ratio [OR] 1.012, 95%
+confdence interval [CI] 1.003–1.022, P=0.008) and
+LVEF (OR 0.947, 95% CI 0.910–0.986, P=0.008) were
+independent predictors of high LA D-dimer levels.
+All patients were followed up for 12  months after AF
+ablation. One patient in the edoxaban group had a transient ischemic attack (TIA) 9  months after ablation. A
+new cerebral infarction was detected on head computed
+tomography, but fortunately, no sequelae remained.
+Discussion
+Tree new facts emerged from this study. (1) Systemic
+D-dimer level had a good correlation with LA D-dimer
+level, and it was lower than the LA D-dimer level in
+patients treated with DOACs. (2) Tere were no diferences in peripheral D-dimer levels among patients with
+dabigatran, apixaban, and edoxaban. However, the LA
+D-dimer level was signifcantly lower in the apixaban
+group than in the edoxaban group. (3) Peripheral prothrombin fragment F1+F2 levels and LVEF were potential predictors of high LA D-dimer levels.
+It has been reported that elevated D-dimer levels are
+associated with thromboembolism [2, 7], but a diference in D-dimer level was found in blood collected
+from the LA where thrombus formation readily occurs.
+BMI, body mass index; AF, atrial fbrillation; TIA, transient ischemic attack; CHADS2 score, Congestive heart failure, Hypertension, Age≥75, Diabetes mellitus, prior
+Stroke or transient ischemic attack (TIA); CHADS2-VASc score, Congestive heart failure, Hypertension, Age≥75, Diabetes mellitus, prior Stroke or transient ischemic
+attack (TIA), vascular disease, age (65–74), sex category; ACEi, angiotensin converting enzyme inhibitor; ARB, angiotensin-receptor blocker; CrCl, creatinine clearance;
+BNP, brain natriuretic peptide; CRP, C-reactive protein; LA, left atrial; LVDd, left ventricular end-diastolic dimension; LVEF, left ventricular ejection fraction; LAD, left
+atrial dimension; LAVI, left atrial volume index; LAA, left atrial appendage; SEC, spontaneous echo contrast
+Another clinical study demonstrated that LA D-dimer
+levels were higher than systemic D-dimer levels in
+patients with paroxysmal AF receiving warfarin [8].
+Our study found that D-dimer levels in the left atrium
+were higher than those in the peripheral circulation in
+patients treated with DOAC.
+Major phase III clinical trials for prevention of stroke
+or systemic embolic events in patients with AF showed
+that dabigatran and apixaban signifcantly reduced the
+risk of stroke and systemic embolic events compared
+to warfarin, but edoxaban failed to show superiority [6,
+9, 10]. Tereafter, several meta-analyses have reported
+that dabigatran and apixaban were superior to warfarin in prevention of stroke and systemic embolism
+[11]. Another meta-analysis reported that apixaban was
+overall superior to other DOACs in the prevention of
+stroke, systemic embolism, and caused fewer bleeding
+complications [12].
+We previously reported that a direct thrombin inhibitor, dabigatran, administered twice a day was efective in
+resolving preexisting thrombi and would be more efective in reducing thrombus formation than a factor Xa
+inhibitor administered once a day [13].
+In this study, peripheral prothrombin fragment F1+2
+levels were higher in the high LA D-dimer group than
+in the normal D-dimer group. Prothrombin fragment
+F1+2 is a peptide released from prothrombin upon conversion from prothrombin to thrombin, refecting 100%
+thrombin generation. It accurately refects the amount of
+thrombin produced [14, 15]. Tis considered to be a state
+in which thrombus is more likely to occur in the high
+D-dimer group than in the normal D-dimer group. In this
+study, low LVEF was a predictor of high LA D-dimer levels. A previous study reported that decreased LVEF led to
+LA thrombus formation [16, 17].
+In atrial failure through atrial cardiomyopathy, thromboembolic risk seems to be associated with fbrosis
+degree [18]. Previously reported that late-gadolinium
+enhancement cardiac magnetic resonance imaging (LGEMRI) examination of structural remodeling of the left
+atrium, structural remodeling of the left atrium was
+more common in the group with reduced LVEF [19]. AF
+patients with a high degree of LA structural remodeling
+may have low baseline LVEF and have LA fbrosis [20].
+Te LA D-dimer value was signifcantly higher in
+the edoxaban group, and conversely, the proportion of
+edoxaban-treated patients was higher in the high LA
+D-dimer group. According to a meta-analysis comparing
+phase III study evidence, the twice-daily dosing regimen
+of non-vitamin K antagonist oral anticoagulants appears
+to ofer a more balanced risk–beneft profle with respect
+to stroke prevention and intracranial hemorrhage [21].
+Te half-life of dabigatran is 12 to 17 h, of apixaban is 9
+to 14 h, and of edoxaban is 9 to 11 h [22]. Of the three
+drugs, edoxaban has the shortest half-life, but is used at
+a once-daily dosing regimen. It is possible that a decrease
+in the blood concentration of the drug several hours
+after administration efected the increase in LA D-dimer
+levels.
+DOACs have been shown to prevent thromboembolism in patients with non-valvular AF. Compared
+to warfarin, DOACs have the advantage that they can
+be used without regular coagulation monitoring and
+dose adjustment, but they also have the disadvantage
+that coagulation monitoring cannot be performed easily, as with warfarin [23]. In the present study, the incidence of thromboembolism was only 1 case during the
+12-month follow-up period after ablation. During the
+(86%) patients maintain sinus rhythm. Te large number
+of patients who maintained sinus rhythm may have contributed to the low incidence of thromboembolism during the 12-month follow-up period. However, in patients
+with a high risk of stroke and systemic embolism, regular D-dimer, prothrombin fragment F1+2, and LVEF
+check should be performed to determine the presence or
+absence of hypercoagulability [19–22].
+Study limitations
+First, the number of patients in this study was small. Second, the choice of anticoagulant depended on the judgment of each doctor and was not randomized. Tird,
+we did not measure anti-Xa activity. Te reason for not
+measuring anti-Xa activity is that dabigatran does not
+inhibit factor Xa. Another reason is that it has been
+previously reported that the anti-Xa activity measured
+in anti-Xa drugs does not completely refect the overall biological spectrum of anti-Xa drugs [24]. Fourth,
+the incidence of asymptomatic thromboembolism was
+unknown because we did not perform whole-body CT
+or MRI on asymptomatic patients. It is essential to identify AF patients whose D-dimer levels of left atrium are
+high. Fifth, we did not perform LGE-MRI. Terefore,
+the degree of fbrosis and structural remodeling of the
+left atrium involved in thromboembolism have not been
+evaluated. A multicenter randomized trial is necessary to
+confrm the accuracy of the present results and the incidence of thromboembolic events.
+Conclusions
+Measurements of D-dimer, prothrombin fragment F1+2,
+and LVEF may be efective in confrming hypercoagulability in patients with AF taking DOACs. In the apixaban
+group, LA D-dimer level was lower than in the edoxaban
+group, suggesting that the anticoagulant efect of apixaban is better than that of edoxaban in patients with nonvalvular AF.

@@ -1,0 +1,480 @@
+Background
+In kidney cancer, renal cell carcinoma (RCC) is the
+leading histological type and has the highest death
+rate of all solid urological tumors [1]. Advances in
+imaging technology and an increase in physical
+check-ups have led to a higher incidence of RCC detection,
+which enables early clinical intervention [2].
+Despite new approaches to RCC treatment, including
+new pharmacological inhibitors, RCC remains
+chemotherapy-resistant, and patient survival largely
+depends on surgical treatment at early stages [3]. Discovery
+of a novel therapeutic target to improve prognosis
+in RCC patients is an urgent clinical need.
+Clarification of the molecular mechanisms underlying
+RCC will provide evidence to improve clinical
+strategies.
+Tripartite motif (TRIM) family proteins contribute to
+cancer development by mediating cell growth, metastasis,
+and oncogenesis [4]. TRIM27 was first identified as a
+regulator in oncogenic rearrangements, and contains
+
+several domains: a Really Interesting New Gene (RING)
+finger, two B-boxes (type I and type II), and the RBCC
+motif [5]. The RING finger domain, which is responsible
+for E3 ubiquitin activity, is directly responsible for ubiquitination
+[6]. As an oncogene, TRIM27 promotes cancer
+cell growth in various cancers, including esophageal,
+lung, and colorectal cancers [7, 8]. TRIM44 is another
+TRIM member that exhibits oncogenic roles in RCC,
+and higher TRIM44 levels are associated with poor prognosis
+[9]. However, the role of TRIM27 in RCC has not
+yet been investigated.
+Nuclear factor kappa B (NF-κB) is an essential signaling
+transcription factor that regulates diverse cellular processes.
+NF-κB promotes proliferation, regulates cell death,
+stimulates migration, and mediates inflammatory processes
+depending on the cell type, developmental stage,
+and pathological state [10, 11]. The NF-κB complex is inactivate
+in the cytoplasm, and upon stimulation, the NF-
+κB dimer moves to the nucleus, where it binds to various
+target genes [12]. Iκbα is a well-characterized NF-κB inhibitor,
+which acts by removing NF-κB from DNA in the
+nucleus and relocating it to the cytosol [13, 14]. The activation/
+translocation of NF-κB requires the removal of
+Iκbα by ubiquitination and degradation. In lung carcinoma,
+NF-κB and Iκbα signaling is regulated by TRIM family
+members [15, 16]. Since the interaction between NF-
+κB/Iκbα and TRIM27 has been previously reported in
+other systems [17], we hypothesize that TRIM27 promotes
+RCC development through its effect on NF-κB/Iκbα
+pathways.
+Methods
+Cell culture
+HK-2, 786–0, A498, ACHN, CaKi-1, and CaKi-2 cells
+were purchased from Shanghai Biology Institute (Shanghai,
+P.R. China). Cells were maintained in DMEM media
+(Trueline, Kaukauna, WI, USA) containing 10% FBS
+(Thermo Fisher Scientific, Waltham, MA, USA), Lglutamine
+(2 mM) and 1% penicillin-streptomycin
+(Solarbio; Beijing, P.R. China). Cells were placed in a
+37 °C incubator with 95% air and 5% CO2. The NF-κB
+inhibitor was dissolved in DMSO (D2605, Sigma, USA).
+qRT-PCR
+Total RNA was extracted using TRIzol (Invitrogen,
+Waltham, MA, USA). cDNA was generated using a
+cDNA synthesis kit (Thermo Fisher Scientific, Waltham,
+MA, USA). Real-time PCR was conducted with following
+cycling scheme: 95 °C for 10 min, 40 cycles of 95 °C for
+15 s, and 60 °C for 45 s on the real-time PCR equipment
+(ABI-7300, ABI, USA). GAPDH was the internal control.
+The 2−ΔΔCt method was used for gene expression analysis
+as mentioned in a previous report [18]. All experiments
+were performed using three replicates. The
+primer sequences were as follows: F: 5′-GAGCAAATCC
+AGAACCAG-3′, R 5′-TCAAACTCCCAAACAATC-3′;
+GAPDH: F 5′-AATCCCATCACCATCTTC-3′, R 5′-
+AGGCTGTTGTCATACTTC-3′; nuclear factor kappa B
+subunit 1 (NF-κB), F 5′-CGGGGACGGTCTGAATGC-
+3′, R 5′-CTGCCAATGAGATGTTGTCGTG-3′.
+Bioinformatics
+The gene expression of TRIM27 and Kaplan–Meier analysis
+were downloaded from TCGA dataset (http://
+ualcan.path.uab.edu/analysis.html) to analyze the effect
+of TRIM27 on overall survival of RCC patient. KEGG,
+REACTOME, and DUTTA analysis indicated that cell
+apoptosis was positively correlated with elevated
+TRIM27 expression in RCC from the database
+GSE53757. Western blotting.
+Proteins were extracted in RIPA lysis buffer (JRDUN,
+Shanghai, P.R. China), in the presence of Protease Inhibitor
+Cocktail (EDTA-free; Roche, Heidelberg,
+Germany). The concentration was calculated by a BCA
+protein assay kit (Thermo Fisher Scientific, Waltham,
+MA, USA). A total of 25 μg of proteins were separated
+by 10% SDS-PAGE gels before being transferred to
+nitrocellulose membranes (Millipore, Billerica, MA,
+USA) overnight. The membranes were blocked with 5%
+non-fat dry milk (1 h at room temperature). Primary
+antibodies were incubated at 4 °C overnight, followed by
+incubation of secondary antibody anti-mouse IgG (1:
+1000; Beyotime, Shanghai, P.R. China) for 1 h at 37 °C.
+The bands were detected using an enhanced chemiluminescence
+system (Tanon, Shanghai, P.R. China). The
+primary antibodies that used in this study were listed as
+follows: TRIM27 (#15099; CST, USA), NF-kB (#8242;
+CST, USA), cleaved caspase 3 (Ab32042; Abcam, UK),
+H3 (#4499; CST, USA), GAPDH (#5174; CST, USA).
+IkBa (ab32518, abcam, USA). Protein expression was
+quantified according to the gray value after normalized
+to GAPDH, nuclear extract was normalized against that
+of histone H3.
+Knockdown and overexpression of TRIM27
+Lentiviral plasmids (pLKO.1) with three siRNAs targeting
+human TRIM27 (NM_006510.5) and a control
+siRNA (siNC) were designed and generated (Major,
+Shanghai, People’s Republic of China). Lentiviral plasmids
+(pLVX-puro) with full length human TRIM27 or a
+mock plasmid (negative control) were generated and
+transiently transfected into Caki-1, Caki-2, and 786–0
+cells using Lipofectamine 2000 (Thermo Fisher
+Scientific, Waltham, MA, USA). Cells were harvested 48
+h post-transfection. The TRIM27 siRNAs were as follows:
+siTRIM27–1: 941–959, CCCAGTTCTCTTGCAA
+CAT); siTRIM27–2: 1052–1070, GGGCTGAAAG
+AATCAGGAT; and siTRIM27–3: 1495–1513, GGATTC
+TGGGCAGTGTCTT.
+Cell proliferation
+Cell Counting Kit-8 (CCK-8) assay kits (SAB, College
+Park, MD, USA) were purchased for the cell proliferation
+assay. Briefly, cells were transfected and seeded in
+96-well plates for various time points. CCK-8 solution
+(1: 10) was incubated for 1 h before harvest. The optical
+densities were measured using a microplate reader
+(Pulangxin, Beijing, P.R. China) at 450 nm.
+Cell apoptosis
+Caki-1, Caki-2, and 786–0 cells were collected and examined
+using an Annexin V-fluorescein isothiocyanate’
+apoptosis kit (Beyotime, Shanghai, P.R. China) 48 h post
+viral infection. Cells were examined by flow cytometry
+(BD, San Diego, CA, USA).
+Co-immunoprecipitation (CO-IP)
+Cell extracts were incubated with different antibodies in
+the presence of Protein A/G beads (Santa Cruz Biotechnology,
+Dallas, TX, USA) overnight. The beads were
+washed thoroughly and the elutes were examined using
+SDS-PAGE and Western blot.
+Ubiquitination
+siNC or siTRIM27 was transfected. Cells were lysed in
+RIPA buffer (1% SDS) by sonication. Lysates were incubated
+with Protein A/G PLUS-agarose (sc-2003; Santa
+Cruz Biotechnology, USA) for 1 h. IgG (sc-2027; Santa
+Cruz Biotechnology, USA) was added to all samples and
+incubated overnight at 4 °C. Nuclear pellets were collected
+following centrifugation at 3000 rpm at 4 °C,
+followed by washing with Protein A/G Plus-Agarose
+beads four times. Proteins were loaded onto 4–20% gradient
+SDS-PAGE gels. Signals were detected by anti-
+IκBα antibody (#4812; Cell Signaling Technology, Danvers,
+MA, USA) and anti-ubiquitin antibody (ab7780;
+Abcam, UK).
+Xenograft model
+All animal procedures were performed according to the
+Institutional Animal Care and Use Committee. Experiments
+were approved by the independent ethics committee
+of the Changhai Hospital, Naval Medical
+University, Shanghai. siNC- or siTRIM27-transfected
+Caki-2 cells (n = 2 × 106), and oeNC or oeTRIM27-
+transfected Caki-1 cells (n = 2 × 106) were injected into
+the right flank of nude mice (4–6 weeks old, n = 6 in
+each group; Shanghai Laboratory Animal Company,
+Shanghai, PR China). Mice were sacrificed by cervical
+dislocation after 6 weeks. Mouse tissues were collected
+in 4% formalin.
+TUNEL
+TUNEL assays were performed on sections using an
+ApopTag kit (11,684,817,910; Roche, Switzerland) principally
+according to the supplier’s instructions. Three independent
+biological replicates were required for each
+sample.
+Histopathology
+Tissues were fixed in 10% formalin for 48 h before embedding
+in paraffin. Tissues were processed into slices
+using a microtome (Leike, China). A series of xylene and
+alcohol incubations were performed. Tissues were observed
+by hematoxylin and eosin staining.
+Immunohistochemistry
+Tissues were embedded in paraffin. Slices (5 μm) were
+treated in H2O2 (3%) dissolved in methanol and 5% normal
+horse serum before staining. Sections were incubated
+with the following primary antibodies overnight at
+4 °C: anti-TRIM27 antibody (ab137638; Abcam, UK) and
+anti-NF-KB antibody (ab16502; Abcam, UK). The sections
+were then incubated with secondary goat antirabbit
+IgG (1:100; ab64256; Abcam) for 30 min at room
+temperature. The sections were visualized with diaminobenzidine
+and hematoxylin. Cells with > 25% positive
+staining were defined as having “high expression.”
+Statistical analysis
+Analysis was performed by GraphPad Prism Version 7.0
+(La Jolla, CA, USA). Data are shown as mean ± SD. Oneway
+ANOVA was performed, and P-values < 0.05 indicated
+statistical significance.
+Results
+Increased expression of TRIM27 in RCC correlates with
+poor prognosis
+To define TRIM27 expression in RCC, we first compared
+the TRIM27 mRNA from RCC tissues (n = 535)
+and normal renal tissues (n = 72) from The Cancer Genome
+Atlas (TCGA). Our results showed that TRIM27
+mRNA was significantly elevated in RCC tissues
+(Fig. 1A). Consistent with RCC patient data, TRIM27
+was selectively upregulated in human RCC cell lines
+(Fig. S1A). Western blots showed that TRIM27 was increased
+in 786–0 and Caki-1 cells at translational levels
+(Fig. S1B). We conducted a chi-square test to investigate
+any correlation between TRIM27 and RCC clinical characteristics.
+High levels TRIM27 were associated with
+several clinical characteristics, including tumor size, T
+stage, Fuhrman grade, and metastasis (Table 1).
+Kaplan–Meier analysis of TCGA datasets demonstrated
+that the survival time of patients with high
+mRNA levels of TRIM27 was significantly shorter than
+that of patients with lower levels (Fig. 1B). These results
+suggest that up-regulation of TRIM27 expression in
+RCC links to a shorter survival duration. To confirm the
+TCGA data analysis, we measured TRIM27 mRNA
+levels in 20 RCC patients, and adjacent normal tissues
+from the same patient were also collected as the negative
+control. TRIM27 was notably elevated in tumor tissues
+(Fig. 1C). To identify pathways affected by TRIM27, we
+performed Gene Set Enrichment Analysis (GSEA) using
+a TCGA dataset. Our data illustrated that TRIM27 expression
+was positively associated with apoptosis pathways
+(Fig. 1D–F). Since disrupted apoptosis pathways
+play essential roles in neoplastic progression, TRIM27
+might be a future biomarker to predict RCC prognosis.
+To gain a better understanding of the clinical significance
+of TRIM27, we studied the biological actions of
+TRIM27 using RCC cell lines, and by altering TRIM27
+expression in vivo.
+Suppression of TRIM27 inhibits cell proliferation and
+promotes apoptosis
+We designed three small interference RNAs (siRNAs)
+targeting TRIM27 and examined the effects on Caki-2
+and 786–0 cells with a relatively higher level of TRIM27.
+All three siRNAs effectively inhibited the mRNA and
+protein expression of TRIM27 (Fig. 2A, B). siRNA-1 and
+siRNA-2 exhibited a higher knockdown efficiency than
+siRNA-3, and these were selected for subsequent assays.
+We used CCK-8 to determine the effects of TRIM27 on
+cell proliferation and found that cell growth was dramatically
+suppressed in TRIM27-suppressed groups in both
+Caki-2 (Fig. 2C) and 786–0 cells (Fig. 2D).
+We next used Annexin V-FITC/PI staining to evaluate
+the effects of TRIM27 on apoptosisand found that suppression
+of TRIM27 in RCCs promoted cell apoptosis
+(Fig. 2E). We then measured apoptotic promoting protein
+(caspase-3) and found an elevation in caspase-3 in
+TRIM27 suppressed Caki-2 and 786–0 cells (Fig. 2F, G).
+The role of NF-κB translocation to the nucleus in inhibition
+of apoptosis is well defined [10]; therefore, we examined
+the subcellular location of NF-κB as another
+indicator of apoptosis. Our results demonstrated that
+NF-κB was less active in the presence of TRIM27 siRNAs
+(Fig. 2F, G), confirming that apoptosis was increased.
+Moreover, our results suggested that
+knockdown of TRIM27 promoted the expression of IkBa
+in Caki-2 and 786–0 cells respectively.
+OeTRIM27 rescue the function of TRIM27 in siTRIM27-
+transfected cells
+To further verify our results, oeTRIM27 was used to rescue
+the function of TRIM27 in siTRIM27-transfected
+cells. As shown in Fig. 3A and B, TRIM27 overexpression
+significantly increased the proliferation rate of Caki-
+2 and 786–0 cells compared to control cells. Importantly,
+the proliferation of siTRIM27 cells were also increased
+after transfection with oeTRIM27, but showed
+no significant difference compared to control cells.
+Moreover, transfecting siTRIM27-transfected Caki-2 and
+786–0 cells with oeTRIM27 led to an increase in apoptosis
+(Fig. 3C). Furthermore, the protein level of TRIM27
+was significantly recovered by oeTRIM27 in siTRIM27-
+transfeced cells. More importantly, the protein levels of
+cleaved caspase-3, NF-κB (cytoplasm), and NF-κB (nuclear)
+in siTRIM27-transfected cells were similar following
+transfection with oeTRIM27 (Fig. 3D, E). Taken
+together, these results suggest that the function of
+TRIM27 is rescued by oeTRIM27 in siTRIM27-
+transfected cells.
+Suppression of TRIM27 reduces tumor growth in vivo
+Next, we examined whether TRIM27 siRNAs reduce
+tumor development in vivo. Caki-2 cells transfected with
+siNC or siTRIM27 were injected into nude mice and the
+tumor tissues were measured on day 33. TRIM27-
+suppressed tissues exhibited a slower growth rate than
+the controls (Fig. 4A), while the tumor weight was reduced
+in the siTRIM27 group (Fig. 4B). We next
+performed a TUNEL assay to establish whether the decreased
+tumor growth was due to apoptosis. Our results
+illustrated that apoptosis was increased in the siTRIM27
+group compared to the control group. These findings
+suggest that suppression of TRIM27 prevents tumor
+growth in vivo, partially due to increased tumor cell
+apoptosis (Fig. 4C-D).
+To further determine the function of TRIM27 in vivo,
+the oeNC or oeTRIM27 transfected Caki-1 cells were
+used to construct a xenograft model. As showed in
+Fig. 5A and B, both the oeNC and oeTRIM27 transfected
+cells were able to develop into tumors. Moreover,
+both the tumor volume and weight were increased in
+oeTRIM27 tumors. TUNEL staining was performed to
+examine apoptosis in oeNC and oeTRIM27 tumors, and
+we found that overexpression of TRIM27 significantly
+suppressed the apoptosis of Caki-1 cells in vivo (Fig. 5CD).
+Taken together, our data illustrate that TRIM27 promotes
+RCC tumorigenesis and exhibits anti-apoptotic effects
+in vivo.
+NF-κB signaling is essential for overexpressing TRIM27
+signaling
+Virus-mediated TRIM27 overexpression (oeTRIM27)
+significantly enhanced TRIM27 expression in Caki-1
+cells, both at the transcriptional (Fig. 6A) and translational
+(Fig. 6B) levels., oeTRIM27 promoted cell proliferation
+at 48 h (Fig. 6C) and inhibited apoptosis (Fig. 6D).
+Since we know that NF-κB activation is altered by
+TRIM27 (Fig. 2F), we sought to determine whether NF-
+κB mediates the actions of TRIM27. To address this
+question, we induced chemical inhibition of NF-κB signaling
+using ammonium pyrrolidinedithiocarbamate
+(PDTC); our results showed that cell proliferation was
+blocked at 24 h and 48 h as a result, and the
+oeTRIM27 group did not differ from the control
+group in the presence of PDTC (Fig. 6C). These findings
+suggest that NF-κB is involved in TRIM27 signaling.
+The application of PDTC induced apoptosis,
+which was attenuated by oeTRIM27 (Fig. 6D).
+oeTRIM27 activated NF-κB, which was suppressed by
+PDTC administration (Fig. 6E). Importantly, the inhibitor
+PDTC also suppressed the protein level of
+TRIM27 in oeTRIM27 transfected cells, while promoted
+the expression of IkBa.
+We also analyzed the correlation between TRIM27
+and NF-κB using human renal cancer tissues. We found
+there was a linear correlation between levels of TRIM27
+and NF-κB (Fig. 6F). These data suggest that NF-κB is a
+potential upstream regulator of TRIM27 in RCC. We induced
+siRNA-mediated knockdown of NF-κB to further
+explore this connection, and qRT-PCR and Western blot
+were used to examine the relative mRNA and protein
+levels of NF-κB and TRIM27 in Caki-1 cells. As shown
+in Fig. S2A, B, both the relative mRNA and protein
+levels of NF-κB and TRIM27 were suppressed by NF-κB
+siRNAs.
+TRIM27 interacts with Iκbα and is positively associated
+with Iκbα ubiquitination
+Iκbα has been identified as the major regulator of the
+NF-κB pathway [19], and dissociation of NF-κB from
+Iκbα is a critical step in translocation to the nucleus. In
+the current study, we found that oeTRIM27 significantly
+decreased Iκbα levels, and that this change was blunted
+in the presence of MG132, an inducer of apoptosis in
+cancer cells (Fig. 7A). We used co-immunoprecipitation
+(Co-IP) to examine whether TRIM27 interacts with Iκbα
+(Fig. 7B), and our results showed a direct interaction.
+Ubiquitination is essential for the stability of Iκbα, as
+well as its location in the nucleus. Moreover, increasing
+Iκbα ubiquitination improves NF-κB activation
+[20]. We demonstrated that Iκbα ubiquitination was
+remarkably attenuated by siTRIM27 (Fig. 7C), suggesting
+that TRIM27 promotes Iκbα ubiquitination in
+RCC.
+Discussion
+RCC is the most common type of kidney cancer and remains
+the deadliest of all urologic cancers. Although numerous
+approaches have been developed to improve
+understanding of the molecular signaling pathways and
+underling mechanisms, the use of molecular-targeted
+therapy in RCC is limited due to the lack of therapeutic
+candidates. In the current study, we identified TRIM27
+as a novel molecular target of RCC and examined the
+potential uses of TRIM27 as a candidate target for
+effective molecular-targeted therapeutics for RCC.
+Present findings reveal a novel underling mechanism between
+TRIM27 and Iκbα in oncogenesis, which we believe
+will assist with future therapeutic approaches
+toward RCC treatment.
+TRIM superfamily proteins have been proven to
+regulate diverse cellular processes in cancer biology.
+As a diverse family, members of the TRIM superfamily
+exhibit a variety of roles in oncogenesis. TRIM44
+and TRIM59, identified as oncogenes, are enriched in
+cancers and involved ininvasion stimulus, which
+predicts poor prognosis [9, 21]. In sharp contrast,
+TRIM2 and TRIM13, are dramatically decreased in
+RCC and act as antioncogenes by inhibiting migration,
+cell proliferation, and metastasis [22, 23]. The
+results of our study provide novel evidence that
+TRIM27 is another example of a TRIM superfamily
+member that has an oncogenic role in cancer. Similar
+to the other oncogenic TRIM proteins, TRIM27 overexpression
+in RCC significantly inhibited apoptosis
+and predicted poor survival. Our results confirmed
+the hypothesis that TRIM proteins possess the
+potential to serve as new therapeutic targets for
+cancer therapy.
+Although the majority of TRIM superfamily members
+share a TRIM motif, this protein domain is seen in isolation
+or in combination with a variety of C-terminal domains.
+For diverse functions, the TRIM superfamily
+encodes proteins that are divided into 11 distinct subfamilies.
+The distinctly different actions of TRIM27 as compared
+to other TRIM superfamily members are likely due
+to the diversity of protein structures. TRIM27 belongs to
+the RET/PTC (Rearranged in Transformation/Papillary
+Thyroid Carcinomas) fusion protein subfamily that is involved
+in oncogenic actions, and the RET proto-oncogene
+domain of this subfamily is considered essential for its
+oncogenic potential [24, 25]. Moreover, two other TRIM
+proteins (TRIM33 and TRIM24) have been reported as
+oncogene or oncogenic transcriptional activators in B-cell
+leukemias and prostate cancer, respectively [26, 27]. Thus,
+the results of our study are consistent with those of previously
+published findings, in that they suggest that RET/
+PTC subfamily proteins from the TRIM superfamily are
+likely to have oncogenic roles in cancer.
+TRIM27 expression is a known oncogene and disease
+progression in various cancers, such as lung, ovarian,
+colon, and esophageal cancer [5, 7, 28, 29]. Indeed,
+TRIM27 has been shown to promote tumor invasion
+and growth in colon cancer through its promotion of
+the epithelial-mesenchymal transition and activation of
+the AKT pathway [5]. Similarly, the TRIM27 transcript
+level was found to be correlated with ovarian cancer metastasis,
+and it has been shown that TRIM27 knockdown
+induces cell cycle arrest by activating the p38 pathway
+[29]. Unlike other cancer types, the exact molecular
+mechanisms underlying the oncogenic action of TRIM
+proteins in RCC remain unclear. However, similar to the
+molecular biological features of TRIM27 in esophageal
+and colon cancer [5, 7], we identified similar biological
+functions of TRIM27 in that it is significantly elevated in
+RCC tissues, accelerates the pathogenesis of RCC, and
+predicts RCC progression and poorer survival. In
+addition to its previously identified roles in other cancers,
+the present study indicates that TRIM27 has oncogenic
+roles in RCC and could serve as a predictive
+marker and therapeutic target for a variety types of cancers,
+including, but not limited to RCC.
+Many downstream signaling pathways of TRIM27 have
+been identified in cancer, including PTEN/AKT, p38,
+and STAT3 [7, 8, 29]. Constitutive activation of NF-κB
+signaling mediates tumorigenesis and poor prognosis in
+RCC. Our study demonstrated that TRIM27 positively
+mediates NF-κB signaling pathway by degradation of the
+NF-κB inhibitor Iκbα. In contrast to our findings, two
+previous studies found that TRIM13, another TRIM protein,
+inactivated NF-κB in both RCC and non-small-cell
+lung carcinoma [22, 30]. The opposing regulation of
+these TRIM family members in NF-κB activity again indicates
+that different subfamily proteins of the TRIM
+superfamily may utilize different mechanisms and pathways
+in cancer development. It is important to note that
+the previous study of TRIM13 in RCC only examined
+one cell line (786–0), while the present study examined
+more than three cell lines, all of which showed consistent
+results. The molecular interactions between TRIM27
+and Iκbα are also supported by a study of TRIM8 that
+found that NF-κB signaling was enhanced by TRIM8
+through polyubiquitination of serine/threonine kinases
+[31]. Whether other proinflammatory cytokines are involved
+in TRIM27 and Iκbα interactions is not clear at
+this time; nevertheless, the present study provides further
+evidence that TRIM superfamily proteins could play
+either positive or negative roles in NF-κB-induced cancer
+immunity. Further investigation is required to clarify
+the actions of TRIM27 through other pathways in RCC.
+To the best of our knowledge, this is the first study to
+demonstrate that TRIM27 is increased in human patients
+with RCC and may serve as an effective novel
+prognosis marker for RCC.

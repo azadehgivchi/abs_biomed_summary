@@ -1,0 +1,399 @@
+Background
+The past few decades have shown an increasing awareness
+of the physiological mechanisms and effects of
+temperature on perioperative morbidity and mortality
+[1]. Inadvertent perioperative hypothermia (IPH)
+has been defined as a core temperature of < 36 °C in the
+perioperative period [2].
+Anesthesia leads to impairments in central and
+peripheral thermoregulatory responses. This is
+exacerbated by cool ambient operating room temperatures
+and exposed body cavities, resulting in
+inadvertent perioperative hypothermia in unwarmed
+surgical patients [3]. Complications include coagulopathy,
+increased surgical site infection, delayed drug
+metabolism, prolonged recovery, and shivering [4–6].
+Today, temperature monitoring is the standard of care
+across perioperative monitoring guidelines around the
+world [7].
+In tandem with increasing recognition, an array of
+options have become available for perioperative patient
+temperature monitoring and warming. A single layer of
+passive insulation only compensates for 30% of cutaneous
+heat losses that occur during general anesthesia, and
+additional layers of insulation have diminishing effectiveness
+[3]. Adequate temperature management requires
+methods of active warming, most commonly forced air
+warming blankets. Multiple randomized trials [8, 9] and
+systematic reviews [10–12] have shown the effectiveness
+of these options in maintaining normothermia, and hospitals
+have incorporated them into perioperative protocols
+[1].
+Preoperatively, guidelines recommend that the patient’s
+core temperature be measured before the start of anesthesia,
+and that elective surgery be postponed until the
+patient is normothermic [2, 13]. It is also increasingly
+recognized that prewarming i.e. warming of peripheral
+tissues before induction of anesthesia [14], is an effective
+technique to reduce redistributive heat loss intraoperatively,
+and should optimally be performed for 30 min
+preoperatively [15–17]. Intraoperatively, most guidelines
+advise for temperature monitoring when changes in temperature
+are intended, anticipated or suspected. It is typically
+recommended that temperature is monitored for
+patients undergoing general anesthesia for more than
+30 min. Guidelines also advocate routine active warming
+for surgical patients, especially those at higher risk
+[2, 13]. Postoperatively, temperature monitoring is considered
+standard of care, and active warming is indicated
+when patients are hypothermic [2, 7, 18].
+Contrary to the growing evidence base surrounding
+perioperative temperature management, a wave of studies
+across Europe [19], Australia [20], and China [21] has
+consistently shown poor compliance to perioperative
+temperature management guidelines. This study aims to
+evaluate the prevalent practices and attitudes to perioperative
+temperature management in the Asia–Pacific
+region, as well as determine the individual and institutional
+factors that lead to noncompliance.
+Methods
+We conducted a cross-sectional survey on anesthesiologists
+and anesthesia trainees in six countries in the
+Asia–Pacific, namely Singapore, Malaysia, Philippines,
+Thailand, India and South Korea. The survey was conceived
+in June 2017, and the study protocol was approved
+by the National Healthcare Group Institutional Review
+Board (NHG DSRB 2017/00973) prior to study commencement.
+Written informed consent was waived, and
+return of anonymous completed questionnaires implied
+consent to participate. It was then progressively rolled
+out over an approximately one-and-a-half-year period in
+the six study countries. All methods were performed in
+accordance with the relevant guidelines and regulations.
+Survey administration
+A 40-question anonymous online questionnaire was
+developed and distributed via a shareable weblink. This
+weblink was disseminated to local anesthesiology societies,
+conferences and hospitals in the surveyed countries.
+All physicians practising or undergoing training in anesthesiology
+were invited to participate in the survey. The
+questionnaires were prefaced by a cover letter describing
+the survey, and there was no direct contact between
+study authors and survey participants.
+A self-reported questionnaire format was chosen to
+maximise the outreach of the survey to cover anaesthesia
+practices from a wide range of settings. This was
+especially important as at least half of the countries surveyed
+had a disproportionately large proportion of small
+hospitals [22], which may be challenging to obtain direct
+audit data from. The choice of the sharable weblink was
+to ensure all anaesthesiologists could participate in the
+survey, as long as they had a valid internet connection
+and an email address. The authors also felt that the anonymous
+survey format would encourage more truthful
+responses as compared to a direct audit, and would hence
+be more representative of current practices.
+To encourage participation and completion of the survey,
+five vehicle air purifiers were offered as lucky draw
+prizes for each country. Registration for the lucky draw
+was optional and conducted with a different form which
+was linked at the end of the study questionnaire. Participant
+information from this lucky draw was entirely separate
+from the study questionnaire, could not be linked
+back to survey responses in any way, and was not used in
+the study.
+Questionnaire development
+Creation and hosting of the online questionnaire were
+performed with the web-based survey tool Survey-
+Monkey [23]. Predominantly closed-ended questions
+were used, which were a combination of dichotomous,
+checkbox, multiple select and Likert-scale questions,
+although options for open-ended responses were provided.
+Phrases such as “majority of patients” were used
+when it was recognised that the variable of interest may
+not be clinically appropriate in all circumstances and
+patients. Attempts were made to use forced-answer questions
+where possible, within the limitations of the survey
+tool, to improve data integrity.
+The questionnaire was designed to examine current
+practices and perceptions, as well as the limitations that
+may exist that prevent the use and/or adoption of best
+practices, best monitoring and best interventions for
+perioperative temperature management. Questions were
+based on currently published literature as well as the
+authors’ own experiences, and was jointly constructed
+and reviewed by authors across the surveyed six Asia–
+Pacific countries. The primary outcome was to determine
+the proportions of participants who monitor temperature
+perioperatively, and actively warm their patients in the
+preoperative, intraoperative, and postoperative phases.
+The secondary outcome was to determine the factors that
+affect compliance to perioperative temperature.
+First, the participants’ current practices in patient
+warming and temperature measurement across the preoperative,
+intraoperative and postoperative periods were
+determined. Next, participants were queried regarding
+the influencing factors and their personal opinions
+with regards to perioperative temperature management.
+Finally, participants were asked regarding the availability
+of patient warming options and temperature measuring
+equipment in their hospital, as well as any hospital-specific
+protocols or training courses. To examine the variations
+across individual practices or countries, additional
+questions were added to allow for cross-cultural comparison
+in the exploratory analysis.
+Statistical analysis
+Data analysis was conducted using SPSS 23.0 for Windows
+(IBM, Armonk NY, USA). Descriptive statistics
+were performed for survey responses and participant
+demographics. Univariate analyses were performed to
+identify correlations between demographics and primary
+variables, and conducted with logistic regression for categorical
+and ordinal variables, linear regression for continuous
+variables, and Kruskal–Wallis test for ranked
+ordinal data.
+Results
+A total of 1249 unique survey responses were obtained
+and exported from the survey software over a one-anda-
+half-year period between Oct 2017 to Feb 2019, representing
+a response rate of 14.9%. Of these responses,
+1154 responses (92.4%) were valid. A proportion of
+questionnaires were largely empty or more than 50%
+incomplete (7.6%), likely from premature closure of
+the webpage, and were excluded from the study via
+case deletion to ensure data integrity. Most respondents
+practised in India (32.7%), followed by the Philippines
+(29.6%), Singapore (15.2%) and Malaysia (11.8%).
+The majority of respondents were specialists (71.6%),
+and practised in tertiary care hospitals (52.0%). These
+hospitals range widely in terms of number of beds,
+number of operating theaters, and number of patients
+anaesthetized annually. 593 (51.4%) respondents had
+temperature measuring equipment always available at
+the operating complex reception or induction room,
+and 783 (67.9%) respondents had temperature measuring
+equipment always available at anesthesia recovery
+area. Similarly, only 521 (45.1%) respondents had
+active warming devices always available at the operating
+complex reception or induction room, and 850
+(73.7%) respondents had active warming devices always
+available at the anesthesia recovery area. 624 (59.3%)
+of respondents were “Often” to “Always” financially
+restricted in their usage of temperature management
+equipment. Only 210 (20.0%) respondents’ practice
+locations conducted training courses on the subject
+of perioperative temperature management, and 228
+(21.7%) had a hospital standard operating procedure
+(SOP) for perioperative temperature management.
+Demographic data of the respondents and their practice
+settings are further elaborated in Table 1.
+Preoperatively, 531 (46.0%) respondents measure the
+temperature of the majority of their patients, and 279
+(24.2%) respondents perform prewarming for the majority
+of their patients, and 203 (17.6%) respondents perform
+prewarming for patients undergoing neuraxial
+anesthesia. During the intraoperative phase, 767 (67.5%)
+of respondents measure temperature “Often” to “Always”
+during general anesthesia, compared to 291 (25.6%) during
+neuraxial anesthesia. 508 (44.0%) respondents perform
+intraoperative active warming in the majority of
+their patients. Postoperatively, 953 (82.6%) of respondents
+measure temperature in the majority of patients,
+while 486 (42.1%) respondents perform postoperative
+active warming for the majority of patients (Table 2). The
+respondents’ compliance to key principles of perioperative
+temperature management guidelines are presented in
+Fig. 1.
+On univariate analysis, the availability of active warming
+devices in the operating room (p < 0.001, OR 10.040),
+absence of financial restriction (p < 0.001, OR 2.817),
+presence of hospital training courses (p = 0.011, OR
+1.428), and presence of a hospital SOP (p < 0.001, OR
+1.926) were significantly associated with compliance to
+intraoperative active warming (Table 3).
+When respondents were asked about their perspectives
+on compliance, a commonly cited barrier to effective
+perioperative temperature management was the lack
+of equipment for perioperative temperature monitoring
+(34.3%), prewarming (34.2%), intraoperative warming
+(31.6%) and postoperative warming (33.5%). 729 (63.2%)
+respondents were keen for more active warming devices,
+and 577 (50.0%) respondents were keen for more temperature
+measurement devices. Another area which
+respondents were keen for was more education for staff
+(73.2%), as well as an implementation of an official hospital
+standard operating procedure (SOP) (65.2%) (Table 4).
+Three variables, namely the number of beds, the
+number of ORs, and the number of patients anesthetized
+annually, were used to estimate hospital size. As
+expected, all three variables were highly correlated, and
+number of ORs was chosen to as the main variable indicative
+of hospital size as showed the highest correlation to
+the other study variables.
+In the exploratory analysis, it was found that countries
+differed significantly in terms of the number of operating
+theaters at the respondent’s practice location (p < 0.001).
+Additionally, an increasing number of operating theaters
+was significantly associated with the availability of
+active warming devices (p < 0.001) and temperature
+measurement devices (p < 0.001) in the operating room,
+the absence of financial restriction (p < 0.001), the presence
+of hospital training courses (p < 0.001), and presence
+of a hospital SOP (p = 0.001). As the number of
+operating theaters in their practising location increased,
+the number of respondents who measure temperature
+preoperatively (p = 0.023), perform prewarming
+(p < 0.001), measure temperature during general anesthesia
+(p < 0.001), perform intraoperative active warming
+(p < 0.001), and perform postoperative active warming
+(p < 0.001) were found to significantly increase (Table 5).
+Exploratory analyses did not reveal correlations between
+primary variables and training/professional designation
+or hospital type.
+Discussion
+This is the first multinational survey of perioperative
+temperature management in Asia, and is particularly
+unique in its inclusion of a large proportion of developing
+countries. Importantly, a quarter of respondents
+were from small hospitals with less than 250 beds. A
+number of international guidelines have been published
+to reduce inadvertent perioperative hypothermia,
+largely by national societies based in developed
+countries [2, 7, 13, 24–29]. None of the studied countries
+have national guidelines to reduce perioperative
+hypothermia.
+Nevertheless, compliance rates to international perioperative
+temperature management guidelines across countries
+and institutions are generally poor [30, 31]. This
+survey similarly found a poor compliance rate to perioperative
+temperature management guidelines among
+respondents. Less than half of respondents (44.0%)
+perform intraoperative active warming for the majority
+of their patients. Additionally, less than a quarter
+of respondents (24.2%) prewarm the majority of their
+patients. Even when active warming or temperature
+monitoring is carried out, most respondents do not follow
+best practices laid out by international guidelines.
+The greatest barrier to compliance appears to be the
+availability of equipment for perioperative temperature
+management in all three perioperative phases. A substantial
+proportion of survey respondents do not have ready
+access to temperature measuring equipment and active
+warming devices at critical locations, namely the operating
+complex reception / induction room, the operating
+theater, and the anesthesia recovery area. Having active
+warming equipment readily available in the operating
+room was associated with ten times the odds of performing
+intraoperative active warming.
+Often, the lack of resources is due to financial constraints,
+which many respondents face. Respondents with
+financial constraints were about a third as likely to perform
+intraoperative warming. The association between
+lack of equipment and noncompliance has also been
+noted in another national study on perioperative temperature
+management [32]. It must be emphasized that
+compliance to guidelines leads to a reduction in perioperative
+hypothermia and associated adverse events, which
+can result in net cost savings from fewer complications
+and a shorter hospital stay [8, 9]. This has been examined
+in cost analysis reports in the UK [33] and Australia [34].
+In the face of significant resource constraints, it can be
+exceedingly difficult for full compliance to best practices.
+These guidelines need to be contextualized to the local
+hospital setting and available resources, such as through
+hospital training courses or SOPs, to be truly effective.
+As seen from their survey responses, most respondents
+already believe in the key tenets of perioperative temperature
+management guidelines, but are still keen for more
+training and hospital SOPs on perioperative temperature
+management. Additionally, respondents in hospitals with
+training courses or SOPs were 42 and 92% more likely to
+be compliant to intraoperative active warming respectively.
+Systematic changes to hospital SOPs have been
+shown to improve compliance to guidelines and translate
+into improved clinical outcomes [35–38]. Ideally, various
+stakeholders in hospital management as well as local
+experts need to be involved for the conceptualization of
+the most optimal local strategy, and this can be disseminated
+into individual hospital training courses or SOPs.
+For instance, more than a third of respondents have
+a cold average operating room temperature of less than
+21.0 °C. Raising ambient room temperatures in the
+induction room and operating theaters can alleviate cutaneous
+heat losses [39–42]. While this is no replacement
+for active warming devices, in situations when active
+warming devices need to be rationed, this can reduce the
+risk of inadvertent intraoperative hypothermia.
+As others have found before [43], it appears that the
+smaller hospitals face more constraints implementing
+best practices. Additionally, smaller hospitals also have
+greater difficulties in terms of resource constraints, and
+have fewer hospital training courses and hospital SOPs.
+Having these institutional support mechanisms may be
+important to improving temperature measurement and
+patient warming rates in these practice settings. Unfortunately,
+smaller hospitals also often account for a disproportionately
+large proportion of patients treated, and this
+especially true in at least 3 of the 6 countries surveyed
+[22]. Furthermore, the countries surveyed also tended
+to have significantly different hospital sizes, which may
+account for cross-cultural differences in compliance. As
+these hospitals have the greatest potential for improvement,
+they should not be neglected in national guidelines
+and policy-making.
+Another significant observation was that compliance
+rates to intraoperative temperature monitoring during
+neuraxial anesthesia was half that of general anesthesia
+(25.6% vs 67.5%), despite the fact that neuraxial
+anesthesia also impairs thermoregulatory mechanisms
+to a similar degree as general anesthesia [3]. The importance
+of intraoperative warming even in patients undergoing
+neuraxial anesthesia should be further emphasized
+in subsequent iterations of perioperative temperature
+management guidelines.
+Only a small proportion of respondents feel that active
+warming is intraoperative warming is unnecessary, or
+that forced air warming can increase infection risk or
+interfere with surgical access. While these were traditionally
+thought to be important barriers to intraoperative
+active warming, these factors appear to be less important
+to the study participants, and other factors (eg. resource
+constraints, training and SOPs) may be more critical.
+The focus of this study was to provide a broad overview
+of perioperative temperature management practices
+in a wide variety of practice locations. However, as this
+study was based on self-reported data, there are inherent
+reporting and recall biases. The study had a relatively
+limited response rate of 14.9%, which is similar to other
+published surveys of physicians using a weblink-only
+survey methodology [44]. Additionally, over 92% of the
+respondents completed the survey, attesting to the accuracy
+of the information.
+If present, the important sources of response bias
+would be from respondents who are (1) unable to complete
+the survey, such as those in low-resource locations
+without internet access, or (2) are not keen to complete
+the survey, such as those who do not value perioperative
+temperature management as important to patient
+outcomes. These respondents will be under-represented
+the study. Such biases would be expected to artificially
+inflate compliance rates, although this was not observed
+in the study results. Nonetheless, the results of this study
+should be verified by local audits where possible, ideally
+in tandem with changes to institutional policies, followed
+by efforts to close the audit loop.
+Conclusions
+In conclusion, this survey found that compliance to
+perioperative temperature management guidelines is
+generally poor, especially among smaller hospitals. Environmental/
+resource limitations is the single largest contributor
+to noncompliance in the study population as it
+is a key enabler in effective perioperative temperature
+management. From an institutional perspective, other
+areas that are likely to improve compliance rates would
+be more training on perioperative temperature management,
+and the development of a hospital SOP. These
+findings may inform international guideline committees
+on the needs of developing countries, or may spur local
+anesthesiology societies to publish their own guidelines
+specific to the local context.

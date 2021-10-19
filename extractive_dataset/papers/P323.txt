@@ -1,0 +1,416 @@
+Background
+Gasoline station attendants are an important group at occupational
+risk to BTX (benzene, toluene, and xylene) compounds
+[1–3]. Among the constituents of gasoline, benzene
+stands out for its hazardous effects on human health [4–6].
+Furthermore, simultaneous exposure to benzene and other
+aromatic hydrocarbons, such as toluene and xylene, contributes
+to maximizing benzene toxicity [7].
+Benzene exposure in occupational settings has been progressively
+decreased as a result of preventive actions [8].
+However, there are health concerns for workers related to
+low levels of occupational exposure. These concerns are
+linked to the fact that benzene is a well-recognized genotoxic
+human carcinogen, classified as a Group I chemical
+by the International Agency for Research on Cancer, and
+without any known threshold dose [3].
+In addition, it is well known that the hematologic disorders,
+leukemia and myelodysplastic syndrome are caused
+by occupational benzene exposure, as well as various
+deleterious effects on many other biological systems after
+long-term exposures [9, 10]. Epidemiological and experimental
+studies have shown that benzene exposure can
+lead to non-cancer health effects, such as, genotoxicity,
+hematotoxicity, hepatotoxicity and nephrotoxicity [2, 11,
+12]. The mechanisms of benzene toxicity remain elusive.
+However, it is well-known that reactive oxygen species
+(superoxide anion, hydrogen peroxide, hydroxyl radical)
+resulting from benzene metabolism may damage biomolecules,
+inducing oxidative stress [10, 11].
+Biomonitoring is a mandatory health protection measure
+for workers occupationally exposed to benzene [13, 14].
+Biological monitoring has been used as a potential tool for
+better assessing integrated benzene exposures and may
+contribute to the diagnosis and treatment of occupational
+diseases [15]. Since there are no safe limits for exposures to
+carcinogens such as benzene, simultaneous evaluation of
+biomarkers of exposure and effect may be useful in the
+estimation and reduction of risks caused by occupational
+exposure to this xenobiotic. Such assessments may also be
+adopted for preventative health initiatives for improving the
+safety of occupationally exposed workers [9, 16].
+A number of previous studies by our research group were
+conducted with the aim of establishing new biomarkers of
+early damage, which might be helpful in biomonitoring
+actions related to occupational exposure to benzene. Many
+early biomarkers of genetic [11], hematological [4], renal,
+hepatic [2], and immunological [2, 17] alterations, caused
+by low levels of occupational benzene exposure, were
+proposed for the continuous monitoring of occupational
+benzene hazards. Furthermore, these findings may be key
+elements in the elucidation of different benzene toxicity
+mechanisms.
+Based on immunological biomarkers previously proposed
+by Moro et al. [4], the work conducted by Sauer
+et al. [17] showed possible immunotoxicity and carcinogenicity
+mechanisms arising from benzene exposure.
+Furthermore, alterations in inflammation biomarkers
+were also reported by Sauer et al. [17]. In order to continue
+the previous studies of our research group, this
+paper aimed to evaluate immunological, inflammatory,
+and oxidative stress biomarkers in gasoline station attendants,
+and verify the possible influence of benzene exposure
+on these biomarkers of effect.
+Methods
+Study population
+Sixty-six individuals were enrolled in this study. The exposed
+group consisted of 38 gasoline station attendants
+(GSA) from Rio Grande do Sul, Brazil. All subjects had
+been working in their current job position for at least 6
+months. The non-exposed (NE) group consisted of 28
+subjects who were non-smokers and who had no history
+of occupational exposure to benzene or other xenobiotics.
+Each participant was interviewed about aspects of general
+health, lifestyle, smoking status, and history of exposure.
+The average ages of the GSA and control groups were
+32.1 ± 1.7 years and 30.4 ± 1.8 years, respectively. No significant
+difference between the GSA and control groups
+was found related to age. The mean exposure time in
+the GSA group was 8.5 ± 1.6 years (range: 0.5–32 years).
+This study was approved by the research ethics committee
+of the Federal University of Rio Grande do Sul/RS (No.
+21728/11) and written informed consent was obtained from
+all participants prior to their enrollment in the study.
+Sample collection
+The sampling was conducted at the end of the work shift
+after 3–4 consecutive days of exposure. Personal monitors
+were used to assess airborne BTX concentration during
+the daily work shift, for approximately 8 h. After air sampling,
+the samplers were stored at − 20 °C until analysis.
+Urine samples were collected for benzene, toluene, and
+xylene metabolites and creatinine determination. The
+samples were stored in polyethylene bottles at − 80 °C
+until further analysis. Venous blood samples were collected
+by venipuncture using vacuum tubes. EDTA-blood
+tubes were collected and centrifuged at 1500 g for 10 min
+at 4 °C. Aliquots of EDTA-plasma were stored at − 80 °C
+until analysis of the protein carbonyl content. A blood
+heparin tube was collected for glutathione S-transferase
+enzymatic activity determination and co-stimulatory molecules
+of CD80 e and CD86 assay analysis. A vacuum
+blood tube without anticoagulant was centrifuged at
+1500 g for 10 min at room temperature. The serum
+obtained was aliquoted and stored at − 80 °C until
+inflammatory cytokine analysis.
+Exposure assessment
+Personal breathing-zone air samples were collected using
+passive samplers (SKC 575–002®). BTX (benzene, toluene,
+o-, m-, p-xylene) were desorbed with dichloromethane and
+analyzed by gas chromatography and flame ionization
+detection (GC-FID; PerkinElmer, USA). GC column Innowax
+(25m, 0.2mm, 0.4 μm) was used. The initial oven
+temperature was 40 °C, and the temperature was increased
+by 4 °Cmin− 1 until it reached 53 °C, followed by an oven
+ramp rate of 40 °Cmin− 1 up to 200 °C. The FID detector
+temperature was kept at 250 °C.
+Quantification of urinary benzene metabolite (trans,
+trans-muconic acid - t,t-MA) was carried out by highperformance
+liquid chromatography with UV detection
+(HPLC-UV; Shimadzu, USA) after solid phase extraction
+(SPE) according to a previously described analytical
+method [18], with modifications as previously described
+[4]. Quantification of urinary metabolites of toluene
+(hippuric acid - HA) and xylene (methylhippuric acid -
+mHA) were simultaneously performed by HPLC-UV
+[19]. The creatinine concentration was measured by
+spectrophotometry as previously described [20] using
+commercial kits (Doles reagents, Brazil).
+Immunological biomarkers
+CD80 and CD86 expression by monocytes was analyzed
+by flow cytometry. The samples were processed within
+24 h. Erythrocytes lysis was performed using an ammonium
+chloride solution (0.13 M) and the leukocytes were
+resuspended with PBS buffer. 106 leukocytes were incubated
+with PE-conjugated anti-CD80 and FITCconjugated
+anti-CD86. The antibodies were diluted 1:
+100 with PBS and incubated in the dark at 4 °C for 20
+min. Cells were analyzed by FACSC Canto II Flow
+Cytometer (Becton Dickinson, San Jose, CA) with Flow
+Jo Software (TreeStar). Monocyte cells were identified
+by manual gating according to side scatter and size.
+Inflammatory biomarkers
+Interleukin-1β (IL-1β), interleukin-6 (IL-6), interleukin-10
+(IL-10), tumor necrosis factor-α (TNF-α), and interferon-
+γ (IFN-γ) were analyzed using ELISA methods according
+to the manufacturer’s instructions (Quantikine human immunoassays,
+R&D Systems).
+Oxidative stress biomarkers
+Protein carbonyl (PCO) levels were determined using a
+noncompetitive ELISA method in accordance with Buss
+et al. [21] with some modifications. Total protein concentration
+in plasma was measured by the Bradford method
+using bovine serum albumin as standard. PCO levels were
+determined as follows: plasma samples were diluted with
+PBS buffer to a normalized concentration of 4 mg protein
+mL− 1 and then samples were derivatized with 2,4-dinitrophenylhydrazine
+(DNPH) and incubated in Maxisorb multiwallplates
+(Nunc Immuno 96 MicrowellTM Maxisorp)
+overnight at 4 °C in the dark. Protein carbonyls were detected
+using a dinitrophenyl rabbit IgG-antiserum (Sigma)
+as the primary antibody and a monoclonal anti-rabbit immunoglobulin
+G peroxidase conjugate (Sigma) as the secondary
+antibody. Color development was performed with
+o-phenylenediamine and H2O2 and the reaction was
+stopped with H2SO4 after 15min incubation at 37 °C. The
+absorbance was measured using a microplate reader with
+a detection wavelength of 492 nm.
+Glutathione S-transferase (GST) activity was performed
+in 96-well microplates and was read in a microplate reader
+(SpectraMax M2e, Molecular Devices), in accordance with
+Habig et al. [22]. GST was determined using CDNB (1-
+chloro-2,4-dinitrobenzene) as substrate and 0.15M GSH.
+Statistical analysis
+The data analysis was performed using the IBM SPSS Statistics
+software (version 19). All study variables were tested
+for normality using the Shapiro-Wilk test. Comparisons
+between groups were obtained using Student’s t-test and
+the Mann-Whitney U-test. The results were expressed as
+mean ± SEM or median (interquartile range), according to
+variable distribution. Correlation tests were performed
+using Pearson’s correlation coefficient and Spearman’s
+rank according to each variable. Multiple linear regression
+models were applied to verify the relation between BTX
+exposure, immunological biomarkers, inflammatory biomarkers,
+and oxidative stress biomarkers. The significance
+level for all tests was p < 0.05.
+Results
+The data on environmental BTX exposure levels are reported
+in Table 1. The GSA group was exposed to significantly
+higher BTX concentrations than the non-exposed
+group (p < 0.001). Additionally, the data showed that the
+GSA group was exposed to very low levels of BTX, with
+all values found to be below the ACGIH (American Conference
+of Governmental Industrial Hygienists) limits.
+Higher t,t-MA levels were found for the GSA group
+when compared to the non-exposed group (p < 0.001;
+Table 1). Although the t,t-MA levels were higher in the
+GSA group compared to the non-exposed group, the
+median values were below the biological exposure index
+(BEI: 500 μg g− 1 creatinine) established by the ACGIH.
+The urinary biomarker of exposure to toluene was not
+significantly changed between the groups (p > 0.05;
+Table 1). HA median values were below the biological
+limit value for occupationally exposed people (BEI: 1.6 g
+g− 1 creatinine; ACGIH). Furthermore, the urinary
+biomarker of exposure to xylene could not be detected
+in any members of the study population (Table 1).
+Figure 1 shows the immunological biomarker results. Decreased
+expression of CD80 (Fig. 1a) and CD86 (Fig. 1b)
+was observed in the membrane of monocytes of the GSA
+group compared to the non-exposed group (p < 0.001).
+The cytokines levels are shown in Fig. 2. The GSA
+group showed increased levels of pro-inflammatory IL-
+1β, IL-6, TNF-α, and IFN-γ in relation to the nonexposed
+group (p < 0.001). In addition, reduced levels of
+anti-inflammatory IL-10 was observed in the GSA group
+compared to the non-exposed group (p < 0.001).
+In relation to oxidative stress biomarkers, the protein
+damage was assessed through PCO levels (Fig. 3a). The
+GSA group showed an elevated PCO concentration compared
+to the non-exposed group (p < 0.001). The antioxidant
+status was evaluated through GST enzymatic activity
+(Fig. 3b). Decreased GST activity was observed in the GSA
+group compared to the non-exposed group (p < 0.05).
+Univariate correlations were performed in all subjects,
+as a single sample. Strong correlations were found among
+the BTX organic solvents present in the gas station environment.
+Personal benzene exposure was positively correlated
+with airborne toluene concentration (r = 0.70; p <
+0.001), o-xylene (r = 0.40; p < 0.05), m-xylene (r = 0.80;
+p < 0.001), and p-xylene (r = 0.73; p < 0.001) levels. Additionally,
+personal toluene exposure was also correlated
+with o-xylene (r = 0.40; p < 0.05), m-xylene (r = 0.75; p <
+0.001), and p-xylene (r = 0.64; p < 0.001) concentrations.
+Also, the increased levels of personal benzene exposure
+was accompanied by urinary t,t-MA excretion (r =
+0.35; p < 0.01). Environmental toluene and xylene levels
+were not significantly correlated with their urinary biomarkers
+(p > 0.05).
+Environmental BTX levels and t,t-MA concentrations
+were significantly correlated with immunological, inflammatory,
+and oxidative stress biomarkers (Table 2).
+Table 3 summarizes the correlations found among the
+evaluated biomarkers of effect. It was possible to observe
+significant correlations between immunological biomarkers
+and inflammatory biomarkers, immunological
+biomarkers and oxidative stress biomarkers, and oxidative
+stress biomarkers and inflammatory biomarkers.
+Furthermore, a negative correlation was observed between
+the oxidative stress biomarkers PCO levels and
+GST activity (r = − 0.31; p < 0.05).
+Exposure time was positively correlated with urinary t,t-
+MA levels (r = 0.67; p < 0.001). Additional correlations between
+exposure time and immunological, inflammatory,
+and oxidative stress biomarkers are shown in Table 4.
+Based on the correlations shown above, variables were
+selected to verify their influence on the increased pro-
+inflammatory biomarkers (IL-1β, IL-6, TNF-α, and IFN-
+γ). The multiple linear regression model, displayed in
+Table 5, accounted for approximately 58, 55, 58, and 63%
+of the increased pro-inflammatory cytokines IL-1β, IL-6,
+TNF-α, and IFN-γ, respectively. For all the inflammatory
+biomarkers, benzene exposure was the only factor that significantly
+contributed to the increased levels of the
+markers: IL-1β (β estimate = 0.437; p = 0.018); IL-6 (β
+estimate = 0.519; p = 0.007); TNF-α (β estimate = 0.496;
+p = 0.008); and IFN-γ (β estimate = 0.388; p = 0.031).
+Discussion
+In this study, we observed the influence of BTX compound
+exposure on the immunological, inflammatory,
+and oxidative stress biomarkers evaluated. Furthermore,
+the data suggest that the immunological and inflammatory
+alterations observed in this study are interrelated,
+and connected to the imbalance of the oxidative status.
+Personal occupational exposure to BTX, shown in our
+study, characterizes low-level exposure to these aromatic
+hydrocarbons, since all the found values were below the
+Threshold Limit Value-Time Weighted Average (TLVTWA)
+proposed by ACGIH for working environments.
+However, even so, it was possible to observe significantly
+higher levels of benzene, toluene, and xylene exposure in
+the GSA group compared to the non-exposed group.
+These findings are in accordance with previous studies
+that have also found airborne BTX concentrations lower
+than the ACGIH limits [2–4, 11, 17]. Additionally, the
+strong correlations shown between airborne BTX concentrations
+evidenced that the GSA group was exposed
+to a mixture of multiple organic solvents.
+According to Carrieri et al. [3], urinary t,t-MA is a
+widely used biomarker in routine practice for the biological
+monitoring of benzene exposure, mainly because
+of the simple analytical method used for its determination,
+easily available in most industrial and environmental toxicology
+laboratories. However, diet and smoking interference
+in this biomarker of exposure may compromise its
+specificity. Despite that, in our study, t,t-MA was confirmed
+as a good indicator of exposure to low levels of
+benzene exposure, since there were significantly elevated
+levels in the GSA group in relation to the non-exposed
+group. In addition, t,t-MA excretion correlated with personal
+benzene exposure, which points to the relevance of
+this biomarker of exposure, even at reduced levels. The
+same cannot be visualized for the urinary biomarker of exposure
+to toluene, since HA did not show any significant
+difference between the groups, nor was it correlated with
+personal toluene exposure, as previously shown in studies
+by our group [4, 17]. Also, m-HA, urinary biomarker of
+xylene exposure, did not prove to be a good marker.
+The alterations observed in the immunological biomarkers
+evaluated in our study (CD80 and CD86 expression
+in monocytes) are in accordance with previously
+described data [2, 4, 17]. Furthermore, the univariate correlations
+showed that the reduced expressions of CD80
+and CD86 were related to BTX exposure, proving the
+interference of these chemical compounds in the immune
+system of occupationally exposed individuals.
+The co-stimulatory molecules CD80 and CD86 are recognized
+as the main co-stimulatory molecules of the immune
+system [17], and are considered one of the most
+important signaling mechanisms and regulators of adaptive
+cellular immunity [23, 24]. The absence or depletion of
+these co-stimulatory molecules results in hyporresponsiveness,
+development of anergic T cells, or inefficient immune
+surveillance [17, 25, 26]. According to Sauer et al. [17], immunological
+alterations, as observed in our study, could
+contribute to the development of benzene immunocarcinogenic
+effects, since it is known that the immune system is
+highly involved in carcinogenesis.
+The GSA group evaluated in our study presented increased
+pro-inflammatory cytokines (IL-1β, IL-6, TNF-α,
+and IFN-γ), accompanied by decreased levels of the antiinflammatory
+IL-10 cytokine, which is in accordance
+with previous literature [27]. Although the lower expression
+of the CD80 and CD86 adhesion molecules are
+linked to an ineffective immune response, and consequently,
+to a compromised inflammatory response, studies
+have shown that chronic exposure to toxic agents,
+such as BTX compounds, could contribute to the development
+of an inflammatory process, which is involved in
+the development of different types of cancer and tumor
+progress [28, 29]. In addition, during the hepatic biotransformation
+of BTX compounds, many oxidative and
+reactive species are produced, which could contribute to
+the increased of pro-inflammatory cytokines, as evidenced
+in our results through of moderate correlations
+among immunological and inflammation biomarkers.
+CD86 expression in monocytes was positively correlated
+with IL-10 levels and negatively associated with proinflammatory
+biomarkers. These data suggest an immunological
+impairment scenario, accompanied by an
+inflammatory process, which could contribute to carcinogenesis,
+as described above.
+According Spatari et al. [30], aromatic hydrocarbons
+found in fuel are active agents responsible for suppressing
+immune response. In our study, according to the
+multiple linear regression model, personal benzene exposure
+was the only variable that significantly contributed
+to the increased levels of the pro-inflammatory
+biomarkers (IL-1β, IL-6, TNF-α, and IFN-γ), These
+findings suggested that the immunological and inflammatory
+alterations observed in our study could be related
+to carcinogenic process development due to
+benzene exposure. However, additional and further studies
+are needed to confirm this hypothesis.
+The immunological and inflammatory alterations observed
+in our study are connected to the oxidative stress
+biomarkers, which could be shown by the univariate correlations.
+Additionally, the GSA group showed increased
+levels of PCO accompanied by decreased GST activity
+when compared to the non-exposed group. Furthermore,
+these alterations were linked to BTX exposure, confirming
+the involvement of these xenobiotics in the imbalance
+of the oxidative status observed.
+According to Barreto et al. [31], during the biotransformation
+of benzene, multiple forms of reactive species
+are produced, which could contribute to the development
+of oxidative damage, and could be the cause of increased
+levels of the biomarkers of protein damage
+observed in our study. Besides oxidative damage to protein,
+the continuous production of reactive species during
+benzene metabolism could induce toxicity in key
+cellular components, such as DNA [32]. Indeed, the activation
+of benzene and its metabolites culminates in
+damage to lipids, proteins, and DNA carbohydrates
+through various chemical reactions, leading to functional
+alterations in different tissues [33]. Furthermore, chronic
+benzene exposure compromises antioxidant capacity,
+which also contributes to the development of oxidative
+damage in exposed individuals [10, 34].
+All the immunological, inflammatory, and oxidative
+stress biomarkers evaluated were correlated with exposure
+time. These findings indicate the possibility of using
+these biomarkers in the continuous monitoring of occupational
+hazards.
+Conclusions
+The main findings of this study are related to the fact
+that all the alterations evidenced could be involved in
+the damage caused by occupational benzene exposure,
+especially the inflammatory process, which had not yet
+been detected in previous studies of our group, involving
+individuals occupationally exposed to benzene. Additional
+studies should be performed to elucidate the potential
+involvement of each biomarker. However, the
+continuous monitoring of these biomarkers could contribute
+to the early detection of the damages caused by
+benzene.
+Taken together, these findings showed the influence of
+exposure to BTX compounds, especially benzene, on the
+immunological, inflammatory, and oxidative stress biomarkers
+evaluated. Furthermore, the data suggest a relationship
+among the evaluated biomarkers of effect, which,
+if continuously monitored, could contribute to providing
+early signs of damage to biomolecules in subjects that are
+occupationally exposed to BTX compounds. Additional
+measures, such as antioxidant intake, exposure elimination,
+also could contribute to the improvement of the life
+quality of occupational exposed subjects.

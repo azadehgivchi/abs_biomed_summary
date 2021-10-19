@@ -1,0 +1,17 @@
+Background: Interrupted time series (ITS) studies are frequently used to evaluate the effects of population-level
+interventions or exposures. However, examination of the performance of statistical methods for this design has
+received relatively little attention.
+Methods: We simulated continuous data to compare the performance of a set of statistical methods under a range
+of scenarios which included different level and slope changes, varying lengths of series and magnitudes of lag-1
+autocorrelation. We also examined the performance of the Durbin-Watson (DW) test for detecting autocorrelation.
+Results: All methods yielded unbiased estimates of the level and slope changes over all scenarios. The magnitude
+of autocorrelation was underestimated by all methods, however, restricted maximum likelihood (REML) yielded the
+least biased estimates. Underestimation of autocorrelation led to standard errors that were too small and coverage
+less than the nominal 95%. All methods performed better with longer time series, except for ordinary least squares
+(OLS) in the presence of autocorrelation and Newey-West for high values of autocorrelation. The DW test for the
+presence of autocorrelation performed poorly except for long series and large autocorrelation.
+Conclusions: From the methods evaluated, OLS was the preferred method in series with fewer than 12 points,
+while in longer series, REML was preferred. The DW test should not be relied upon to detect autocorrelation, except
+when the series is long. Care is needed when interpreting results from all methods, given confidence intervals will
+generally be too narrow. Further research is required to develop better performing methods for ITS, especially for
+short series.

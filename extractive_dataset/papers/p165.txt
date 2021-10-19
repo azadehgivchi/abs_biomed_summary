@@ -1,0 +1,332 @@
+Introduction
+Herpes simplex virus type 2 (HSV-2) is the most frequent
+causative organism of genital herpes (GH) in the
+United States, while HSV type 1 is felt responsible for this
+recurrent infection in only 20 to 30 percent of cases [1].
+GH is contagious both in the symptomatic and in the
+asymptomatic phase of the disease and causes painful
+genital ulcers. The management of the patient involves
+consultations, laboratory exams and drug treatment for
+the disease and its complications.
+GH is one of the three most widespread sexually transmitted
+diseases in the USA [2]. Published data show that
+45 million persons aged 12 years or older have HSV-2 an-
+tibodies [3], that up to 70% of patients attending sexual
+transmitted disease clinics have HSV-2 infection [4] and
+that the majority of patients with initially symptomatic
+GH will develop recurrent disease [5].
+Cost of illness studies represent one of the applications of
+economic science to medicine. The aim of these studies is
+to assess the economic burden of a disease and to help
+decision-makers in targeting preventive efforts and allocating
+resources [6,7]. Despite its widespread and increasing
+transmission, there is still poor understanding
+of the economic impact of GH in the USA, which makes
+it difficult to evaluate societal costs and the cost-effectiveness
+of preventive efforts [8]. Therefore, the objective
+of the present study was to estimate the economic
+burden of GH in the USA, using two different costing approaches.
+Methods
+We conducted a population-based study on the costs of
+GH. In order to give a better estimate of the disease burden,
+we retrieved economic information using two different
+approaches: In the first instance, direct interviews
+were conducted with a random sample of office-based
+physicians using a structured, comprehensive questionnaire.
+Secondly, information was retrieved from a large,
+longitudinal administrative database. For this purpose,
+data from Diversified Pharmaceutical Services (DPS),
+which is a pharmaceutical benefit management firm,
+were used. For both approaches, the time span was one
+year (1996). Costs were referred to on a yearly basis and
+computed in 1996 US dollars. Data were collected and
+analyzed separately.
+Approach using expert interviews
+A questionnaire was administered to 30 randomly selected
+primary and secondary care physicians practicing
+in the North-East of the USA. Physicians were asked
+about the annual number of patients with GH and the total
+number of episodes of symptomatic GH, seeking
+medical care and treatment. Data collection included the
+following variables: (1) demographic characteristics of
+the physicians' practices; (2) epidemiological figures:
+number of patients with GH per year; stratification of patients
+according to age, gender, severity of disease recurrence
+rates; duration of episodes; and (3) resource
+utilization: frequency of consultations and laboratory
+tests for GH patients; prescription of drugs in first/recurrent
+episodes and duration of treatment; frequency of
+hospitalizations due to GH complications; employment
+of patients; proportion of patients unable to work.
+The perspective of this analysis was societal; thus, both
+direct and indirect medical costs were based on the costs
+born by society. The US population in 1996 (279 million)
+served as a reference. Regarding medical costs, the categories
+considered were the consultations and medical
+procedures performed, laboratory tests, pharmacological
+treatment and hospitalizations. Unit costs are illustrated
+in Table 1. For the purpose of this analysis,
+average monetary values from all respondents were considered
+[9]. Values used came directly from interviews
+with physicians involved in the study.
+Indirect costs were calculated using the human capital
+approach [7, 10, 11]. These costs were based on an average
+U.S. hourly wage of $14 [12], and were valued according
+to estimates of time consumed by
+hospitalization, time lost from work due to illness, and
+travel and waiting-room time resulting from physician
+visits. We estimated that individuals with a primary GH
+syndrome would miss two days of work if symptoms
+were not severe enough to require hospitalization, and
+one week of work if hospitalization was required. Patient
+travel and waiting room time was estimated to be two
+hours per physician visit. We did not use gender-specific
+wage rates, as females are underpaid relative to men
+[12], so that gender specific wage-rates would implicitly
+undervalue the costs of GH in females.
+Approach using claims database
+DPS is a pharmaceutical benefit service collecting and
+processing claims on consultations, laboratory tests,
+drug utilization and hospital treatment from Health
+Maintenance Organizations (HMOs) and Independent
+Practice Associations from different areas in the USA.
+For the present study, all patients diagnosed with GH
+who have been enrolled in the plans of four HMOs at any
+time during 1996 were included. The four health plans
+included in the analysis were located in the Southwest,
+East, Mid-West, and West of the USA. The approximately
+0.5 million members enrolled in the health plans were
+generally employed or dependents of employed members.
+The majority of members reside in an urban rather
+than rural environment, representing an urban, working-
+class population. Less well represented in this population
+were the elderly (age over 65), the unemployed
+and those entitled to state medical assistance (6% of the
+plan members had Medicaid as their principal insurance).
+Members were included if they had at least one claim for
+GH during the study period. We used the following International
+Classification of Disease-9 codes for data collection:
+054.1 (GH); 054.10 (GH, unspecified); 054.11
+(herpetic vulvovaginitis); 054.12 (herpetic ulceration of
+vulva); 054.13 (herpetic infection of penis) and 054.19
+(other GH). For this analysis, the following definitions
+were used: "prevalent case" = members who had a GH
+diagnosis claim between the dates of 1/1/96 and 12/31/
+96; "active case" = members who had a GH diagnosis
+claim between the dates of 1/1/96 and 12/31/96, and had
+a drug claim for treating GH or were treated in the hospital
+for GH; "incident case" = members who had a GH
+diagnosis or drug claim in 1996 and no GH claim prior to
+1996; "recurrent case" = members who were continuously
+enrolled in 1996, had a GH diagnosis or drug claim
+in 1996 and a recurrent claim 15 days or more after the
+first claim (incident cases excluded).
+Direct medical costs were based on actual pharmacy,
+outpatient and hospital claims processed by DPS. Component
+costs were based on drug costs, outpatient costs,
+emergency room costs, inpatient costs, laboratory costs
+and home visit costs. Drugs used for treatment of GH
+were identified in members who also had a diagnosis
+claim for GH at some time during the study period. This
+allows for some reliance that the drug was used to treat
+GH and not some other form of herpetic infection. Mean,
+median, and standard deviation were calculated to describe
+the population statistics for costs. The perspective
+of this analysis was third party payer.
+The annual costs attributable to GH-infection in the
+United States were estimated as the product of the
+number of incident and prevalent infections and the average
+present value of the costs attributable to a single
+GH-infection. We also evaluated the impact of other GHassociated
+complications such as neonatal herpes and
+excess cesarean sections. A crude estimate of the burden
+of these complications was calculated, based on data extracted
+from the DPS database and published data [1,
+13,14,15,16].
+Results
+Approach using expert opinion
+In the sample of 30 interviewed physicians, 15 were general
+practitioners (GPs), while 15 were specialists (6 dermatologists,
+4 gynecologists, 3 infectious disease
+specialists and 2 urologists). Based on our data, GPs see
+on average 34 GH patients a year; among these patients
+13 (38%) were reported to be primary cases. Specialists
+see 56 GH patients per year, including 12 (21%) incident
+cases. Sixty-five percent of patients were in the 18-30 age
+group; 52% of patients were female. Almost half of the
+patients (49%) suffered from mild GH, whereas moderate
+and severe cases represented 37% and 14% of patients,
+respectively. Forty-eight percent of patients
+experienced less than 2 relapses a year, 36% 2 to 5 relapses
+and 16% more than 5 per year. A typical first GH
+episode was reported to last on average 10.8 days, slightly
+more than a typical recurrence (8.4 d). From the data
+available, the incidence of clinically manifest GH can be
+estimated to be 423,000 cases and the number of recurrent
+cases at about 698,000 patients in 1996. These estimates
+correspond to an occurrence rate of 3,139,000
+symptomatic episodes.
+Table 2 illustrates the total cost of illness obtained translating
+epidemiological figures and utilization rates in
+monetary terms using the unit cost values previously described.
+The estimated total burden of medical care for
+GH in the US in 1996 represents $984 million, based on
+an estimated occurrence rate of 3.1 Mio symptomatic episodes.
+Of these costs, 49.7% were caused by drug expenditures,
+47.7% by medical care and 2.6% by hospital
+costs. Further $214 million represent the indirect costs
+to society. Thus, up to $1.2 billion can be considered as
+being the total burden of GH to the US as computed with
+this methodology. Table 3 gives a breakdown of the costs
+at the single patient level.
+Approach using claims database
+Among 1,565 patients with GH, 65% of patients were in
+the 21-40 age group; 74% were female. Table 4 summarizes
+the main epidemiologic findings from this analysis.
+We extrapolated the collected data to the US population
+in 1996 (279 million) and calculated an annual incidence
+of 131,130 symptomatic GH cases in 1996, corresponding
+to a crude incidence of 0.47 per 1,000. The total number
+of persons with prevalent, active or recurrent symptomatic
+GH was estimated to be 806,310. This produces a
+crude prevalence of 2.89 cases per 1,000 in 1996.
+Table 5 shows the costs of GH among DPS database enrollees.
+Costs were highest among recurrent cases and
+lowest among prevalent, symptomatic cases not requiring
+treatment. Using this approach, the amount of medical
+resources absorbed by the care of GH patients in the
+US can thus be estimated at $244 million for 1996.
+Based on previously published data [1, 13,14,15,16], we
+also estimated the direct costs of GH-associated complications.
+Neonatal herpes accounted for 400 annual cases
+with mean medical costs of $60,000, whereas 6,000 excess
+cesarean sections contributed, on average, $2,500
+per case. Thus, the average cost of these GH-associated
+complications can be estimated at $39 million for 1996,
+bringing the total of the direct medical cost estimates to
+a sum of $283 million.
+Discussion
+This report presents crude estimates rather than precise
+measures of the economic costs of GH in the USA. Using
+two different approaches, we estimated the total direct
+medical costs of GH to range from a minimum of $283
+million to a maximum of $984 million in 1996. Indirect
+costs to society amounted to $214 million due to production
+losses. Office-based medical care and drug treatment
+were the major sources of direct costs. Moreover,
+this study showed that the average GH patient seeking
+treatment is likely to be younger than 40, to develop
+about 2 recurrent episodes, to undergo several laboratory
+exams, and to be treated with antiviral drugs. Relapses
+tended to be shorter than first episodes though having a
+higher cost per episode.
+Our results are likely to be conservative estimates due to
+the great number of asymptomatic and shedding patients
+not seeking medical care and transmitting the disease
+to other individuals. As recently shown, the great
+majority of people with serologic evidence of HSV-2 infection
+have no history of recognized GH [3]. However,
+many seropositive persons shed HSV-2 that is detectable
+by culture from the genital tract, and many have symptoms
+that are directly referable to HSV-2 detectable by
+culture [17].
+From an economic point of view, it must be borne in
+mind that GH and other sexually transmitted infectious
+diseases have negative externalities in the sense that
+consequences of the disease are not only limited to people
+who have the disease but also to other people that can
+be potentially infected. This stems from the fact that consequences
+of risky sexual behavior are borne by the subject
+itself and by others via the transmission of the
+disease. In addition, it must be underlined that GH constitutes
+a risk factor for the spread of other sexually
+transmitted diseases (e.g. human immunodeficency virus),
+which can be interpreted as a negative consequence
+of GH.
+The estimates of the total direct medical costs obtained
+with the two different approaches are discrepant and can
+be explained, at least in part, with the influence of compliance
+to treatment. It must be noted that the higher figure
+is obtained with data collected via questionnaire and
+is likely to represent the monetary value of the amount of
+treatment prescribed by physicians. Moreover, the reported
+duration of primary and recurrent GH episodes in
+this analysis was longer than that commonly cited in the
+literature [5, 8, 17], which may have artificially increased
+the cost estimates. The lower figure, on the other hand, is
+an estimate based on claims and represents the minimum
+amount of medical care and treatment actually
+consumed by patients. This difference can be expressed
+as the difference from what is prescribed and what is actually
+consumed, i.e. compliance. Thus, the difference
+between the two global figures may be attributable to different
+utilization rates or different levels of compliance.
+A lower level of compliance means probably lower shortterm
+direct costs, but probably higher indirect and longterm
+medical costs. The hypothesis of different utilization
+rates is also consistent with the psychological aspects
+of GH, which is perceived as a potential source of
+shame on patients [18] and is a plausible reason for lower
+levels of compliance to treatment.
+In a recently published article by Tao et al [16], the national
+direct medical costs of GH were estimated at $166
+million annually for 1992-1994 ($207 million in 1999
+dollars), based on claims data from several sources.
+These numbers may be underestimates. Tao and colleagues
+[16] estimated that less than 30% of acyclovir
+claims not associated with a specific diagnostic code
+were provided for the treatment of GH. As drugs account
+for over half of the costs attributed to GH, underestimation
+of drug costs substantially decreases the estimated
+annual costs of GH.
+Based on our estimates using the DPS claims database,
+GH seems to be a public health problem of important
+economic relevance. At least $283 million can be estimated
+the direct health care costs attributable to GH,
+corresponding to 0.1% of the US health care expenditure
+($1,007,300 million). However, when computing for indirect
+costs and long-term complications (e.g. neonatal
+herpes, enhanced HIV transmission), the true costs may
+be greater than $1.0 billion. In addition, this study has
+not been designed to give a monetary estimate of intangible
+costs of the disease. Psychological stress related to
+GH is well documented in the literature [18,19,20], and
+should be considered as a relevant factor of the total burden
+of illness, though not easily quantifiable.
+As with any research study, limitations must he placed
+on the ability to generalize the results beyond the sample
+and setting employed. First, treatment for GH in the USA
+can be met at neighborhood health clinics, which offer
+confidential, low-cost treatment. Since a stigma is attached
+to the diagnosis of GH, patients may choose treatment
+at these clinics. The database had no information
+on these visits, since no claims were generated. Second,
+claims databases are collected for the purpose of payment
+to providers for the medical services rendered on
+behalf of enrolled members and rely on the coding of numerous
+medical events. Because of variations and incompleteness
+of coding, errors in identification and
+classification may occur. Coding is dependent on the diagnostic
+process, which is related to a clinician's training.
+Thus, the decision to diagnose GH by individual
+clinicians with different levels of expertise cannot be
+controlled within the boundaries of claims data. Third,
+the health plans included in this study allowed for geographical
+representation on a large regional basis. However,
+undetected patient, provider and practice
+differences may still exist. Caution should therefore be
+exercised in generalizing to other regions. Finally, cases
+selected may not necessarily be indicative of minority,
+low socioeconomic status, or indigent populations, since
+claims data can only provide data on those individuals
+who access the system. Therefore, the demographics of
+the database, in combination with the use of neighborhood
+clinics for GH treatment, make our calculated GH
+rates and costs lower bound estimates of the true GH
+prevalence and associated costs in the USA.
+In conclusion, GH appears to be an important public
+health problem in the USA from the health economic
+point of view. The present study demonstrates the validity
+of using different approaches in analyzing the economic
+burden of a specific disease to the health care
+system.

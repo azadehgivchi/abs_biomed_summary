@@ -1,0 +1,658 @@
+Background
+Dental caries is one of the most prevalent conditions
+worldwide [1] and accounts for significant morbidity [2].
+Importantly, the prevalence of untreated dental caries has
+increased [1, 2]. While there is a direct effect of untreated
+dental caries on oral health and associated quality of life,
+identification of indirect associations between dental
+caries (including untreated dental caries) and systemic
+health are of potential interest but have received little
+attention [3].
+Associations have been more studied between periodontitis
+and systemic diseases and the contribution of
+oral inflammation and microbiota to diseases such as
+atherosclerosis, diabetes mellitus, pneumonia, chronic
+obstructive pulmonary disease, rheumatoid arthritis
+(RA) and Alzheimer disease (AD) [4–6]. In addition to
+epidemiologic evidence, laboratory and animal studies
+provide biological plausibility for periodontal-systemic
+associations [7, 8].
+While both dental caries and periodontitis are biofilm-
+mediated diseases, the pathogenesis of dental
+caries is complex and multifactorial and differs from
+periodontal disease. Dental caries is a biofilm-mediated
+disease with multiple contributing factors that drives
+net localized demineralization of the teeth [9]. The
+plausibility of systemic consequences from untreated
+dental caries and mechanistic role of the associated oral
+microbial-inflammatory process in these associations
+requires further inquiry through human and animal
+studies. The ability of oral microbiome to spread into
+systemic circulation from dental caries is plausible and
+would parallel mechanisms already studied for periodontal
+disease. In dental caries, involvement of root
+canal space or marginal periodontium are the most
+likely pathways for direct systemic extension of oral
+microbiota [10]. Host factors and pathogenic traits in
+oral microbiota can promote dental caries and increase
+the likelihood of oral-systemic spread. Such factors
+would include diseases [11] and medications [12] that
+result in reduced saliva production, adhesin expression
+in S.mutans for collagen binding [13–15], dysbiosis of
+the oral microbiota [16, 17], genetic factors that predispose
+to dental caries and share common mechanistic
+underpinnings with systemic diseases [18].
+The hypothesis of systemic spread of oral microbiota
+from carious lesions is reasonable but mechanisms
+by which systemic diseases exacerbate dental caries
+requires considerable future research. Metabolic diseases
+such as diabetes and obesity share various common
+environmental determinants with dental caries,
+including hyperglycemic state and high-carbohydrate/
+sugar-rich diet [19]. Our current understanding of
+metabolic disease-dental caries associations and use
+of animal models [20–27] can serve to expand understanding
+of associations between dental caries and
+other systemic diseases. Animal models allow for study
+of systemic variables in dental caries due to the ability
+to longitudinally study disease phenotype within a reasonably
+short time frame.
+This scoping review compiled and evaluated recent
+evidence from animal and clinical human studies that
+assessed associations between dental caries and systemic
+diseases and potential mechanisms for such associations.
+Specifically, a scoping review was undertaken to establish
+areas in which evidence on associations between dental
+caries and systemic diseases is available [28].
+Methods
+Data sources
+An electronic search was conducted by a health sciences
+librarian (ES) in June 2021 in PubMed, Embase and
+Cochrane Central Register for Controlled Trials. Results
+were limited to articles published from 2010 to 2020 in
+the English language.
+Search strategy
+The following search strategy in PubMed utilized both
+keyword terms in the title and abstract fields as well as
+Medical Subject Headings (MeSH) to identify possible
+qualifying articles: (((((“dental caries“[MeSH Terms])
+OR caries[Title/Abstract]) OR carious lesions[Title/
+Abstract]) OR carious lesion[Title/Abstract])) AND
+(((((((((((((((((((((((((((((((((((((((“neoplasms“[M
+eSH Terms]) OR cancer[Title/Abstract]) OR metabolic
+syndrome[Title/Abstract]) OR “metabolic
+syndrome“[MeSH Terms]) OR obesity[Title/Abstract])
+OR “obesity“[MeSH Terms]) OR cardiovascular
+diseases[Title/Abstract]) OR cardiovascular disease[Title/
+Abstract]) OR “cardiovascular diseases“[MeSH Terms])
+OR myocardial infarction[Title/Abstract]) OR heart
+disease[Title/Abstract]) OR heart diseases[Title/
+Abstract]) OR diabetes[Title/Abstract]) OR “diabetes
+mellitus“[MeSH Terms]) OR atherosclerosis[Title/
+Abstract]) OR cerebrovascular disease[Title/Abstract])
+OR cerebrovascular diseases[Title/Abstract]) OR
+“cerebrovascular disorders“[MeSH Terms]) OR
+asthma[Title/Abstract]) OR “asthma“[MeSH Terms])
+OR pneumonia[Title/Abstract]) OR “pneumonia“[MeSH
+Terms]) OR chronic obstructive pulmonary
+disease[Title/Abstract]) OR “pulmonary disease, chronic
+obstructive“[MeSH Terms]) OR allergies[Title/Abstract])
+OR “hypersensitivity“[MeSH Terms]) OR “respiratory
+tract diseases“[MeSH Terms]) OR arthritis[Title/
+Abstract]) OR “arthritis, rheumatoid“[MeSH Terms])
+OR Alzheimer Disease[Title/Abstract]) OR “Alzheimer’s
+Disease” [MeSH Terms]) OR dementia[Title/Abstract])
+OR “dementia“[MeSH Terms]) OR “inflammatory
+bowel diseases“[MeSH Terms]) OR crohn disease[Title/
+Abstract]) OR “osteoporosis“[MeSH Terms]) OR
+osteoporosis[Title/Abstract]) OR “joint diseases“[MeSH
+Terms]) OR systemic[Title/Abstract]).
+This search was translated and updated for Embase
+and Cochrane Central Register of Controlled Trials
+accordingly.
+Data filtering
+The results obtained using search strategy described
+above were deduplicated and further managed in an
+online workflow management system for scientific
+reviews (https:// www. covid ence. org/). After removal of
+duplicates, titles were examined by one author (AS) and
+articles unrelated to dental caries were removed. For
+retained articles, after title-based filtering, their eligibility
+was assessed by abstract-based filtering by two authors
+(AS and FAS). If articles were considered unrelated
+to scope of this review using criteria identified below,
+they were excluded. Articles were removed for various
+technical reasons such as wrong outcome measures,
+inadequate statistical information, narrow participant
+enrollment such as studies with one gender enrollment.
+Articles that were published in potentially predatory
+journals were also removed if the corresponding journal
+was listed in Beall’s list (https:// beall slist. net/) and
+was not listed in the Directory of Open Access Journals
+(https:// doaj. org/). When articles were on the topic of
+associations between dental caries and systemic diseases,
+systematic and retrospective reviews and data analysis of
+health records were excluded. Studies were also excluded
+if dental caries was not the primary variable and was
+studied as a subset of oral health and/or systemic disease
+was studied as a subset of overall health. In addition,
+infective endocarditis was removed from our search criteria
+as it has been extensively reviewed previously.
+Clinical human and animal studies were included
+where associations between dental caries and a systemic
+disease were explored or a potential mechanism was elucidated
+and they did not meet any of the aforementioned
+exclusion criteria. Using the filtering criteria above and
+after full-text screening by two authors (AS and FAS)
+studies were included in the summary tables and additional
+studies were included in the review to support
+evidence. If one author agreed to inclusion after full-text
+screening, the corresponding article was included.
+Individual studies were tabulated and brief description
+of the following parameters were provided: name of first
+author, year of publication, number of participants, country
+of study participants, study groups (treatment and
+control), study population (human or animal), objective
+of the study, study design, outcomes including statistical
+parameters and conclusions (Tables 1, 2, 3, 4, 5 and 6).
+Results
+After deduplication, the initial search yielded 4817
+results. 404 full-text articles were assessed for eligibility
+and further 133 studies were excluded for various technical
+reasons described above. The remaining 271 full-text
+articles were assessed, and after excluding studies where
+dental caries and/or systemic disease was not the primary
+variable of interest, and excluding literature reviews and
+data analysis of health records, 67 studies were included
+in the summary tables.
+Studies were included on the following systemic diseases:
+coronary artery disease (Table 1), congenital heart
+disease (Table 1), peripheral artery disease (Table 1),
+hypertension (Table 1), diabetes (type I and II) (Table 2),
+obesity (Table 2), metabolic syndrome (Table 2), cystic
+fibrosis (Table 3), asthma (Table 3), ulcerative colitis
+(Table 4), Crohn’s disease (Table 4), cerebral palsy
+(Table 5), attention deficit hyperactivity disorder
+(Table 5), rheumatoid arthritis (Table 6), systemic lupus
+erythematosus (Table 6) and chronic kidney disease
+(Table 6). A total of 56 human studies and 11 animal
+studies were included in the summary tables. Relatively,
+more studies on metabolic diseases (type I diabetes,
+type II diabetes, obesity and metabolic syndrome) were
+included in this review (40 total, 32 human and 8 animal)
+when compared to evidence found in other disease
+groups. Within 56 human studies included, 29 studies
+were case-control, 17 were cross sectional and 10 were
+longitudinal studies.
+Discussion
+Cardiovascular diseases and caries
+Dental caries experience was not significantly different
+when compared to controls in human studies of coronary
+and peripheral arterial disease, but overall oral inflammatory
+burden was significantly higher in cases due to
+increased burden of periodontal disease [29, 31]. Additionally,
+one study compared dental caries in patients
+with congenital heart disease with and without heart
+transplants, thus comparing the effect of immunocompromised
+status on dental caries [30]. Interestingly, transplant
+group had significantly lower caries experience
+when compared to group without heart transplant. The
+authors explained this difference based on the possibility
+of increased attention to dental care in children with
+heart transplants. While frequent antibiotic intake could
+explain this observation, in this study it was an exclusion
+criteria due to possible confounding of results.
+Other studies have evaluated attitudes of dentists and
+of parents of children who are at high risk for infective
+endocarditis [87] including those with congenital heart
+disease [88–90]. These findings suggest that specialists
+in pediatric dentistry and general practitioners who
+regularly treat children are more informed about appropriate
+dental care for children with congenital heart disease.
+There needs to be a concerted effort between the
+dentists, medical providers and parents to encourage
+prevention to achieve favorable outcomes in children at
+high risk for infective endocarditis due to their cardiac
+conditions.
+More atherosclerotic plaque and presence of genomic
+DNA from S.mutans was found in a group of ApoEnull
+mice, infected by intravenous injection (tail vein) of
+S.mutans and subjected to balloon angioplasty injury
+compared to non-injured mice (controls) [33]. Immunohistochemically,
+sections of atherosclerotic plaque
+from injured group showed macrophage invasion in the
+tunica adventitia of aorta and upregulation of TLR4. Further
+studies demonstrated that collagen-binding protein
+(cnm) is important for invasive potential of S .mutans
+[13]. Specifically, it was found that serotype f strain
+OMZ175 of S. mutans has this capability [91]. These
+studies further explores the invasive nature of serotype f
+strain OMZ175 of S. mutans in a model of cellular injury.
+While experimental data on the invasive potential for
+certain serotypes of S. mutans exists, expert panels do
+not recommend antibiotic prophylaxis prior to all dental
+procedures. The rationale behind such an approach
+is that the likelihood of developing infective endocarditis
+due to a bacteremia from dental procedure is significantly
+lower than bacteremia from routine at-home
+toothbrushing and flossing. Furthermore, it is not clear
+if antibiotic prophylaxis prior to dental procedures will
+prevent all potential for infective endocarditis secondary
+to dental procedures. In this scenario, the risk-benefit
+analysis appears to be of low benefit and high risk, taking
+into account the potential for antibiotic resistance.
+A recent meta-analysis of randomized controlled trials
+showed vesicoureteral reflux patients treated with antibiotic
+prophylaxis were 6.4 times more likely to develop
+a multidrug-resistant urinary tract infection [92]. It is
+reasonable to use conclusion from this study and exercise
+caution in frequent antibiotic prophylaxis for dental procedures
+till directly applicable results are available in the
+dental literature. While caution must be exercised, there
+are exceptions and it is thought that patients in certain
+high-risk categories may benefit from antibiotic prophylaxis
+[93].
+Ostalska-Nowicka et al. found association of dental
+caries with primary hypertension in a case-control study
+[32]. Authors found significantly higher salivary evening
+cortisol levels, uric acid concentrations in participants
+with caries and also found correlation between dental
+caries and microalbuminuria. These biochemical parameters
+are of importance in pathophysiology of hypertension
+and indicative of activation of renin-angiotensin
+system and reorganization of endothelium [32]. Considering
+the multifactorial nature of dental caries and hypertension,
+future studies that evaluate social determinants,
+diet and systemic inflammation secondary to oral and
+gastrointestinal dysbiosis may provide valuable input
+into common mechanisms of dental caries and primary
+hypertension [94–97].
+Metabolic disorders and caries
+Diabetes
+Several human clinical studies and animal studies have
+addressed the connection between dental caries and
+diabetes. Outcomes other than caries were also studied,
+including salivary composition, microbiology and periodontal
+status. Hegde et al. found that caries active participants
+who were diabetic demonstrated significantly
+reduced salivary calcium and significantly increased
+alkaline phosphatase when compared to caries active
+non-diabetic participants [34]. Similarly, Al-Badr et al.
+demonstrated that children with type 1 diabetes had significantly
+lower salivary pH and higher counts of Lactobacilli.
+Reduced salivary pH and higher lactobacilli
+count are crucial factors for demineralization of teeth
+and exacerbation of dental caries [38]. Reduction in salivary
+pH and increase in counts of cariogenic microbiota
+can occur secondary to cariogenic diet and poor plaque
+control and was demonstrated as such by Kamran et al.
+[39] and therefore, it is important to emphasize the multifactorial
+and overlapping nature of dental caries and
+obesity before drawing conclusions from study of select
+variables. Furthermore, studies into the association of
+diabetic control and other parameters of diabetes phenotype
+with dental caries will increase our understanding of
+risk stratification and consequently, prevention of dental
+caries in diabetic patients [40, 41]. Two other studies
+showed that lifestyle, dietary and oral care factors were
+significantly different between groups with controlled
+and uncontrolled diabetes measured by glycated Hb [35,
+36]. Similarly, when pediatric cohort with phenylketonuria
+and those with type 1 diabetes were compared, children
+with phenylketonuria had significantly higher caries
+experience [37].
+Animal studies used rodent models of diabetes (primarily
+type 1 diabetes) and hyperglycemia to study its
+relationship with dental caries and other tooth-related
+changes [20–27]. Changes in enamel, dentin, pulp and
+salivary glands with alveolar bone loss were compared,
+both to control groups and groups with intervention
+using fluoride application and insulin administration.
+Consistent results from animal models demonstrated
+that hyperglycemia in diabetic rodents was associated
+with increased dental caries [22–26]. In addition, these
+studies showed that there were histological and morphometric
+changes in enamel, dentin and pulp in diabetic
+animals. There were reduction in volume of pulpal connective
+tissue and enamel and dentin, along with excessive
+wear of enamel [20, 21, 25, 27]. Salivary histological
+change included vacuolization in acinar cells and functionally,
+reduction in saliva production that resulted in
+xerostomia [25, 27]. Carious lesions positively correlated
+with gingivitis and periodontitis [23, 26]. Lastly, both
+fluoride application and insulin administration interventions
+resulted in reduction of dental caries, marginal gingivitis
+and periodontitis [22, 24].
+Obesity
+Of all systemic diseases, an association between obesity
+and caries was more robust than noted for other systemic
+conditions, as documented in twenty-two human clinical
+studies including eight longitudinal clinical studies.
+Data from longitudinal studies did not consistently find
+an association between obesity and dental caries and
+studies with larger samples sizes did not find association
+between dental caries and obesity [42, 43, 47, 48, 51–53,
+57, 58, 60, 62, 63]. In studies where obesity and metabolic
+syndrome were found to be associated with caries,
+odds ratio ranged from 1.01 to 3.7 [42, 43, 49, 52, 63–65].
+Interestingly, a relationship between low BMI and dental
+caries was noted and an inverse relationship between
+overweight status and caries was seen in some studies
+[44, 46, 58]. Chala et al., through statistical modeling
+found a U-shaped relationship between BMI and caries,
+which means that caries was associated with both underweight
+and overweight status [44] and this U-shaped relationship
+between BMI and caries has been reproduced in
+two recent studies. Untreated dental caries can impact
+overall nutritional status and subsequently BMI. Further,
+reduction in masticatory efficiency can promote intake
+of softer foods and increase in dental caries burden [56,
+61]. Longitudinal studies are needed to examine relationship
+between onset and progression of dental caries and
+their effect on BMI. A study showed significant weight
+gain in children when teeth with severe dental caries and
+pulpal involvement were extracted [98]. Mixed results on
+the association of BMI and dental caries are also indicative
+of the complex etiologic nature of dental caries. Various
+factors including access and attitude to dental care,
+socio-economic status, maternal education, oral habits,
+diet, biological and microbiological factors interact in
+caries etiopathogenesis [99]. Additionally, variable definitions
+and surrogate markers used in association studies
+further complicate consensus and ability to synthesize
+reproducible conclusions [100]. An important implication
+of the mixed results observed for caries association
+with systemic conditions likely results in lack of reliable,
+reproducible risk prediction tools for dental caries [101].
+It appears that past and current caries experience along
+with frequent follow ups and use of fluoride for caries
+prevention remain the most effective tools for caries prevention
+in clinical practice.
+Respiratory diseases and caries
+Asthma
+Most human clinical studies were undertaken in pediatric
+cohorts and were case-control in design, aimed at
+comparing groups with asthma and caries to groups
+with caries alone. Caries burden was typically measured
+using DMFT/dmft and DMFS/dmfs indices along with
+other variables, including microbiological (S. mutans and
+Lactobacilli counts, oral microbiota assessment using
+16 S sequencing) [68, 69, 74], medications [70], sugary
+diet [71], salivary parameters [72, 74] and genetics [18].
+Results reinforced previously discovered etiological factors
+for dental caries in children; namely, consumption
+of sugary drinks [71], higher S. mutans counts, higher
+plaque index in caries active children [68], and lower salivary
+flow rate and pH [72, 74]. Other factors related to
+dental caries activity included tablet delivery of asthma
+medication [70], the abundance of Veillonella sp. [69] and
+SNPs of the ameloblastin gene (AMBN rs4694075) [18].
+Heidari et al. explained the association of higher caries
+burden with asthma to the use of tablet form of asthma
+medication on grounds that tablet formulation delivers
+a higher drug dose when compared to syrup and
+spray forms of medications[70]. It is possible that these
+patients presented with severe symptoms of asthma and
+therefore required higher drug dose, but that information
+was not clearly presented. Other studies have shown an
+association between inhaled corticosteroids for asthma
+and higher burden of dental caries [73, 102, 103]. Additionally,
+while the duration of intake of medication was
+not associated with severity of caries in this study, there
+are other studies that found contrary results [68, 104].
+Cherkasov et al. found an increased relative abundance
+of Veillonella from dental biofilm in caries-affected children
+when compared to caries-free children with asthma
+[69]. While Veillonella is not considered a cause of dental
+caries like S. mutans, these results are not surprising.
+Veillonella can metabolize lactate which is produced
+in abundance by cariogenic streptococci in dental biofilms
+[105], and various studies have previously demonstrated
+increased levels of Veillonella in carious lesions
+[106–110].
+Ergöz et al. found an association between AMBN
+rs4694075 and dental caries in asthmatics, which is an
+interesting finding. It should be noted that other genome
+wide association studies (GWAS) studies and GWAS
+meta-analyses arrived at differing conclusions [111, 112].
+Additionally, Ergöz et al. did not mention any dental
+developmental defects in their cases and so the potential
+of these being confounding factors may not be applicable.
+However, it may be argued that since mutations in
+ameloblastin (AMBN) and other dental development
+genes are related to dental developmental defects [113],
+clinical information on absence of dental developmental
+defects may be considered when evaluating and reporting
+genetic association of dental development genes and
+asthma.
+While it appears that nature of the association of
+asthma with dental caries is uncertain, it is prudent to
+employ prevention strategies for dental caries in asthma
+patients [114, 115].
+Cystic fibrosis (CF)
+Two human studies described an association between
+dental caries and CF [66, 67]. These studies evaluated
+caries, molar-incisor hypomineralization, oral hygiene,
+diet and salivary factors in groups with and without CF.
+Peker et al. noted lower caries experience (DMF-T) in CF
+patients, and suggested this could be related to frequent
+use of antibiotics [67]. Salivary factors studied were not
+significantly different between the groups. Contrary
+to human clinical studies, a CF mouse model showed
+significantly higher caries experience and significantly
+reduced salivary bicarbonate concentration in CF mice
+[75]. Although human salivary studies of CF did not
+show significant differences between controls and cases,
+interest in exploring salivary biochemical composition
+in CF patients is practical. CF is caused by mutations in
+the CFTR gene (CF transmembrane conductance regulator)
+which is a chloride and bicarbonate channel [116]
+and CFTR mRNA has been localized in the ductal cells
+of salivary glands [117]. In a mouse model with deletion
+of phenylalanine 508, significantly increased counts
+of S.mutans along with increased caries incidence and
+severity were noted. In the same mouse model, salivary
+bicarbonate concentration was significantly reduced
+when compared to wildtype littermates [75]. However,
+human studies on salivary parameters in CF patients do
+not consistently show low pH and higher caries severity
+and systematic review on this data has shown limitations
+in study design and high risk of bias [118].
+Gastrointestinal diseases and caries
+Limited clinical studies were found assessing a connection
+between caries and gastrointestinal diseases, including
+studies of inflammatory gastrointestinal diseases
+[76–78]. A human clinical study (case-control) showed
+that pediatric participants with inflammatory bowel
+disease had significantly more caries and periodontal
+inflammation than healthy participants [76, 77]. Similar
+results in an adult cohort has been shown previously
+[119]. In another study, CD patients who had resective
+surgery demonstrated a greater caries experience, cariogenic
+microbiota, oral hygiene and poor diet when compared
+to controls [78]. In other studies, CD patients have
+demonstrated increased caries prevalence [77, 119, 120],
+increased sugar intake [121, 122] and increased levels
+of S. mutans [123], one of the bacterial species strongly
+linked to caries activity. The presence of these factors
+creates a conducive environment for accelerated caries
+activity. Patients with IBD have shown increased odds
+for dental caries in a recent study, confirming previous
+results in aforementioned studies (4.27 for CD and 2.21
+for UC) [77].
+Kojima et al. undertook an interesting study using a
+colitis mouse model to study effects of a serotype of S.
+mutans. Results showed that serotype k of S. mutans was
+able to evade host response in peripheral blood due to
+variation in glucose surface side chains. Also, uptake of S.
+mutans by hepatocytes, which was potentially facilitated
+by collagen binding protein, aggravated colitis due to
+production of IFN-γ by liver [79].
+S. mutans can be divided into four serotypes (c, e, f,
+k) and serotypes f and k predominantly carry the cnm
+gene. The presence of cnm gene confers a collagen binding
+property to specific S. mutans serotypes and has been
+demonstrated to be essential for invasiveness into human
+coronary artery endothelium [13]. In the study by Kojima
+et al., significantly more IBD patients showed cnm encoding
+S. mutans (serotype k or f). Of note, this study showed
+hepatocyte involvement by S. mutans as a crucial step
+in the colitis mouse model while S. mutans was undetectable
+in samples from the gut [79]. This observation
+suggests that oral microbiota may affect a disease state
+in an organ that it does not invade directly by modulating
+the inflammatory environment. These authors have
+published follow up studies, investigating the relationship
+between S. mutans serotype k and liver disease in
+mouse models. These studies showed aggravation of nonalcoholic
+steatohepatitis by a specific strain of S.mutans
+through participation of cell surface proteins, including
+collagen-binding protein [124, 125].
+Neurologic diseases and caries
+Cardoso et al. studied dental caries burden in patients
+with cerebral palsy and noted that these patients had high
+prevalence of dental caries and mean DMFT/dmft values
+of 1.71 and 2.22 respectively. Further, they found that caregiver
+awareness and education was associated with dental
+caries experience in these patients (PR = 1.439) [80].
+Control of dental biofilm in patients who are limited in
+their physical and mental capability is challenging [126,
+127]and becomes the collective undertaking of caregiver
+and dentist and thus, education of the caregiver plays a
+crucial role in achieving this collective goal [80]. Similarly,
+enhanced preventive measures can be extended in
+the geriatric population where compromised motor control
+and masticatory efficiency results in a shift to a softer
+diet and that along with exposed root surfaces further
+increases possibility of dental caries [128, 129].
+Delwel et al. raised an important point about composite
+nature of DMFT index, wherein caries experience
+(decayed component of DMFT) should be evaluated separately
+to assess caries burden and for statistical comparison
+between groups [130]. Overall, standardization in
+dental indices and utilization of semantics and ontology
+frameworks should enhance our ability for data analysis
+and draw robust conclusions.
+In a case-control study of participants with ADHD,
+Paszynska et al. found significantly higher BMI in test
+group and significantly higher ICDAS 5 and 6 scores
+(teeth with advanced caries) in the primary dentition.
+They also found that increased intake of sugary foods and
+drinks were significantly higher in ADHD group[81]. It
+appears that in studies determining associations of dental
+caries with neurological and behavioral disorders,
+standardized interviews for caretakers, food habits and
+other social determinants will be crucial in order to draw
+informed conclusions and not extrapolate mechanistic
+links between systemic diseases and dental caries.
+Other diseases and caries
+In our review of literature, we found a few articles that
+could not be categorized by organ system and/or were
+not adequate in number to warrant their own section in
+this review. These diseases included RA, chronic renal
+diseases and systemic lupus erythematosus.
+DMFT/DMFS were associated with RA as assessed
+by disease activity score and serologic markers. Also,
+S.mutans was significantly higher in RA patients and
+indices for oral inflammatory burden and disease were
+associated with serologic markers for RA. Furthermore,
+the oral inflammatory burden was significantly higher in
+early untreated RA when compared to chronic RA [82].
+RA is a risk factor for both caries and periodontal disease
+[3]. The plausible link between compromised plaque
+control and joint dysfunction is reasonable but the contribution
+of RA to overall inflammatory burden is also
+an important consideration [131]. Active SLE patients
+showed increased dental caries activity including smooth
+surface caries when compared to inactive SLE. Furthermore,
+salivary pH and flow were significantly reduced
+and high counts of S.mutans were noted [84]. Another
+study showed relationship between compromised biofilm
+control, SLE severity and dental caries [85]. These
+results raise the possibility of SLE being coincidental in
+the direct relationship between poor oral hygiene and
+dental caries. In one study that explored associations
+between dental caries and chronic kidney disease (CKD),
+disease group demonstrated significantly higher CFUs
+of S.mutans and IgA response but significantly lower
+filled teeth when compared to controls [86]. Importantly,
+in this study, plaque index was similar between the two
+groups. Other studies have demonstrated lower dental
+caries in CKD patients [132, 133] and proposed the need
+for longitudinal studies exploring association between
+dental caries and CKD.
+Although evidence of the association between SLE,
+RA and dental caries is limited, risk stratification of
+patients in consultation with rheumatologist may facilitate
+preventive dental care. Determination of xerostomia
+in patients with SLE or RA is advised since these
+patients often have associated Sjögren’s syndrome (secondary
+Sjögren’s syndrome) and may experience higher
+dental caries burden secondary to xerostomia, requiring
+preventive measures [134]. Sjögren’s syndrome is
+a chronic inflammatory autoimmune disease that usually
+involves exocrine glands including salivary glands
+[135]. Additionally, other risk factors such as past caries
+experience, ability to maintain oral hygiene if limited by
+joint dysfunction and root exposure commonly noted
+in elderly patients may help with development of a customized
+dental caries preventive care plan. Similarly,
+diet in patients with CKD tend to be carbohydrate rich
+and that along with poor oral hygiene can increase risk
+for dental caries [132]. In the caries prevention plan for
+patients with CKD, oral hygiene should be maintained
+meticulously through proper home care and periodic
+dental appointments.
+The oral cavity has evolved with a symbiotic and
+diverse microbiota which serves under some circumstances
+as a safeguard against numerous environmental
+challenges [136]. Conditions that disrupt this balance
+include breach in mucosal defenses and acquisition
+of pathogenic species, or pathogenic traits by certain
+commensal microbiota. Examples of acute local infections
+that occur secondary to breach of mucosal barriers
+and/or colonization by pathogenic microbiota
+include dental abscess and lymphadenopathy. Dental
+caries may also influence a systemic response through
+direct extension of pertinent microbiota or resulting
+inflammation. A systemic exposure to effects of caries
+is also plausible through marginal caries that extends
+to the periodontium or by pulpal involvement. The systemic
+influence of dental caries both by direct extension
+of oral microbiota and creation of a pro-inflammatory
+state are reasonable hypotheses. However, the obvious
+challenge is to prove such hypothetical mechanisms by
+human studies. The chronicity of caries as a disease and
+the ethical challenges imposed by not treating dental
+caries are significant challenges for future studies.
+We expect that mechanistic explanations of dental
+caries-systemic disease associations in future studies will
+likely come from animal models. Also, animal models
+can inform human studies on variables of interest. In this
+regard, longitudinal studies that are aimed at evaluating
+oral and systemic variables of interest in periods of accelerated
+dental caries in the human host will prove useful.
+This study is a scoping review and provides an overview
+of available evidence on the topic of associations between
+dental caries and systemic diseases. It has a wider scope
+and does not limit the analysis to one systemic disease.
+This analysis is not as rigorous as that offered by systematic
+reviews and meta-analyses and the information
+presented should be used in complement to systematic
+reviews and meta-analyses on this topic.
+Conclusions
+Limited clinical evidence was found connecting several
+systemic diseases and dental caries. When adequate
+clinical results were available, it offered mixed evidence
+of such associations. Interesting animal studies were
+noted that could generate clinical hypotheses and further
+investigations in rodent models for cardiovascular injury
+and hyperglycemia. Best evidence from human and animal
+studies described the association between metabolic
+diseases and dental caries. Animal studies using
+rodent models demonstrated significant changes in dental
+tissues following hyperglycemia. Also, an association
+between hyperglycemia and dental caries was consistently
+noted in animal studies. Inadequate data was found
+to suggest any modifications to current clinical practice
+or prevention guidelines.

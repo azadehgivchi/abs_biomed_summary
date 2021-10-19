@@ -1,0 +1,291 @@
+At any given time, 5–8 % of the general population aged
+60 and over are living with dementia, and it is expected
+that 152 million people in the world will have dementia
+by 2050 [1]. The impact of dementia is far reaching,
+as it affects not only the person with dementia, but also
+their family carers, the healthcare system and society as
+a whole [1]. Dementia is often unrecognized, and there
+is an underuse of diagnostic assessment tools and a lack
+of attention to the issues faced by family caregivers [2].
+Approximately 65 % of dementia cases are undiagnosed
+in primary care, which negatively impacts these patients
+by not implementing advanced care planning and management
+strategies before the dementia progresses
+[3]. The U.S Preventative Services Task Force recommends
+that clinicians assess cognitive functioning when
+a patient is suspected of cognitive impairment based on
+the physician’s observation or caregiver concerns [3].
+Canadian consensus guidelines similarly do not recommend
+asymptomatic screening, but instead suggest use
+of validated screening tools if there is clinical concern for
+a cognitive disorder [4]. Common neuropsychological
+screening tools administered by family physicians (FPs)
+include the Mini-Mental State Examination (MMSE) and
+Clock Drawing Test (CDT) [3]. However, it is not clear
+that these are the best screening tools for use in primary
+care.
+Time constraints are often an issue for family doctors
+as it relates to diagnosing and managing dementia.
+The time allocated for a typical office visit makes
+it challenging to perform a cognitive assessment [5].
+FPs often feel uncertainty regarding the management
+of dementia after a diagnosis has been made [5]. This
+highlights the current need to better optimize dementia
+care within primary care. The objective of this systematic
+review of systematic reviews was to determine
+the most effective evidence-based strategies to diagnose
+and manage dementia within primary care. Specifically,
+we seek to understand what practices FPs can
+undertake to ensure accurate and timely testing and
+management.
+Methods
+This systematic review was conducted in accordance
+to PRISMA (Preferred Reporting Items for Systematic
+Reviews and Meta-analyses) guidelines [6], and the protocol
+is registered in Open Science Framework [DOI
+https:// doi. org/ 10. 17605/ OSF. IO/ E4AW5]. All data generated
+or analysed during this study are included in this
+published article in Additional file 1: Appendixes 1 and
+2. A systematic review of systematic reviews was determined
+to be the past method to further summarize and
+tailor the current body of literature on this topic into a
+format that would address the existing evidence to practice
+gap.
+Data Sources
+The systematic literature search was developed in consultation
+with a health sciences librarian, with the final
+search being completed 11 May 2020. The following databases
+using the Ovid platform were searched without a
+restriction to publication date: MEDLINE, EMBASE,
+PsycINFO and The Cochrane Database of Systematic
+Reviews. We searched the following clusters of search
+terms: Family Practice and Dementia. In each category,
+we used controlled vocabulary such as Medical Subject
+Headings (MeSH) as well as keywords. Within each cluster,
+terms were combined with OR, and between the clusters
+with AND. We then used CADTH search terms for
+the systematic review study designs [7] (Additional file 1:
+Appendix 1). The reference list of a previous relevant systematic
+review of systematic reviews published in 2014
+was also searched [8].
+Study Selection
+Systematic reviews were considered if they met the following
+inclusion criteria.
+• Population: Primary care or family practice settings
+seeing persons with dementia.
+• Intervention: The detection, diagnosis, treatment
+and/or management of dementia including models of
+care, pathways and/or protocols.
+• Comparators: Usual care, wait-list control or other
+interventions within the scope of the review.
+• Outcomes: The description of the detection, diagnosis,
+treatment or management strategies, along with
+measures of their acceptability, efficacy or effectiveness
+in the provision of care.
+• Study design: Systematic review, either quantitative
+or qualitative.
+Articles were also selected for inclusion if they were
+English-language articles, included relevant descriptions
+of the interventions used, and outcome data was available.
+Two reviewers (B.F and J.H.-L.) independently screened
+the titles and abstracts for possible inclusion. If either
+reviewer thought the citation was relevant or potentially
+relevant, the full-text article was then retrieved for further
+evaluation. All full-text articles were assessed independently
+for inclusion by B.F and J.H.-L. Any conflicts
+were resolved through discussion. One reviewer (B.F.)
+independently extracted the following information from
+the included full-text studies using a standardized data
+extraction form: authors, year of publication, country
+where the review was conducted, number of studies
+Results
+The initial search identified 417 unique citations for
+possible inclusion after duplicates were removed.
+After searching the reference list of a relevant previous
+systematic review of systematic reviews [8], three
+additional citations were collected and screened for
+eligibility. After screening the 420 citations, 369 were
+excluded because they did not meet the inclusion criteria.
+From the 51 full-text articles screened, 30 articles
+were excluded. Reasons for exclusion include not being
+a systematic review (n = 20), describing a setting other
+than primary care (n = 1), failing to describe the intervention
+(n = 3), or a poor AMSTAR 2 rating (n = 6).
+This resulted in the inclusion of 21 articles (Fig. 1). The
+included studies were published between June 2003 and
+July 2019.
+Screening tools
+Nine [10–18] out of the 21 included systematic reviews
+describe screening tools for use in primary care
+(Table 1). Various screening tools, assessing cognitive
+impairment or dementia, were compared in terms of
+cognitive outcomes assessed, time to administer, and
+sensitivity and specificity. The MMSE was used as a reference
+standard in the majority of the included studies.
+The Mini-Cog (n = 5) and the MMSE (n = 7) were the
+most widely studied tools among the included reviews.
+The Mini-Cog takes approximately 3 min to administer,
+and sensitivity ranges from 76 to 100 % and specificity
+from 27 to 93 % [10, 12, 14, 17] depending upon the cutoff
+value used.
+Five systematic reviews examining the MMSE
+found that it took between 4 and 15 min to administer
+depending upon the severity of dementia [12–16].
+One study found a cut point of 17 had a higher specificity
+(93 %, 95 % CI: 89-96 %) than a cut point of 24
+(46 %, 95 % CI: 40-52 %), while the sensitivity fell from
+100 % (95 % CI: 95-100 %) to 70 % (95 % CI: 59-80 %)
+respectively [16].
+The Abbreviated Mental Test Score (AMTS) achieved
+high sensitivity (100 %, 95 % CI: 70-100 %) and specificity
+(82 %, 95 % CI: 72-90 %) [12] compared to a clinical
+reference standard, and took the shortest amount of
+time (3.16 to 5 min) [12, 14] within primary care. The
+AMTS was validated for use in general practice [12].
+Diagnostic accuracy and physician education
+The diagnosis of dementia by FPs varies but is generally
+low, as reported in 3 different systematic reviews [11,
+16, 19]. In an (urban/rural) study, when following usual
+practice, only half of cases of mild dementia were diagnosed
+by the FP [19]. In a separate review, un-diagnosed
+dementia accounted for 50 − 66 % of all cases of dementia
+in three primary care samples studied [11, 20−22].
+Another review reported that the recognition of cognitive
+impairment in usual practice achieved a detection
+sensitivity of 62.8 % (95 % CI: 38.0-84.4 %) and specificity
+of 87.3 % (n = 3; 95 % CI: 84.9-89.4 %) [16]. However,
+medical record notations mentioning dementia were
+present in only 37.9 % (95 % CI: 26.8-49.6 %) and FPs
+recorded a definitive dementia diagnosis in the medical
+record in only 10.9 % (95 % CI: 6.8-15.7 %) of mild cognitive
+impairment (MCI) cases [16].
+Five of six studies found that FPs had an increased
+likelihood of suspecting dementia after attending an
+educational seminar [23, 24]. One study found that the
+length of the educational seminar impacted the degree
+of knowledge about dementia management [24].
+Management of dementia
+Decision aids, advanced care planning (ACP), collaboration
+with a case manager (CM) and practice guidelines
+are all interventions with variable impact on helping
+facilitate the management of dementia in primary care
+[23, 25−29] (Table 2). A CM in particular, such as a nurse
+specialized in care of older adults, can be an asset to a primary
+care team with the collective goal of collaborating
+towards meeting the needs of the patient-caregiver dyad
+[30]. In the case management intervention group of a
+randomized controlled trial, neuropsychiatric symptoms
+of dementia decreased (Mean Effect Size (MES) = 0.88),
+as well as the numbers of hospital (MES = 0.66) and
+emergency department admissions (MES = 0.17) [26].
+However, it was found that there was a lack of successful
+implementation of a CM into care teams within primary
+care because of the absence of CMs within the primary
+care setting, and 52 % of CMs reported ineffective communication
+between the CM and FPs [26].
+Only one systematic review looked at pharmacological
+treatments in the context of primary care [11]. There was
+no clinically important difference observed on neuropsychiatric
+symptoms between patients with mild to moderate
+Alzheimer’s disease taking cholinesterase inhibitors
+versus placebo [11].
+Supporting caregivers of people with dementia
+FPs reported feeling highly involved in dementia care
+[31]. However, family caregivers reported that communication
+with the FPs was unsatisfactory, specifically
+around awareness of daily care problems (e.g. neuropsychiatric
+symptoms) [31]. The primary care educational
+intervention, Resources for Enhancing Alzheimer’s Caregiver
+Health (Department of Veterans Affairs) (REACH
+VA), involves a trained coach who provides sessions to
+the caregiver on topics relating to self-care, problem solving,
+mood management and stress management [32].
+REACH VA was successful at increasing carer ability to
+manage problem behaviours and improved outcomes
+for caregivers, such as decreased burden, depression and
+caregiving frustrations [30, 31]. A meta-analysis showed
+that 58 % (95 % CI: 43-72 %) of family caregivers were in
+favor of early dementia diagnosis, 50 % (95 % CI: 35-65 %)
+needed education on dementia, and 23 % (95 % CI:
+17-31 %) needed in-home support [33].
+Discussion
+This systematic review of systematic reviews identified
+evidence to inform processes for diagnosis and management
+of dementia within primary care. While the diagnostic
+accuracy of a tool may be high, the time taken to
+administer the tool and copyright limitation for tool use
+are also important to consider in the context of a busy
+primary care office. The MMSE, which is copyrighted,
+may not be the best test for use in general practice.
+Instead, the AMTS appears to be the most suitable tool
+for use in a busy primary care office, as it has good diagnostic
+accuracy, does not appear to be copyright protected
+and takes less time to administer than the MMSE
+[12, 14, 15]. The Mini-Cog is also quick to administer, and
+a Cochrane systematic review evaluating the Mini-Cog
+across care settings recommended that the Mini-Cog
+be used initially as a case finding test to identify patients
+who would benefit from additional cognitive evaluations
+for dementia [34]. However, the sensitivity of the Mini-
+Cog may not be high enough to be considered useful in
+primary care [17], as too many cases would be missed.
+The current literature suggests that the implementation
+of case management directly into the primary care setting
+can be of great benefit to the patient-caregiver dyad,
+as well as to the health care system. The CM can help
+facilitate the advanced care planning process [29], as well
+as decrease the frequency of neuropsychiatric symptoms
+of dementia, symptoms of depression, hospital admissions
+and length of stay in hospital; caregivers can also
+benefit by experiencing decreased burden and depression
+[26]. A Cochrane review evaluating the effectiveness of
+case management in community settings lends support
+to dementia case management, finding that carer burden
+decreased and fewer patients where institutionalized
+after 6 months [35]. Further, there was a reduction in
+residential home and hospital use after 6 months of case
+management implementation [35]. There is however a
+lack of evidence related to cost effectiveness of case management.
+Facilitating successful case management and
+advanced care planning includes early implementation
+while cognitive decline is mild, involving all stakeholders
+(caregiver, patient, family and FP), and fostering a good
+relationship between the FP and patient-caregiver dyad
+[29]. The CM should be physically present in the primary
+care setting, clearly explain their role to all stakeholders,
+implement high-intensity case management, and communicate
+frequently to all stakeholders in order to ensure
+positive outcomes for the patient-caregiver dyad [26, 27].
+Combining educational seminars for FPs with dementia
+case management may be the best management strategy
+[23, 24]. Educational interventions focused on dementia
+diagnosis and management in the context of primary
+care increased the likelihood of FPs suspecting dementia,
+while also improving the experience of the family caregiver
+and the patient [23, 24].
+There was limited evidence concerning the use of pharmacological
+interventions for the treatment of dementia
+within the primary care setting. Unfortunately, many
+pharmacologic studies do not focus on primary care or
+FPs, making it difficult to draw conclusions about the
+approach to take regarding the use of medications in
+this context. One systematic review found no clinically
+important differences between groups receiving cholinesterase
+inhibitors and those receiving a placebo in the
+development of behavioral and neuropsychiatric symptoms
+of Alzheimer’s disease [11]. Similarly, cholinesterase
+inhibitor use was found to have uncertain clinical benefit
+in a recent systematic review that explored the benefits
+and harms of prescription drugs for the treatment of Alzheimer
+disease, regardless of care setting [36]. This recent
+review also found limited benefit for memantine.
+Conclusions
+The AMTS is suitable for detecting dementia within primary
+care given its high sensitivity and short administration
+time. To improve dementia identification, FPs
+should participate in educational interventions. Incorporation
+of CMs into the primary care team can help
+with dementia management and result in improved outcomes.
+There is limited evidence supporting the benefit
+for pharmacological treatments in the context of primary
+care.

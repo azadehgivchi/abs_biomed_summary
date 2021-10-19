@@ -1,0 +1,14 @@
+Background: The lung allocation system in the U.S. prioritizes lung transplant candidates based on estimated preand
+post-transplant survival via the Lung Allocation Scores (LAS). However, these models do not account for
+selection bias, which results from individuals being removed from the waitlist due to receipt of transplant, as well
+as transplanted individuals necessarily having survived long enough to receive a transplant. Such selection biases
+lead to inaccurate predictions.
+Methods: We used a weighted estimation strategy to account for selection bias in the pre- and post-transplant
+models used to calculate the LAS. We then created a modified LAS using these weights, and compared its
+performance to that of the existing LAS via time-dependent receiver operating characteristic (ROC) curves,
+calibration curves, and Bland-Altman plots.
+Results: The modified LAS exhibited better discrimination and calibration than the existing LAS, and led to changes
+in patient prioritization.
+Conclusions: Our approach to addressing selection bias is intuitive and can be applied to any organ allocation
+system that prioritizes patients based on estimated pre- and post-transplant survival. This work is especially relevant
+to current efforts to ensure more equitable distribution of organs.

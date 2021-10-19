@@ -1,0 +1,251 @@
+Background
+Cardiovascular disease is the leading cause of mortality and disability around the world [1]. Despite recent
+clinical advances in percutaneous coronary intervention
+(PCI) and medical therapy [2], coronary artery disease
+(CAD) remains a major issue worldwide [1]. Assessment
+of risk stratifcation for mortality and cardiovascular
+events in patients with CAD is therefore crucial when
+making medical decisions [3, 4].
+Malnutrition is common among hospitalized patients
+and has been reported to be associated with worsened
+prognosis among patients with chronic diseases such as
+cancer [5] and renal failure [6]. Various tools are available
+for the evaluation of nutritional status, and the geriatric
+nutritional risk index (GNRI) is widely used as a simple
+method for screening nutritional status using body mass
+index (BMI) and serum albumin [7]. Te GNRI was a tool
+created to study and predict nutrition-related complications in elderly patients and was initially proposed for
+sub-acute care setting [7]. Recent studies have demonstrated that GNRI is associated with worsened prognosis
+in heart failure patients [8], and with mortality in patients
+with chronic life-threatening ischemia [9]. GNRI could
+thus be important for risk stratifcation even in patients
+with cardiovascular disease.
+Stable CAD patients with myocardial damage display
+poor prognosis compared to those without myocardial
+damage [10]. However, the impact of malnutrition on
+the prognosis of CAD patients with myocardial damage
+remains unclear. Te present study aimed to evaluate the
+prognostic value of nutritional status using GNRI in stable CAD patients with myocardial damage.
+Methods
+Study population
+We evaluated a retrospective cohort in a single center,
+investigating 241 consecutive patients with stable CAD
+and myocardial damage admitted to Kagoshima University Hospital between January 2015 and August 2018 for
+PCI. All patients underwent coronary angiography and
+successful revascularization for the culprit lesion by PCI
+using a standard technique with second-generation drugeluting stents and intravascular ultrasound. All patients
+were administered dual antiplatelet therapy (aspirin and
+thienopyridine: prasugrel or clopidogrel) before the procedure. Patients were followed up at our hospital or by
+their physician. In this study, patients with acute coronary syndrome were excluded. Patients who could not be
+tracked after discharge were also excluded. Acute coronary syndrome was defned as either acute myocardial
+infarction (ST-segment elevation myocardial infarction
+or non-ST segment elevation myocardial infarction) or
+unstable angina pectoris.
+Measurements and assessments of GNRI
+Laboratory values were obtained at the time of admission before PCI. Levels of serum albumin, cholinesterase, high-sensitivity C-reactive protein (hs-CRP),
+high-density lipoprotein cholesterol (HDL-C), lowdensity lipoprotein cholesterol (LDL-C), total cholesterol (T-CHO), triglycerides, creatinine, uric acid, and
+fasting plasma glucose were measured, and estimated
+glomerular fltration rate (eGFR) was calculated using
+the Modifcation of Diet in Renal Disease equation with
+coefcients modifed for Japanese patients as follows:
+eGFR (ml/min/1.73  m2
+)=194×serum creatinine (mg/
+dL)−1.094×age (years)−0.287 (×0.739 for female subjects)
+[11]. Blood samples were drawn after 12 h of fasting and
+serum levels of albumin were measured by modifed bromocresol purple method (KAINOS, Tokyo, Japan).
+Tis study assessed nutritional status using
+the GNRI, calculated using the following equation: GNRI=14.89×serum albumin level in g/
+dL+41.7×(body weight in kilograms/ideal body weight)
+[7]. Body weight/ideal body weight was set to 1 when the
+bodyweight of the patient exceeded the ideal bodyweight.
+Ideal bodyweight was calculated using a BMI of 22  kg/
+m2
+. BMI was calculated as bodyweight in kilograms
+divided by height in meters squared. Japan Society for the
+Study of Obesity suggests that ideal BMI is 22 kg/m2
+ and
+obesity is a BMI greater than or equal to 25 [12]. Terefore, we used 22 kg/m2
+ as ideal BMI.
+Defnitions
+In all patients, echocardiography was performed on
+admission before PCI, and left ventricular asynergy due
+to myocardial ischemia or infarction was defned as myocardial damage in this study. Conventional transthoracic echocardiographic examinations were performed
+using a commercially available ultrasound transducer
+and equipment. Echocardiography measurements were
+performed according to the guidelines of the American Society of Echocardiography [13]. We estimated left
+ventricular ejection fraction (LVEF) using the biplane
+Simpson method. Myocardial ischemia was evaluated by fractional fow reserve or myocardial perfusion 
+single-photon emission computed tomography. Patients
+with GNRI<92 at baseline were defned as the malnourished group based on previously published thresholds
+[7]. Hypertension was defned based on the following
+criteria: systolic blood pressure≥140  mmHg, diastolic
+blood pressure≥90  mmHg, or the use of antihypertensive medication. Diabetes mellitus was defned based on
+the following criteria: use of antihyperglycemic medication, fasting plasma glucose concentration>126  mg/
+dL, or glycosylated hemoglobin concentration≥6.5% (in
+accordance with the National Glycohemoglobin Standardization Program) [14]. Dyslipidemia was defned as
+low-density lipoprotein cholesterol≥140  mg/dL, triglycerides≥150 mg/dL, high-density lipoprotein cholesterol<40  mg/dL, or use of antidyslipidemic medication.
+Current smokers were defned as those who were actively
+smoking at the time of admission.
+Clinical outcomes
+Clinical outcomes were retrospectively collected during
+follow-up. All-cause death was defned as any death after
+PCI. Major cardiovascular and cerebrovascular events
+(MACCE) constituted a composite endpoint including all-cause death, non-fatal myocardial infarction, and
+ischemic stroke.
+Patients were divided into a malnourished group
+(GNRI<92) and a non-malnourished group, then
+MACCE after PCI was compared between groups.
+Statistical analysis
+Quantitative data are presented as mean±standard
+deviation or median and interquartile range (IQR).
+Fisher’s exact test was used to compare the incidences
+of categorical variables, expressed as frequency and percentage. Continuous variables were compared between
+malnourished and non-malnourished groups using Student’s t-test (for values showing a normal distribution) or
+the Wilcoxon rank-sum test (for values showing a nonnormal distribution). Cumulative survival rate and rate
+of MACCE were estimated using a Kaplan–Meier curve
+evaluated by log-rank testing. Cox proportional hazards
+regression analysis was used to analyze factors associated with MACCE, reporting hazard ratios (HRs) and
+95% confdence intervals (CIs). Variables showing values
+of p<0.05 on univariate analysis were entered into multivariate analysis. Furthermore, Cox proportional hazards regression model was performed to assess HRs for
+MACCE, and results were expressed by forest plots. In
+addition, we conducted a test for interaction of malnutrition and hemodialysis. Values of p<0.05 were considered
+to indicate statistical signifcance. Statistical analyses
+were performed using SAS software (JMP version 14.0).
+Results
+Baseline characteristics
+Te baseline clinical characteristics of patients are shown
+in Table 1. Mean age was 70±11 years, and 163 patients
+(68%) were male. Mean GNRI was 100±13, and participants comprised 55 malnourished patients (23%;
+GNRI<92) and 186 non-malnourished patients (77%).
+Malnourished patients were older (77±9  years) than
+those without malnutrition (67±11 years, p<0.001), and
+sex (male) had a signifcant diference between malnourished and non-malnourished patients (p=0.009). Te
+malnourished group showed a lower frequency of dyslipidemia and a higher frequency of hemodialysis compared with the non-malnourished group (p<0.001 and
+p=0.009, respectively). Median concentration of hs-CRP
+was higher in the malnourished group (3.1 mg/dL; IQR,
+0.36–8.26  mg/dL) than in the non-malnourished group
+(0.19 mg/dL; IQR, 0.08–0.58 mg/dL; p<0.001). Levels of
+T-CHO and triglycerides were lower in the malnourished
+group than in the non-malnourished group (p=0.002
+and p<0.001, respectively) (Table 1).
+Clinical outcomes
+Mean duration of follow-up was 546±310  days, with a
+maximum follow-up of 1092  days. Tirty-four patients
+(14%) died after PCI, and the frequency of all-cause death
+was signifcantly higher in the malnourished group (31%)
+than in the non-malnourished group (9%; p<0.001).
+MACCE occurred more frequently in the malnourished
+group (38%) than in the non-malnourished group (11%;
+p<0.001) (Table  2). Kaplan–Meier analysis showed a
+signifcantly lower survival rate after PCI in the malnourished group than in the non-malnourished group
+(p<0.001) (Fig.  1). Cumulative incidence of MACCE
+including death was signifcantly higher in the malnourished group than in the non-malnourished group
+(p<0.001) (Fig. 2).
+Associations of baseline systemic factors with MACCE
+Cox proportional hazards regression analysis was performed to investigate associations between baseline
+characteristics including malnutrition and MACCE.
+In univariate analysis, age, BMI (HR 0.91; 95% CI
+0.84–0.98; p=0.016), malnutrition (HR 3.69; 95% CI
+2.11–6.42; p < 0.001), hemodialysis (HR 2.63; 95% CI
+1.51–4.58; p < 0.001), prior heart failure, cholinesterase, hs-CRP, albumin (HR 0.43; 95% CI 0.28–0.65;
+p < 0.001), eGFR, and LVEF were signifcantly associated with MACCE (Table  3). BMI and albumin were
+used to calculate GNRI. Te eGFR was synonymous
+with hemodialysis, and the 95%CIs of cholinesterase
+and LVEF included 1.00. Tese factors were therefore
+not incorporated into the multivariate analysis. Multivariate analysis showed malnutrition (HR 2.30; 95%
+CI 1.13–4.67; p=0.020) and hemodialysis (HR 2.17;
+95% CI 1.19–3.93; p=0.011) correlated positively with
+MACCE (Table  3). Furthermore, Cox proportional
+hazards models using malnutrition and hemodialysis revealed that patients with both malnutrition and
+hemodialysis showed greater risk of MACCE after PCI
+as compared to patients with neither malnutrition nor
+hemodialysis (HR 6.91; 95% CI 3.29–14.54; p < 0.001)
+(Fig. 3). A comparison of p-value for interaction of malnutrition and hemodialysis was p=0.36.
+Discussion
+In this retrospective cohort study of stable CAD patients
+with myocardial damage, we showed that: (1) patients
+with malnutrition displayed a higher incidence of
+MACCE as compared to patients without malnutrition;
+(2) malnutrition and hemodialysis were independent risk
+factors for MACCE in stable CAD patients with myocardial damage; and (3) patients with both malnutrition and
+hemodialysis were associated with an additive increase in
+the risk of MACCE.
+Nutritional status is an important factor that afects
+the prognosis of various diseases [15, 16]. As a tool of
+assessment for nutritional status, serum albumin level
+and BMI are often used in routine clinical practice. However, both are infuenced by various non-nutritional factors, including infammation, fuid status, and liver and
+renal functions [17–19]. BMI or albumin alone may thus
+be insufcient for assessing nutritional status. GNRI, as
+an index combining BMI and albumin [7], has recently
+been widely used in simple screenings of nutritional status and may be useful to overcome the shortcomings of
+individual indicators such as serum albumin and BMI.
+Recent studies have revealed that low GNRI is associated
+with worsened prognosis in patients with cardiovascular disease [8, 9, 20], and Kunimura et  al. [21] demonstrated that low GNRI was independently associated
+with poor cardiac outcomes in patients with preserved
+ejection fraction after elective PCI for stable CAD. Te
+present study demonstrated that malnutrition as assessed
+by GNRI represented an independent risk factor for
+MACCE in stable CAD patients with myocardial damage. Stable CAD patients with myocardial damage show
+poor prognosis compared to those without myocardial
+damage [10]. In addition, the ICELAND MI study demonstrated that patients with unrecognized myocardial
+infarction were at higher risk of all-cause mortality than
+patients without myocardial infarction. Furthermore,
+among patients with frst myocardial infarction, previously unrecognized myocardial infarction was independently related to poor long-term clinical outcome, with
+a more than threefold risk of mortality [22]. Intensive
+care is therefore needed to prevent recurrent cardiovascular events in CAD patients with myocardial damage
+compared to those without myocardial damage, and total
+management including prevention of energy and protein
+waste and feeding energy based on nutritional status may
+improve the prognosis for stable CAD patients with myocardial damage.
+In the present study, hemodialysis was also independently associated with MACCE. Chronic kidney disease
+has been established as a risk factor for cardiovascular morbidity and mortality [23]. Te ISCHEMIA-CKD
+trial showed stable CAD patients with advanced kidney disease including hemodialysis had high incidences
+of death and cardiovascular events compared to those
+without advanced kidney disease [24, 25]. Tose previous reports may support the results of the present
+study. In patients with end-stage renal disease, malnutrition has been thought to have a close relationship with
+infammation and atherosclerosis, and the concept of
+malnutrition-infammation-atherosclerosis (MIA) syndrome has been suggested [26, 27]. MIA syndrome was
+then recognized to be an important clinical issue which
+should be addressed in patients with end-stage renal
+disease. Furthermore, previous studies have suggested
+that infammation may deteriorate a generally catabolic
+state, leading to acceleration of protein degradation and
+suppression of protein synthesis in patients with endstage renal disease [28]. Tese mechanisms may cause
+protein-energy malnutrition [29]. Although nutritional
+status is afected by the interaction of multiple other
+factors, infammation is recognized as a central factor in
+malnutrition. Chronic infammation is known to lead to
+increase oxidative stress and the development of severe
+endothelial dysfunction, in turn leading to cardiovascular
+disease [27]. Indeed, we showed that patients with malnutrition and hemodialysis had additively elevated incidences of MACCE in this study. Statin therapy has not
+been found to achieve any obvious efect on prevention
+of cardiovascular events in patients with advanced kidney disease [30]. Hence, a novel strategy for preventing
+cardiovascular events may be needed in patients with
+advanced kidney disease. In recent years, some antiinfammatory therapies that do not afect lipid levels have
+demonstrated the ability to reduce cardiovascular events
+in CAD patients [31, 32]. Multidisciplinary care including
+nutritional management and the aforementioned antiinfammatory therapies may have the possibility of stopping the malignant cycle of MIA syndrome in patients
+with end-stage renal disease.
+Tis study showed several limitations. First, the present retrospective study involved a relatively small
+cohort of patients. Second, although we assessed nutritional status using the GNRI as a combined index of
+BMI and albumin, we could not completely exclude
+systemic illnesses such as occult malignancies afecting BMI or albumin. In addition, the present study
+assessed the GNRI only on admission and did not
+assess changes in GNRI. Tird, we were unable to
+evaluate another malnutrition index such as the Nutritional Risk Index, Mini Nutritional Assessment ShortForm scale or Maastricht Index, because the present
+study is retrospective, and we do not have the data
+those indexes need. Fourth, participants comprised 66
+patients with hemodialysis (27%) in this study, and it is
+reported that hemoglobin A1c may be underestimated
+in patients with hemodialysis. Tus, hemoglobin A1c
+was not included in the analysis. Fifth, the association
+of malnutrition with CAD or gender is an important
+issue to investigate; however, we were unable to address
+this association in the present study. Further clinical
+investigations are necessary to clarify this association.
+Conclusions
+Te current study revealed malnutrition as assessed by
+GNRI ofered an independent risk factor for MACCE
+among stable CAD patients with myocardial damage.
+Assessment of nutritional status may be helpful for
+stratifying the risk of cardiovascular events and encouraging improvements in nutritional status.

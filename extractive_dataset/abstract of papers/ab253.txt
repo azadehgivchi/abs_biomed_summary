@@ -1,0 +1,20 @@
+Background: Stroke is a crucial health threat to adults worldwide. Despite extensive knowledge of risk-factor mitigation,
+no primary prevention exists for healthy people. Coffee is a widely consumed beverage globally. Health benefit
+of coffee for several neurological diseases has been identified; however, the association between stroke risk and
+coffee consumption in healthy people has not been determined. We investigated the effect of coffee on stroke risk by
+conducting a meta-analysis of prospective cohort studies.
+Methods: Electronic databases, namely PubMed, BioMed Central, Medline, and Google Scholar, were searched using
+terms related to stroke and coffee. Articles that described clear diagnostic criteria for stroke and details on coffee consumption
+were included. The reference lists of relevant articles were reviewed to identify eligible studies not shortlisted
+using these terms. Enrolled studies were grouped into three outcome categories: overall stroke, hemorrhagic
+stroke, and ischemic stroke.
+Results: Seven studies were included and all of them were large-scale, long-term, follow-up cohort studies of a
+healthy population. Upon comparing the least-coffee-consuming groups from each study, the meta-analysis revealed
+a reduction in the risk of overall stroke during follow-up (hazard ratio [HR] for overall stroke = 0.922, 95% confidence
+interval [CI] = 0.855–0.994, P = 0.035). In studies with a clear definition of hemorrhagic and ischemic stroke, coffee
+consumption reduced the risk of ischemic stroke more robustly than that of hemorrhagic stroke (hemorrhagic,
+HR = 0.895, 95% CI = 0.824–0.972, P = .008; ischemic, HR = 0.834, 95% CI = 0.739–0.876, P < .001). No obvious dosedependent
+or U-shaped effect was observed.
+Conclusions: Coffee consumption reduces the risk of overall stroke, especially ischemic stroke. Further investigation
+is required to identify beneficial components in coffee, including caffeine and phenolic acids, to develop preventive
+medication for stroke.

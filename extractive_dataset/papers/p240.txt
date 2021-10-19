@@ -1,0 +1,456 @@
+Background
+Ambulatory blood pressure monitoring (ABPM) allows
+serial blood pressure (BP) measurements over a 24-h
+period. Compared to office BP measurement (OBPM),
+ABPM is a stronger predictor of target organ damage
+(TOD), cardiovascular (CV) events as well as all-cause
+and CV mortality in hypertensive patients [1, 2]. The
+normal BP profile follows a circadian pattern where
+night-time values are at least 10% lower than daytime
+values (dipping status). Blunting or absence of this physiologic
+phenomenon (non-dipping status) is common in
+chronic kidney disease (CKD) and has been associated
+with decline of kidney function and progression of CV
+diseases [3–5]. Whether dipping status is correlated to
+adverse outcome independently of hypertension (HT)
+and other confounders is debated as various studies
+showed conflicting results [6–8].
+HT is a frequent disorder in kidney transplant (KTX)
+recipients and is regarded as a major risk factor for CV
+disease, chronic allograft nephropathy and graft loss [9–
+11]. As in the general population, HT is frequently misclassified
+in KTX patients and ABPM has proved to be
+a valuable tool in detecting white-coat HT, masked HT
+and non-dipping status, which are highly prevalent after
+successful transplantation [12–14]. Some studies previously
+reported on the relationship between circadian BP
+pattern and kidney function in KTX patients [15–17].
+However, cross-sectional design and lack of adjustment
+for potential confounders such as BP values and proteinuria
+hampered definitive conclusions. Recently, the
+longitudinal relationship between baseline ABPM readings
+and evolution of estimated glomerular filtration rate
+(eGFR) over a 3.7 year follow-up has been investigated in
+260 KTX recipients [18]. Authors showed that 24 h, daytime
+and night-time SBP were negatively associated with
+eGFR decline. However, circadian BP patterns were not
+considered and the evolution of eGFR over time was not
+specifically described.
+Based on current state of knowledge, we conducted a
+longitudinal cohort study in order to i) characterize circadian
+BP patterns measured by ABPM in KTX patients,
+ii) compare OBPM and ABPM readings in this population
+and iii) describe the evolution of eGFR over time
+and its relationship with dipping status independently of
+potential confounders.
+Methods
+Study design
+We retrospectively screened adult KTX patients between
+2003 and 2016 at a single tertiary hospital. During this
+time period, 401 adults had a renal transplant. Of those,
+140 (34.9%) had ABPM performed as part of their routine
+follow-up. Inclusion criteria were i) ABPM available
+after KTX, ii) a minimum of 2-year follow-up after
+ABPM and iii) age ≥ 18. Exclusion criteria were i) unwilling
+to participate, ii) multi-organ graft, iii) haemodialysis
+or peritoneal dialysis and iv) pregnancy. At our institution,
+post-transplant ABPM are not routinely ordered but
+are instead requested by the attending physician based on
+individual clinical appreciation.
+Variables were longitudinally collected at four distinct
+visits: T0 corresponded to discharge after transplant, T1
+corresponded to ABPM while T2 and T3 corresponded
+to subsequent follow-up visits, 1 and 2 years after ABPM
+respectively. The time interval between T0 and T1 was
+not predefined. The time interval between T1 and T2 as
+well as T2 and T3 was 1 year. Thus, all included patients
+had a 2-year follow-up.
+Variables collection
+All patients underwent a 24 h ABPM using a DIASYS
+INTEGRA II monitor at T1. Cuff size was chosen based
+on arm circumference. BP was recorded every 15 min
+from 7 am to 10 pm and every 30 min from 10 pm to 7
+am. Daytime and night-time periods were defined by
+patient themselves according to their own daily schedule.
+Measures validity intervals were as follows: Systolic BP
+(SBP) > 50 mmHg and diastolic BP (DBP) > 30 mmHg and
+< 150 mmHg [5].
+Demographic characteristics, medical history, current
+medication, OBPM and laboratory data were collected
+at T0, T1, T2 and T3. Serum creatinine was analysed
+by standard clinical laboratory method. Proteinuria was
+estimated on a single urinary specimen. OBPM was
+measured by oscillometric sphygmomanometer in the
+seated position after a resting period of ≥ 5 min according
+to European guidelines [19].
+Renal ultrasound (US) was performed by experimented
+radiologists as part of routine follow-up in a subset of
+patients. Renal resistive index (RRI) were measured in
+three segmental arteries (superior, middle and inferior).
+Definitions
+HT related definition were based on latest European
+guidelines [19]. Thus, HT on ABPM was defined as 24-h
+SBP ≥ 130 and/or DBP ≥ 80 mmHg. HT on OBPM was
+defined as SBP ≥ 140 and/or DBP ≥ 90 mmHg. The terms
+“white-coat”, “masked” and “sustained” HT were used in
+untreated as well as treated patients. Dipping and nondipping
+statuses were defined as BP night-time decline
+of ≥ 10% and < 10% compared to daytime values, respectively
+and independently of the presence of HT. eGFR
+was estimated by the CKD-EPI equation using IDMS
+measured creatinine [20]. In statistical analyses, the presence
+HT was defined exclusively by related medication,
+unless otherwise specified. The presence of diabetes and
+dyslipidaemia were defined by related medication.
+Statistical analysis
+Continuous variables are expressed as mean ± standard
+deviation (SD) or median (interquartile range) according
+to distribution and categorical variables as number and
+relative frequencies (%). Normality of distribution was
+assessed graphically. No outliers were predefined. Variables
+were compared between groups (dipping vs nondipping
+status as well as low eGFR vs high eGFR) using
+Student’s T test and Chi2 for continuous and categorical
+variables respectively.
+First, multivariate linear regressions were used with
+eGFR at T1 as the dependent variable and systolic dipping
+status as the main independent variable. The following
+covariates were a priori selected as potential
+confounders, based on prior scientific knowledge: gender,
+age, body mass index (BMI), smoking, HT, diabetes,
+graft vintage (corresponding to the timespan between
+T0 and T1), proteinuria, donor type (deceased vs living),
+past rejection, use of calcineurin inhibitors, use of steroid
+and use of renin angiotensin aldosterone blocker. Then,
+in longitudinal analysis, we considered repeated measures
+over time (T1, T2, T3) and implemented multi-level
+mixed effect analysis to account for inter-dependence
+of data. The same above specified covariates were used
+in longitudinal models. Patient identification was considered
+as the grouping variable while random effects
+were applied to time variable and intercept. Interaction
+between ABPM parameter and time was considered in
+every model. Modification effect was considered significant
+if p-value for likelihood ratio test (LRT) comparing
+models with and without interaction term was < 0.1
+Sensitivity analyses were conducted considering i) HT
+defined by ABPM values instead of related medication,
+ii) diastolic and mean dipping status instead of systolic
+dipping status and iii) systolic dip as continuous variable
+instead of systolic dipping status as a binary variable.
+For every model, linearity of relationship, normality of
+residuals and homoscedasticity of residuals were assessed
+graphically. Collinearity was assessed using the variance
+inflation factors method. Log-normal variables were logtransformed
+when used in regression models if necessary.
+Data were considered to be missing completely at random
+and therefore patients with any missing value were
+excluded from the multivariate analyses. For every model,
+results are presented as β coefficients and associated 95%
+confidence intervals (95% CI) as well as p-values. A twosided
+p-value < 0.05 was considered significant. Statistical
+analyses were conducted using STATA version 15 (Stata-
+Corp, 4905 Lakeway Drive, College Station, Texas 77845
+USA) [21].
+Results
+Between 2003 and 2016, 401 adults had a renal transplant.
+Of those, 140 (34.9%) had ABPM performed
+as part of their routine follow-up. We excluded 17
+patients: Eight for undocumented follow-up, one for
+unavailable night-time ABPM, one for insufficient
+ABPM quality and four because of missing values on
+ABPM. Finally, three patients were excluded as they
+required haemodialysis. Thus 123 (87.8%) patients
+without missing values on ABPM were included in the
+present analysis. Compared to renal transplant patients
+who had an ABPM performed, those who did not have
+an ABPM performed had similar mean age and proportion
+of men: 52.8 ± 15.0 vs 50.7 ± 15.4, p = 0.20 and 63.0
+vs 59.1%, p = 0.45 respectively.
+Among included patients, 21 (17.3%) had no HT on
+OBPM or ABPM, 13 (10.7%) had white-coat HT, 26
+(21.4%) had masked HT and 61 (50.4%) had sustained
+HT. Non-dipping status was present in 81 (65.8%) of
+patients.
+Patient’s characteristics according to systolic dipping
+status at the time of ABPM (T1) are described in
+Table 1. Median graft vintage at ABPM (corresponding
+to the timespan between T0 and T1) was 2.5 (0.7 – 6.0)
+years. Compared to the non-dipping group, dippers
+had higher eGFR, lower prescription rate of CNI and
+lower tacrolimus trough levels (p < 0.05 for all). Patients
+tended to be younger and to have longer graft vintage
+in the dipping group without reaching statistical significance.
+Other considered characteristics were similar
+between groups.
+ABPM readings according to systolic dipping status at
+T1 are described in Table 2. Systolic dip was 0.6 ± 6.9%
+in non-dippers and 14.5 ± 3.5% in dippers. Preserved
+systolic dipping status was associated with preserved
+diastolic and mean dipping statuses (p < 0.001 for both).
+Pearson correlation coefficients between systolic dippers
+and diastolic dippers as well as between systolic dippers
+and mean dippers were 62.7 and 82.9% respectively.
+Compared to the non-dipping group, dippers had higher
+diurnal MAP (p = 0.047) and lower nocturnal SBP, DBP
+and MAP (p < 0.001 for all). Prevalence of HT was similar
+between groups.
+Median value of eGFR at T1 was 52.6 mL/min/1.73m2
+in 126 patients without missing values on eGFR. Patient’s
+characteristics according to median eGFR value at T1
+are described in supplementary table 1. Compared to
+patients with low eGFR, patients with high eGFR were
+younger (p = 0.029), had less frequently HT (p = 0.010)
+and had less frequently deceased donor (p = 0.024).
+Other characteristics were similar between groups.
+Relationship between dipping status and eGFR at T1:
+cross‑sectional analysis
+Proteinuria required log-transformation in regression
+analyses. In univariate analysis, dipping status was positively
+associated with eGFR at T1 (p = 0.013) and compared
+to non-dippers, dippers had a 9.4 mL/min/1.73m2
+higher eGFR. In multivariate analysis, dipping status was
+positively associated with eGFR (p = 0.019) and compared
+to non-dippers, dippers had a 10.1 mL/min/1.73m2
+higher eGFR (Table 3). Age and proteinuria were negatively
+associated with eGFR (p = 0.018 and 0.002 respectively).
+Other covariates were not associated with eGFR.
+Relationship between dipping status and eGFR over time:
+longitudinal analysis
+Mean follow-up after ABPM was 2.12 ± 0.45 years. In
+univariate analysis, dipping status was positively associated
+with eGFR (p = 0.012) and compared to nondippers,
+dippers had a 9.1 mL/min/1.732 higher eGFR.
+An interaction between time and dipping status was
+present (p = 0.085 for LRT): eGFR slope was -0.3 mL/
+min/1.73m2/year in non-dippers (p = 0.59) and -2.4 mL/
+min/1.73m2/year in dippers (p = 0.010). eGFR evolution
+over time between dippers and non-dippers is
+illustrated in Fig. 1. In multivariate analysis, dipping
+status was positively associated with eGFR (p = 0.009)
+and compared to non-dippers, dippers had a 10.48 mL/
+min/1.73m2 higher eGFR (Table 4). Interaction between
+time and dipping status was not significant (p = 0.17 for
+LRT) and eGFR slopes were thus not different between
+dippers and non-dippers. HT was negatively associated
+with eGFR (p = 0.003). Other covariates were not associated
+with eGFR.
+Sensitivity analyses
+HT defined by ABPM values instead of related medication
+was substituted in the final multivariate model.
+Dipping status remained positively associated with eGFR
+(p = 0.005). HT based on ABPM definition was negatively
+associated with eGFR (p = 0.019).
+Diastolic and mean dipping status instead of systolic
+dipping status were substituted in the final multivariate
+model. Mean and diastolic dipping statuses were
+positively associated with eGFR (p = 0.029 and p = 0.010
+respectively).
+Systolic dip as continuous variable instead of systolic
+dipping as a binary variable was substituted in the final
+multivariate model. Systolic dip was not associated with
+eGFR (p = 0.06).
+Discussion
+In this longitudinal study, we described circadian BP patterns
+in KTX recipients, compared OBPM and ABPM
+value in this setting and identified systolic dipping status
+as a major determinant of kidney function.
+In our cohort, prevalence of HT when combining
+OBPM and ABPM measurement was 82.6%. Prevalence
+of HT based on ABPM only was 71.9%. Those numbers
+are in agreement with previous studies where HT has
+been reported to affect as many as 80% of KTX recipients
+depending on BP measurement modality [22].
+Non-dipping status was present in 65.8% of our patients.
+Again, similar studies found comparable results [12, 14].
+Systolic, diastolic and mean dipping statuses were wellcorrelated
+and systolic dippers tended to be mean and
+diastolic dippers as well. Finally, dipping status was not
+associated with the presence of HT on ABPM in our
+cohort and dippers were as likely as non-dippers to have
+HT. This absence of a direct relationship between HT
+and dipping status was also highlighted in CKD patients
+where non-dippers with controlled BP were almost as
+prevalent as non-dippers with HT [8].
+Globally, systolic dipping status and the presence of HT
+were independently associated with eGFR in our study
+on KTX recipients, while other traditional determinants
+of kidney function were not as important.
+Relationship between dipping status and kidney function
+Circadian BP patterns have been extensively studied in
+non-KTX patients. In 48 HT CKD patients followed by
+Timio et al., non-dippers had faster rates of renal function
+decline and higher proteinuria compared to dippers
+over a 3-year follow-up [23]. In 322 patients referred for
+ABPM, Davidson et al. found that eGFR remained stable
+among dippers over a 3.2 year follow-up but declined
+among non-dippers independently of SBP load [4]. The
+same year, Agarwal et al. reported on 217 CKD patients
+followed during 3.5 years where non-dipping status was
+an independent predictor of end-stage renal disease
+[24]. Finally, McMullan et al. found that nocturnal dipping
+was associated with a decreased risk of incident
+CKD over a 8.1 year follow-up in 603 Afro-American
+patients with normal renal function [25]. As these studies
+globally concluded that dipping status was an independent
+determinant of renal function over time, some
+evidences suggest that such a relationship does not exist.
+As such, Gabbai et al. noted that, although 24 h SBP was
+associated with subsequent renal and CV outcomes, dipping
+status did not per se predict progression of renal
+disease in 617 Afro-American with HT CKD [26]. Likewise,
+two similar successive studies were published by
+another group enrolling 676 and 1′107 CKD patients
+with two and 4.7-year follow-up periods respectively [6,
+8]. Authors generally concluded that non-dipping pattern
+with normotension did not predict the future incidence
+of renal outcomes.
+In KTX patients, description of BP patterns is much
+more sparse. Successful KTX is generally thought to
+improve circadian BP profile in the long term [27, 28].
+The impact of these profiles and renal function is however
+less well defined. In an early study, Kooman et al.
+described a relationship between nightly decrease in
+MAP and kidney function in 36 renal recipients [15].
+Cross-sectional design and absence of adjustment for
+potential confounders however hampered conclusions.
+Haydar et al. conducted a similar study on 177 patients
+where SBP circadian variation was associated with eGFR
+[16]. The same limitations were found although a limited
+set of covariates was considered. Later, Wadei et al.
+described an association between nocturnal fall in SBP
+and eGFR at 1 year after KTX in 119 patients [17]. This
+study was however cross-sectional in nature and very few
+potential confounders were considered. The same group
+focused on a sub-group of 36 of these patients who had
+a 3 to 4-year follow-up [29]. They found that the importance
+of nocturnal fall in SBP at 1 year was related to
+eGFR at last follow-up while adjusting for donor age and
+office SBP.
+The main finding of our study is the strong and independent
+association between preserved systolic dipping
+status and improved renal function in KTX patients over
+a 2-year follow-up. Compared to previous publications
+on KTX patients, our study differs on several aspects.
+First, owing to the longitudinal design, we implemented
+multi-level mixed effect analysis in order to account for
+repeated collection of data. By adding subject-specific
+random intercept and slope effects to the population
+average, these models permit quantification of subject
+heterogeneity [30]. Moreover, this methodology allows
+comparison of eGFR slopes, recently recognized as a
+valid surrogate end point and likely more useful than
+time-to-event analysis for short follow-up with high
+baseline eGFR [31]. Second, an extensive set of potential
+confounders was a priori selected for multivariate analysis.
+This is of prime importance in this field as several factors,
+particularly BP control and proteinuria, were shown
+to confound the intricate relationship between dipping
+status and renal function. As an example, Agarwal et al.
+found that non-dipping status was predictive of CV
+events in a prospective cohort of 217 CKD patients [7].
+However, this relationship disappeared when adjusted
+for proteinuria or clinic BP. In our study, a preserved dipping
+status was associated with a higher eGFR independently
+of potential confounders. The presence of HT was
+the only other significant determinant of renal function
+in longitudinal analysis. However, it is worth noting that
+not only did dipping status maintain its association with
+renal function beyond intensity of BP control but also its
+effect size on eGFR was comparable to that of HT itself.
+A recent study by Mallamaci et al. was designed similarly
+to ours as the authors reported on the impact of baseline
+ABPM on subsequent renal function over a 3.7-year follow-
+up in a cohort of 260 KTX recipients [18]. In multivariate
+analysis, 24 h, daytime and night-time absolute
+BP values were negatively associated with eGFR. However,
+this crude description of main ABPM components
+gave no specific information about a potential impact
+of circadian BP patterns or dipping status. Moreover,
+although presented analyses account for elapsed time,
+eGFR slopes are not depicted. The purpose of this study
+was thus rather different than ours and results are not
+directly comparable.
+Finally, in previous studies, whether alteration in circadian
+BP profile was the cause or the consequence of kidney
+function decline was not entirely clear. In our study,
+although dippers had higher eGFR compared to non-dippers
+overall, differences seemed most striking at T1 when
+ABPM was recorded. eGFR slope analysis confirmed that
+dippers had a faster rate of function decline compared
+to non-dippers in univariate analysis. When considering
+potential confounders however, kidney function decline
+rates were similar between groups. This type of time trajectory
+is in agreement with the underlying physiological
+assumption that correlation between dipping status
+on a single ABPM assessment and induced TOD should
+be maximal at the time of initial measurement to then
+decrease during follow-up owing to the low reproducibility
+of circadian patterns over time [32]. As a matter of
+fact, any inter-group comparison in a follow-up study is
+based on dipping classification defined at baseline ABPM
+that does not necessarily represent actual dipping status
+at later time points. In a previous study on CKD patients
+with established diabetic nephropathy, time trajectories
+of renal function according to dipping status were similar
+to ours [33]. Globally, those findings are thus in favour of
+a causal effect of dipping status on renal function and not
+the other way around. It has to be noted that Wadei et al.
+described the opposite phenomenon in their longitudinal
+study where the association between dipping status
+and renal function was inexistent at initial evaluation but
+became significant during follow-up [29]. This apparent
+paradox is however not incompatible with our results.
+First, compared to our study, minimal adjustment only
+was considered and those results could represent residual
+confounding. Second, ABPM was conducted 1-year post
+transplant in their cohort while median graft vintage at
+ABPM was 2.5 years in our study. Thus, the longer time
+span between transplant and initial evaluation in our
+study could have allowed sufficient influence of established
+circadian BP patterns to impact renal function.
+Limitations
+Our study has limitations that should be considered
+when interpreting the results. First, the observational
+nature of the design hampers definitive conclusions
+on causal relationship between considered variables.
+Namely, as the interplay between dipping status (and
+more generally BP control) and renal function is intricate,
+reverse causality should be considered. While the
+longitudinal design, statistical methodology and pathophysiologic
+considerations could indicate a causal effect
+of circadian BP patterns on renal function, a reverse
+impact of eGFR on dipping status is possible. Second,
+as in most similar studies, a single ABPM measurement
+was conducted. Longitudinal evaluation could thus be
+hampered by the intrinsic moderate reproducibility of
+dipping categorization. We believe however that our
+findings were discussed in the light of this phenomenon.
+Third, the rather limited sample size prevented
+us to further investigate specific sub-group of patients
+and to detect potential association with smaller effect
+size. However, achieved statistical power was by definition
+sufficient to investigate our primary objective as
+attested by the highly significant and robust associations
+presented. Fourth, as a fraction only of screened
+KTX patients had ABPM performed, selection bias
+cannot be excluded. Excluded patients were however
+similar to those included. Finally, the number of donor
+characteristics considered in our study was limited, as
+ethics regulation does not allow documentation of such
+data in medical records at our institution.
+Conclusion
+In conclusion, we confirm that non-dipping status is
+highly prevalent in KTX patients while not necessarily
+associated with the presence of HT. Moreover, we suggest
+that systolic dipping status could be a major determinant
+of renal function in KTX patients. This relationship was
+independent of major potential confounders, including
+HT and proteinuria. The only other determinant of
+renal function was the presence of HT itself, in agreement
+with prior knowledge in non-KTX patients. Posttransplant
+ABPM should be offered to all KTX recipients
+as a screening tool, even in those with controlled OBPM.
+Whether modification of dipping status by chronotherapy
+would preserve renal function cannot be inferred
+from our results and remains to be tested in clinical trials.

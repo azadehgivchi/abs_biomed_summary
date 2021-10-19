@@ -1,0 +1,22 @@
+
+Abstract 
+Background: Limited data were available on the current trends in optimal medical therapy (OMT) after PCI and its 
+influence on clinical outcomes in China. We aimed to evaluate the utilization and impact of OMT on the main adverse 
+cardiovascular and cerebrovascular events (MACCEs) in post‑PCI patients and analyzed the factors predictive of OMT 
+after discharge.
+Methods: We collected data from 3812 individuals from 2016.10 to 2017.09 at TEDA International Cardiovascular 
+Hospital. They were classified into an OMT group and a non‑OMT group according to their OMT status, which was 
+defined as the combination of dual antiplatelet therapy, statins, β‑blockers, angiotensin‑converting enzyme inhibitors 
+or angiotensin receptor blockers after PCI. Multivariable Cox regression models were developed to assess the asso‑
+ciation between OMT and MACCEs, defined as all‑cause mortality, nonfatal myocardial infarction, stroke, and target 
+vessel revascularization. A logistic regression model was established to analyze the factors predictive of OMT.
+Results: Our results revealed that the proportion of patients receiving OMT and its component drugs decreased over 
+time. A total of 36.0% of patients were still adherent to OMT at the end of follow‑up. Binary logistic regression analy‑
+sis revealed that baseline OMT (P < 0.001, OR = 52.868) was the strongest predictor of OMT after PCI. The Cox hazard 
+model suggested that smoking after PCI was associated with the 1‑year risk of MACCE (P = 0.001, HR = 2.060, 95% CI 
+1.346–3.151), while OMT (P = 0.001, HR = 0.486, 95% CI 0.312–0.756) was an independent protective factor against 
+postoperative MACCEs.
+Conclusions: There was still a gap between OMT utilization after PCI and the recommendations in the evidence‑
+based guidelines. Sociodemographic and clinical factors influence the application of OMT. The management of OMT 
+and smoking cessation after PCI should be emphasized.
+

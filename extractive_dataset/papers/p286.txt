@@ -1,0 +1,316 @@
+Over 3 million adults in the United States are visually
+impaired or blind, and up to 80 million have eye diseases
+that may ultimately lead to blindness [1]. Furthermore,
+the annual economic impact of blindness is estimated to
+be over 35 billion dollars [2]. As the population ages, the
+number of Americans with blindness is expected to
+double by the year 2030 [1]. As such, an increasing number
+of patients with blindness will be hospitalized; hospital
+providers of all disciplines will invariably become
+progressively more involved in their care. Unfortunately,
+few studies have sought to screen for and consider poor
+vision during hospitalizations when visual disturbances
+are not related to the chief reason for admission [3].
+While it has been established that vision impairment is
+associated with inpatient complications outcomes, such
+as falls and delirium [4, 5], no US based national study
+has investigated in-hospital mortality in patients with severe
+vision impairment or blindness (SVI/B). Morse determined
+that older Medicare recipients with severe vision loss utilized
+more healthcare resources compared to those without
+this disability [6]. However, the impact of SVI/B on a
+broader age range of patient has not been studied on a national
+level. We used the National Inpatient Sample (NIS)
+database for the year 2017, and hypothesized that hospitalized
+patients with SVI/B would have higher in-hospital
+mortality, less likely to be discharged home following
+hospitalization, have longer hospital stays, and greater hospital
+charges compared to those without SVI/B.
+Given the worsening obesity pandemic with worldwide
+prevalence tripling from 1975 to 2016 [7] (and continuing
+to increase in prevalence in the United States from 39 % to
+2016 to 42 % in 2017 [8, 9]) and the uncertain effect it was
+having on patients admitted who had SVI/B, a subgroup
+analysis was also carried out to investigate the additive impact
+of obesity on these same outcome variables. In fact, research
+has shown positive associations between obesity and
+development of debilitating eye conditions such as cataracts,
+retinal vein occlusion, and age-related macular degeneration
+[10]. Thus, determining overall SVI/B prevalence
+and outcomes in hospitalized patients may better highlight
+its pervasiveness and ultimate deleterious consequences.
+This in turn may increase obesity eye disease awareness
+and possibly even obesity interventional strategies initiated
+or continued among ophthalmologists (such as weight loss
+counsel, weight loss referrals and patient education on vision
+loss as consequence of obesity).
+Methods
+Setting / database
+This study used the 2017 NIS database, available
+through the Agency for Healthcare Research and Quality
+provided by the Healthcare Cost and Utilization Project
+[11]. NIS is the largest United States based publicly
+available all-payer inpatient health care database [11]. It
+approximates a 20 % stratified sample of US hospital discharges
+from 46 participating states. The NIS has data
+for more than 7 million unweighted hospital stays per
+year. When weighted to represent all admissions, it estimates
+more than 35 million hospitalizations annually,
+and represents about 95 % of US hospitalizations. Strata
+include hospital size/volume, teaching status, geographic
+region, and hospital ownership. Data from 2017 NIS
+uses the International Classification of Diseases, 10th
+Revision, Clinical Modification (ICD-10-CM) coding system
+for all discharge diagnoses.
+Study population, patient and hospital characteristics,
+and o utcomes
+All patients ≥ 18 years of age were included in the sample.
+We then identified selected patients with bilateral
+severe visual impairment or bilateral blindness as described
+by their ICD-10 CM codes (eye category 2
+through 5 for either eye): https://www.icd10monitor.
+com/looking-at-new-icd-10-cm-codes-for-blindness (updated
+September 27th 2017). In addition, ICD-10 code
+H54.0 was also used for bilateral blindness. Supplementary
+Table A with ICD-10 codes provides specific descriptions
+of categories for each level of SVI/B. Severe
+vision impairment has been defined as individuals with
+visual acuity worse than 6/60, and blindness as those
+with visual acuity worse than 3/60 [12].
+ICD-10 codes used for our subgroup analysis to study
+the impact of obesity as a secondary diagnosis on patients
+with SVL/B was also retrieved (See Supplementary
+A table for ICD-10 codes and corresponding diagnoses).
+For adults, obesity is defined as having a Body Mass
+Index (BMI) of 30 or greater [13]. BMI is calculated by
+taking the individual’s weight in kilograms and dividing
+it by their height in meters squared.
+Data was collected and adjusted for select hospital and
+patient characteristics including hospital bed size (capacity),
+hospital teaching status (teaching or non-teaching),
+hospital geographic region (Northeastern, Midwestern,
+Southern and Western regions), age, gender (male and female
+only), race (White, Black, Hispanic, Asian or Pacific
+Islander), insurance (Medicare, Medicaid, Private Insurance,
+Uninsured), median household income (1. $1-$38,
+999 2. $39,000-$47,999 3. $48,000-$62,999 4. $63,000 or
+more), based on home zip code, and the Charlson comorbidity
+index (CCI: score 0 = no comorbidities score 1 =
+low comorbidity burden, score 2 = moderate comorbidity
+burden, and score 3 or greater = high comorbidity burden).
+The CCI has been used extensively in clinical research;
+it is commonly used to assess mortality risk and it
+is supported by extensive validity evidence [14]. Higher
+scores have been associated with mortality or greater
+healthcare resource use [15].
+The primary clinical outcome was mortality during
+hospitalization; secondary outcomes were total hospital
+charges which represent the amount a hospital bills for
+each individual case [16], length of stay (LOS), and disposition
+after hospitalization. Disposition indicates the discharge
+location or where patients go after hospitalization.
+This is most often home, but not infrequently can be elsewhere
+including venues such as other hospitals, inpatient
+hospice, inpatient rehabilitation facilities, and nursing
+homes [17].
+Our Institutional Review Board designated this work
+as being exempt from detailed review (IRB review number:
+00257552).
+Statistical analyses
+Comparisons were examined between patients with and
+without SVI/B using Pearson’s χ2 tests and one-way
+analysis of variance to test categorical and continuous
+variables. Analyses were also carried out within the SVI/
+B patient cohort assessing those with and without obesity.
+The primary and secondary outcomes were adjusted
+for all of the patient demographics and hospital characteristics
+shown in Table 1, as well as the CCI and select
+specific comorbidities described in Table 2.
+Adjusted odds ratios [aOR] and adjusted mean differences
+[aMD] from multivariate logistic and linear regression
+analyses were obtained. Binary outcomes under
+logistic regression analyses (in-hospital mortality and
+discharge disposition) were studied. Linear regression
+was used to study continuous outcome variables (including
+total hospital charges and LOS). Stata 15.0 statistical
+software (Stata Corp, College Station, TX) was used and
+permitted us to account for design complexity (stratification,
+weighting, and clustering) [18]. The p-values for
+this study were 2 sided and type I error significance level
+was set at 0.05.
+Results
+In 2017, 35,769,613 adults ≥ 18 years of age were hospitalized
+in the United States. From this group, 37,200 patients
+were severely visually impaired or blind. Demographic
+data is shown in Table 1 and compares patients with and
+without SVI/B. Patients with SVI/B were older (mean
+age ± SEM: 66.4 ± 0.24 vs. 57.9 ± 0.09 years, p < 0.01), less
+likely to be female (50 % vs. 57.7 %, p < 0.01), and a higher
+proportion were insured by Medicare (75.7 % vs. 49.2 %,
+p < 0.01). Table 2 displays that patients with SVI/B had a
+greater comorbidity burden (Charlson comorbidity score ≥
+3: 53.2 % vs. 27.8 %, p < 0.01), as well as higher rates of
+vascular and pulmonary comorbidities.
+Patient clinical and resource utilization outcomes
+Table 3 shows adult patients with SVI/B had higher rates
+of mortality compared to those without SVI/B (3.9 % vs.
+2.2 %; p < 0.01). This finding held after adjusting for potential
+confounders where in-hospital mortality for patients
+with SVI/B remained higher compared to those
+without SVI/B (adjusted Odds Ratio (aOR) = 1.2, [Confidence
+Interval (CI) 1.0-1.4]; p = 0.01). Patients with SVI/
+B had a lower odds to be discharged to home after hospital
+discharge (adjusted Odds Ratio {aOR} =0.54, [Confidence
+Interval (CI) 0.51–0.58]; p < 0.01). Total hospital
+charges were not significantly different (adjusted Mean
+Difference {aMD} = $247 CI [-$2,474-2,929]; p = 0.85)
+between groups, but LOS was longer (aMD = 0.5 days CI
+[0.3–0.7]; p < 0.01) for those with SVI/B.
+Subgroup analysis focused on obesity
+Among patients with SVI/B, 32,201 (86.5 %) were not
+obese and 4,999 (13.5 %) were classified as obese. Patients
+with obesity were younger (mean age ± SEM: 61.5 ± 0.53
+vs. 67.2 ± 0.27 years, p < 0.01) and a higher proportion
+were female (58.8 % vs. 48.6 %, p < 0.01). Patients with
+obesity had higher comorbidities (Charlson comorbidity
+scores ≥ 3: 65.0 % vs. 51.8 %, p < 0.01). Table 4 shows that
+obese status was not associated with an altered LOS, odds
+of mortality, or likelihood of being discharged to home
+following the hospitalization. However, SVI/B patients
+with obesity had higher total hospital charges compared
+to those without obesity (mean difference: $9,821 [CI $1,
+375-$18,268]; p = 0.02).
+Discussion
+Millions of Americans have vision impairment or are
+blind [1, 19]. As rates continue to climb with the aging
+of the population [1], inpatient providers will encounter
+more patients with SVI/B and they will be expected to
+effectively manage this vulnerable population. This study
+shows that compared to those without SVI/B, patients
+with SVI/B who are hospitalized have higher mortality
+rates, longer LOS, and are more likely to be discharged
+to sites other than home. Moreover, among patients with
+SVI/B, those who were obese had higher total hospital
+charges than their non-obese counterparts, and as the
+obesity epidemic continues to soar, more patients with
+SVI/B who are obese can be expected to be hospitalized.
+A 2013 study that secured data from a regional registry
+in Western Australia discovered that legally blind
+hospitalized adults had a seven times higher mortality
+rate compared to those with normal vision [20]. In a
+longitudinal study from 2002 to 2013 using the Korean
+National Health Insurance database, Choi also found
+that those with blindness (> 1200 individuals) also had a
+higher mortality than patients with normal sight [21].
+These results held in distinct analyses assessing both
+older (> 60 years of age) and younger (< 60 years) patients
+[21] suggesting that the associations were independent
+of age. While Crewe or Choi investigated
+hospitalized patients with blindness, neither study included
+hospitalized patients with severe vision impairment
+as was done in our study. In 2013, the World
+Health Organization (WHO) launched a global action
+plan for universal eye health with specific guidance for
+caring for those with SVI/B [22]. These efforts were
+intended to heighten awareness and escalate the reporting
+of vision loss in hopes of modifying clinical practice.
+The current study provides more recent results compared
+to those from Australia and Korea, while substantiating
+their findings within a larger cohort. Further, the
+associations noted among patients hospitalized in the
+US illustrate that the WHO’s concerns about worse
+healthcare outcomes among those who are blind are still
+justified. Though the specific reasons for the higher
+mortality among SVI/B patients cannot be determined
+in our observational study, one possible explanation
+might be that they are presenting to hospital later in the
+course of illness with more advanced disease.
+To explore in-hospital resource utilization, Morse
+studied two claims databases - Medicare database and
+Clinformatics DataMart; their objective was to compare
+the care of older hospitalized patients with and without
+vision loss [6]. The study found that patients with severe
+vision loss had longer LOS, more readmissions, and
+higher hospital costs compared to patients without vision
+loss. Though our study also found that patients
+with SVI/B had longer LOS, there were not significantly
+higher hospital charges compared to those without this
+disability. The differences in the results might be explained
+by the fact that our patient population was
+broader, including younger hospitalized adults. Also, it is
+possible that the longer LOS may be attributable to a
+greater level of complexity in coordinating safe postdischarge
+care for patients with SVI/B. Lack of variance
+in charges accrued over the protracted time span, and
+this may be linked to Taheri’s observations that LOS attributable
+to the last portion of the hospitalization does
+not significantly contribute to hospital costs [23]. For
+these very reasons, LOS is not always correlated with
+hospital costs [24]. Given that a significantly higher
+number of SVI/B patients were discharge to facilities rather
+than to their homes, it may be reasonable to presume
+that they did not amass high charges while
+awaiting placement. Though we cannot be certain why
+SVI/B patients were less often discharged home after
+hospital discharge, it is not unreasonable to speculate
+that difficulty complying with post-discharge plans and
+therapies, either real or imagined by the inpatient care
+team, may have contributed to the decision. Continuation
+of some therapies after discharge (particularly
+those involving injections or infusions) may be especially
+difficult among those with SVI/B; places with some
+supervision (e.g. rehabilitation, nursing home…) may
+have been deemed to be safer and associated with a
+lower risk of readmission than going home – especially
+for those living alone or without reliable caregivers [25].
+While homecare services can be excellent, patients with
+vision impairments or other disabilities may need more
+support after discharge necessitating some time in subacute
+facilities before transitioning back to their homes.
+The cohort of hospitalized SVI/B patients who were
+obese had significantly higher average charges compared
+to SVI/B patients without obesity; this result is similar to
+other studies that have examined the impact of obesity
+among those who are hospitalized [26–28]. However, in
+contrast to Zizza, our study did not find longer lengths
+of stay in patients with obesity compared to those without
+obesity [29]. The prevalence of obesity may be
+higher among visually impaired people compared to
+those without vision impairment, and populations with
+other disabilities [30, 31]. The reasons for this may be
+related to both challenges with exercising or burning
+calories, and barriers with securing or preparing a
+healthful diet. These circumstances may result in
+hospital-based providers caring for increasing proportions
+of SVI/B patients who are also obese. Indeed, obesity
+has been implicated as a risk factor for macular
+degeneration, glaucoma, cataracts, and diabetic retinopathy,
+all which may ultimately result in SVI/B [32].
+There are ongoing efforts trying to routinize nutritional
+counseling for all obese patients while they are hospitalized
+[33].
+Several limitations of this study should be considered.
+First, the NIS is an administrative database wherein data
+is highly dependent on coding imputations. It is possible
+that under-coding for SVI/B and obesity may have occurred.
+Second, the NIS lacks detailed information about
+visual testing results, lab data or imaging reports, and
+medications. Thus, an in-depth investigation into the details
+of our findings was not feasible. Third, special circumstances
+that might have influenced diagnostic or
+treatment decisions, such as social factors and patients’
+preferences, cannot be determined from administrative
+databases. Fourth, disease severity and measurements
+documenting clinical status (improvement/worsening)
+over the course of the hospitalization are not captured
+in NIS. Lastly, in observational studies there may be unmeasured
+and unknown confounders that influence outcomes.
+Observed associations suggest relationships
+between variables but do not prove causality.
+Conclusions
+Patients with severe vision impairment or blindness have
+worse clinical outcomes and higher resources utilization
+when hospitalized compared to those without this disability.
+Hospital-based healthcare providers should
+recognize this vulnerability and consider how to optimally
+care for and serve this group of patients.

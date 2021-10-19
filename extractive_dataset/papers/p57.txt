@@ -1,0 +1,326 @@
+Introduction
+Up to 50% of primary care visits in Western societies
+are related to symptoms that cannot be fully explained
+by well-known biomedical pathology [1–4]. While most
+of these symptoms are self-limiting, 2.5–10% of cases
+persist without clear medical explanation [5–9]. Tese
+persistent somatic symptoms (PSS) are accompanied by
+increasing disease burden for both the patient and the
+healthcare system [10]. Diferentiation from well-known
+chronic medical conditions and classifcation of symptoms as PSS is challenging [11]. Challenges arise from
+similarities between symptoms of PSS and other conditions, possible co-existence with a well-documented
+medical disorder, the heterogeneity of symptoms, lack
+of universal guidelines and the lack of biomarkers [3,
+12–14]. Delayed identifcation of PSS impedes early
+management of symptoms, which in turn can result in
+inappropriate healthcare utilization and high costs [15–
+17]. Additionally, it may hinder reusability of electronic
+health records (EHR) for research, quality monitoring
+and proactive population health management [17–20].
+Across medical and psychological specialties, a variety of terminology and aetiology is refected in diferent concepts of PSS. While some countries have specifc
+guidelines for PSS, widely accepted guidelines for classifying (and treating) PSS are missing [3]. PSS is currently diagnosed as either a somatic disease or a mental
+disorder, since diagnostic classifcations are inherently
+dualistic in nature [21]. In the medical feld, patients
+may be classifed under umbrella terms such as ‘medically unexplained physical symptoms’ (MUPS), ‘functional somatic symptoms’, and ‘somatically fxed’ [9, 22],
+which indicate a negative symptomology – i.e. a lack of
+medical pathology [23]. PSS may also be classifed as syndromes such as irritable bowel syndrome (IBS), chronic
+fatigue syndrome (CFS) or fbromyalgia (FM). Ongoing debate about terminology has redirected the most
+recent versions of the diagnostic and statistical manual
+of mental disorders (DSM-5) [24] and the international
+classifcation of disease (ICD-11) [25] towards no longer
+requiring the explicit exclusion of any underlying medical condition (this only applies to PSS-related classifcations in the mental health chapter). Both focus on
+positive symptomology, such as maladaptive cognitions,
+emotions and/or behaviours related to the somatic symptoms [3, 13], as described in the DSM-5 as the so-called
+B-criteria of somatic symptom disorder (SSD) [24, 26].
+Still, consensus on labelling and addressing these symptoms is limited. In this paper, the term ‘persistent somatic
+symptoms’ (PSS) is used since the descriptive nature of
+the term transcends the problem of dualism. Moreover,
+recent research has found that this term is generally preferred over other terms [27].
+In the Dutch health care system, as well as in many
+(Western) countries, the GP serves as a gatekeeper for
+health care in general. Te classifcation of symptoms and
+illnesses in EHRs by Dutch GPs is based on the International Classifcation of Primary Care (ICPC) system [28].
+Since medical practice historically operates according to
+mind–body dualism, physicians are required to locate
+complaints either in the body or the mind [21]. Accordingly, most symptoms and disorders – physical and psychological – have a domain specifc diagnostic code in
+the ICPC. Nonetheless, the current ICPC lacks a specifc
+and clearly defned code for PSS and the ICPC system
+instructs to register symptoms not fulflling the criteria
+for a diagnosis on a symptom level [28, 29]. Arguably,
+registration of cases with PSS is less straight forward
+due to the multi-domain nature of PSS even though the
+ICPC does contain a chapter with multi-domain codes
+(A-chapter). Nonetheless, there are international codes
+available for some PSS-related syndromes (such as, IBS),
+and the Dutch ICPC also contains codes for FM and CFS
+[28].
+While several studies have documented ample diagnostic variation regarding patients with PSS in general
+practice [30, 31], it is not well documented which codes
+or other methods GPs use for registration of PSS and if
+they fnd their current approach to registration satisfactory. Te primary aim of the present study was, therefore,
+to explore how GPs currently register PSS. Te secondary aim was to gauge GPs’ perspective on their needs to
+improve classifcation, registration and care for PSS.
+Methods
+Study design
+A cross-sectional online survey was developed to reach
+our aims. Te survey questions were developed in collaboration with experts in general practice, medical psychology and PSS. Te survey was set up in Qualtrics [32]. Tis
+paper focuses on GPs’ registration behaviour and needs,
+using the STROBE cross-sectional reporting guidelines
+[33]. Prior to distribution, the survey was pilot tested
+among four GPs and modifed based on their feedback.
+Informed consent was included at the start of the survey.
+Te ethics committee of Leiden University Medical Centre supplied a waiver of ethical approval (C1O8.045/DJ/
+gk).
+Procedure
+Te survey was sent out via e-mail between June and
+September 2018 to mailing lists of Dutch GPs who consented to be approached anonymously for research
+purposes, and to email addresses obtained through an
+overarching Dutch healthcare website (www.zorgkaartn
+ederland.nl). Tis method ensured optimal distribution
+over all regions of the Netherlands in order to obtain a
+representative and generalizable sample. Reminders were
+sent two weeks after frst distribution. Ten gift cards of 25
+euro were allotted to GPs who participated and provided
+us with their email address. Te email addresses were not
+linked to the survey responses.
+Measures
+To adhere to the term currently used in guidelines for
+PSS-related complaints, the Dutch term for MUPS
+(‘SOLK’) was used to indicate PSS in the survey. Somatisch onvoldoende verklaarde lichamelijke klachten
+(SOLK) is literally translated as somatic insufciently
+explained physical complaints. In the introduction of the
+survey, a description of the defnition of SOLK was presented: ‘We speak of SOLK when regular medical care
+cannot fnd an adequate explanation for the complaints
+with which the patient presents him/herself. Patients with
+a well-known somatic condition can also have SOLK,
+either presenting with a totally diferent complaint or
+presenting with more severe complaints than is expected.’
+Distinction and explanation about self-limiting and persistent symptoms were provided. To address conceptual
+diferences between GPs regarding PSS and to ensure
+that both the medical and psychological domain of PSS
+was captured, separate questions were added which specifcally addressed PSS in patients with a(n explained)
+chronic medical condition (i.e., ‘patients presenting with
+more or more severe symptoms than you would expect’)
+and/or the B-criteria of SSD (i.e., ‘patients who have maladaptive cognitions, emotions and/or behaviours related
+to the somatic symptoms’). At the start of the survey, GPs
+were asked to fll in non-identifying demographic questions. All questions required at least one response to
+continue to the next question, except comment sections.
+Below you fnd a description of the survey questions (for
+an exact outline of the survey, see additional fle 1).
+Primary aim (‘registration of PSS’)– Te following four
+items were constructed to reach the primary aim: (1)
+First a description of a hypothetical patient was given as
+follows: ‘Imagine a patient visiting your ofce who has
+consulted you frequently in the previous 6 months with
+the same or difering complaints. Extensive research has
+excluded a medical explanation for the complaint(s). For
+each complaint presented, choose the ICPC-code which
+you would use most often. You can choose a maximum of
+three ICPC-codes per complaint.’ Ten followed 4 complaints on diferent pages: bowel problems, fatigue, neck
+and back pain, and shortness of breath. A drop-down
+menu contained all codes related to the complaint in the
+thesaurus menu from ICPC-online [34], which refects
+the presentation in GPs’ EHR. Tis list was supplemented
+with suitable codes based on a PSS-expert panel of GPs
+(see additional fle 2 for the full list of ICPC-codes from
+which GPs could choose). Te four separate complaints
+were ofered in random order to minimize bias due to
+presentation order. Next, (2) GPs were asked whether
+they use the PSS-related syndrome codes A04.01 (CFS),
+D93 (IBS) and/or L18.01 (FM). Respondents selected one
+or more of fve options: ‘Yes, I diagnose the syndromes
+myself sometimes’, ‘Yes, I use this code when the syndrome is diagnosed by a medical specialist’, ‘No, I think
+these complaints should be reported on a symptom level’,
+‘No, I am not convinced these are distinguishable syndromes’, and ‘Other, namely…’ (with an additional comment section). Tis question was added to the survey
+in a later stage and was therefore only presented to 73%
+(n=189) of the GPs.
+Subsequently, (3) GPs were asked whether they mention PSS-related terminology in the (3a) episode name
+or (3b) free text area (two 4-point scale items (ranging
+from ‘never’ to ‘always’)). Lastly, (4) a description of a
+hypothetical consultation with a patient with a diagnosed
+medical condition was given, whereby the patient presented with specifc cognitive, emotional and behavioural
+problems (conforming to the B-criteria of SSD) [24]. GPs
+were asked if they would mention this in their EHR (yes/
+no, and a comment section).
+Secondary aim (‘GPs needs’) – Te following four items
+were constructed to reach the secondary aim: First, (1)
+GPs were asked if the lack of an unambiguous way of
+classifying or coding PSS was problematic for them (yes/
+no, and a comment section). Next, (2) GPs were asked if
+they had a need for a code which captures the specifc
+cognitions, emotions and behaviour conforming to the
+B-criteria of SSD (yes/no, and a comment section). Subsequently, an open-ended question was presented where
+GPs were asked (3) what they need to be able to improve
+registration and classifcation of PSS; and, in order to
+ensure not missing any needs, this was followed by three
+specifc semi-open-ended questions – (4) if they have
+needs regarding training, (online) tools or other support, to improve consultations and classifcation of PSS
+(response options were: ‘no’ and ‘yes, namely…’).
+Data analysis
+All results are based on descriptive statistics. Survey
+responses were summarized as is, using sample sizes
+and percentages, unless otherwise specifed above. For
+the frst hypothetical consultation, codes were frst categorized into four groups: symptom-specifc codes (e.g.,
+A04-fatigue), general codes – i.e., non-specifc codes
+(e.g., P28-limited function/disability(p)), somatization
+(P75-somatization disorder) and syndromes (A04.01-
+CFS, D93-IBS and L18.01-FM) (see additional fle 2). Te
+responses on the four single complaints were analysed
+both combined and as separate complaints. For the question regarding the use of PSS-related syndrome codes,
+the two ‘Yes, …’ answering options were combined and
+the two ‘No, …’ answering options were combined to construct total scores.
+Results
+Of the approximately 12,000 active GPs in the Netherlands, an estimated 2,000 GPs were reached through our
+distribution method. In total, 259 GPs (13%) fully completed the survey, with exception to the fourth item (4)
+which was completed by 189 GPs. Table  1 displays the
+characteristics of the total sample. Of the GPs who flled
+out the survey, 60.2% were female, which refects the current trend towards increasing numbers of female GPs in
+the Netherlands [35]. GPs from all regions in the Netherlands completed the survey. GPs years since graduation is reasonably evenly distributed over 5-year periods,
+varying between the smallest group of GPs graduating
+between 26 to 30 years since participating in the survey
+(8.5%) and the largest group of GPs graduating between 6
+to 10 years before participation (17.8%).
+Registration of PSS
+As shown in Fig.  1, GPs vary in their way of reporting
+PSS. Combining the preferred frst choices of code for
+the four PSS case examples, the general trend indicates
+that GPs were most likely to register PSS on a symptomspecifc level (89.3%). Te frequency of choosing general
+codes increased from 6.9% as a frst choice to 31.1% for
+the second and 45.5% for the third choice. Te choice
+for ICPC code P75 (somatization disorder) increased
+from 1% as a frst choice, to 5.1% and 8.0% for the second and third choice respectively. When presented with
+fatigue complaints, more than 35.7% chose to report the
+complaint with P75 (as a second or third choice). Looking at the number of times a syndrome code (IBS, CFS or
+FM) was generally chosen either as a frst, second or third
+choice, 144 chose D93 (IBS) in case of bowel complaints,
+69 GPs chose A04.01 (CFS) in case of fatigue complaints,
+and 6 chose L18.01 (FM) in case of neck and back pain.
+For a more detailed description of the choices of ICPC
+codes per presented symptom, see additional fle 3.
+Table  2 shows the reported likelihood that GPs mention PSS-related terminology and cognitions, emotions
+or behaviour related to PSS in their EHR. Some GPs
+mentioned in the comment section that a fear of stigmatization was the reason for avoiding PSS-related terms.
+Of all GPs who answered the question regarding ICPCcodes for recognized PSS-syndromes (n=189), 91.5%
+indicated that they use the codes for IBS (D93), CVS
+(A04.01) and FM (L18.01) (not shown in Table). Te
+answering options given in the survey are depicted in
+Table 3. While 68.3% of GPs reported diagnosing the syndrome themselves, several GPs commented that this was
+only the case for IBS (which was also the case in most
+GPs who selected the answer ‘Other, namely…’).
+GPs needs
+Table  4 shows the results relating to the second aim of
+this study. Approximately half of GPs (47.9%) reported
+that the lack of an unambiguous way of classifying or
+coding PSS is a problem for them. Many GPs commented
+that a specifc code for PSS would be helpful, and some
+suggested that PSS-codes per tract or a specifc code
+with diferent severity levels would be helpful. GPs commented requiring widely accepted guidelines in combination with a new PSS-code. Of those who did not see the
+lack of a specifc PSS code as a problem (52.1%), many
+commented they sometimes describe PSS in the available free text area when registering the patient’s somatic
+complaint. Others felt there is still too much uncertainty
+regarding PSS to code it, felt unwilling to apply “that
+label” to a patient, or commented that registration at a
+symptom level was sufcient. Of all GPs, 32.8% reported
+that they would like to be able to express PSS-related
+components – i.e., specifc thoughts, feelings and behaviour conforming to the B-criteria of SSD – in a code.
+Although some of these GPs commented that they found
+it difcult to specify the components. Additionally, GPs
+indicated a need for training (56.7%) and/or an – (online)
+classifcation and/or risk assessment – tool (58.3%) and/
+or other support (69.7%). Other PSS-related needs mentioned by GPs in the elective comment sections regarded
+clearer or more referral options, more time and fnancial
+compensation for consultations and better guidelines
+(although others explicitly mentioned that they found the
+current guidelines adequate).
+Discussion and conclusion
+Discussion
+Te results of this survey indicate that codes used for
+registration of PSS in primary care varies widely among
+GPs. PSS are primarily coded at a specifc somatic symptom level and GPs often avoid using terminology related
+to PSS in their EHR. In addition, GPs indicate they us
+the codes for well-known PSS-syndromes as IBS, CFS,
+or FM, although IBS is coded more often than CFS and
+FM. Besides, the cognitive, emotional or behavioural
+components of PSS are sparsely reported in EHRs. Some
+GPs indicated that they have difculties in specifying
+these components. Overall, half of GPs are unsatisfed
+with current registration options for PSS. Many GPs have
+a need for additional tools, training or support regarding
+PSS registration and classifcation. Still, while GPs provide several suggestions for improvements of the classifcation system, there is little consensus on this matter.
+Looking more specifcally at the frst aim of this study,
+many GPs are struggling with registration of PSS and are
+hesitant to use codes beyond the somatic complaints they
+objectively observe. Tis is in line with instructions of the
+ICPC [13, 28] and previous research fndings, reporting
+that GPs’ fear of stigmatization may lead them to avoid
+codes related to social and psychological problems [29,
+36, 37]. On the other hand, respondents did indicate
+more frequently diagnosing the PSS-related syndrome
+IBS, compared to CFS and FM, which is in line with previous research indicating that GPs are more profcient
+in diagnosing IBS [11]. Tis suggests that registration
+behaviour may be more depended upon the GP’s confdence in classifying PSS than upon fear of stigmatization.
+Regarding the second aim of this study, our results
+show that the current registration and classifcation
+options for PSS are insufcient for a substantial number of GPs. Tese GPs reportedly require a specifc code
+for PSS, in combination with training, tools, a widely
+accepted guideline, and referral options. In contrast,
+the literature shows that there are a variety of training
+options [38], concise and validated screening questionnaires [26, 39, 40], and referral options [3, 13, 41] available to GPs. Besides, the Dutch GP association has an
+elaborate PSS guideline [13]. In line with this guideline,
+some GPs suggested coding of PSS should be done by
+severity, which is also in line with studies which propose the introduction of codes that specify severity to
+improve documentation of mild PSS [8, 9, 29]. Interestingly, research demonstrated that the GPs’ use of subcategories directed at classifying severity is challenged
+by the GPs’ conceptual understanding of PSS [8]. It is
+therefore conceivable that GPs do indeed need training,
+and knowledge of the availability of training, to increase
+their understanding of PSS.
+Strengths and limitations
+To the best of our knowledge, this study is the frst to
+capture an overview of GPs’ perspectives regarding registration and classifcation of PSS through exploration
+of their specifc ICPC-registration behaviour. Our data
+sheds light on GPs’ reasoning regarding PSS, confrms
+the lack of consensus on registration and classifcation
+and ofers guidance for improvements in registration
+and classifcation based on the GPs’ reported needs.
+Nonetheless, some limitations should be noted. First, in
+order to distribute the survey as broadly as we have, we
+involved third parties (i.e. regional GP-networks) to promote distribution. Tis resulted in a limited overview of
+the number of GPs reached, leading to a rough estimate
+of the response rate. Second, responses may have been
+biased by elective participation. Still, although adequate
+reference data is limited, responses appear fairly representative for the population of GPs in the Netherlands
+[35, 42]. Regarding the content of the survey, a strength
+is that face valid answers were facilitated for the choice
+in ICPC codes by presenting GPs with codes in a dropdown menu, similar to their EHRs’ set-up. Nonetheless,
+this came with the limitation that it is unclear if the more
+frequently coded ‘P75-somatization disorder’ in case of
+fatigue compared to other complaints is a true fnding, or
+whether it demonstrates the limitations of the ICPC coding system itself to facilitate classifcation of PSS, or if it is
+related to a lack of potential alternative codes (see additional fle 2). Lastly, generalisation of the fndings should
+be done with caution, since many questions were based
+on hypothetical situations.
+Practical implications
+Te great variance in responses and methods for registration of PSS found in our research suggests that clinical
+practice may be improved by better registration of PSS.
+Improving classifcation and providing adequate registration options may support GPs in the overall care for
+PSS. To improve registration, a clear defnition with a
+specifc code for PSS should be implemented in the ICPC
+system. Introduction of such a code should be combined
+with (communication on) training options for GPs, which
+also broadens the GPs’ knowledge on currently available diagnostic tools, guidelines and referral options.
+Besides providing more accessible coding and training
+options, research could support the GP further by developing a data-based screening tool for early identifcation
+of patients at risk for PSS. Tis could be another way to
+support the GP with their challenges in conceptualizing
+PSS. Besides, this may promote timely treatment of the
+cognitive, emotional and behavioural components of
+PSS, which, in turn, may decrease the burden of PSS and
+reduce the risk of iatrogenic harm.
+Conclusion
+Registration of PSS in primary care is currently ambiguous. Specifc complaints presented by patients with
+PSS are primarily coded on a symptom-specifc level.
+Approximately half of GPs expressed a need for more
+coding options for PSS and over half of GPs reported a
+need for further training, tools or other support regarding PSS. Since many of the latter already exist, improvements should be directed at new options for registration,
+specifcally coding, and increasing and spreading knowledge about PSS, guidelines, available tools and referral
+options.

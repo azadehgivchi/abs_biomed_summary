@@ -1,0 +1,451 @@
+Background
+Endophytes are microorganisms that reside within plant
+tissues and do not cause any deleterious effect to the
+plants. These microorganisms consist of bacterial and
+fungal communities that colonize and spend the whole
+or part of their life cycle inside tissues of the host, without
+causing noticeable symptoms of plant diseases [1, 2].
+Endophytic fungi are found in almost plant parts and act
+as chemical synthesizers inside the host plant, producing
+a wide range of bioactive secondary metabolites [3, 4].
+Endophytic fungi from the genera Colletotrichum, Fusarium,
+Alternaria and Aspergillus, isolated from medicinally
+important plants exhibit a variety of biological
+activities such as anticancer, antimicrobial, antifungal,
+immunomodulatory, antitubercular, and antioxidant
+activities with wide application in agrochemical and
+pharmaceutical industries [5–8]. These biological activities
+demonstrated by endophytes have been attributed
+to isolated and identified secondary metabolites such as
+alkaloids, terpenoids, steroids, quinones, isocoumarin
+derivatives, flavanoids, peptides, and phenols present in
+the fungal extracts [9–14]. Therefore, exploring endophytic
+fungi that reside in medicinal plant species would
+provide vast opportunities to discover new medicinally
+important metabolites [15].
+Production of reactive oxygen species known as free
+radicals occurs frequently in all cells as part of normal
+metabolic process. However, free radicals have been
+implicated in the pathogenesis of quite a number of
+chronic diseases such as diabetes, neurological disorders,
+and cancer [16]. Free radical scavenging property of antioxidant
+agents inhibits or delays cellular damage. Dietary
+intake as well as adequate amount of exogenous antioxidants
+would prevent the pathological conditions induced
+by free radicals [17]. However, the use of synthesized
+antioxidants in the prevention of free radical damage
+may exude toxic side effects thus the search for natural
+antioxidant agents is required [18, 19]. Endophytic fungi
+can synthesize secondary metabolites with antioxidant
+activity that can interrupt the chain reaction of reactive
+oxygen species [20, 21].
+Medicinal plants growing in natural habitats are
+promising hosts of endophytic fungi that might produce
+bioactive secondary metabolites of pharmaceutical relevance.
+Different plant parts, especially the leaves, stems,
+and roots are considered an enormous repository of
+these fungal endophytes with reported cytotoxic, antifungal,
+antiviral, and antimicrobial activities [22–24].
+The genetic resources of these plants found in Nigeria
+are a veritable source of pharmaceuticals and therapeutics
+with significant information on their phytochemistry.
+Additionally, these plants are used locally in the
+treatment of various diseases. Hence, this study was
+carried out to isolate and screen endophytic fungi with
+antioxidant activity from eight selected ethnomedicinal
+plants namely: Acalypha ornata Hochst. ex A. Rich
+(Euphorbiaceae), Albizia zygia (DC.) J.F. Macbr. (Fabaceae),
+Alchornea cordifolia (Schum. & Thonn.) Müll-Arg (Euphorbiaceae),
+Chrysophyllum albidum G. Don (Sapotaceae),
+Ficus exasperata Vahl (Moraceae), Gomphrena celosioides
+Mart. (Amaranthaceae), Millettia thonningii (Schmach.)
+Baker (Fabaceae), and Newbouldia laevis (P. Beauv.) Seem.
+ex Bureau (Bignoniaceae).
+Methods
+Collection of plant samples and identification
+Fresh and healthy leaf samples of Acalypha ornata
+Hochst. ex A. Rich, Albizia zygia (DC.) J.F. Macbr.,
+Alchornea cordifolia (Schum. & Thonn.) Müll-Arg,
+Chrysophyllum albidum G. Don, Ficus exasperata Vahl,
+Gomphrena celosioides Mart., Millettia thonningii
+(Schmach.) Baker, and Newbouldia laevis (P. Beauv.)
+Seem. ex Bureau were collected within the main campus
+of the University of Lagos, Lagos State, Nigeria in the
+month of March, 2019. The plant samples were identified
+and authenticated by Dr. George I. Nodza at the
+Herbarium of the Department of Botany, University of
+Lagos where herbarium specimen and voucher specimen
+number (LUH 8256–62; 8264) for each sample was
+deposited. Each sample was kept separately in a sealed
+plastic bag and brought to the laboratory on the same
+day for the isolation of fungal endophytes.
+Isolation of endophytic fungi
+The collected plant samples were surface sterilized
+according to the method previously described [25, 26]
+with modifications. To remove dust and debris, samples
+were washed thoroughly under running tap water,
+followed by washing in distilled water. The leaf samples
+were cut into small segments measuring 2–4mm using
+sterile razor blades. Surface sterilization of leaf segments
+was carried out by sequential immersion in 70% ethanol
+for 60 s, 0.5% sodium hypochlorite for 5 min, 70% ethanol
+for 30 s, followed by a final rinse in sterilized distilled
+water for 5 min. Sterilized leaf segments were air-dried
+aseptically and placed on petri dishes containing potato
+dextrose agar amended with 0.01% gentamycin antibiotic
+for the direct contact of cut edges with the nutrient
+media. Three segments of each plant sample were placed
+on PDA plates, sealed with parafilm and incubated at
+27 °C for 5–7 days. Samples were checked daily for visual
+growth of fungi.
+Purification and preservation of endophytic fungi
+Following the incubation period, different fungal strains
+emerged from each sample and individual strains were
+isolated by transferring hyphal tips onto a fresh PDA
+medium. This process was repeated several times until a
+pure endophytic fungal strain with uniform colony was
+obtained. Pure endophytic fungi isolates were transferred
+separately to PDA slants and 15% (v/v) sterilized glycerol
+solution. Growth of endophytic fungi strains in both
+media was observed for 3–5 days. Glycerol stock solution
+and PDA slants were maintained at − 20 °C and 4 °C
+respectively till further use.
+Molecular identification
+Identification of endophytic fungi was performed using
+molecular characterization and sequencing of the internal
+transcribed spacer region (ITS).
+Endophytic fungi DNA extraction
+Deoxyribonucleic acid (DNA) extraction of fungal
+strains was done using Zymo fungal / bacteria DNA
+extraction kit (Zymo Research Corp., South Africa)
+according to the manufacturer’s instructions. Briefly,
+pure endophytic fungi strains isolated from the plant
+samples were grown in potato dextrose broth (PDB) for
+6–7 days. Following the formation of endophytes colony,
+fungal mycelium was drained and homogenized in
+200 μL of phosphate buffered saline to aid lysis. About
+50 mg of homogenate was harvested into a 1.5 ml microcentrifuge
+tube and 750 μL lysis solution was added to
+the tube. The tube was vortex vigorously for 30–60 s
+and 400 μL of supernatant was transferred into a Zymo-
+Spin™ IV spin filter in a collection tube and centrifuged
+at 10,000 rpm for 1 min. After centrifugation, 1200 μL of
+Fungal/Bacterial DNA binding buffer was added to
+filtrate in the collection tube. 800 μL of the mixture was
+then transferred to a Zymo-Spin™ IIC column in a
+collection tube. The reaction mixture was centrifuged at
+10,000 rpm for 1 min. The flow through was discarded
+and the remaining mixture was centrifuged again at
+10,000 rpm for 1 min in the same tube. The column was
+pre-washed with 200 μL DNA Pre-Wash buffer and
+centrifuged at 10,000 rpm for 1 min. This was followed by
+a wash with 500μL Fungal/Bacterial DNA Wash Buffer
+and centrifuged at 10,000 rpm for 1 min. The DNA was
+eluted from the Zymo-Spin™ IIC column to a sterile 1.5 ml
+microcentrifuge tube using 100 μL of DNA Elution Buffer.
+The purity and concentration of extracted DNA was
+evaluated using a NANODROP (ND 1000) spectrophotometer
+(Thermo Scientific, USA).
+Amplification and sequencing
+Polymerase chain reaction was carried out to amplify the
+ITS gene of specific DNA of each fungus using the
+primer pair ITS-1 (5′-TCCGTAGGTGAACCTGCGG)
+and ITS-4 (5′-TCCTCCGCTTATTGATATGC) as
+previously described [27, 28]. PCR was done using the
+Solis Biodyne 5x Hot FIREPol® Master Mix Ready to
+Load. PCR reaction was performed in a total volume of
+20 μL containing 1 x blend master mix buffer, 1.5mM
+MgCl2, 200 μM of each deoxynucleoside triphosphate
+(dNTP), 25 pmol ITS1 and ITS4, 2 units of hot FIREPol
+DNA polymerase and 10–200 ng of DNA. Sterile distilled
+water was used to make up the reaction mixture.
+PCR amplification was performed in PTC 100 Peltier
+Thermal Cycler (MJ Research) using the following protocols:
+denaturation at 95 °C for 15 min; 35 amplification
+cycles at 95 °C for 30 s; primer-specific annealing at
+58 °C for 1 min and elongation at 72 °C for 90 s; a final
+elongation at 72 °C for 10 min. Amplified DNA was
+checked by electrophoresis at 80 V for 90 min in a 1.5%
+agarose gel stained with ethidium bromide. The band to
+PCR product was visualized with a photodocumentation
+system (Cleaver Scientific, UK).
+The amplified products were purified with exo sap and
+sequenced by Epoch Life science, USA using Sanger
+sequencing method. Identification of endophytic fungi
+was performed on the basis of similarity of amplified
+sequence with ITS sequence data from strains available
+in the US National Centre for Biotechnology Information
+(NCBI) database using Basic Local Alignment Search Tool
+(BLAST) N sequence match routines.
+Fermentation and extraction of isolated fungal metabolites
+Cultivation of isolated fungal endophytes was carried out
+in a conical flask containing sterilized rice medium as
+previously described [25, 29] with modifications.
+Approximately 200 g of rice was soaked in 200 ml sterile
+water for 10 min in a glass bottle. The flask with its
+content was autoclaved at 121 °C for 20 min and allowed
+to cool. Three to four pieces of pure mycelia agar plugs
+were inoculated aseptically into the cooled solid rice
+medium. A flask of autoclaved solid rice medium without
+inoculum served as the control. Fungal strain was
+allowed to grow on rice medium at room temperature
+(27 ± 2 °C) for 4–6 weeks with a routine check. After the
+incubation period, about 500 ml of ethyl-acetate was
+added into the culture flask and left overnight at room
+temperature. The crude ethyl-acetate fungal mixture was
+filtered through a Whatman filter paper No. 1 under
+vacuum using a Buchner funnel. Collected supernatant
+was evaporated to dryness under vacuum on a rotary
+evaporator (Buchi, Switzerland) at 40 °C to obtain crude
+fungal extract.
+In vitro antioxidant activity of fungal extracts
+DPPH radical scavenging activity
+Free radical scavenging activities of fungal extracts were
+measured using 2, 2-diphenyl-1-picryl-hydrazyl (DPPH)
+as previously described [30, 31]. Briefly, 2 ml of varying
+concentrations (62.5–500 μg/ml) of fungal extracts and
+positive standard (ascorbic acid) prepared in methanol
+was mixed with 2 ml of 0.135mM DPPH in methanol.
+The mixture was shaken vigorously and incubated in the
+dark at room temperature for 30 min. Mixture of
+methanol and DPPH without fungal extract served as
+the control. Absorbance of samples was measured at
+517 nm against the blank tube that contains methanol
+and used to maintain zero of the UV-vis spectrophotometer.
+The assay was carried out in three replicates. Inhibition
+of DPPH was calculated as a percentage of radical
+scavenging activity of each fungal extract using the
+formula:
+Percentage of radical scavenging activity = [(Acontrol -
+Asample)/Acontrol] × 100.
+Where A is the absorbance reading. IC50 value (μg/mL)
+was calculated from percentage of radical scavenging
+activity against extract concentrations.
+Reduction of Fe3+ ions by ortho-phenanthroline
+O-phenanthroline assay was used to determine the reducing
+capacity of fungal extracts as previously described
+[32, 33]. A reaction mixture containing 1 ml of 2mM
+phenanthroline, 2 ml of 0.2mM ferric chloride hexahydrate
+(FeCl3.6H2O), and 2 ml of different concentrations
+(62.5–500 μg/ml) of fungal extracts was shaken and
+incubated at ambient temperature for 10 min. Absorbance
+was measured at 510 nm using a UV-vis spectrophotometer.
+Gallic acid served as positive standard.
+Identification of bioactive constituents by GC/MS
+Gas chromatography/mass spectrometry (GC/MS)
+analysis of bioactive fungal extracts was performed using
+Agilent 7820A gas chromatograph coupled to an Agilent
+5975C inert mass selective detector (MSD) with triple axis
+detector operated in an electron impact (EI) mode with
+ionization energy of 70 eV. An HP-5 capillary column
+coated with 5% phenyl methyl siloxane (30m× 0.32mm
+diameter × 0.25 μm film thickness) was used for the separation.
+Sample preparation was performed according to the
+procedure described [34]. The sample (1 μL, diluted 1: 100
+in dichloromethane) was injected in splitless mode at an
+injection temperature of 300 °C. Purge flow to split vent
+was 15 ml/min at 0.75 min with a total flow of 16.654 ml/
+min. Helium was used as the carrier gas at the flow rate of
+1.487 ml/min with initial nominal pressure of 1.4902
+psi and an average velocity of 44.22 cm/sec. The oven
+temperature was initially programmed at 40 °C for 1
+min then ramped at 12°C / min to 300°C for 10min.
+Run time was 32.667 min with a hold time of 5 °C /
+min. Identification of the chromatographic peaks was
+based on comparisons of their relative retention times
+and mass spectra with those obtained from the
+NIST14.L library data.
+Statistical analysis
+All assays were carried out in three replicates and results
+are expressed as mean ± standard error of mean (SEM).
+IC50 values were obtained by interpolations from standard
+curves. Data were analyzed using Graph Pad Prism 8.
+Results
+Isolation of endophytic fungi
+Eighteen pure fungal endophytes were successfully
+isolated from surface sterilized fresh leaf samples of eight
+medicinal plants: Acalypha ornata, Albizia zygia, Alchornea
+cordifolia, Chrysophyllum albidum, Ficus exasperata,
+Gomphrena celosioides, Millettia thonningii, and Newbouldia
+laevis (Fig. 1). The leaves of A. zygia were found to
+host the highest number of endophytic fungi with four
+isolates: ZA 161, ZA 162, ZA 163, and ZA 164 (Table 1).
+This was followed by the leaves of C. albidum with three
+isolates: CA 041, CA 042, and CA 043 and F. exasperata
+with three isolates: FE 081, FE 082, and FE 083 (Table 1).
+Two endophytic fungal isolates were obtained from the
+leaves of A. ornata (CU 061 and CU 062); M. thonningii
+(MO 211 and MO 212); N. laevis (NA 021 and NA 022).
+A. cordifolia and G. celosioides leaf samples hosted one
+fungal isolate LO 261 and GE 091 respectively
+(Table 1). Pictorial representation of isolated endophytic
+fungi is as shown in Fig. 2.
+acid, 3-oxo-, methyl ester); sterols (campesterol; stigmasterol;
+and sitosterol); and fatty acids and its amide
+derivative (methyl stearate; oleic acid; linoleic acid;
+palmitic acid; and oleamide). Figure 9 shows the
+chemical structures of pyrogallol (phenolic), lupeol
+(terpenoid), and β-sitosterol (sterol) as representatives of
+the major classes of secondary metabolites as well as oleamide
+(amide derivative of fatty acid) and α-tocospiro
+A (tocopherol) present in the investigated endophytic
+fungi extracts.
+Fourteen compounds (0.06 to 19.84% percent composition)
+were identified in fungal extract MO211. Pyrogallol
+was recorded as the most abundant compound with
+percent composition of 19.84% while dl-alpha-tocopherol
+(0.06%) was the least identified compound. A total of
+twelve compounds were identified in ZA163 fungal
+extract, pyrogallol (10.72%) was the most abundant
+compound while dl-alpha-tocopherol (0.15%) was least
+identified. This was followed by fungal extract FE 082 with
+eleven identified compounds. Alpha tocospiro (4.92%)
+appeared as the most abundant while linoleic acid (0.07%)
+was the least identified compound. Fungal extracts FE 084
+and LO 261 recorded six compounds each with pyrogallol
+(31.33%) and 9-octadecenamide (11.04%) recorded as
+most abundant compounds and 9-octadecenoic acid
+(Z)-, methyl ester (0.62%) and linoleic acid (0.05%) as least
+identified compounds respectively (Table 3).
+Discussion
+In this study, eighteen endophytic fungi were successfully
+isolated from surface sterilized fresh leaf samples of
+eight medicinal plants. To the best of our knowledge,
+this is the first report describing the isolation of endophytic
+fungi residing in the leaf cells of the selected plant
+samples. After size separation by agarose gel electrophoresis
+of the ITS PCR products, the PCR products of
+the plant samples exhibited DNA band size range of
+400–700 bp. Detailed taxonomic assignment of fungal
+isolates remain unresolved due to limitations inherent in
+fungal ITS sequences. The results obtained from this
+study thus confirmed that leaves of the medicinal plants:
+Acalypha ornata, Albizia zygia, Alchornea cordifolia
+Chrysophyllum albidum, Ficus exasperata, Gomphrena
+celosioides, Millettia thonningii, and Newbouldia laevis
+are host to endophytic fungi.
+The crude fungal extracts showed vary degrees of
+antioxidant activity in the DPPH radical scavenging and
+reduction of ferric ion assays. DPPH (2, 2-diphenyl-1-
+picryl-hydrazyl) is a stable free radical that produces
+purple color in methanol. Antioxidant activity of the
+fungal extracts was measured by discoloration to yellow
+color following the formation of non-radical (2,2-diphenyl-
+1-hydrazine) molecule [17]. Fungal extracts ZA163
+and MO211 exhibited significant (p < 0.05) DPPH
+radical scavenging activity.
+The metal chelating capacity of a compound may also
+serve as a significant indicator of its potential antioxidant
+activity [35]. The iron chelating activity of all fungal
+extracts was determined by reaction with ortho-phenanthroline.
+Fe3+ is reduced to Fe2+ by an antioxidant and
+the formed Fe2+ rapidly react with phenanthroline to
+form a stable red orange colored complex [33, 36].
+Isolated fungal extracts ZA 163, LO 261, CA 041, CA
+042, CA 043, FE 082, FE 084, and GE 091 from A. zygia,
+A. cordifolia, C. albidum, F. exasperata, and G. celosioides
+medicinal plants demonstrated iron chelating
+capability. Similar observations of antioxidant activity of
+endophytic fungi isolates have been reported in some
+medicinal plants such as Bauhinia racemosa, Distylium
+chinense, Euphorbia hirta, Guazoma tomentosa, Phoenix
+dactylifer, Phyllanthus amarus, and Senna spectabilis [4,
+37–41]. Our results suggest that endophytic fungi that
+reside in the leaves of A. ornata, A. zygia, A. cordifolia,
+C. albidum, F. exasperata, G. celosioides, M. thonningii,
+and N. laevis showed promising antioxidant activity.
+Fungal extracts ZA163, MO211, LO 261, FE 082, and
+FE 084 were among the fungal extracts that exhibited
+effective antioxidant activity with a substantial yield of
+extract, thus were selected for phytochemical analysis via
+GC/MS analytical technique. The identified compounds
+represented phenolic, terpenoid, and sterol classes of
+secondary metabolites as well as tocopherols and fatty
+acids. Most of these chemical constituents have been
+reported to demonstrate remarkable antioxidant activity.
+Phenolic compounds act as natural antioxidants that
+exert therapeutic effects such as anti-inflammatory, antidiabetic,
+antimicrobial, antiviral and vasodilatory effects
+and prevent various forms of diseases [42–44]. Tocopherol
+plays an important role as a lipid antioxidant in
+stabilizing subcellular membranes [45]. Fatty acids are
+able to reduce oxidative stress from free radicals by
+exerting an antioxidant role [46, 47]. Pyrogallol (phenol),
+alpha tocospiro (tocopherol), and oleamide (amide derivative
+of fatty acid) are present as the major components in
+the investigated endophytic fungi extracts. Previous
+studies have reported the isolation and characterization of
+graphislactone A, a phenolic benzopyranone antioxidant
+compound from the endophytic fungus Cephalosporium
+sp. inhabiting the medicinal plant Trachelospermum jasminoides
+[11]. Similarly, isolation and characterization of
+pestacin and isopestacin, a coumarone antioxidant and antifungal
+agents from the endophytic fungus Pestalotiopsis
+microspora that resides in the medicinal plant Terminalia
+morobensis was reported in literature [12, 13]. These results
+suggest that these compounds and others identified
+in fungal extracts ZA163 from Albizia zygia, MO211 from
+Millettia thonningii, LO261 fromAlchornea cordifolia, FE
+082 and FE 084 from Ficus exasperata could be responsible
+for the antioxidant activity demonstrated by the
+endophytes.
+Conclusion
+The results obtained from this study established that endophytic
+fungi isolated from medicinal plants: Acalypha
+ornata, Albizia zygia, Alchornea cordifolia, Chrysophyllum
+albidum, Ficus exasperata, Gomphrena celosioides, Millettia
+thonningii, and Newbouldia laevis commonly used in
+Nigeria local herbal remedies may be a potential source of
+bioactive compounds, which may be used for the development
+of antioxidant drugs. Phytochemical analysis revealed
+the presence of phenols, tocopherols, sterols, terpenoids,
+and fatty acids that may have contributed to the observed
+effect. These findings indicate that endophytic fungi hold
+promise for large scale production of free radical scavenging
+agents, which can be developed as drug molecules
+used in the intervention of oxidative stress-mediated
+diseases.
+radical scavenging activity with an IC50 value range of
+50.53 μg/ml to 257.0 μg/ml. The standard ascorbic acid
+revealed a value of 12.07 μg/ml. The highest antioxidant
+activity with an IC50 value of 50.53 ± 0.01 μg/ml was displayed
+by extract of endophytic fungi ZA163 isolated
+from the leaves of Albizia zygia. This was followed by
+extract of fungal isolate MO211 obtained from the leaves
+of Millettia thonningii with an IC50 value of 86.69 ±
+0.02 μg/ml. Extracts of fungal isolates CA 041, CA 043,
+and CA 042 isolated from Chrysophyllum albidum
+leaves showed the least radical scavenging activity with
+IC50 values of 239.20 ± 0.04, 252.0 ± 0.11 and 257.0 ±
+0.11 μg/ml respectively.
+Reduction of Fe3+ ions by ortho-phenanthroline
+Except for extracts of endophytic fungi CU 061 and CU
+062 isolated from Acalypha ornata, all fungal extracts
+showed a dose dependent antioxidant activity with an increase
+in absorbance value as concentration increases
+(Table 2). At 250 and 500 μg/ml concentrations, fungal
+extracts CA 041 from Chrysophyllum albidum and GE
+091 from Gomphrena celosioides demonstrated significantly
+(p < 0.01) higher antioxidant activity (0.843 and
+1.070; 0.640 and 0.977 respectively) than standard gallic
+acid (0.499 and 0.521). Also at 500 μg/ml concentration,
+the absorbance values of fungal extracts ZA 163 (1.190)
+from Albizia zygia; LO 261 (0.803) from Alchornea
+cordifolia; CA 042 (0.932) and CA 043 (0.994) from C.
+albidum; FE 084 (0.869) and FE 082 (0.852) from Ficus
+exasperata; demonstrated significant (p < 0.01) higher
+antioxidant capability than gallic acid (Table 2).
+Identification of bioactive constituents by GC/MS
+Table 3 shows the retention time, molecular weight,
+molecular formula, and class of identified chemical constituents
+present in endophytic fungal extracts ZA163,
+MO211, LO 261, FE 082, and FE 084 with a substantial
+percentage compositions and quality match ranging
+from 86 to 99%. The chromatograms are shown in
+Figs. 4, 5, 6, 7, 8. The identified compounds include
+phenol and tocopherol (phenol, 2-methoxy; phenol, 2,6-
+dimethoxy-; phenol, 2,6-dimethoxy-4-(2-propenyl);
+pyrogallol; phenol, 2,2′-methylenebis [6-(1,1-dimethylethyl)-
+4-methyl; alpha tocospiro A; alpha tocospiro B,
+dl-alpha-tocopherol; and gamma tocopherol); terpenoids
+(phytol; lup-20(29)-en-3-one; lupeol; and urs-12-en-24-oic

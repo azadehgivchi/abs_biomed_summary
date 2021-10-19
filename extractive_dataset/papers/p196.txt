@@ -1,0 +1,273 @@
+Background
+There are currently over 6000 monogenic diseases according
+to OMIM [1]. Different DNA alterations may
+cause a disease, however the main reason of monogenic
+diseases is a pathogenic single nucleotide variant (SNV).
+SNVs account for approximately 90% of all records in
+ClinVar [2] database (Fig. 1a), 23% of which are pathogenic
+or likely pathogenic (Fig. 1b). Modern molecular
+genetic techniques, early diagnostics and advanced
+symptomatic and pathogenic treatment for many hereditary
+diseases are now available. Despite significant
+advancement in treating orphan diseases true cure is
+possible only by direct correction of mutated genes.
+Genome editing is thought to be the main breakthrough
+in treating monogenic diseases. The CRISPR/Cas9 system
+is one of the most popular tools to make changes in
+genome. It’s based on inducing targeted single- or
+double-stranded break (DSB) in DNA which is then
+repaired by either non-homologous end joining (NHEJ)
+or homology directed repair (HDR). Both approaches
+are used for the development of new genome editing
+therapeutic approaches – HDR is used to correct targeted
+mutations while NHEJ can be used to universally
+skip exons with any pathogenic mutations [3]. However
+all developed methods have very low efficiency with high
+level of unwanted events mainly due to the DSB. Moreover
+it was reported that DSB may be the reason of large
+deletions and rearrangements [4]. NHEJ is the dominating
+DNA repair mechanism, but it’s not precise and
+small insertions and deletions at the place of DSB are
+typical. Even in those cases when HDR successfully occurs
+the majority of DSBs are repaired by NHEJ.
+New methods [5] can solve this problem by direct correction
+of individual nucleotides without inducing DSB
+repaired by NHEJ. CRISPR-Cas9-based single nucleotide
+editors developed recently may help to overcome the
+main obstacle in precise correction of SNVs. Their main
+characteristic is the direct change of the targeted nucleotide
+without inducing DNA breakes.
+There are two major types of base editors (BEs).
+Earlier developed C- > T editors are built of CRISPRnuclease
+fused to cytidine deaminase [6]. Cas9/Cpf1
+together with small guide RNA (sgRNA) target the
+construct to a specific DNA locus and cytidine deaminase
+converts C to T. Later developed A- > G editors
+use adenine deaminase. Consequently both systems
+depend greatly on the properties of the CRISPR protein.
+Cas9 has a major PAM sequence NGG placed at
+the 3’end of the targeted locus. Cpf1 uses PAM at
+the 5′-end of the sgRNA. We use numerating of the
+nucleotides in this work starting from the PAM: − 1,
+− 2, − 3… for Cas9 and + 1, + 2, + 3 for Cpf1. Both
+systems can typically edit nucleotides in the range of
+4–11 nucleotides (− 17 – − 10 for Cas9) (Fig. 2). The
+width and position of the editing window depend on
+the properties of the deaminase and the linker between
+the deaminase and programmable nuclease.
+There are engineered nucleases with different PAMs
+which enlarges the number of potentially targetable
+DNA sequences. BEs don’t need double-stranded
+DNA breaks because the can successfully work with
+nicks of the single DNA strand. This fact is very important
+for the development of safe DNA-editing systems
+with low risk of off-target events.
+Here we describe all known BEs. We also performed
+analysis to find all possible pathogenic variants which
+can be efficiently targeted by any of the described systems
+and present them for further selection and development
+of targeted therapies.
+Methods
+ClinVar database (GRCh37_clinvar_20171203) was used
+to search and select mutations available for current
+single-base editing systems. We included only pathogenic
+and likely pathogenic variants for further analysis.
+Genome assembly hg19 was used as a reference.
+Generally in order to target the specific mutation the
+Cas9-based system needs a PAM sequence. For every
+potentially editable mutation the PAM sequence should
+be in the interval dependent on the sgRNA length and
+width of the editing window of the specific BE. So the
+PAM sequence was searched in the window with coordinates
+[lengthsgRNA – Y; lengthsgRNA – X + lengthPAM]
+starting from mutation location (Fig. 3, a). Where
+lengthsgRNA is typically 20 for most of the systems,
+lengthPAM is typically 3 and X and Y are the coordinates
+of the editing window for the particular BE if to count
+nucleotides from the 5′ end of the sgRNA. These calculations
+allowed to find the PAM in such a distance from
+the mutations that if and when BE would be applied the
+mutation will be found in the editable window.
+If a PAM was found, we analyzed the editing window
+to find sequences with only one nucleotide (mutated)
+which can be edited without risk of changing neighboring
+nucleotides (Fig. 3, b). Detailed characteristics of the
+analyzed BEs are presented in the Table 1.
+The code of the script to search the database and to
+analyze the sequences was written in R and is available
+in the Additional file 2.
+Results
+Editing systems are able to convert G(C) > A(T) and
+A(T) > G(C), which allows in theory to correct 68% of all
+mutations registered in ClinVar (A(T) > G(C) – 21% and
+G(C) > A(T) – 47% respectively) (Fig. 1,c). We selected
+only pathogenic and likely pathogenic mutations – 21%
+of all ClinVar records. Therefore, the total number of
+analyzed mutations was 27,310.
+We developed the R script to analyze 21 editing system
+currently reported in 9 publications. Every system
+has different working characteristics such as the editing
+window and PAM sequence which are summarized in
+the Table 1. C > T BEs have a lot of PAMs with the most
+popular NGG, and editing window is in the range of −
+20 to − 5. For G > A mutations there are 2 systems with
+NGG/NGV/GAT PAMs and typical window from − 17
+to − 12.
+Firstly, we searched for available PAMs near the target
+mutation (Fig. 2,a). Exact area of searching depends on
+the length of the editing window and length of the
+sgRNA. It was possible to find several PAMs in the designated
+area, which were analyzed individually. For all
+C > T BEs, we found 6415 potential targets which constitutes
+93% of all T > C pathogenic mutations. ABE systems
+can edit 13,683 mutations (67% of G > A
+pathogenic mutations).
+Then we analyzed editing windows around selected
+mutations to check for the presence of other C(G) or
+A(T) nucleotides which could be nonspecifically edited
+together with targeted mutations. We selected only
+those mutations, which have no other targets near them
+(Table 2). As a result, for C > T systems we select 3196
+variants, it is approximately 46% of all pathogenic mutations,
+and 6900 mutations (34% of all pathogenic) for
+A > G systems.
+The first successful single-base editor was presented in
+2016 by A. Komor with colleagues [6]. The editor consists
+of nuclease-deficient Cas9 fused with APOBEC1 cytidine
+deaminase. Cas9 with sgRNA targets the complex to
+DNA. Deaminase converts any cytosine into uracil in the
+range of 8 nucleotides from − 18 to − 11 of the targeted
+sequence from PAM with the overall frequency of 37%.
+Uracil is later repaired to thymine. The width and exact
+position of the window depends on the protein structure
+and linker length. Uracil glycosylase inhibitor was introduced
+to the complex to inhibit U-to-C back conversion.
+And finally the authors partially restored nuclease activity
+to cut the strand complementary to the converted nucleotide.
+This editor was called third-generation base editor –
+BE3. Later the same authors managed to develop
+additional systems with different editing windows and
+PAM sequences by changing deaminase linker length and
+Cas9 enzyme [7]. They succeeded in reducing window by
+different mutations: − 17 to − 12 for A-BE3(R126A), − 17
+to − 13 for Y-BE3(W90Y), − 16 to − 14 for FEBE3(
+W90F + R126E) and − 16 to − 15 for YEEBE3(
+W90Y + R126E + R132E). Also, authors analyzed new
+Cas9 variants with altered PAMs: NGAN (VQR-Cas9)
+with − 17 to − 10 window and YE1-VQR-BE3 with − 16 to
+− 15 window, NGAG (EQR-Cas9) with − 17 to − 10 window,
+NGCG (VRER-Cas9) with − 19 to − 10 window. In
+addition, they use Cas9 homolog from Staphylococcus
+aureus (SaCas9) with PAM NNGRRT (− 15 to −9 window)
+and an engineered SaCas9 variant containing three
+mutations (SaKKH-Cas9) with PAM NNNRRT (− 15 to −
+9 window).
+K. Nishida with colleagues presented a very similar
+editor based on another enzyme – activation-induced
+cytidine deaminase (PmCDA1) and nCas9 (D10A) [8].
+The main difference was the editing window from − 20
+to − 16 nucleotide of the targeted sequence. System
+demonstrated approximately 60% editing frequency in
+mammalian cells, with off-target mutations in lower than
+1.5%. We found that nCas9(D10A)-PmCDA can target
+2544 A(T) > G(C) mutations and 566 of them may be
+corrected without affecting nearby nucleotides.
+W. Jiang with his team made a system with the longest
+editing window from − 16 to − 5 [9]. In 2018 J Hu et al.
+described modified Cas protein (xCas9) with increased
+number of PAMs: NG, GAA, and GAT [10].
+Not only PAM sequence but also its position relative
+to the targeted mutations limits the usage of BEs,
+especially in the AT-rich regions, which are difficult
+to find PAMs typical for Cas9-based systems. Cpf1
+has a different PAM sequence – TTTV which is also
+recognized upstream from the targeted sequen
+unlike NGG which goes immediately after targeted
+DNA. Cpf1 fusion with APOBEC1 allows targeting
+AT-rich sequences [11]. There are 2 systems with different
+editing windows: dCpf1-eBE from 8 to 13 and
+dCpf1-eBE-YE from 10 to 12.
+J. Gehrke and his team tried to develop more precise
+BE3-based systems depending on the nucleotides neighboring
+the targeted mutation with TCR > TCY > VCN
+hierarchy [12].
+Most of the pathogenic mutations are G(C) > A(T)
+substitutions (47%) (Fig. 1, C). That is why adenine base
+editor would be of great practical importance allowing
+correction of almost half of all mutations. However there
+are no natural enzymes able to convert A(T) to G(C). By
+direct genetic and protein engineering adenine base editor
+(ABE) was developed by Gaudelli NM et al. [14].
+ABE consists of adenine deaminase TadA and Cas9 protein
+(ABE7.10). Substitution of adenine to guanine occurs
+in a window from − 17 to − 12 nucleotides of the
+targeted sequence with a probability of 60%. ABE7.10
+base editor can target 7044 G(C) > A(T) mutations in the
+− 17 / -12 nucleotide window. Over 2/3 of them (2568)
+can be specifically targeted in the regions without other
+A(T). With modification of Cas9 and availability of additional
+PAMs [9] the system managed to target almost 3
+times more mutations - 6829.
+The full list of all targetable mutations is available in
+the Additional file 1.
+Discussion
+Single base editors (BE) are very promising genetic tools
+for safe targeted correction of single nucleotide variants.
+They reduce the risk of indels aroused during repairing
+double stranded breaks. However base editors have wide
+editing windows and this fact which limits their potential
+use in editing targeted single nucleotides. Usually each
+nucleotide is repeated in DNA sequence in the range of
+8–10 nucleotides which is the typical window width of
+base editors. Though there is a significant progress in
+the development of new BE with narrow editing windows
+[11] unfortunately, none of the BEs is ideally specific.
+Even recently developed highly specific editors
+claimed by the authors to edit 1–2 nucleotides at some
+tested loci still have a window of several nucleotides edited
+at very low frequency [13]. It means that if there are
+several targets in the window, the enzyme can edit all of
+them, but not only the desired target. It’s reasonable to
+select the most safe targets for possible genome editing
+with BE especially for the development of treatment
+in vivo. Therefore we analyzed editing windows around
+selected mutations to select only those which can be edited
+absolutely safely.
+We demonstrated that about 37% of all pathogenic
+and likely pathogenic single nucleotide variants can
+be safely edited without chances to convert neighbor
+nucleotides. These mutations are found in 2364 genes
+and are responsible for the development of 4000 diseases
+or syndromes (based on MedGen https://www.
+ncbi.nlm.nih.gov/medgen/). It’s interesting to note,
+that 779 mutations can be edited by more than 3 analyzed
+BEs, which opens great potential for optimizing
+editing protocols.
+For example one pathogenic variant NM_001005463.2:
+c.196A > G described in ataxia with delayed development
+(OMIM 617330) can be targeted by 13 different systems
+with 17 different sgRNAs (Table 3).
+The non-mutated T in the genome is highlighted in
+bold capital letter. Since the real BE converts C > U > T,
+all A > G mutations were also converted to complementary
+sequences and algorithm was applied to the complementary
+sequence (containing C as a mutation but
+not G) if necessary. That is why the table contains only
+“T”s as reference nucleotides. Despite big difference in
+the editing length none of the windows contains Cytosine,
+which could be unintentionally edited together with
+T > C (A > G).
+Conclusions
+CRISPR/Cas9 base editors allow to precisely target 46%
+of all T > C pathogenic mutations and 34% of all G > A
+pathogenic mutations. Protein engineering helps to develop
+new enzymes with even narrower window of editing
+which makes the editors more precise. Newly
+engineered Cas9 enzymes recognize various PAM sequences.
+Additionally the linker length between Cas9
+and deaminase may help to shift the editing window to
+further widen the capabilities of base editors. However,
+even now the list of mutations which can be targeted
+with currently available systems is huge and allows to
+choose and to develop new targeted genome editing
+therapies.

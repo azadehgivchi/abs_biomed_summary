@@ -1,0 +1,20 @@
+Background: Oxygen therapy is routinely administered to mechanically ventilated patients. However, there remains
+uncertainty about the optimal oxygen titration target in patients with the acute respiratory distress syndrome (ARDS).
+Methods: Prospectively identified adult patients meeting the Berlin definition of ARDS between 1st January 2014
+and 13th December 2016 were analyzed. Oxygen exposure variables were collected at 6-hourly intervals. The primary
+exposure was the average time-weighted partial pressure of arterial oxygen (
+PaO2) calculated over a maximum of
+7 days from meeting ARDS criteria. The primary outcome was ICU mortality. Univariable and multivariable logistic
+regression analyses were performed to assess the impact of exposure variables on clinical outcomes. Results are presented
+as odds ratio [95% confidence interval].
+Results: 202 patients were included in the final analysis. Overall ICU mortality was 31%. The average timeweighted
+PaO2
+during the first 7 days of ARDS was similar between non-survivors and survivors (11.3 kPa [10.2, 12.5]
+(84.8 mmHg [76.5, 93.8]) vs. 11.9 kPa [10.9, 12.6] (89.3 mmHg [81.8, 94.5]); p = 0.08). In univariable and multivariable
+analysis, average time-weighted PaO2
+demonstrated a U-shaped relationship with ICU mortality. There was a similar
+relationship identified with hospital mortality.
+Conclusions: In patients with ARDS, the predicted probability of both ICU and hospital mortality was lowest when
+the average time-weighted PaO2
+was between 12.5 and 14 kPa (93.8–105.0 mmHg), suggesting this is a reasonable
+oxygenation target for clinicians to aim for.

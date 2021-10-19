@@ -1,0 +1,18 @@
+Background: In the recent years, an increasing number of patients with multiple comorbidities (e.g. coronary artery
+disease, diabetes, hypertension) presents to the operating room. The clinical risk factors are accompanied by
+underlying vascular-endothelial dysfunction, which impairs microcirculation and may predispose to end-organ
+dysfunction and impaired postoperative outcome. Whether preoperative endothelial dysfunction identifies patients
+at risk of postoperative complications remains unclear. In this prospective observational study, we tested the
+hypothesis that impaired flow-mediated dilation (FMD), a non-invasive surrogate marker of endothelial function,
+correlates with Days at Home within 30 days after surgery (DAH30). DAH30 is a patient-centric metric that captures
+postoperative complications and importantly also hospital re-admissions.
+Methods: Seventy-one patients scheduled for major abdominal surgery were enrolled. FMD was performed preoperatively
+prior to major abdominal surgery and patients were dichotomised at a threshold value of 10%. FMD
+was then correlated with DAH30 (primary endpoint) and postoperative complications (secondary endpoints).
+Results: DAH30 did not differ between patients with reduced FMD and normal FMD (14 (4) (median (IQR)) vs. 15
+(8), P = 0.8). Similary, no differences between both groups were found for CCI (normal FMD: 21 (30) (median (IQR)),
+reduced FMD: 26 (38), P = 0.4) or frequency of major complications (normal FMD: 7 (19%) (n (%)), reduced FMD: 12
+(35%), P = 0.12). The regression analyses revealed that FMD in combination with ASA status and surgery duration
+had no additional significant predictive effect for DAH30, CCI or Clavien-Dindo score.
+Conclusion: FMD does not add predictive value with regards to DAH30, CCI or Clavien-Dindo score within our
+study cohort of patients undergoing abdominal surgery.

@@ -1,0 +1,15 @@
+Background: Ninety-day hometime, the number of days a patient is living in the community in the first 90 after
+stroke, exhibits a non-normal bucket-shaped distribution, with lower and upper constraints making its analysis
+difficult. In this proof-of-concept study we evaluated the performance of random forests regression in the analysis
+of hometime.
+Methods: Using administrative data we identified stroke hospitalizations between 2010 and 2017 in Ontario,
+Canada. We used random forests regression to predict 90-day hometime using 15 covariates. Model accuracy was
+determined using the r-squared statistic. Variable importance in prediction and the marginal effects of each
+covariate were explored.
+Results: We identified 75,745 eligible patients. Median 90-day hometime was 59 days (Q1: 2, Q3: 83). Random
+forests predicted hometime with reasonable accuracy (adjusted r-squared 0.3462); no implausible values were
+predicted but extreme values were predicted with low accuracy. Frailty, stroke severity, and age exhibited inverse nonlinear
+relationships with hometime and patients arriving by ambulance had less hometime than those who did not.
+Conclusions: Random forests may be a useful method for analyzing 90-day hometime and capturing the complex
+non-linear relationships which exist between predictors and hometime. Future work should compare random forests
+to other models and focus on improving the accuracy of predictions of extreme values of hometime.

@@ -1,0 +1,559 @@
+Background
+Supplemental oxygen therapy is routinely required as
+part of the supportive care of patients with the acute
+respiratory distress syndrome (ARDS), but it is typically
+administered without defined or standardized targets [1].
+This has prompted oxygenation targets in ARDS to be
+considered a priority for clinical trials in ARDS [2].
+The mechanisms through which oxygen therapy may
+be injurious are unclear, and it is difficult to separate
+the potentially injurious effects of high fractions of
+inspired oxygen (
+FiO2) causing alveolar hyperoxia, from
+high partial pressure of arterial oxygen (
+PaO2) causing
+hyperoxaemia. Exposure to supra-physiological FiO2
+(0.5–0.6) has been demonstrated to augment lipopolysaccharide
+and ventilator-induced lung injury in preclinical
+models [3, 4]. The potentially harmful effects of
+alveolar hyperoxia were also demonstrated in a clinical
+trial of mechanically ventilated patients with septic
+shock. Although this trial was discontinued early,
+there were fewer ventilator-free days and more serious
+adverse events in the group allocated to receive maximal
+oxygen therapy (
+FiO2 1.0) [5].
+Hyperoxaemia has also been associated with harm
+in critically ill patients in multiple studies [6–10]. In
+an open-label randomized controlled trial of adult
+patients admitted to the intensive care unit (ICU), conservative
+oxygen therapy (defined as the lowest possible
+FiO2
+to maintain PaO2
+between 9.3 and 13.3 kPa
+(70–100 mmHg) or arterial oxyhemoglobin saturation
+measured by pulse oximetry (
+SpO2) 94–98%) was
+reported to reduce ICU mortality when compared with
+standard care [11]. Furthermore, in a cohort of patients
+receiving veno-venous extracorporeal membrane oxygenation
+for respiratory failure, moderate hyperoxaemia
+(
+PaO2 between 13.5 and 40 kPa (101–300 mmHg))
+was associated with increased hospital mortality [12].
+However, in a large randomized controlled trial of
+mechanically ventilated adults, a conservative oxygen
+strategy titrated to avoid hyperoxaemia did not reduce
+ventilator-free days [13]. Whilst this suggests that conservative
+oxygen targets may be as safe as usual care,
+it does not exclude the possibility of harm from hyperoxaemia.
+Similarly, in patients with acute hypoxaemic
+respiratory failure who were admitted to the ICU,
+which included some patients with ARDS, there was
+no difference in outcome between patients allocated
+to receive an oxygen target of either 8 kPa (60 mmHg)
+or 12 kPa (90 mmHg) [14]. In comparison, a clinical
+trial of patients with early ARDS, allocation to conservative
+oxygen therapy (
+PaO2 target 7.3–9.3 kPa
+(55–70 mmHg)) was associated with higher 90-day
+mortality than a liberal oxygen strategy (
+PaO2 target
+12–14 kPa (90–105 mmHg)) [15]. Despite these results,
+a post-hoc analysis of 10 randomized controlled trials
+that recruited patients with ARDS provides conflicting
+data, suggesting that higher cumulative excess oxygen
+exposure (sum of inspired oxygen received beyond
+what was required for a specified PaO2)
+was associated
+with increased hospital mortality and fewer ventilatorfree
+days [16].
+These data demonstrate that there is still uncertainty
+about the optimal oxygen titration targets for patients
+with ARDS. Whilst most studies have investigated a
+strategy of conservative or liberal oxygen titration strategies,
+it is plausible that there is an optimal target for
+oxygenation between the ranges studied thus far. In an
+evaluation of prospectively identified patients, the primary
+aim of this analysis was to assess whether there was
+a relationship between average time-weighted PaO2
+and
+ICU mortality in patients with ARDS. Secondary aims
+included evaluating whether oxygenation targets were
+associated with changes in hospital mortality or duration
+of invasive mechanical ventilation.
+Methods
+Patient population
+An observational study of prospectively identified adult
+patients (> 16 years, with no upper age limit) requiring
+invasive mechanical ventilation admitted to a 27-bed
+mixed medical and surgical intensive care unit was performed.
+Between 1st January 2014 and 13th December
+2016, patients were prospectively evaluated each day during
+their admission. All patients meeting the Berlin definition
+of ARDS [17], regardless of severity, with at least
+12 h of available data were included in the study. This
+was a convenience sample, and the timeframe selected
+represented the onset of patient identification and planning
+for ARDS clinical trials. Data collection ceased
+when staff were no longer available to work on this project.
+As such, a power calculation was not performed.
+This study was conducted within the Belfast Health and
+Social Care Trust, who determined this study as an audit
+because patient management was not altered, only routinely
+collected data were used and the data were fully
+anonymized. As a result, research ethics committee
+approval was not required.
+Data collection
+Baseline demographics recorded at the time of ICU
+admission included age, sex, source of admission (e.g.
+elective, emergency, medical or surgical) and acute physiology
+and chronic health evaluation (APACHE) II score.
+Non-respiratory sequential organ failure assessment
+(SOFA) scores were calculated at the time of ARDS diagnosis.
+Predicted body weight (PBW) was calculated for
+each patient based on their documented height and sex
+[18], and from this baseline tidal volume per predicted
+body weight (ml/kg) was determined. Additional parameters
+recorded at diagnosis of ARDS included blood lactate,
+positive end expiratory pressure (PEEP), fraction of
+inspired oxygen (
+FiO2), partial pressure of arterial oxygen
+(
+PaO2), arterial oxygen saturation (
+SaO2) and mean
+airway pressure (MAP). P/F ratio was calculated from
+available arterial blood gas measurements at 6-hourly
+intervals. Oxygenation values are expressed in kPa
+(mmHg) throughout the manuscript, with the equivalent
+value in mmHg accompanying kPa values in each results
+table.
+Exposures
+Oxygen exposure variables were collected from the onset
+of ARDS for 7 days, or until unassisted breathing (defined
+as extubation, or breathing without ventilatory assistance
+with a PEEP ≤ 5 cm H2O
+for one whole calendar day) or
+death (whichever occurred earliest). These variables were
+collected for up to 7 days because early oxygen exposure
+has previously been demonstrated to have significant
+effect on outcomes in other cohorts of critically ill
+patients [5, 11, 19]. The primary exposure of interest was
+the average time-weighted PaO2
+calculated over a maximum
+of 7 days from meeting ARDS criteria [20]:
+T-PaO2 = mean PaO2
+× time (between consecutive
+timepoints where PaO2
+was measured). T-Total = time
+between the first and last PaO2
+measurement during the
+period of mechanical ventilation after meeting ARDS criteria,
+up to 7 days.
+Hyperoxaemia was defined prospectively as a PaO2
+greater than 14 kPa (105 mmHg) [11]. Excess oxygen
+exposure was defined as any FiO2
+> 0.5 in patients with a
+PaO2
+> 10.7 kPa (80 mmHg), and was calculated at 24-h
+intervals with a cumulative value obtained [16].
+Outcomes
+The primary outcome was ICU mortality. Secondary outcomes
+included duration of ventilation and hospital mortality
+(both censored at 60 days). Duration of ventilation
+was calculated as the total time of invasive mechanical
+ventilation until unassisted breathing was achieved for
+one whole calendar day [21].
+Statistical methods
+Baseline characteristics and outcome variables were
+compared using standard tests for continuous and binary
+variables. Data are presented as means (standard deviation,
+SD), median (interquartile range, [IQR]) and number
+(percentage, %) as appropriate. The percentage of
+missing observations is shown when necessary. The distributions
+of all variables were tested for normality. The
+independent sample Student’s t-test was used for continuous
+variables with a normal distribution. Otherwise,
+the Wilcoxon‐Mann‐Whitney was used when normality
+was violated. The Chi squared test or Fisher’s exact twosided
+test, as appropriate, were used for binary variables.
+A p < 0.05 was considered statistically significant.
+Univariable and multivariable logistic regression
+models were performed to identify the association
+between baseline characteristics and, respectively,
+ICU mortality, hospital mortality, and duration of
+mechanical ventilation. Results of regression models
+for ICU and hospital mortality are shown as odds
+ratio (OR) [95% confidence interval (CI)]. Duration of
+mechanical ventilation is presented in log scale. The
+relationship between mortality and either average timeweighted
+PaO2
+or highest PaO2
+was modelled through a
+Average time-weighted PaO2
+T-PaO21 + T-PaO22+· · ·T - PaO2x
+T-Total
+quadratic trend. Results of the models with duration of
+mechanical ventilation as outcomes are shown as Estimate
+[95% CI]. Values of the estimate are values of the
+estimated beta coefficient of predictors, and therefore
+positive coefficient values mean that for a unit increase
+in the predictor, the outcome is increasing, and for
+negative coefficient values the outcome is decreasing.
+Multivariable models were constructed using variables
+that showed a statistically significant difference
+(p < 0.2) between the groups in univariate analysis.
+Stepwise backward elimination was used to develop
+final multivariable models with best fit for the outcome
+of interest. As the primary exposure of interest, average
+time-weighted PaO2
+within the first 7 days of ARDS
+was forced into multivariable models evaluating ICU
+and hospital mortality. Where variables were subject to
+collinearity, a preference was made to select averagetime
+weighted PaO2
+in the models because it was the
+primary exposure of interest.
+Mediation analysis [22] was performed to identify if
+there was a causal relationship between an early exposure
+(hyperoxaemia in the first 24 h from ARDS diagnosis),
+high lactate or baseline tidal volume (mediators),
+and how this relationship affected ICU and hospital
+mortality. Early hyperoxaemia was selected as an exposure
+because it was an potential early event in the disease
+course that has been previously demonstrated to
+be associated with increased mortality in mechanically
+ventilated patients without ARDS [19]. High lactate was
+chosen as a mediator because prior analyses have identified
+that there is an increased risk of death in patients
+with septic shock and a high lactate exposed to hyperoxia,
+whilst baseline tidal volume was selected because
+volutrauma has been shown to augment experimental
+hyperoxia-induced lung injury [4]. Baseline FiO2
+and
+PEEP were considered as confounders based on their
+clinical effect on oxygenation. The causal relationship
+was assessed in three steps: (1) indirect or mediated
+effect: regression models with the two mediators (high
+lactate and baseline tidal volume) as dependent variables
+and the exposure (hyperoxaemia in the first 24 h)
+as the independent variable together with baseline
+FiO2
+and PEEP as confounders; (2) effect of mediators
+on outcomes: regression model with ICU or hospital
+mortality as dependent variable and each mediator and
+confounders as independent variables; (3) estimation of
+mediators effect as a combination of both steps 1 and 2.
+All statistical analyses were carried out using the R statistical
+package (https:// www.R- proje ct. org).
+Results
+Between 1st January 2014 and 13th December 2016,
+3773 patients were admitted to the ICU, and of these, 222
+patients were identified for inclusion. Following clinical
+review for suitability, 202 patients were confirmed as having
+ARDS with at least 12 h of available data, and therefore
+included in the final analysis. A full list of exclusions
+is provided in the Additional file 1. The median duration
+of mechanical ventilation in patients was 9 days [5, 16].
+Overall ICU mortality was 31%, and overall hospital mortality
+was 38%. At the point of meeting ARDS criteria,
+ICU survivors were younger, had a lower non-respiratory
+SOFA score, and had a lower blood lactate than non-survivors
+(Table 1).
+The average time-weighted PaO2
+during the first 7 days
+of ARDS was similar between non-survivors and survivors
+(11.3 kPa [10.2, 12.5] (84.8 mmHg [76.5, 93.8]) vs.
+11.9 kPa [10.9, 12.6] (89.3 mmHg [81.8, 94.5]); p = 0.08).
+In contrast, during the first 7 days after meeting ARDS
+criteria, the highest recorded P/F ratio was lower in nonsurvivors
+than in survivors (38.2 kPa [IQR 26.4, 44.6]
+(286.5 mmHg [198.0, 334.5]) vs. 41.7 kPa [35.1, 49.5]
+(312.8 mmHg [263.3, 371.3]); p = 0.004), and non-survivors
+also had fewer hyperoxaemia episodes (defined
+as a PaO2
+> 14 kPa (105 mmHg)) (2 [0.5, 4] vs 3 [1, 6];
+p = 0.04).
+The number of patients ever exposed to excess oxygen
+was similar between survivors and non-survivors (54 vs.
+57%; p = 0.79), whilst the cumulative excess oxygen exposure
+within the first seven days of ARDS was low and
+similar between survivors and non-survivors (0.1 [0.0,
+0.3] vs. 0.1 [0.0, 0.2]; p = 0.84) (Table 2).
+ICU mortality
+In univariable and multivariable analysis, average timeweighted
+PaO2
+demonstrated a U-shaped relationship
+with ICU mortality. For values of average time-weighted
+PaO2
+< 13.5 kPa (101.3 mmHg), increasing average
+time-weighted PaO2
+is associated with a reduced mortality.
+In contrast, for values of average time-weighted
+PaO2
+> 13.5 kPa (101.3 mmHg), when average timeweighted
+PaO2
+increases this is associated with increased
+ICU mortality. The effect of average time-weighted PaO2
+on ICU mortality is shown in Fig. 1.
+Of the other variables that were assessed, age, non-respiratory
+SOFA score, and blood lactate were associated
+with increased ICU mortality, whilst highest recorded
+P/F ratio and higher baseline PEEP were associated with
+reduced ICU mortality (Table 3).
+After adjusting for age, lactate, non-respiratory SOFA
+score and baseline PEEP, average time-weighted PaO2
+within the first 7 days of ARDS continued to demonstrate
+a U-shaped relationship with ICU mortality, similar to
+that reported in the univariable analysis (quadratic term
+OR 1.08 [1.01–1.16]; p = 0.03 and linear term OR 0.12
+[0.02–0.66]; p = 0.02). Of the other co-variables, age was
+associated with increased ICU mortality whilst PEEP was
+associated with reduced ICU mortality (Table 3).
+Hospital mortality
+In univariate and multivariable analysis, average timeweighted
+PaO2
+demonstrated a U-shaped relationship
+with hospital mortality (Fig. 2). When average timeweighted
+PaO2
+was < 13.2 kPa (99.0 mmHg), increasing
+average time-weighted PaO2
+was associated with
+reduced mortality. In contrast, average time-weighted
+PaO2
+beyond 13.2 kPa (99.0 mmHg) was associated with
+increased mortality.
+After adjusting for age, lactate, non-respiratory SOFA
+score and baseline PEEP in multivariable analysis, average
+time-weighted PaO2
+within the first 7 days of ARDS
+continued to have a significant association with hospital
+mortality (quadratic term 1.09 [1.02–1.18]; p = 0.02 and
+linear term 0.11 [0.01–0.63]; p = 0.02). The pattern of the
+relationship is similar to that presented in Fig. 2. Of the
+other co-variables, age was associated with increased
+ICU mortality whilst PEEP was associated with reduced
+hospital mortality (Table 4).
+Effect of ARDS severity
+To evaluate whether there was a difference in effect based
+on ARDS severity at diagnosis, separate multivariable
+analyses were performed for patients with mild (n = 78),
+moderate (n = 90) and severe ARDS (n = 34). In patients
+with moderate ARDS, average time-weighted PaO2
+was significantly associated with ICU mortality (quadratic
+term 1.21 [1.08–1.43]; p < 0.01 and linear term 0.01
+[0.00–0.14]) (Additional file 1: Table S1) and with hospital
+mortality (quadratic term 1.16 [1.04–1.35]; p = 0.02
+and linear term 0.03 [0.00–0.38]; p = 0.02) (Additional
+file 1: Table S2), There was no association between average
+time-weighted PaO2
+and ICU or hospital mortality in
+patients with either mild or severe ARDS.
+Duration of mechanical ventilation
+There was no association between average time-weighted
+PaO2
+over 7 days and duration of mechanical ventilation
+(− 0.05 [− 0.12, 0.02]; p = 0.19) (Additional file 1:
+Table S3). In an adjusted analysis, highest recorded
+P/F ratio was associated with an increased duration of
+mechanical ventilation (0.01 [0.00, 0.01]; p = 0.04). Use
+of neuromuscular blockade during the first seven days
+of ARDS was also associated with an increased duration
+of mechanical ventilation (0.44 [0.19–0.70]; p = 0.001),
+whilst increasing tidal volume (− 0.09 [− 0.15, − 0.03];
+p = 0.002) and lactate (− 0.08 [− 0.14, -0.02]; p = 0.01)
+were associated with a reduced duration of mechanical
+ventilation (Additional file 1: Table S4).
+Patients who survived ICU had a longer duration of
+mechanical ventilation compared to non-survivors
+(10 [6, 17] days vs. 7 [4, 12]; p = 0.001). In an analysis
+restricted to patients who survived ICU, there was no
+association between average time-weighted PaO2
+over
+7 days and duration of mechanical ventilation (− 0.06
+[− 0.15, 0.03]; p = 0.18) (Additional file 1: Table S5). In
+multivariable analysis, the use of neuromuscular blockade
+was associated with an increase (0.52 [0.22–0.82];
+p = 0.001), and tidal volume a reduction (− 0.09 [− 0.16,
+− 0.01]; p = 0.03), in duration of mechanical ventilation
+in survivors (Additional file 1: Table S6).
+Mediation analysis
+In an effort to establish whether there was a causative
+effect between hyperoxaemia exposure and outcome,
+mediation analysis was performed using both blood lactate
+[23] and baseline tidal volume [4] as mediators that
+could affect outcome. In both cases no significant effect
+was identified between either high lactate (p = 0.33) or
+baseline tidal volume (p = 0.08) as mediators that affects
+outcome of patients exposed to hyperoxaemia in the first
+24 h of ARDS in a model with baseline FiO2
+and PEEP
+as confounding variables. Therefore, the three conditions
+for mediation analysis, defined in the methods section,
+are not satisfied.
+Discussion
+In prospectively identified patients with ARDS, the predicted
+probability of both ICU and hospital mortality
+was lowest when the average time-weighted PaO2
+was
+between 12.5–14 kPa (93.8–105.0 mmHg). This suggests
+that clinicians targeting a PaO2
+out-with this range may
+increase the risk of mortality in their patients with ARDS,
+and this data is novel in providing a clearer understanding
+of the risks of different oxygenation targets in patients
+with ARDS.
+These findings expand upon the findings from previous
+studies, and provide further insight about optimal
+oxygen targets in patients with ARDS [2]. In a clinical
+trial of patients with ARDS, a liberal oxygen strategy
+(targeting a PaO2
+12–14 kPa (90.0–105.0 mmHg)) was
+associated with increased survival compared with a conservative
+oxygen strategy (targeting a PaO2
+7.3–9.3 kPa
+(55.0–70.0 mmHg)) [15]. In contrast, although not limited
+to patients with ARDS, the HOT-ICU study evaluated
+patients with acute hypoxaemic respiratory failure
+and did not identify any difference in outcome when
+patients were managed with either a target PaO2
+of either
+8 kPa (60.0 mmHg) or 12 kPa (90.0 mmHg) [14]. Interestingly,
+the safest threshold of average time-weighted
+PaO2
+within the first 7 days of ARDS for patients in this
+analysis was 12.5–14 kPa (93.8–105.0 mmHg), which was
+a similar target to that which showed benefit in a previous
+study of patients with ARDS [15]. When patients
+were grouped by ARDS severity, the effect of average
+time-weighted PaO2
+was only observed in patients with
+moderate ARDS. Although this may be driven by the
+slightly higher number of patients with moderate ARDS,
+it is possible that there is a difference in effect of oxygen
+exposure based on illness severity.
+The concept of a U-shaped relationship between
+oxygen targets and mortality has been previously demonstrated
+in a broad cohort of critically ill patients. In
+a retrospective analysis of two large patient datasets
+of patients admitted to ICUs, it was demonstrated
+that hospital mortality was lowest in patients when
+their median SpO2
+was 94–98% [24]. Titrating oxygen
+to SpO2
+targets is likely to be more achievable in
+resource-limited environments and therefore a study
+of oxygen titration to SpO2
+in patients with ARDS
+may be warranted in future. Such studies may wish
+to prioritise including patients with moderate ARDS
+given the findings presented in this manuscript.
+Whilst oxygen targets are predominantly based on
+pulse oximetry or PaO2
+the variable that is most likely to
+be adjusted to achieve these targets is FiO2.
+It is difficult
+to extrapolate the benefits or harms from one oxygenation
+target without considering the potential harms from
+higher FiO2.
+Indeed, it is plausible that patients at both
+extremes of arterial oxygenation were each exposed to
+high FiO2.
+Exposure to an FiO2
+set at 1.0 has been shown
+to be associated with increased mortality in critically ill
+patients with septic shock [5], and therefore it is possible
+that the harm demonstrated in this analysis (of an average
+time-weighted PaO2
+within the first 7 days of ARDS
+out-with 12.5–14 kPa (93.8–105.0 mmHg)) is at least in
+part mediated by exposure to high FiO2.
+In an effort to better understand whether there was
+a causal relationship between hyperoxaemia exposure
+(
+PaO2 > 14 kPa (105 mmHg)) and clinical outcome, mediation
+analysis was performed. Hyperoxaemia within the
+first 24 h of ARDS was selected as a potentially modifiable
+exposure that occurred early in the disease course,
+and as early hyperoxaemia had previously been demonstrated
+to be associated with increased mortality in
+patients without ARDS [19]. Potential mediators that
+could have affected this exposure include baseline tidal
+volume [4] and high lactate [23]. Unfortunately, the three
+conditions for mediation analysis were not met, which
+may reflect the choice of mediator. This study is limited
+in mediator assessment because of the data variables collected,
+and therefore future studies may wish to evaluate
+whether there is a mediation effect of alternative variables.
+For example, the effect of different oxygen titration
+strategies in patients with sepsis remains uncertain
+[5, 25], and therefore it is plausible that differences in the
+host response may modify the risks from hyperoxaemia
+(e.g. the effect of hyperoxaemia in patients with neutropenia
+may differ from that in patients with neutrophilia).
+This points to the need for improved understanding of
+the mechanisms of potential harm from hyperoxia and
+hyperoxaemia.
+This study has several strengths. Patients were prospectively
+identified according to the Berlin criteria [17].
+All patients had established ARDS and were receiving
+invasive mechanical ventilation, which contrasts
+with previous studies in a general ICU population [11],
+and therefore may better inform the bedside clinician
+about the association between arterial oxygenation targets
+and outcomes in patients with ARDS. In keeping
+with all observational studies, these results are limited
+by unmeasured variables that could have a confounding
+effect, both on the effect of oxygen exposure but also
+on the patient course during their illness. This includes
+patient co-morbidities, the duration of mechanical ventilation
+prior to ARDS diagnosis, the use of oxygen during
+tracheal intubation, and the frequency of respiratory
+physiotherapy or recruitment maneuvers, each of which
+were not included in this evaluation. Whilst PEEP was
+controlled for in multivariable analysis, a more precise
+understanding of the effects of arterial oxygenation targets
+may be obtained in a study where PEEP is similar
+between groups. Future studies may consider evaluating
+the relationship between oxygen exposure and ARDS
+sub-phenotype [26] as it is plausible that there may be
+a difference in effect in patients with either a hyper- or
+hypo-inflammatory sub-phenotype. Finally, the findings
+in this study may be limited by the number of patients
+analysed. As this was designed as an exploratory analysis
+using a convenience sample, there was no sample size
+calculation performed. Therefore, it is possible that the
+study does not include a sufficient number of patients to
+identify a difference in hyperoxaemia exposure that has
+a significant impact on survival in patients with ARDS.
+Furthermore, in the absence of a sample size calculation,
+it is difficult to quantify the bias of the population sample
+studied. Therefore, although the results from this study
+are in keeping with those from recent randomized controlled
+trials [15], the use of a convenance sample means
+there is greater uncertainty regarding the applicability of
+the results of this study to a wider population of patients.
+This emphasizes that the results from this study should
+be considered hypothesis-generating, and support the
+need for appropriately powered clinical trials investigating
+the optimal oxygenation targets in patients with
+ARDS.
+Conclusion
+Despite existing evidence, there remains a need to better
+define the optimal oxygenation targets in ARDS, and
+how to safely titrate oxygen to achieve these but without
+exposing patients to potentially injurious hyperoxia. Furthermore,
+there remains a need to define hyperoxaemia,
+with a pragmatic definition that can be evaluated by the
+bedside clinician likely to be of most practical benefit.
+In patients with ARDS, the predicted probability of both
+ICU and hospital mortality was lowest when the average
+time-weighted PaO2
+was between 12.5 and 14 kPa (93.8–
+105.0 mmHg), suggesting this is a reasonable oxygenation
+target for clinicians to aim for. A recently completed
+clinical trial evaluating different oxygenation targets in
+patients with systemic inflammatory response syndrome
+(NCT02321072) will add to existing data in patients at
+risk for ARDS and will help to inform clinicians about the
+risks to their patients of different oxygenation targets.

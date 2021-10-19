@@ -1,0 +1,689 @@
+Age-related macular degeneration (AMD) is a leading
+cause of blindness, especially for people in developed
+countries older than 60 years [1, 2]. AMD has two
+late stages: choroidal neovascularization (CNV) and geographic
+atrophy (GA). Here we consider GA, which is
+thought to be the end stage of AMD when CNV does
+not develop [3] and which is responsible for vision loss
+in approximately 20% of all patients with AMD [4]. More
+than five million people are estimated to be affected by
+GA worldwide, a number which is supposed to increase
+with the aging of the population [2]. To date, there is no
+effective standard treatment available [5].
+GA is defined by atrophic lesions of the outer retina
+resulting from loss of retinal pigment epithelium (RPE),
+photoreceptors and underlying choriocapillaris (reviewed
+by [6]). These areas enlarge with time and lead to irreversible
+loss of visual function [7]. A relevant clinicalmeasure
+of disease progression is the eye-specific size of GA which
+can be quantified based on imaging techniques including
+color fundus photography, spectral domain optical coherence
+tomography imaging, or fundus autofluorescence
+(FAF) imaging [8, 9].
+A better understanding of the risk factors that accelerate
+GA size progression is necessary for the development
+of treatment options, in particular for the design
+of (interventional) clinical trials. To date, empirical evidence
+on GA size progression is usually collected through
+longitudinal observational studies (e.g. [10–12]). In these
+studies, it is essential to analyze GA size trajectories over
+time using an adequate statistical model. Specifically, in
+the absence of a randomized study design, data analysis
+needs to account for confounding issues as well as correlation
+patterns, for instance when both eyes of a patient
+are included in the study. In the latter case, the correlations
+between the eyes within one patient need to be
+incorporated as well as the correlations due to repeated
+measurements over time.
+The aim of this analysis is to systematically derive a
+statistical approach for modeling GA size in observational
+ophthalmologic studies. As will be demonstrated
+in the following sections, the proposed approach generalizes
+various statistical models for GA size progression that
+have been used in previous publications (see below). Special
+focus will be given to the following issues, which are
+considered to be of particular importance for the planning
+and design of future interventional trials:
+(i) Transformation of GA size. Before model fitting,
+it is important to consider whether the response (here,
+GA size) should be transformed. Finding an appropriate
+transformation can provide information about the
+underlying natural processes that drive the progression
+of GA. In recent publications on GA size progression,
+there has been an ongoing discussion about the optimal
+choice of transformation [11, 13–15]. Three main
+modeling paradigms have emerged: The first set of models
+assumes a linear relationship between GA size and
+covariables (e.g. risk factors or confounding variables).
+This implies a constant enlargement of GA size over time.
+Examples of this modeling approach can be found in [13,
+14]. The second approach assumes a quadratic enlargement
+of the lesion size. This is motivated by the thought of
+circular atrophic lesions that constantly enlarge with their
+radiuses [11, 15]. The third model type is an exponential
+model in which atrophic lesions enlarge exponentially.
+Compared to a linear growth model, Dreyhaupt et al. [13]
+found that the assumption of exponential growth led to
+improved model fits.
+(ii) Age-of-onset estimation. Another relevant topic for
+modeling GA size progression is the estimation of the
+age of disease onset. Research on this topic is motivated
+by the fact that in many clinical trials patients can only
+be included when the disease is already manifested in a
+later stage. The estimated age-of-onset may, in contrast to
+lesion size, be considered as time-invariant variable, and
+facilitate association analyses with other time-invariant
+variables such as the genotype.
+(iii) Identification of risk factors and confounding
+variables. For the development of AMD treatments, it is
+essential to specify meaningful inclusion and exclusion
+criteria for use in future clinical trials. It is therefore of
+high importance to identify relevant risk factors and
+confounding variables, and to analyze their relationships
+with GA size progression. Such an analysis can be
+achieved by building a multivariable regression model
+from observational data that includes relevant risk factors
+and confounders as covariables.
+To address the issues described above, we derive a
+statistical regression model that includes (possibly transformed
+versions of) GA size as response variable, as well
+as potential risk factors and/or confounders (such as e.g.
+age, smoking) as covariables. To account for the above
+mentioned correlations between eyes of the same patient
+as well as temporal correlations, we investigate the use
+of a mixed-effects modeling approach with patient- and
+eye-specific random effects terms. In this framework, we
+identify the “optimal” transformation of GA size by conducting
+a systematic search within the family of Box-Cox
+transformations [16]. As will be shown, this systematic
+approach also allows for the derivation of formulas for
+age-of-onset estimation. Furthermore, we demonstrate
+how predictions of future (untransformed) GA size values
+can be obtained from the fitted regression model.
+For model derivation and illustration, we will apply the
+proposed methods to a data set collected by the multicenter
+Fundus Autofluorescence in AMD (FAM) study
+(NCT00393692) and by its single-center extension study,
+the Directional Spread in Geographic Atrophy (DSGA)
+study (NCT02051998). These noninterventional, prospective
+natural history studies adhered to the tenets of the
+Declaration of Helsinki and were approved by the institutional
+review boards of the participating centers. Written
+informed consent was obtained from each participant
+after explanation of the studies’ nature and possible consequences
+of participation.
+Methods
+Data
+The data set used here was collected from patients with
+GA secondary to AMD that were recruited for the FAM
+study and followed-up in the DSGA study.
+The inclusion and exclusion criteria have been
+described elsewhere [14, 17]. In brief, the two studies
+included eyes without any history of retinal surgery, radiation
+therapy, laser photocoagulation or retinal diseases
+other than AMD. GA size measurements were obtained
+by grading FAF retinal images that were recorded at the
+baseline and follow-up visits. Data was only used for statistical
+analysis if the difference in total GA size between
+two graders was smaller than 0.15mm2 and if the patients
+had at least two visits.
+Our analysis data set contained N = 150 eyes from
+n = 101 patients that where examined in up to nine
+follow-up visits. At baseline, the median age was 75.7
+years (IQR: 70.7 − 80.6 years); 61.4% of the patients were
+female, and themean follow-up time was 3.36 years (range
+0.5−13.7 years) due to the extension by the second study.
+The GA size varied strongly between eyes: mean GA
+size at baseline was 5.64mm2, ranging between 0.07mm2
+and 31.41mm2. The status of hypertension and hypercholesterolemia
+was assessed by a patient-reported questionnaire
+at the baseline visit. Information was obtained
+based on patients’ reports and current medication; medical
+reports were included in the assessment if available.
+For details see Table 1.
+Regression modeling
+Within a typical ophthalmologic study setting, patients
+participate in several follow-up visits at which one or
+both eyes are examined. This leads to correlated measurements,
+both within the patients and over time. Thus, a
+model is needed that captures complex correlation structures.
+A popular regression model, which has been used
+regularly in the literature on GA [11, 13] and which is also
+considered here, is a mixed-effects model with random
+effects terms for both eye and patient. Yet, there exists a
+variety of model specifications and the specific structure
+is still a matter of debate [18].
+Before introducing the full mixed-effects model with
+possible risk factors and confounders, we start with a
+model that contains a time trend as only (continuous)
+covariable. This model serves as a basic model that captures
+the time dependency of GA enlargement.
+Mixed-effects model with time as only covariable. As
+suggested by Shen et al. [18], we follow the hypothesis that
+the progression of GA has an underlying process of GA
+expansion that is mostly the same over time for all eyes.
+Differences in eyesmay arise due to different exposition to
+environmental conditions, and,most importantly, GA size
+varies between patients as they enter the study at different
+time points in their disease history.We therefore propose
+to include the disease age i ≥ 0 of an eye i at study entry
+directly in the model.We further assume that the atrophy
+size yit of an eye i depends on the (unknown) age of the
+disease at study entry i and the (observable) follow-up
+time t ≥ 0 that has passed since. Time is assumed to be
+measured on a continuous scale, e.g. in days or years since
+baseline. Under the assumptions by Shen et al. [18], and
+considering (for the moment) a linear enlargement of GA,
+this leads to the following regression model:
+yit = β · (i + t) + it, (1)
+where β denotes the regression slope (i.e. the constant
+enlargement rate). The residuals it, i = 1, . . . ,N, are
+assumed to be normally distributed with zero mean and
+variance σ2.
+If it is further assumed that the disease age at study entry
+can be approximated by a normal distribution, the model
+in (1) can be parameterized such that it becomes a linear
+mixed-effectsmodel. This is seen by defining θi := β·i ∼
+N μθ , σ2
+θ  and αi := θi − μθ ∼ N 0, σ2
+θ , so that Model
+(1) can bewritten as
+yit = μθ + βt + αi + it. (2)
+In this form, the model reads as follows: The atrophy size
+yit depends on a fixed intercept μθ, an eye-specific random
+intercept αi that reflects the deviation of the disease
+age of eye i at study entry from the mean disease age at
+study entry, and an overall linear time trend βt that is the
+same for all eyes.
+When there are patients in the study that contributed
+data from both eyes, one needs to consider the nested data
+structure and account for the correlations between measurements
+taken from the same patient. This can be done
+by extending the model equation as follows:
+yijt = μθ + βt + ζj + αi + ijt, (3)
+where ζj ∼ N 0, σ2
+ζ
+, j = 1, . . . , n, is a normally distributed
+patient effect and αi the effect of an ’eye within a
+patient’. Note: While it is assumed that the residual terms
+ijt are independent of the random effects αi and ζj, the
+latter two terms are generally allowed to be correlated. For
+simplicity, and without loss of generality, we will assume
+independence of all random effects terms in the following.
+Mixed-effects model with covariables. When introducing
+covariables into the model, it is reasonable to
+assume that risk factors and/or confounders equally influence
+the enlargement of GA before and after inclusion of
+an eye in the study. This assumption can be incorporated
+in Model (1) by adding a covariable-dependent slope to
+the model equation:
+yit = β + β
+x
+xi · (i + t) + it, (4)
+where xi = (x1, ..., xk)
+
+i is a vector of k (possibly
+time-dependent) risk factors for each eye and βx
+=
+βx1 , ..., βxk 
+ is a vector of parameters that accelerate or
+slow down GA size progression (βxs > 0 and βxs < 0,
+respectively, s ∈ {1, . . . k}). Note that in the following, we
+will not distinguish between risk factors and confounders
+any more, as we assume that both are collected in the
+vectors xi.
+Similar to the reparametrization used above, we write
+i := (μ + γi) ∼ N μ, σ2, where μ and σ2 denote
+the mean and the variance of the i-the eye at study entry.
+The mixed-effects model with covariables can then be
+written as
+yit = β + β
+x
+xi μ + β + β
+x
+xi γi + βt + β
+x
+xit + it
+= βμ + βt + μβ
+x
+xi + β
+x
+xit + βγi + β
+x
+xiγi + it.
+(5)
+with eye-specific random effects γi ∼ N 0, σ2. The linear
+enlargement in Model (5) thus implies dependency of
+yit on an interaction term between t and xi, and also on
+random slopes of the covariable values xi. Importantly,
+Eq. 5 implies numerous dependencies between the slope
+parameters associated with t, xi, xit, γi, and xiγi, so that
+the model no longer possesses the structure of a “standard”
+mixed-effects model with unrestricted estimation of
+coefficients. Details on model fitting will be given below.
+Finally, when considering patients that contribute data
+from both eyes, one specifies
+yijt = βμ + βt + μβ
+x
+xi + β
+x
+xit + βγi
++ β
+x
+xiγi + βζj + β
+xxiζj +
+
+ijt
+(6)
+with patient-specific random effects ζj ∼ N 0, σ2
+ζ
+, j =
+1, . . . , n, and an additional interaction term between xi
+and ζj.
+The model equations presented so far ascribe a linear
+relationship between time, risk factors, and GA size. In
+the following section, possible transformations are examined,
+so that the modeling approach is extended to model
+nonlinear progressions.
+Transformation of the response
+As an example, Fig. 1 A shows the GA size trajectories of
+four eyes contained in the analysis data set. Considering
+these progressions, it is conceivable to assume that the trajectories
+are not strictly linear. Since the model equations
+above (Models (1) to (6)) refer to linear enlargement processes,
+a transformation of the response is convenient for
+modeling non-linear progression (see Fig. 1B).
+Three different transformation approaches have been
+used in recent publications on GA size progression (e.g.
+[11, 13–15]): (i) Linear models with no response transformation
+implying a linear relationship between GA
+size and the covariables, (ii) linear models with square
+root transformation of the response, and (iii) linear
+models with log-transformed response – or equivalently
+exponentially transformed models with no transformed
+response – implying an exponential enlargement of the
+lesion size.
+Box-Cox transformation Instead of comparing only the
+most commonly used transformations, we consider a systematic
+and more comprehensive strategy for finding an
+appropriate transformation of the GA size. For this systematic
+approach, the Box-Cox model class is applied
+because it covers a wide range of transformations, including
+the transformations (i) to (iii) above. More specifically,
+for an atrophy size y > 0 we consider the class of Box-Cox
+transformations
+fλ(y) := y(λ) =
+ yλ−1
+λ if λ = 0,
+log(y) if λ = 0,
+(7)
+as introduced by [16]. Applying (7) to one of the Models
+(1)-(6) reads as follows: λ = 1 refers to a model with
+no response transformation, λ = 0.5 corresponds to a
+square-root transformation of the response and λ = 0 can
+be interpreted as exponential enlargement of the GA size.
+Model comparison The main criterion used for our
+model comparisons was Akaike’s Information Criterion
+(AIC) [19]. More specifically, our aim was to choose the
+transformation parameter λ that minimized AIC on the
+analysis data set while assuring that the assumptions of
+Models (1) to (6) were best possibly met, in particular
+the normality of the residuals. The AIC is defined by
+AIC = −2 · log(L) + 2 · nparams, where L is the likelihood
+of the model under consideration (evaluated at the maximumlikelihood
+estimate) and nparams denotes the number
+of parameters used in the model. As we compared models
+with a transformed response, we applied the density
+transformation theorem to compute the likelihood L.
+Maximum likelihood estimation The estimation of the
+model parameters was performed bymaximum likelihood
+(ML) estimation. ML estimation was carried out for a
+grid of fixed transformation parameters λ using the transformed
+GA size values. Subsequently, the likelihoods were
+compared and the transformation parameter referring to
+the model with minimum AIC was considered best.
+We initially assumed that there was an “optimal” value
+λ for which the transformed atrophy size given the random
+effects followed a normal distribution. In addition,
+we briefly considered random effects with an unspecified
+mixing distribution as a non-parametric cross-check. The
+two approaches will be described in the next paragraphs.
+Normally distributed random effects As noted above,
+the linear model in (6) imposes numerous side conditions
+on the slope parameters associated with t, xi, xit, γi, and
+xiγi. In order to fit Model (6) using readily available software
+for the estimation of the slope parameters (without
+side conditions, such as the R add-on package lme4[20],
+version 1.1-25), we propose to iterate the following steps:
+(i) For given estimates ˆ β and ˆβ x compute the values of
+the working covariable ˜xi := ˆ β + ˆβ
+
+x xi.
+(ii) Fit the linear mixed-effects model
+yijt = βt + β
+x
+xit + μ˜xi + ˜xiγi + ˜xiζj + ijt (8)
+to obtain updates of the coefficient estimates of ˆμ,
+ˆ β, and ˆβ x. Note, that Model (8) is just a
+re-formulation of Model (6) that can be fitted
+without side conditions on its slope parameters. For
+the fitting procedure a fixed intercept term is added
+to increase computational stability and to relax the
+condition that the empirical mean of estimated
+random effects terms is forced to be zero.
+The starting values for ˆ β and ˆβ x in Step (i) may be
+obtained from (8) with an initial value of ˜xi = 1. As
+demonstrated in the supplementary materials (see Additional
+file 1), repeated execution of (i) and (ii) will typically
+converge to the final estimates after less than 20 iterations.
+Random effects with unspecified mixing distribution
+As an alternative tomixed-effects modeling with normally
+distributed terms, Almohaimeed et al. [21] proposed to
+consider a nonparametric maximum likelihood (NPML)
+approach. This approach approximates the distribution of
+each random effect by a discrete distribution with finite
+number of mass points K. It then uses an expectationmaximization
+algorithm to find the nonparametric maximum
+likelihood estimate. Here, the NPML approach
+is used to verify the optimal transformation parameter
+obtained from modeling with normally distributed random
+effects.
+Age-of-onset estimation
+Model without covariables As defined by [22], a diagnosis
+for GA can be given at a minimum lesion diameter
+of 250 μm and thus a lesion area of 0.05mm2. Based on
+this specification and denoting λopt as the value of λ that
+is optimal w.r.t. AIC, the time ˆt0ij at which the atrophy size
+was ˆyijt0
+= 0.05[mm2] (i.e. ˆy(λ)
+ijt0
+= λ
+−1
+opt
+· (0.05λopt − 1))
+can be obtained by solving the model equation of the
+transformed mixed-effects Model (3) for t:
+ˆt0ij
+=
+λ
+−1
+opt
+· 0.05λopt − 1 − ˆμθ + ˆ ζj + ˆαi
+ˆ β
+, (9)
+where ˆ β and ˆμθ denote the ML estimates of β and μθ ,
+respectively, and ζˆj and αˆi denote the realizations of the
+random effect terms. As a consequence, subtracting the
+estimated time ˆt0ij from the patient’s age at study entry
+results in the estimated age-of-onset of GA in the i-th eye
+of patient j. Remark: While from a modeling perspective a
+theoretical atrophy size of yijt0
+= 0mm2 could be defined
+at the time of disease onset, we will focus on the clinically
+relevant definition yijt0
+= 0.05mm2 here. For y = 0 it
+holds that t0ij
+= ij = 1
+β
+· (μθ + ζj + αi).
+Model with covariables Analogous to (9) one can estimate
+the ages of GA onset of the study eyes in a model
+with additional covariables. From Eq. 8 one obtains
+ˆt0ij
+=
+λ
+−1
+opt
+· 0.05λopt − 1 − ˜xi ˆμ + ˆ ζj + ˆαi
+˜xi
+(10)
+where ˜xi := ˆ β + ˆβ
+
+x xi contains the parameters obtained
+from ML estimation.
+Prediction
+Evaluating a model and its coefficients only on a transformed
+scale is challenging as the linearity of the
+predictor-response relationships in Models (5) and (6)
+only holds on the transformed scale but not on the original
+scale of the response (provided that λ = 1). As a consequence,
+the calculation of the expected GA size E(y|x)
+– and hence any prediction of expected disease progression
+– cannot be done in an unbiased way by a simple
+back-transformation.
+To see this, consider a non-linear Box-Cox transformation
+f (y) with an arbitrary parameter λ = 1 and, where
+existent, the corresponding inverse Box-Cox transformation
+f −1(y). Further, let f (yijt|xi) = zijt + ijt, where
+zijt := E(f (yijt|xi)) and ijt denote the linear predictor
+and the residual, respectively in one of the above models.
+A naive back-transformation would directly take the
+inverse of the linear predictor, i.e. f −1(zijt), which differs
+from the desired expected GA size value E(yijt|xi) =
+E f −1 zijt + ijt by Jensens’s inequality [23]. In other
+words, f −1 E f yijt|xi = E(yijt|xi). To address this
+issue and to obtain unbiased predictions of the GA size,
+we propose to sample r = 10, 000 residuals from the
+empirical distribution ˆ 1, ..., ˆ r in the respective fitted
+model. The expected atrophy size on the original scale can
+then be estimated by  E(yijt|xi) := 1r
+r
+u=1 f −1 ˆzijt + ˆu,
+where ˆzijt denotes the fitted value of f (yijt|xi).
+Results
+In this section, we present the results obtained from fitting
+Models (2), (3) and (6) to the analysis data set (150
+eyes of 101 patients). Missing values in the covariables
+were imputed using the R package mice [24] with one
+imputation run. Fitting was done using lme4 [20] with the
+algorithm described above.
+Modeling of GA size trajectories
+Determination of the transformation parameter In
+order to determine the optimal value of the transformation
+parameter λ, we evaluated linear mixed-effects
+models of the forms (3) and (6) on the analysis data set.
+Box-Cox-transformed responses with varying values of λ
+were considered in each of the models. As seen in Fig. 2A,
+the minimum AIC value was reached at λopt = 0.45 in the
+model without covariables. The model with covariables
+also yielded an optimal AIC value at λopt = 0.45 (Fig. 2B).
+The NPML approach led to similar results for the optimal
+value of λ in the setting without covariables. As seen
+in Fig. 3, the obtained values for the optimal λ ranged
+between 0.35 and 0.5. For a larger number of mass points
+(K > 7) the same optimal λ (= 0.45) as in the parametric
+approach was found.
+Normality of the residuals Figure 4 shows the residual
+diagnostics obtained from fitting Model 6 to the analysis
+data, including hypercholesterolemia and hypertesnsion
+as risk factors. It is seen that even after transformation
+the fitted residuals were not normally distributed. However,
+homoscedasticity was better met after transformation
+with λopt = 0.45. Furthermore, the distribution of the
+residuals was less skewed after transformation.
+Effects of risk factors As shown in Fig. 4, the residuals
+obtained from fitting Model 6 to the analysis data set
+did not perfectly follow a normal distribution, even after
+transformation of the response. Therefore, inference procedures
+that rely on asymptotic normality may not be the
+best choice to investigate the effects of risk factors on
+(transformed) GA size. To address this issue, we used a
+bootstrap approach to obtain the 95% confidence intervals
+of the parameters within Model (6). The results are presented
+in Table 3 and in Fig. 5. It is seen, that time was
+associated with the transformed GA size, growing by 0.42
+(95% CI [0.36,0.50]) per year. Also the absence of hypercholesterolemia
+was associated with more rapid enlargement
+of the lesion size (estimate: 0.11, 95% CI [0.06,0.17]),
+while a slower progression in patients without hypertension
+(estimate: −0.09, 95% CI [−0.17,−0.03]) was found.
+Note that the estimated coefficients refer to transformed
+GA size and thus cannot be directly interpreted in terms
+of an enlargement of the GA size measured in mm2.
+Remark: Model fitting was performed on an imputed
+data set, using the R package mice [24] with one imputation.
+Results obtained from complete case analysis were
+almost identical.
+Age-of-onset estimation
+Figure 6 presents the estimated ages of disease onset of the
+study eyes, as obtained from Models (3) (without covariables)
+and (6) (with covariables). For the simple model
+without further covariables, the estimated mean age-ofonset
+was 66.93 (±7.56) years and for the model with
+covariables the estimated median age-of-onset was 67.21
+(±6.49) years. This is in line with previously reported
+results, e.g. Li et al. [26] estimated the prevalence of GA
+in people under 64 years to range between 0.1% and 0.2%,
+depending on the country.
+Estimation of GA size on the original scale
+To obtain the distribution of GA size on the original
+scale, we sampled 10,000 times from the empirical
+distribution of the estimated residuals (obtained from
+Model (6)) and added these values to the fitted transformed
+GA size values fλ(y) before applying a reverse
+Box-Cox transformation. The back-transformed expected
+GA size values are shown in Fig. 7.
+The rootmean squared difference between the observed
+GA size and the modeled GA size was 1.10mm2, implying
+that estimated expected GA size values deviated by
+ca. 1mm2 on average from the true GA size values. The
+respective mean squared differences for alternative values
+of the transformation parameter λ are shown in Fig. 8.
+As can be seen here, the λ, that lead to a minimal difference
+on the original scale, was slightly larger than the
+optimal λ = 0.45 obtained by AIC-based methods.
+However, the variation in the average distances between
+observed and predicted values was rather small (minimal
+distance 1.05mm2 at λ = 0.55, 1.06mm2 at λ = 0.50, and
+1.10mm2 at λ = 0.45).
+Prediction of next observation In clinical context, a
+prediction of the next observation of a patient already
+included in a clinical trial might be of interest. For each
+observed eye, for which values of more than three visits
+were present, we predicted the last observation. To this
+purpose we fitted a model to a training data set excluding
+the last observation while performance was measured
+on the last observation. The root mean squared difference
+between observed atrophy sizes and the mean predicted
+atrophy sizes was avg((
+¯ˆ
+y − y)2) = 1.67mm2.
+Discussion
+Despite a high prevalence and extensive research efforts,
+there are currently no effective standard treatment
+options for GA. It is therefore essential to develop accurate
+models for disease progression that enable researchers
+to efficiently plan and design clinical trials.
+In this article, we presented a comprehensive framework
+for modeling the course of GA size progression in longitudinal
+observational studies. Our modeling approach
+was derived from a linear enlargement model using transformed
+GA size as response variable. As shown in the
+Results section, the resulting model can be embedded
+in the class of linear mixed-effects models [27], allowing
+for the incorporation of risk factors, confounding variables,
+and measurements taken repeatedly from the same
+patients and eyes. Since the assumption of linear enlargement
+imposes numerous restrictions on the model parameters,
+it is necessary to adapt standard (unrestricted)
+mixed-effects modeling approaches to the specific structure
+of the proposedmodel. To this purpose, we developed
+an algorithm for GA size modeling that can be implemented
+using readily available software for fitting linear
+mixed-effects models.
+To obtain the best transformation of GA size, we conducted
+a systematic search within the class of Box-Cox
+transformation models that included both parametric and
+non-parametric approaches. Our experiments yielded an
+optimal transformation that was close to the square-root
+function, thereby justifying earlier modeling strategies
+that assumed linear trajectories of square-root transformed
+GA size over time [18]. Of note, the square-root
+transformation has a straightforward interpretation in
+terms of a linear enlargement of the atrophy radius [15].
+A convenient feature of the proposed modeling
+approach is that it yields estimates of the disease age of
+the eyes at study entry. This is important because patients
+can only be included in trials when the disease has already
+manifested.When applied to the analysis data set consisting
+of patients included in the FAM-study, disease age at
+study entry was estimated to range between 3.5 and 13.4
+years (Model (6)). These estimates are in line with estimated
+prevalence values reported in the literature [4], but
+the resulting ages of disease onset were smaller than previously
+modeled ages using data partly from the same study
+[28].
+Since the proposed modeling approach employs a transformed
+response variable, care has to be taken when
+making predictions of future values of atrophy size. As
+argued in the Results section, predictions with a naive
+back-transformation may show a bias due to the nonlinearity
+of the square-root function. To address this issue,
+we proposed a sampling approach that allows for drawing
+valid conclusions and making undistorted predictions of
+GA size on its original scale. In the analysis data set, estimated
+expected GA size values derived fromthe proposed
+model deviated 1.10mm2 on average from the respective
+observed values.
+Generally, the model proposed here allows for performing
+statistical hypothesis tests on a set of risk factors suspected
+to accelerate or slow down GA size enlargement.
+This strategy was illustrated in the Results section, where
+an analysis of a GA patient sample of the FAMstudy identified
+significant interaction effects between hypercholesterolemia,
+hypertension and time. Although a number of
+studies have shown a link between cardiovascular risk factors
+and AMD, the role of hypertension, atherosclerosis,
+high BMI, diabetesmellitus, higher plasma fibrinogen and
+hyperlipidaemia remain equivocal owing to inconsistent
+findings (reviewed in [29]). High blood pressure is shown
+to be associated with lower choroidal blood flow and disturbed
+vascular homeostasis [30]. Since perfusion deficits
+in the choriocapillaris, the innermost layer of the choroid,
+are associated with future GA progression [31], an associate
+between hypertension and increased GA progression
+appears biologically plausible. Regarding the association
+of hypercholesterinemia and decreased GA progression,
+the biological plausibility remains elusive. The majority
+of previous studies did not find any relationship between
+systemic cholesterol levels and progression to early AMD,
+GA or nAMD (reviewed in [29]), although two studies
+found an association between serum cholesterol on the
+development of late stage AMD [32, 33]. Interestingly,
+one of these studies reported that serum cholesterol levels
+have a protective effect on the development of nAMD,
+while they are a risk factor for the development of GA
+[32]. These observations apparently are in contrast to our
+results; however, there is evidence that different mechanisms
+may be involved in driving GA enlargement than
+those increasing the risk of de novo GA development [6].
+Further validation of the risk factors, especially on an
+external data set, is necessary
+While it has been established that so-called nascent GA
+progresses to manifest GA [34], the trajectory of early
+GA – prior to the minimum lesion size requirement for
+clinical trials (e.g., 2.5mm2) – is poorly understood. The
+information derived by this modeling strategy can be used
+to design future intervention studies, for example regarding
+the stratification of patient groups and the definition
+of inclusion criteria. Of note, the proposed modeling
+approach is not restricted to established epidemiological
+covariables like hypertension but may also incorporate
+novel markers of disease progression such as patientreported
+outcome measures [35], digital biomarkers, and
+machine-learning-based scores derived from structural
+imaging data [36]. The proposed model constitutes a flexible
+framework to systematically investigate the transition
+from intermediate to late AMD in large observational
+studies such as theMACUSTAR study (ClinicalTrials.gov:
+NCT03349801) [37].
+Conclusions
+We have provided a comprehensive framework for modelling
+the trajectories of uni- or bilateral Ga size progression
+in longitudinal observational studies. Our analysis
+shows that a square-root transformation of atropy size is
+recommended before model fitting. The proposed modelling
+approach allows for the estimation of age-of-onset,
+identification of risk factors and prediction of future GA
+size. The risk factors analyzed here require further validation
+in an external study population.

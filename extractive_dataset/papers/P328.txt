@@ -1,0 +1,435 @@
+Background
+In toxicological, entomological and environmental studies,
+doses of toxicants that kill a defined proportion of
+organisms, e.g., the median lethal dose (LD50) which kills
+50% of the population, are typically used as indicators of
+acute toxicity. Comparing the activities of different toxicants
+in a specific population or determining the relative
+susceptibilities of different populations to a single toxicant
+are common research goals. The relative potency,
+which assumes that the regression lines of the two toxicants
+being compared are parallel, provides a convenient
+comparison of the toxicities of two toxicants [1].
+However, in practice, many regression lines are not
+parallel, particularly those derived from bioassays of toxicants
+with different modes of action, or from
+same-action toxicants administered to populations with
+different resistance levels. The 95% confidence limits
+(CLs) of a lethal dose ratio can be calculated by estimating
+the slopes and intercepts of two probit regression
+lines and constructing their variance and covariance
+matrices. The 95% CLs of this ratio indicate whether the
+lethal doses of the two toxicants are statistically different
+from one another [2]. Polo-Plus software, developed by
+Robertson et al. [3], separately analyzes the data for each
+substance using probit or logit models based on the joint
+probability of all observations and calculates lethal dose
+ratios and their CLs at different significance levels. IBM
+SPSS provides solution to calculate the lethal doses with
+95% CLs based on probit or logit models, and also the
+relative median potency (RMP) assuming that the two
+regression lines are parallel [4].
+In this study, we calculated lethal doses and 95% CLs
+of toxicants at different significance levels, as well as the
+lethal dose ratio and its 95% CLs for two toxicants, from
+probit-log(dose) regression models constructed using the
+maximum likelihood method in Microsoft Excel. The effectiveness
+of this method was compared with that of
+Polo-Plus and IBM SPSS.
+Methods
+Construction of probit-log(dose) regression models for a
+single toxicant or population
+For a population treated with serial doses (i) of a toxicant,
+in which n subjects were treated and r subjects exhibited
+a characteristic response to each dose, the
+empirical proportion (p*) of responders was given by
+where i = 1 to k and k indicated the number of toxicant
+doses.
+If the characteristic response occurred in the control
+group (natural response) with proportion C, the proportions
+of responders were corrected using the Abbott
+equation for each treatment dose [5]:
+The corrected proportion (pi) was then converted to a
+probit value (yi) [1]:
+which was calculated as yi = NORM.S.INV(pi) in Excel.
+A provisional regression line between yi and the logarithm
+of the dose (xi) was established:
+yi
+¼ α0 þ β0xi: ð4Þ
+In the regression equation, i = 1 to m, where m is the
+number of toxicant doses at which the corrected proportion
+was not equal to 1 or 0. The intercept (α0) and
+slope (β0) could be calculated by the least-squares procedure
+and were retrieved using the INTERCEPT(yi, xi)
+and SLOPE(yi, xi) functions, respectively, in Excel.
+We then calculated the expected probits (Y) for all
+dose sets, included those where the corrected proportion
+was 1 or 0:
+Yi ¼ α0 þ β0xi: ð5Þ
+In Eq. (5), i = 1 to k.
+We next calculated the expected response proportion
+(Pi) for each dose set [1].
+Pi ¼ ΦðYiÞ  ð1−CÞ þ C; ð6Þ
+where Φ(Yi) returned the cumulative probability of the
+standard normal distribution corresponding to (Yi), obtainable
+using the NORM.S.DIST (Yi) function in Excel,
+and C was the natural response proportion, if one
+existed, in Eq. (2).
+An optimized set of expected probits was then derived
+from the linear regression equation of working probits
+weighted on xi, with each yi being assigned a weight,
+niwi, where wi was the weighting coefficient. 
+where C was the natural response proportion in Eq. (2).
+The slope β of the working probit-log10(dose) regression
+equation was
+The χ2 statistic of the probit regression equation was [1]
+The significance level p of the χ2 statistic was calculated
+as the right-tailed probability of the chi-squared
+distribution (CHISQ.DIST.RT) with k – 2 degrees of
+freedom (d.f.).
+A significant χ2 statistic (p < 0.05) might indicate either
+that the population did not respond independently or
+that the fitted probit-log(dose) regression line did not
+adequately describe the dose-response relationship in
+the test samples.
+To get an optimal fit of the probit-log10(dose) regression,
+we substituted α and β for α0 and β0 and repeated
+the calculations of Eq. (5) to Eq. (15) until a stable χ2 appeared,
+indicating convergence. This procedure was a
+maximum likelihood (ML) method [1].
+The significance of the slope was assessed using the z
+test [7],
+Z ¼ β
+σðβÞ
+ð16Þ
+If the absolute z-value was less than 1.96, the regression
+slope was not significant and the data were excluded
+from further analysis. Similarly, we might test the
+significance of the intercept (α).
+The heterogeneity factor h of the regression equation
+was calculated to adjust for large χ2. h was defined as [1]
+h ¼ χ2
+k−2
+: ð17Þ
+If h < 1, the model provided a good fit to the data.
+Otherwise, standardized residuals were plotted to identify
+outliers or other possible causes of poorness of fit
+[8]. Each residual defined the difference between the observed
+ri and the expected response number (niPi) for
+each dose. The residuals were standardized by dividing
+them by their standard errors,
+ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+niPið1−PiÞ
+p
+. For models
+providing a good fit, the standardized residuals fell
+mostly between −2 and 2 [8]. Standardized residuals distributed
+randomly showed no systematic patterns or tendencies
+toward positive or negative sign.
+Calculation of the lethal doses of toxicants or populations
+and their 95% CLs
+In this step, we first calculated the logarithms of the
+doses (θπ) at which levels of interest (π) gave the expected
+response proportion:
+θπ ¼ yπ−α
+β
+ð18Þ
+where yπ was the πth percentile of the probit distribution
+curve calculated in Excel using NORM.S.INV(π) for the
+probit distribution. For example, if π = 10, 50, 90 and 99,
+yπ was calculated as − 1.282, 0, 1.282 and 2.326.
+The πth lethal dose was then calculated as
+LDπ ¼ 10θπ : ð19Þ
+The standard error of θπ, σ(θπ), was given by [1]
+t0.05, k − 2 returned the two-tailed inverse of the
+Student’s t-distribution at α = 0.05 with d.f. = k - 2
+[T.INV.2 T(0.05, k-2)].
+The g value could be calculated to adjust if the confidence
+limits were valid. The g value was given as [9]:
+
+If p (χ2) was less than 0.15, t = 1.96 and h* = 1; otherwise,
+h* = h and t = t0.05, k − 2 [4]. If g exceeded 1, the CLs
+for the LDπ did not have practical importance [1].
+The above steps were repeated to determine all parameters
+for the second toxicant for the same population, or
+the same toxicant in the second population.
+Comparison of lethal dose ratios of two toxicants or
+populations
+If there were l toxicants or populations in the experiment,
+then we compared the LDπ values of the first (as a
+reference) to those of others. We first calculated the difference
+between the log(doses) yielding the expected response
+proportions (πth percentile) for toxicants or
+populations 1 and j (j = 2 to l), θπ1j = θπ1 - θπj. Its standard
+error was given by [2]
+
+The ratio of the two lethal doses was then given as
+Ratioð1jÞ ¼ 10θπ1−θπj ; ð24Þ
+and the 95% CLs were
+10θπ1 j1:96σ θπ1 j ð Þ
+: ð25Þ
+If the 95% CLs of this ratio excluded 1.0, the lethal
+doses of the two toxicants or populations were significantly
+different; otherwise, there was no evidence to reject
+the null hypothesis of equal LDs [2].
+Test for parallelism of the two regression equations
+Although the above procedures did not assume equal
+slopes of the two regression lines, the specific LDπ level
+used depended on the parallelism of the regression lines.
+To examine parallelism of the two regression lines, we
+used the z-test [10]:
+z ¼
+β1−βj
+
+
+ffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffiffi
+σ β1
+ð Þ2 þσ βj
+ 	2
+r : ð26Þ
+If the absolute z-value exceeded 1.96, the two regressions
+were non-parallel; otherwise, they were parallel.
+Case studies
+The above procedures might be executed on an Excel
+(version 2010 or higher) spreadsheet (provided as an
+Additional file 1). To compare the results of the ML
+procedure in Excel with those of Polo-Plus and SPSS, we
+extracted bioassay data from the literature: (1) chrysanthemum
+aphids dosed with Rotenone, Deguelin, and a
+mixture of these two substances [11], (2) three populations,
+Fairfax, Pixley and Schaefer, of the pest bug
+“Wicked Witch of the West” dosed with deltamethrin
+[12], and (3) two populations, BugRes and BugLab, of
+Godfather larvae dosed with pyrethroid [2] (Table 1).
+Results
+Slopes, intercepts and significance testing of probitlog(
+dose) models fitted to the example data
+When we implemented the ML procedure to solve
+the probit-log(dose) equations for the three sample
+data in Excel, for the datasets in which there was no
+natural response (e.g., Rotenone, Deguelin, Mixture,
+Fairfax and Schaefer), the slope (β) and intercept (α)
+estimates of the converged probit-log(dose) regression
+were identical to those calculated using
+Polo-Plus and SPSS (with two methods, SPSS1 and
+SPSS2, to include the natural response proportion, C,
+by inputting the value of C and calculating it from
+the data, respectively) (Table 2). The standard errors
+of both β and α, calculated by Eq. (13) and Eq. (14),
+were close but not identical to those calculated using
+Polo-Plus and SPSS (Table 2). When the data sets included
+natural responses (e.g., Pixley, BugRes and
+BugLab), β and α, as well as their standard errors,
+were close to those produced by Polo-plus and SPSS.
+The results of our method and Polo-Plus were closer
+to those calculated using SPSS1 method than those
+calculated using SPSS2 method (Table 2, Bold items).
+The probit-log(dose) regression model assumes a
+linear relationship between the logarithm of serial
+doses and the probit of the response proportions.
+When z-tests (this study and SPSS) or the t-ratios
+(Polo-Plus) were used to evaluate the significance of
+the regressions, all z values and t-ratios for both β
+and α estimates calculated using all four methods
+exceeded 1.96 (Table 2), indicating that all regression
+parameters were significant. If the z-value for the
+slope was less than 1.96, the regression model would
+be insignificant and the dataset should be excluded
+from further analysis.
+Goodness-of-fits of the probit-log(dose) regressions
+While z-tests evaluated whether a linear relationship
+existed between the probits and the log(dose), χ2 tests
+are usually used to test the goodness-of-fit of the
+log(dose)-probit regression model. For datasets that
+did not include natural responses, the χ2 and h values
+calculated in this study were identical to those calculated
+using Polo-Plus and SPSS (Table 3). When the
+datasets included natural responses, the χ2 and h
+values were close to those produced by Polo-plus and
+SPSS. Again, the results of our method and Polo-Plus
+were closer to those calculated using SPSS1 method
+than those calculated using SPSS2 method (Table 3,
+Bold items).
+For some datasets, χ2 was not significant but h was
+greater than 1 (Table 3). When standardized residuals
+were plotted against log(doses), one or more outliers
+were observed (outside the bounds of −2 to 2) in the
+Schaefer and BugLab data. For the BugLab data especially,
+the standardized residuals were not distributed
+randomly and showed a tendency toward positive sign
+(Fig. 1), indicating that this data should be fitted
+using other models [13].
+LD10, LD50, LD90 and LD99 estimates with 95% CLs
+We further compared the LDπs and their 95% CLs
+calculated using these four methods. For datasets that
+did not include natural responses, the LDπs calculated
+in this study were identical to those calculated using
+Polo-Plus and SPSS, and the 95% CLs of LDπs calculated
+using our method were close but not identical
+to those produced by Polo-Plus and SPSS (Table 4).
+For datasets that included natural responses, the LDπs
+and their 95% CLs were close but not identical to
+those calculated using Polo-plus and SPSS. The results
+of our method and Polo-plus were closer to
+those calculated using SPSS1 method than those calculated
+using SPSS2 method (Table 4, Bold items).
+Comparison of lethal dose ratios between two samples
+For datasets that did not include natural responses,
+the LDπ ratios calculated using our method were
+identical to those calculated using Polo-Plus and their
+95% CLs were also close. For datasets that included
+natural responses, LDπ ratios and their 95% CLs calculated
+using our method were similar to those calculated
+using Polo-Plus (Table 5, Bold items). The LD50
+ratios and their 95% CLs calculated using our method
+were closer to those calculated using Polo-Plus than
+to the relative median potency (RMP) calculated using
+SPSS (Table 5).
+When judged by whether the 95% CLs of lethal ratios
+included 1.0, all methods reached the same conclusions
+for toxicity differences between two samples (Table 5).
+Comparisons of two regression slopes
+Parallelism between paired regression equations was examined
+using z-tests. The conclusions of our method for
+the five regression pairs were identical to those arrived
+at by Polo-Plus and SPSS, which used χ2 tests (Table 6).
+Discussion
+Many methods have been developed to calculate the lethal
+or effective doses of toxicants and their confidence limits.
+Probit analysis, developed by Bliss [14] and improved by
+Finney [11], is one such commonly-used method. To calculate
+the parameters of the probit-log(dose) regression,
+Finney suggested fitting the regression line by eye as precisely
+as possible and obtaining parameters, such as slopes
+and intercepts, of the provisional regression line at the
+first stage. Thereafter, one calculates the working probits
+Y, and repeats this process with the new set of Y values;
+when the iterations converge, this gives a precise estimate
+of the linear regression parameters [1]. In this study, we
+calculated slopes and intercepts for the provisional regression
+line by the least-squares procedure, and calculated
+working probits and performed the iteration procedure
+(ML) using the popular software program, Microsoft
+Excel. We obtained similar results to those obtained using
+Polo-Plus and SPSS.
+Several software packages, such as Polo-Plus and
+SPSS, might be used to calculate the lethal doses and
+95% CLs at different significance levels, and even test
+the equality of the lethal doses. Such professional
+statistical programs are difficult to handle for common
+toxicologists and environmental ecologists, and are easily
+abused. Excel in the Microsoft Office Package is the most
+popular statistical program around the globe. As to the
+Excel spreadsheet developed in this study, the users are
+easily to trace the procedure which is used to solve the regression
+equations, and calculate the CLs of a lethal dose
+and also the lethal dose ratios. They may further redevelop
+it easily according to their request.
+χ2 values were used as indicators of the goodness-of-fit
+of the probit-log(dose) regressions as the iteration proceeded.
+The equations
+could also be applied [1]. When there were no natural
+responses in the datasets, these two equations,
+along with Eq. (15), gave the same results when the
+iterations converged, and these results were identical
+to those produced by Polo-Plus and SPSS. When the
+datasets included natural responses, Eq. (27) always
+gave the smallest χ2 value, Eq. (28) always gave the
+largest value, while Eq. (15) gave an intermediate
+value which was closer to the output of Polo-Plus
+and SPSS (data not shown). During iteration for some
+datasets, the χ2 values produced from all these three
+equations might increase [1]. Most regression models
+converged after several iterations, and we reported
+the results after 20 iterations, as this was the default
+maximum used by SPSS.
+Strictly speaking, the 95% CLs of LDπ were the values
+of x for which the boundaries of the fiducial band
+attained the relevant value of yπ. The exact CLs of θπ
+could be calculated by constructing the variance matrices
+of the slope (var(β)) and intercept (var(α)) and their
+covariance (cov(α,β)) matrices as follow [1, 9]:
+It has been theorized that, in practice, the method for determining
+95% CLs of LDπ most often performed sufficiently
+good based on a trustworthy value for the variance
+of θπ as Eq. (20) [1, 15]. It was suggested that 95% CLs of
+LDπ could be calculated using the formula 10θπ1:96σðθπÞ
+[15]. The results of this equation were close to those calculated
+using Eq. (29) when the dose number (k) was large
+(e.g., close to 10), while the CLs were much narrow than
+those calculated exactly using Eq. (29) when k was small. By
+contrast, the results given by Eq. (21) were nearer to those
+calculated exactly at different levels of k. The 95% CLs of
+LDπ calculated using Polo-Plus were often identical to those
+calculated using SPSS when there was no natural response,
+with some exceptions (e.g., the Mixture and Fairfax data;
+Table 4, italic brackets, although the g values were not large
+for both of these cases).
+While it is common to find estimates of LDs obtained
+from probit analyses in the toxicology literature, it is less
+common to find a hypothesis test procedure to determine
+whether estimated differences between LDs are statistically
+significant [16]. Relative potency has been frequently used [1,
+4], but this method assumes the regression lines being compared
+are parallel. When the regression lines were parallel,
+the LDs and their 95% CLs for two toxicants calculated from
+the two datasets simultaneously were similar to those calculated
+from the datasets separately. However, when the regression
+lines were not parallel, the LDs and their 95% CLs
+calculated from the two datasets simultaneously were quite
+different from those calculated from the datasets separately.
+In cases where the data are suggestive of a trend toward
+significant differences between LD50s, the use of
+non-overlapping CLs for LD50 values has frequently
+been proposed as a criterion for assessing significance,
+while use of this criterion is thought to be conservative
+[17, 18]. An alternative method involves calculating the
+variances of θπ using the delta-method:
+var θπ ð Þ¼ 1
+β2 varðαÞ þ 2θπ covðα; βÞ þ θπ
+2 varðβÞ
+
+ 
+; ð30Þ
+calculating the ratio of the LDs as in Eq. (24), then calculating
+the 95% CLs of the ratio as in Eq. (25) [2]. If the
+95% CLs of the ratio include 1.0, the LDs of the two
+samples are not significantly different. We followed this
+procedure in this study, but we calculated the standard
+error of θπ as in Eq.(20) by the maximum likelihood procedure.
+We obtained 95% CLs of the LD ratio similar to
+those obtained using Polo-Plus.
+Biologically, the slope of a probit or logit regression line
+represents the change in the proportion of responders per
+unit change in dose. Toxicological evidence suggested that
+the slope of a dose–response regression line reflected host
+enzyme activity [19]. Thus, non-parallel lines might
+indicate different modes of action of the two toxicants. Parallelism
+between regression pairs was essential for determining
+the level at which to compare the effects of two
+toxicants. Generally, there were three main categories of
+parallelism: (i) the two regression lines were statistically
+parallel (e.g., Fairfax vs Pixley; Fig. 2a); (ii) the two regression
+lines were not statistically parallel but did not cross
+within the dominant region (20–80%) of the response proportions
+(e.g., Rotenone vs Deguelin; Fig. 2b); and (iii) the
+two regression lines crossed around the median lethal dose
+(e.g., BugRes vs BugLab; Fig. 2c). In the first case, reporting
+the LD50s of the two toxicants and their ratios was sufficient.
+In the second case, one should report both LD50s
+and LD90s (and/or LD10s) and their ratios. In the third
+case, reporting the ratios of LD10s, LD50s, LD90s is meaningless,
+but the significance of difference between the two
+slopes should be valid.
+Conclusions
+We successfully developed a method to calculate the lethal
+doses of a toxicant at different significance levels,
+and compare lethal dose ratios using probit-log(dose) regression
+by the ML procedure implemented in Microsoft
+Excel. Lethal doses calculated using this method at different
+significance levels, as well as lethal dose ratios
+with their 95% CLs, were identical or close to those calculated
+using Polo-Plus and SPSS. When judged by
+whether the 95% CLs of the lethal ratios included 1.0, all
+methods reached the same conclusions regarding toxicity
+differences between two samples.

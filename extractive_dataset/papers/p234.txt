@@ -1,0 +1,394 @@
+Introduction
+Musculoskeletal diseases are the main causes of disability
+among adults [1, 2]. Much of this disability burden is
+associated with populational aging, but also with behavioural
+and work-related risk factors [3]. Among musculoskeletal
+diseases, neck pain is the second most
+common cause of disability, second only to low back
+pain [4].
+From a global perspective, neck pain has a point
+prevalence of 14.4%, while the mean lifetime prevalence
+is 23.1% [5]. The 12-month prevalence estimates vary
+from 21 to 42% among children and adolescents to 30 to
+50% among adults and the elderly [6]. In Brazil, in 2017,
+this prevalence among adults was estimated at 20.3% [7].
+Neck pain is a complex condition, in which the association
+of individual, ergonomic, socio-cultural and psychosocial
+risk factors contributes to its occurrence and
+chronicity [8]. The main individual factors are age, sex,
+increased body mass index and smoking [9, 10]. Among
+the environmental factors are those related to ergonomics,
+such as strenuous physical activity, use of force and
+vibration, improper posture and repetitive movements
+[6]. Previous history of neck and low back pain, poor
+health care and psychosocial problems such as job dissatisfaction,
+stress, anxiety and depression are other factors
+related to neck pain [10].
+The economic impact of neck pain is significant and
+includes costs related to treatment, decreased productivity,
+non-attendance to work and social security [11]. In
+the USA, neck pain was responsible for 16 million medical
+consultations in 2010 [12]; in 2016, health costs for
+neck and low back pain diagnosis and treatment were
+estimated at 134 billion dollars [13]. In 2012, neck pain
+was responsible for job absences of 25.5 million Americans,
+who missed an average of 11.4 days of work [1].
+Approximately three out of five European workers experienced
+symptoms of musculoskeletal pain in 2015, with
+neck and upper limbs pain accounting for 41% of the
+complaints [14]. In Brazil, neck pain was responsible for
+7.2% of disability pensions granted to workers with musculoskeletal
+diseases [15].
+The prevalence and the disability burden of neck pain
+in Brazil, both countrywide and at state level, have not
+yet been well defined, despite its likely impact on the
+economy and health of the Brazilian population. Therefore,
+this study aims to describe the prevalence and the
+burden of neck pain in Brazil and in the units of the federation
+in the years 2000, 2010 and 2019, as well as to
+draw parallels with the estimates of other countries for
+the same years.
+Methodology
+This descriptive study is based on the estimates from the
+Global Burden of Diseases Study (GBD) 2019, a systematic
+effort in descriptive epidemiology coordinated by
+the Institute for Health Metrics and Evaluation (IHME)
+at the University of Washington [16]. All estimates come
+from interdisciplinary approaches to enhance data quality
+and statistical modeling that have been already reported
+[16]. Since 2014, several investigations on the
+burden of disease were conducted by the GBD Brazil
+Network, which was created as a collaboration among
+the IHME, the Brazilian Ministry of Health, and a network
+of academic institutions led by the Federal University
+of Minas Gerais [17].
+Neck pain is defined as pain located between the occipital
+region and the third thoracic vertebra, with or
+without irradiation to one or both upper limbs, which
+lasts more than 1 day and limits daily activities [18, 19].
+The definition of neck pain was based on the codification
+by the International Classification of Diseases, tenth
+edition (ICD-10): neck pain (M54.2); cervicocranial syndrome
+(M53.0); cervicobrachial syndrome (M53.1); back
+pain with cervical radiculopathy (M54.1); cervical spondylosis
+with radiculopathy (M47.2); cervical spondylosis
+with myelopathy (M47.1); cervical disc disorder (M50);
+cervicogenic headache (R51); sprain of ligaments of cervical
+spine (S13.4); and sprain of joints and ligaments of
+other parts of neck (S13.8) [20].
+The GBD study uses three main indicators to calculate
+the burden of diseases: years of life lost due to premature
+mortality (YLLs), years lived with disability (YLDs)
+and the sum of YLLs to YLDs, which corresponds to the
+disability-adjusted life years (DALYs) [21]. Since neck
+pain is not a cause of death but a disabling condition,
+YLD and DALY estimates for neck pain are the same.
+The disability weights used for estimating the diseases’
+YLDs are measured on a scale of zero to one, in which
+zero is equivalent to full health and one is equivalent to
+death. Disability weights were obtained from surveys
+conducted in several countries from different regions.
+The surveys used paired-comparison questions, in which
+the respondents considered two hypothetical individuals
+with different, randomly selected health conditions and
+were asked to indicate which individual they considered
+to be the healthiest. More methodological details are
+available elsewhere [22].
+YLD due to neck pain is determined by multiplying
+the specific disease disability weight (dw) by its prevalence
+in a given population (p) [23]:
+YLD ¼ DW x P; where YLDNP
+¼ ð0:04 x Prevalence of mild acute sequelaeÞ
+þ ð0:221 x Prevalence of severe acute sequelaeÞ
+þ ð0:101 x Prevalence of mild chronic sequelaeÞ
+þ ð0:286 x Prevalence of severe chronic sequelaeÞ
+The Socio-Demographic Index (SDI) is an indicator
+directly correlated to social economic standards used to
+compare different locations and times. It consists of a
+scale between zero and one, which aggregates the per
+capita income, educational level for those ages 15 and
+older, and fertility rate of women under 25 years of age.
+The higher the SDI, the greater the location’s sociodemographic
+development is [18].
+Neck pain prevalence and YLD estimates were analyzed
+for Brazil and all of its federative units. Global estimates
+and estimates for other countries were also used
+to compare the magnitude of national burden: 1)
+Mexico, a country in Latin America with an SDI similar
+to that of Brazil; 2) United States of America (USA), a
+country with one of the highest prevalence and YLD
+rates for neck pain; and 3) England, a developed country
+with a public health system similar to Brazil’s. For each
+location, data were generated by both sexes, by standardized
+age, or by age group in the years 2000, 2010 and
+2019.
+Estimates were standardized by age to allow for a comparative
+analysis that takes into account changes due to
+population growth and aging. In addition, the position
+and changes in the classification rank of neck pain
+prevalence and YLDs were analyzed in the selected locations,
+in the same years of 2000, 2010 and 2019. To describe
+the degree of confidence in the metrics, the
+modeling process enables estimates to be calculated
+1000 times and then distributed from the lowest to the
+highest value. The 95% uncertainty interval (95% UI) is
+obtained from the 2.5 and 97.5 percentiles of this distribution,
+and it considers the error generated by the sample,
+the modeling, and the availability of data. All
+estimates are presented with their 95% UI, and differences
+between estimates are statistically significant if the
+intervals are not coincident [16]. All estimates were produced
+by the Institute for Health Metrics and Evaluation
+(IHME) and available in the IHME website at: http://
+ghdx.healthdata.org/gbd-results-tool [7]. The authors are
+responsible for describe and analyze these data.
+The input data for neck pain in Brazil was based on
+three studies [7, 15, 24], covering the period from 2011
+to 2017, two of them conducted in the state of São Paulo
+[7, 24]. The data sources are available in the Global
+Health Data Exchange for each country (http://ghdx.
+healthdata.org/countries). Neck pain prevalence was estimated
+using the software DisMod-MR 2.1, by Bayesian
+meta-regression modeling tool [16]. The full list of articles
+used for statistical modelling can be found in the
+GBD 2019 Data Input Sources Tool [20]. To estimate
+prevalence, incidence, and YLDs, the Bayesian metaregression
+tool DisMod-MR 2.1 is used [16]. The modeling
+allows obtaining the best estimates, mainly of the localities
+such as Brazil, with few surveys and studies. In
+the GBD study, data are estimated in a homogeneous
+way, making it possible to compare neck pain between
+locations, by sex, and by age group.
+The GBD Brazil study uses only secondary data, and it
+does not identify the individual or requires a free and informed
+consent form. The study was approved by the
+Ethics Committee of the Federal University of Minas
+Gerais (UFMG) under the registration n°
+628,033,167.00005149, according to the resolution no.
+466/2012 of the National Health Council of Brazil.
+Results
+In Brazil, the age-standardized prevalence of neck pain
+in 2019 was 2241.9 (95% IU 1770.6 – 2870.6) per
+100,000 population. This means that in that year, about
+five million of the 211 million Brazilians presented with
+neck pain. Also in 2019, the global age-standardized
+prevalence was 2696.5 (95% IU 2177 – 3357.2) per
+100,000 population, similar to the Brazilian estimates.
+Throughout the study period, neck pain prevalence in
+Brazil did not show statistical differences when compared
+to global or Mexican estimates. On the other
+hand, the prevalence estimates of the USA and England
+were, in general, significantly higher (Table 1).
+Most of the neck pain prevalence values remained
+stable in the locations and periods surveyed. Only in the
+USA there was a significant increase of the prevalence:
+88.46% between 2010 and 2019, with the prevalence
+varying from 2718.6 (95% IU 2386.3 – 3116.7) cases per
+100,000 population to 5123.3 (95% IU 4268.4 – 6170.4)
+cases per 100,000 population in the period. Prevalence
+rates in Brazil showed an inverse trend when compared
+to the other locations, increasing between 2000 and
+2010 but decreasing from 2010 to 2019 (Table 1).
+The prevalence in all Brazilian federative units
+remained stable. In the year 2000, these values varied
+from 1911.2 (95% IU 1503.3-2436.2) per 100,000 population
+in Roraima to 1932.2 (95% IU 1515.7-2462.3) per
+100,000 population in Rio de Janeiro. In 2019, these
+values varied from 1915.9 (95% IU 1506.5-2443.1) per
+100,000 population in the state of Roraima to 1932.1
+(95% IU 1515.1-2462.7) per 100,000 population in Distrito
+Federal. The only exception occurred in the state of
+São Paulo, with prevalence values of 3325.7 (95% IU
+2608.9 - 4274.5), 3698.6 (95% IU 3009.8 - 4592.2), and
+3326.5 (95% IU 2609.7 – 4275.5) per 100,000 population
+in 2000, 2010, and 2019 respectively (Table 2).
+The annual change in neck pain prevalence estimates
+in Brazil was 16.55% between 2000 and 2010 and −
+14.59% between 2010 and 2019. In the state of São
+Paulo, this variation was 11.21% between 2000 and 2010,
+and − 10.06% between 2010 and 2019. The average variation
+among Brazilian states was 20% between 2000 and
+2010 and − 16% between 2010 and 2019. Although there
+is a difference between these variations, the magnitude
+of the curves for prevalence patterns in Brazil, the state
+of São Paulo, and the rest of the states was similar.
+Table 3 shows 2019 global prevalence estimates of
+neck pain by sex and age groups, as well as agestandardized
+estimates for the countries evaluated. The
+prevalence is statistically higher for women in the USA,
+with the same trend occurring in the other countries. In
+Brazil, in 2019, the prevalence was 5376 (95% IU 3495.7-
+8035.3) per 100,000 population among women and
+3611.2 (95% IU 2994.3- 6999.1) per 100,000 population
+among men.
+The global estimates show that, worldwide, aging was
+associated with a significant increase in neck pain prevalence.
+In 2019, there was a statistical difference in the
+global prevalence of neck pain for both sexes in the age
+group of 15 to 49 years, where the estimates were 2770.4
+(95% IU 2027.9 – 3851.4) per 100,000 population; in the
+age group of 50 to 69 years, where the estimates were
+6064.2 (95% IU 4070.1 – 9132.7) per 100,000 population;
+and in the age group of 70 years and older, with prevalence
+estimates of 5971.6 (95% IU 4080 – 8621.7) per
+100,000 population. However, when assessing the data in
+the countries evaluated, with the exception of the USA,
+there was only a tendency for this increase in prevalence
+with aging (Table 3).
+Neck pain was the ninth clinical condition with the
+highest disability burden among the 369 diseases
+assessed by the GBD study in 2019, with a global agestandardized
+rate of 267.4 YLD (95% IU 175, 5–383.5)
+per 100,000 population. In Brazil, in 2019, it represented
+the sixteenth clinical condition with the greatest impact
+on the population health, with a standardized rate for
+YLD of 221.7 (95% IU 145.4–322.6) per 100,000 population.
+Contrary to the prevalence estimates, there was no
+statistical difference between the YLD values comparing
+Brazil, Mexico, the USA and England in 2010 and 2019.
+According to the estimates presented in Table 2, the
+USA and England had, with the exception of the year
+2000, a trend of higher YLD rates, while Brazil and
+Mexico tended to lower values that were closer to the
+global numbers.
+The age-standardized YLD rates were very similar
+among the Brazilian states. The state of São Paulo
+showed a trend to a higher burden of disability, with
+328.5 YLD (95% IU 216.3–476.6) per 100,000 population
+in 2019, but with coincident confidence intervals.
+Discussion
+This study shows a similar prevalence of neck pain
+among the global and countries with lower SDI (Brazil
+and Mexico), in contrast to higher estimates in countries
+with higher SDI (England and USA). Although
+generalization is not possible, other studies also showed
+a higher prevalence and burden of neck pain among
+countries with higher SDI [5, 23]. On the other hand,
+population aging is increasing exponentially in countries
+with lower SDI, under conditions of low access to diagnosis
+and treatment of chronic-degenerative diseases
+[25]. Barriers to accessing health care and, consequently,
+receiving a diagnosis, may explain the underestimation
+of data in these low-income countries [26]. In 2013, a
+first Brazilian survey on spinal pain indicated an increase
+from 18.5% (95%UI 17,8-19,1) (2013) to 21.6% (95%UI
+21–22.1) (2019), with subnational variation in 2019 from
+(13 95%UI 1.6–15.7) in the Federal District, to 26%
+(95%UI 23.2–28.8) in Bahia. This survey indicates spinal
+pain affects about 34.3 million Brazilians, but data did
+not distinguish the specific local of spinal pain [27].
+The annual change in prevalence and YLDs estimates
+of neck pain in Brazil and in all of its federative units
+did not follow the same patterns presented by the other
+countries. While global and Mexican estimates were
+stable over the period evaluated, Brazilian prevalence estimates
+increased between 2000 and 2010 and then decreased
+between 2010 and 2019. The opposite pattern
+was presented by countries with a higher SDI such as
+the USA and England. These differences can be mainly
+attributable to the methodologies and data sources used
+in the epidemiological studies performed in each
+location.
+The stability and homogeneity observed in the global
+prevalence estimates, as well as for Brazil, and
+Mexico, suggest the absence of population-based
+prevalence studies. Likewise, most of the Brazilian
+federative units presented similar prevalence estimates
+22% (95% CI 19.3–25%). The third study, carried out in
+the state of Rio de Janeiro, covered only among young
+adults, ages ranging from 18 to 21 years old, and presents
+a prevalence of 36% (95% CI 28.4–44.3%) [15]. The
+Brazilian national health surveys do not address specifically
+the neck pain. Methodological differences between
+theses studies and GBD estimates do not allow comparison
+of results.
+Previous studies pointed out the higher prevalence rate
+of neck pain among women [9, 28, 29], and their lower
+tendency to recover from such pain [30], different from
+data of more recent studies [7, 23]. A higher prevalence
+of chronic spinal pain among women was also reported
+in Brazil [31]. GBD estimates in 2019 showed higher
+prevalence only among USA women, while the other
+studied countries did not present the same trend. These
+differences may represent different exposure to workrelated
+risk factors and sedentary life-style as well as different
+access to diagnosis in these countries.
+The higher prevalence of neck pain among middleaged
+adults and elderly shows the importance of age
+as a risk-factor to of aging musculoskeletal diseases
+[9, 31–35]. Studies have only shown a significant peak
+of point prevalence in the middle age [5, 23, 30, 34].
+Younger men and women have a higher prevalence of
+neck pain, but recover more often from it than older
+individuals. The overall rates of recurrence and
+chronicity of neck pain are around 30 to 50% [8, 36].
+This chronicity, added to the fact that it affects both
+sexes and begins at a younger age, make the burden
+of neck pain to be classified among the highest YLDs
+in Brazil and in the world [37].
+Despite the prevalence of neck pain being statistically
+higher in the higher-income countries evaluated, the
+USA and England, this difference was not significant between
+the YLDs when compared to the estimates of
+Brazil.. This fact suggests that neck pain affects a younger
+population in Brazil, the long duration of the disease
+make the YDL similar to countries with a higher
+prevalence.
+Despite the prevalence of neck pain is statistically
+higher in the higher SDI countries evaluated, this difference
+was not significant between the YLDs when compared
+to the estimates of Brazil. Musculoskeletal
+conditions are neglected in most national health surveys:
+among 170 national health surveys from different countries,
+only 37 cited cervical pain [38]. Besides, the different
+definitions of neck pain prevent the comparison
+[38]. The higher rates presented in the US are probably
+related to the inclusion of neck pain investigation in annual
+surveys since 2013, the availability of regular data
+providing more reliable information.
+Low income is a risk factor for chronic spinal pain and
+is associated with a worse prognosis for chronic neck pain
+[7, 31]. More recent studies have revealed a higher prevalence
+of chronic neck pain and a notable association with
+people with low education [39, 40]. Thus, since the burden
+of the disease depends on the sum of the prevalence of the
+different spectra of the disease, which in the case of neck
+pain encompasses severity and chronicity, the fact that
+lower SDI countries have a YLD similar to that of higher
+SDI could be justified by a higher prevalence of chronic
+and severe neck pain in these locations.
+The GBD Project systematically updates global and national
+estimates of the burden of several diseases, aiming
+to encourage detailed analysis for decision making at a
+local level. Regarding the scientific production using
+GBD estimates, the GBD Brazil Network has done several
+analyses that have resulted in the publication of two
+capstone papers and two journal supplements on the
+burden of several diseases [17]. This study presents the
+current Brazilian status of the burden of neck pain with
+the best available data. Considering Brazilian subnational
+diversity, obtaining reliable estimates is challenging. Our
+results emphasize the importance of the research on
+musculoskeletal diseases in the country, especially in the
+current context of economic and political crisis, with
+funding restriction [41].
+This study presents as a strength the standardized
+methodology that enables comparisons between locations
+and times. On the other hand, it does not distinguish
+between the risk factors associated with the onset
+and recurrence of cervical pain, nor does it analyze the
+risk factors common to cervical pain, such as exposure
+to high-demand work, smoking history, psychological
+disorders, low educational level and a past history of cervical
+pain [42, 43], since these were not addressed by the
+GBD study.
+Given the trend for population aging, greater investments
+in public health policies are necessary to avoid individual
+and financial losses. The results of this study
+can contribute to the understanding of the importance
+of neck pain and help improve the prevention and control
+of risk factors for chronic degenerative diseases programs.
+In addition, it highlights the importance of
+diagnosis, early treatment and adequate rehabilitation,
+which tend to reduce the disability generated by neck
+pain.

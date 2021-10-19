@@ -1,0 +1,79 @@
+Background: Forced migrant populations have high rates of trauma-related ill health, including post-traumatic
+stress disorder (PTSD). Physical activity (PA) is well-established as an effective stress reliever, while insufficient PA is
+associated with adverse effects on both mental and physical health. The aim of this study was to examine the
+prevalence of different levels of PA and its association with PTSD symptom severity, controlled for exposure to
+torture, among asylum seekers in Sweden.
+Methods: A cross-sectional survey study, with data from 455 asylum seekers, originating from Afghanistan, Eritrea,
+Iraq, Somalia, and Syria, residing at large housing facilities across Sweden. Level of PA was assessed by the Exercise
+Vital Sign and categorized as; Inactive, Insufficient PA, and Sufficient PA. Prevalence estimates for proportions of
+different levels of PA were calculated. Analysis of variance were conducted to determine the association between
+levels of PA and PTSD symptom severity, measured by the Harvard Trauma Questionnaire. Multivariable logistic
+regression analysis was performed to determine the contribution of PA on PTSD beyond sex, age, and exposure to
+torture.
+Results: About half of the participants (53.3, 95% CI: 48.6–58.1) met the recommendations for Sufficient PA. One
+third of the participants (33.3, 95% CI: 28.7–37.8) were insufficiently engaged in PA, and 13.4% (95% CI: 10.1–16.7)
+were inactive. There was a significant difference in PTSD symptom severity between groups of asylum seekers with
+different levels of PA (F(2, 316) = 23.15, p < .001). When controlling for sex, age, and exposure to torture, Sufficient PA
+was found to be associated with less PTSD symptom severity compared to both Insufficient PA (B = 0.297, SE =
+0.086, p < .001) and Inactive (B = 0.789, SE = 0.104, p < .001).
+Conclusions: Insufficient PA was common among the asylum seekers and our findings suggest that more PA is
+highly associated with lower PTSD symptom severity. An increased focus on assessment and promotion of PA is
+justified and discussed as particularly pertinent considering the much extended time of asylum-seeking processes.
+The results support previous evidence of PA as a potentially important factor in the context of PTSD and forced
+migrants’ health.
+Prevalence of physical activity
+The level of PA, in total as well as stratified by sex and
+age group, is presented in Table 2. About half of the participants
+(53.3, 95% CI: 48.6–58.1) met the
+recommendations for a sufficient level of PA. One third
+of the participants (33.3, 95% CI: 28.7–37.8) were insufficiently
+engaged in PA, and additionally 13.4% (95% CI:
+10.1–16.7) were inactive.
+The analyses indicated lower level of PA among
+women than men, although CIs were more or less overlapping.
+A possible difference between women and men
+was found among those inactive and of younger age
+(18–30 years), for whom the estimates were 23.7% for
+women and 10.3% for men, but also here the CIs were
+overlapping. No differences in prevalence of PA were detected
+between age groups for the total population. Due
+to skewed distribution and too small strata, stratified estimates
+on basis of country of origin could not be reliably
+provided.
+Differences in PTSD symptom severity between groups of
+asylum seekers with different levels of physical activity
+Table 3 shows that there was a significant difference in
+PTSD symptom severity between groups of asylum
+seekers with different levels of PA (F(2, 316)= 23.15,
+p < .001). Pairwise post-hoc tests showed a clear pattern of
+associations, i.e., the Sufficient PA group had less PTSD
+symptom severity compared to both the Insufficient PA
+group (p = .004) and the Inactive group (p < .001), and the
+Insufficient PA group had less PTSD symptom severity
+compared to the Inactive group (p < .001).
+In regard to symptom clusters of PTSD, as indicated
+by the AIS and ANS, MANOVA revealed overall significant
+differences in symptom severity between groups
+with different levels of PA (Wilk’s ˄ = 0.868, F(4, 630) =
+11.58, p < .001). Follow-up univariate ANOVA established
+differences in regard to both the AIS (F(2, 316) =
+20.06, p < .001) and the ANS (F(2, 316) = 22.07, p < .001).
+Pairwise post-hoc tests showed a similar pattern of associations
+for the AIS and ANS as with the HTQ in total,
+i.e., the Sufficient PA group had less symptom severity
+compared to both other PA groups, and the Insufficient
+PA group had less symptom severity compared to the
+Inactive group (all significance tests between p < .001
+and p = .016).
+Associations between physical activity, exposure to
+torture, and severity of PTSD symptoms
+As shown in Table 4, the first model in the regression
+analysis revealed that being a woman was associated
+with less PTSD symptom severity in comparison with
+being a man (B = − 0.207, SE = 0.001, p < .038). No significant
+association was found between age groups and
+symptom severity. This model accounted for 2% of the
+total variance in PTSD symptom severity.
+In the second model, which in addition to sex and age
+group also included exposure to torture, associations were
+found between PTSD symptom severity and sex and

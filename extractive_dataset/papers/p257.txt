@@ -1,0 +1,237 @@
+Background
+Over the last 30 years, stroke has become the leading
+cause of adult-disability and death in China, which
+causes huge burden to family and society [1–3]. The incidence
+and morality of stroke has been increasing year
+by year, and ischemic stroke represents the majority of
+total strokes [1, 4]. Intravenous thrombolysis (IVT) has
+been proven to be an effective way to help patients gain
+reperfusion and improve the clinical outcomes of ischemic
+stroke [5–7]. However, this treatment is highly
+time-sensitive. The number of patients eligible for
+thrombolysis is limited due to the 4.5 h therapeutic window,
+and the effectiveness of IVT varies with time [5].
+Door-to-needle time (DTN time) is defined as the time
+from hospital arrival to thrombolysis administration. It
+is a rather objective measurement of hospital management.
+Guidelines for the Early Management of Patients
+with Acute Ischemic Stroke indicates a target DTN time
+of less than 60 min [5]. Studies have shown that shorter
+DTN time was associated with lower disability, mortality
+and better outcomes [8, 9].
+Therefore, efforts have been made by hospitals to reduce
+the DTN time [10–12]. However, due to the limitations
+of material resources and manpower, the median
+DTN time varies in different hospitals. The most common
+reasons for the time delay were failure to identify
+the eligible patients timely, requirement to control
+hypertension aggressively, and in-hospital delays [9].
+Our stroke center of Nanjing First Hospital, Nanjing
+Medical University, a national advanced stroke center affiliated
+with Stroke Prevention Project, National Health.
+Commission, has been arranging a stroke nurse to accompany
+each patient suspected to suffer from a stroke
+to go through the whole diagnosis and assessment
+process since January 2019. We hypothesized that the
+joining of a stroke nurse would reduce the time used to
+response and cut the procrastination in hospital. This
+study includes 418 patients to investigate whether this
+modification of protocol helps shorten the DTN time
+and improves the prognosis of AIS patients.
+Methods
+We conducted a single-center retrospective study in the
+stroke demonstration center of Nanjing first hospital. Our
+center introduced the participation of the 24 h on-call
+stroke nurse in January 1, 2019. The role of the stroke
+nurse was to escort patients suspected to suffer from
+stroke during the emergency diagnosis and treatment.
+Once the stroke nurse was alerted, she would take initial
+history, help patients get assessment and imaging examinations
+and help neurologist on duty to review the indications
+and contraindications for recombinant tissue
+plasminogen activator (rt-PA). During the IVT process,
+the stroke nurse would monitor the patient’s symptoms
+and vital signs, such as heart rate, respiration and blood
+pressure. The stroke nurse’s work would be finished when
+she handed the patient to the inpatient department.
+There, the patient would get next phase of treatment.
+We observed 1003 consecutive acute ischemic stroke
+(AIS) patients who arrived within 4.5 h from November
+2016 to December 2020 before and after the participation
+of the stroke nurse. The inclusion criteria were (1)
+AIS symptoms occurred within 4.5 h and received
+thrombolytic therapy [rt-PA 0.9 mg/kg] ;(2) NIHSS
+score ≥ 5 at admission;(3) age over 18 years old;(4) imaging
+evidence suggested anterior circulation infraction.
+The exclusion criteria were (1) absence of thrombolysis
+therapy including contraindications of thrombolysis (n =
+93), thrombolysis was denied because of cost and family
+members refused thrombolysis; (2) absence of complete
+follow-up; (3) absence of informed consent to join the
+study; (4) in-hospital stroke; (5) NIHSS score < 5 at admission;
+(6) posterior circulation infarct. We excluded
+patients with NIHSS < 5 because we wanted to observe
+whether patients experienced early neurological improvement
+after treatment. Patients with posterior circulatory
+ischemia (POCI) was excluded because stroke
+severity was inaccurately assessed by the NIHSS in those
+patients and the proportion of those patients was small.
+Detailed information is shown in Fig. 1.
+The baseline characteristics of patients were collected
+including: sex, age, significant medical history (previous
+ischemic stroke, hypertension, diabetes, and atrial fibrillation),
+cause of stroke (based on the Trial of ORG
+10,172 in Acute Stroke Treatment (TOAST) classification),
+the glucose level at hospital arrival, the undergoing
+of endovascular therapy (EVT). We recorded the important
+duration, including time from stroke onset to hospital
+admission (onset-to-door time), from hospital
+admission to intravenous alteplase (DTN time) and from
+stroke onset to intravenous alteplase time (onset-to-needle
+time).
+Each patient was assessed by professional neurologists
+using National Institute of Health Stroke Scale (NIHSS)
+score at the admission before intravenous (IV) thrombolysis
+administration, 1 h, 24 h, 72 h and 7 days from
+admission. A face to face/through phone follow-up assessment
+was arranged after 3 months using the modified
+Rankin Scale (mRS). We compared the important
+time consumption and patients’ conditions to find out if
+there were connections between the stroke nurse and
+patients’ prognosis.
+Statistical analysis
+The data was analyzed by Statistical software SPSS 26.0
+for Windows (SPSS Inc.,
+Chicago, IL). Categorical variables such as medical history,
+sex and etiology were described by frequencies and
+percentages and variables of skewed distribution like the
+glucose level, durations, were expressed as medians
+(interquartile range [IQR]). The preintervention group
+was compared to the postintervention period by chisquare
+test for categorical variables, 2-tailed t-test for
+normally distributed variables and Mann-Whitney Utest
+for nonparametric and abnormally distributed
+variables. Variables with P < 0.05 of the univariable logistic
+regression analysis were also analyzed by multivariate
+logistic regression to obtain independent variables.
+We also use the results of regression analysis and
+Bootstrap method to create mediation models to explore
+the significance of mediation effects among the
+join of stroke nurse, DTN time and 90 days mRS
+score.th=tlb=
+Ethics approval and consent to participate
+This study policy was explained detailly and verbal informed
+consent was obtained from each study patient or
+their family members, which was approved by the ethics
+committee of Nanjing First Hospital, Nanjing Medical
+University and conducted in full accordance with the
+World Medical Association Declaration of Helsinki.
+Results
+These 1003 patients with acute ischemic stroke are patients
+arriving within 4.5-hour thrombolysis time
+window. We excluded patients that didn’t receive
+thrombolysis because of thrombolysis contraindications
+(n = 93), denied because of cost (n = 9) and family members
+refused thrombolysis (n = 11) as shown in Fig. 1.
+Additionally, absence of informed consent to join the
+study (n = 17), absence of complete follow-up (n = 27),
+in-hospital stroke (n = 15), NIHSS < 5 (n = 362) and posterior
+circulation infarct (n = 51) were also excluded. Finally,
+a total of 199 consecutive AIS patients who
+underwent IV thrombolysis with the accompany of a
+stroke nurse (stroke nurse group) and 219 AIS patients
+without the stroke nurse (preintervention group) were
+included in this study. The baseline characteristics and
+demographics are shown in Table 1. There were no significant
+differences in the patients’ gender, age, treatment
+of embolectomy, initial mRS and NIHSS score.
+However, there seems more patients with previous ischemic
+stroke in the preintervention group (p = 0.008).
+The stroke nurse group shows longer onset-to-door
+time, the median DTN time significantly reduced from
+36 min (interquartile range [IQR] 28–45) to 25 min
+([IQR] 17–35) (p < 0.001). The two groups also share
+similar onset-to-needle time. Outcomes and logistic regression
+analyses are shown in Table 2 and Table 3. The
+results show the intervention of stroke nurse significantly
+improved the 90 days mRS score (p = 0.001). Early
+neurological improvement which was decided when
+NIHSS score reduced 4 scores after the IVT, showed no
+statistical difference between two groups.
+The created mediation models and analysis results are
+shown in Fig. 2, Table 4 and Table 5. It turns out that
+DTN time plays a partial mediating effect on the 90 days
+mRS score, which indicates that the stroke nurse has direct
+influence on patients’ 90-day prognosis to some extent
+(p = 0.006).
+Discussion
+Our single-center retrospective study showed that the
+introduction of stroke nurse improves clinical outcome
+of ischemic stroke patients regardless the partial mediating
+effect of reducing DTN time.
+There is a general consensus that the earlier AIS
+patients get treatment, the better prognosis would be.
+There are three vital periods of time to evaluate: the
+onset-to-door time, DTN time and onset-to-needle
+time. The DTN time is considered to be measurable
+in the hospital management system. The latest guidelines
+for the early management for AIS patients released
+by the American Heart Association/American
+Stroke Association in 2018 suggested a primary goal
+of achieving DTN time within 60 min. However,
+many researches propose that shorter DTN time
+tends to indicate better outcomes and efforts have
+been made to reduce accelerate the access to thrombolysis
+[13]. There were studies conducted by centers
+to analyze DTN time by introducing a stroke nurse,
+response unit or designed code [11, 14–16]. Previous
+studies showed that good intervention could limit delays
+and improve DTN time [11, 16–19]. In our
+study, we found that from 2016 to 2020 the median
+DTN time significantly decreased from 36 to 25 min.
+The join of the stroke nurse helps to triage patients,
+communicate between patients and doctors, collect
+initial history, accelerate the physical and imaging
+examination, monitor and manage patients’ vital signs
+during the thrombolysis process. We believe these
+methods contributed to the improvement of DTN
+time too. Also, the stroke nurse group shows significant
+improvement in mRS score (p = 0.001), which indicates
+that the joining of stroke nurse may have an
+effect on AIS patients’ long-term prognosis.
+We found that the preintervention group shows
+shorter onset-to-door time which results in the nondifferential
+onset-to-needle time. Mediation models and
+analysis were performed to clarify whether the improvement
+of 90 days prognosis is mediated by DTN time. It
+turns out that the initiation of stroke nurse does have a
+positive effect on patients’ prognosis despite DTN time
+plays a partial mediating effect in the process. Thus, the
+implement of specialized and talented stroke nurse may
+have some positive effect on AIS patients and can be use
+of reference for other centers or hospitals.
+The NIHSS is prevalently used to measure the primary
+clinical outcome for ischemic stroke patients [20, 21]
+and mRS is used in the long-term functional assessment
+[22, 23]. In this study, we accessed patients’ neurological
+conditions at admission, 1 h after the treatment, day 1,
+day3 and day7. We define the reduction of NIHSS
+score ≥ 4 as improvement in neurological functions
+within 7 days to see if the stroke nurse helps to improve
+patents’ early functional recovery. There were no statistical
+differences between groups.
+There are several limitations in our study. This is a
+retrospective study, although a quite large sample size of
+patients was analyzed, there was a possibility of bias due
+to the selection, treatment and assessment of patients.
+Second, we only focused on ischemic patients with obstruction
+in the anterior circulation, which account for
+the majority of the location of intracranial artery occlusion,
+may also lead to deviation.
+Conclusion
+The introduction of stroke nurse is important in the
+early management of stroke patients and has some referential
+value to promote in the country. Although our
+study has demonstrated the benefits and feasibility to
+some point, more clinical samples and studies are
+needed to confirm in the future.

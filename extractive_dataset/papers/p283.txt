@@ -1,0 +1,376 @@
+Background
+Pathologic myopia is defined as a refractive error of −
+6.0 diopters or worse spherical equivalent, accompanied
+by the characteristic degenerative changes in the sclera,
+choroid, and retinal pigment epithelium, with severe visual
+impairment [1, 2]. The Asian population displays a
+higher prevalence of pathologic myopia, ranging from
+0.9 to 3.1%, compared to other regions of the world.
+Pathologic myopia has been reported to be the major
+cause of visual impairment or low vision in 12 to 27% of
+the Asian population [3–5].
+The complications associated with pathologic myopia
+include posterior staphyloma, myopic maculopathy, myopic
+choroidal neovascularization (CNV) [1]. Myopic
+CNV is one of the most common complications associated
+with the aforementioned condition that may cause
+severe visual impairment [6]. It has been estimated that
+5.2 to 11.3% of the patients with pathologic myopia will
+develop myopic CNV and the natural course and prognosis
+of subfoveal CNV are generally poor [3, 7–9].
+Currently, therapy involving the intravitreal injection
+of anti-vascular endothelial growth factors (VEGFs),
+such as bevacizumab, ranibizumab and aflibercept, is
+widely used for the treatment of myopic CNV [10–17].
+Recently, aflibercept, a novel recombinant fusion protein
+binding all isoforms of VEGF, was approved for the
+treatment of CNV secondary to pathologic myopia, following
+the well-tolerated and effective results demonstrated
+by the MYRROR study [18]. Traditionally, the
+diagnosis of myopic CNV relied on fundus fluorescein
+angiography, indocyanine green angiography, and optical
+coherence tomography (OCT). Optical coherence tomography
+angiography (OCTA) is a recent, noninvasive
+method without dye injection, which provides a layered
+image to observe the different shapes and sizes of CNV
+[19–21]. The ability of OCTA to detect the morphological
+features of myopic CNV have been reported by
+few studies [22]. A previous study used OCTA to assess
+the therapeutic effects of intravitreal ranibizumab injection
+on myopic CNV [19]. Current study is the first one
+to assess the one-year visual outcomes in patients with
+myopic CNV who underwent treatment with aflibercept
+and evaluations using OCTA.
+Methods
+The current, retrospective study involved the patients
+with subfoveal/juxtafoveal CNV secondary to pathologic
+myopia who received intravitreal aflibercept injections.
+The patients underwent treatment during the time
+period from August 2015 to June 2020 in the Department
+of Ophthalmology, Kaohsiung Veteran General
+Hospital, Taiwan. Informed consent was obtained from
+all the patients. The study program was reviewed and
+approved by the Institutional Review Board of Kaohsiung
+Veterans General Hospital (KSVGH21-CT1–17).
+The study included 21 patients with pathologic myopia
+and subfoveal/juxtafoveal CNV. The inclusion criteria
+included the following: treatment-naïve patients who
+were under follow-up for a minimum of 12 months; myopia
+with a spherical equivalent refractive error ≤ −6 D
+or axial length ≥ 26.5 mm; active CNV secondary to
+pathologic myopia defined as presence of leakage from
+CNV seen by fluorescein angiography, and presence of
+intraretinal edema or subretinal fluid (SRF) or increase
+of central foveal thickness (CFT) seen by spectraldomain
+optical coherence tomography (SD-OCT); subfoveal/
+juxtafoveal CNV; and a best corrected visual acuity
+(BCVA) of 20/800 or greater. The exclusion criteria
+included the following: prior treatments for CNV, including
+PDT and thermal laser photocoagulation; history
+of intraocular surgery, except cataract surgery; extrafoveal
+CNV; CNV secondary to ocular pathology other
+than pathologic myopia, such as age-related macular degeneration,
+choroiditis, angioid streaks, or trauma; and
+hereditary diseases in the eye under investigation or the
+contralateral eye [23].
+Complete ophthalmic examinations were performed at
+the baseline and all subsequent visits, which included
+Snellen BCVA (converted to the logarithm of the minimum
+angle of resolution; logMAR), slit-lamp biomicroscopy,
+tonometry, fundus examination, fluorescein
+angiography, and SD-OCT (RTVue XR Avanti with
+AngioVue, Optovue, Inc., Fremont, CA).
+OCTA was conducted using RTVue XR Avanti with
+AngioVue at 70000 A-scans per second containing
+304 × 304. The 3 × 3mm scanning area focused on the
+macula and was acquired using the split-spectrum
+amplitude-decorrelation angiography technique. The
+OCTA images were automatically divided into four
+layers: superficial, deep, outer retina, and choroid capillaries
+[19]. Automatic retinal segmentation was performed
+using the software in the machine. Four retinal
+layers are classified by the software: the superficial vascular
+plexus (from the inner limiting membrane to the
+inner plexiform layer), the deep vascular plexus (between
+the inner and outer boundaries, respectively, at 15 and
+70mm beneath the inner plexiform layer), the outer retina
+(from the axonal outer plexiform layer to the Bruch
+membrane), and the choriocapillaris (from 31 to 59mm
+inferiorly to the RPE). OCTA images were collected at
+the level of the outer retinal layer.
+However, distortion of the retinal tissue boundaries resulted
+from high myopia often makes automated boundary
+segmentation more difficult. Manual segmentation
+and adjustment by the clinician were necessary at times
+to identify the neovascular network. The CNV area was
+manually contoured and measured in mm2 using the
+internal software of the device. Then, the flow area of
+the area selected manually was measured automatically
+in mm2, too. The values pertaining to the selected CNV
+areas were recorded, according to the selected size of
+CNV. The values pertaining to the flow area of CNV
+were automatically measured from the flow signals detected
+within the selected area. All the patients underwent
+OCT and OCTA prior to injection, and after one,
+three, and 12 months after the injection. The current
+study excluded the data pertaining to nine of the 21 patients,
+on account of poor quality or loss of original
+image from the database, which made further analysis
+impractical. Intravitreal injections of aflibercept 2 mg
+were administered under aseptic conditions using a 30-
+gauge needle, 3.5mm or 4mm from the limbus. Retreatment
+using aflibercept was performed on the basis of at
+least one of following observations: an increase in the
+central foveal thickness (CFT) of more than 50 μm between
+successive examinations, new or persistent cystic
+retinal changes, subretinal fluid, and new or persistent
+CNV on OCT or hemorrhage.
+Continuous variables with normal distribution were
+described as mean and standard deviation, and continuous
+variables with non-normal distribution were described
+as median and interquartile range (IQR). An
+analysis of the normality of independent variables in the
+different groups (using the Shapiro-Wilk test) revealed
+that the results of the current study do not follow a normal
+distribution. Paired data were analyzed using the
+Wilcoxon signed-rank and two-way ANOVA (Friedman)
+tests. The significance of the differences between the
+values pertaining to the study groups were evaluated
+through further analysis. A significance level of 5% was
+adopted for the decision-making in statistical tests. Data
+were analyzed using the SPSS version 22.0 (IBM Corporation,
+Armonk, NY, USA).
+Results
+The study involved 21 eyes pertaining to 21 patients (15
+females and 6 males). The baseline clinical characteristics
+pertaining to the aforementioned patients are shown
+in Table 1. The baseline mean age pertaining to all the
+patients included in the present study (± standard deviation
+[SD]) was 51 years (± 18.5 years; range: 43 to 61.5
+years). The present study detected CNV in thirteen right
+eyes (61.9%) and eight left eyes (38.1%). The mean axial
+length was 29.34mm (± 2.72 mm; range: 28.08 to 30.80
+mm). The mean duration of follow-up was 16.6 months.
+The study observed that myopic CNV resolved in 10
+of the 21 patients (47.6%) after one aflibercept injection.
+Furthermore, among the 21 patients under study, nine
+(42.9%) received two aflibercept injections and two
+(9.5%) received three aflibercept injections during the
+follow-up (mean of two aflibercept injections per
+patient). In addition, among the 11 patients who required
+more than one injection, 10 patients received the
+second injection within 3 months after the primary injection
+and only a single patient received a third injection
+6 months after the second injection (Fig. 1).
+In all the patients, the mean CFT was observed to decrease
+significantly from the baseline value of 285.5 μm
+to 249 μm after 12 months (P = 0.009). The mean BCVA
+(± standard deviation; SD) significantly improved from
+the baseline value of 0.7 to 0.39 logMAR after 3 months,
+and 0.3 logMAR after 12 months (P = 0.001) (Table 2).
+The greatest improvement in visual acuity within the
+first 3 months after the initial aflibercept injection, and
+the BCVA remained stable 12 months after the
+injection.
+Further analysis of the 21 eyes revealed that 10 eyes
+belonged to the patients below the age of 50 years and
+11 eyes belonged to patients above or at the age of 50
+years. The improvement in median CFT was greater in
+the younger group (< 50 years), compared to the older
+group (≥ 50 years) (− 52 μm against − 30 μm,
+respectively; P = 0.038) (Table 3). However, the improvement
+in median BCVA at the third and twelfth months
+were not statistically significant in the younger group,
+compared to the older group (− 0.42 logMAR against
+− 0.34 logMAR, respectively; P = 0.0832) (Fig. 2).
+A comparison of the therapeutic effects of intravitreal
+aflibercept injection between the two groups of patients
+with axial length below or above 30mm using the
+Mann-Whitney U test revealed that the improvement in
+median CFT and BCVA, in the two groups at the third
+and twelfth months, were not statistically significant
+(Table 4, Fig. 3).
+Myopic CNV presented as an irregular or round,
+closed lesion at the outer retinal layer on OCTA. This
+study identified two neovascular patterns: interlacing
+and disorganized patterns. In the interlacing pattern,
+which was observed in six among the twelve eyes (50%),
+OCTA images revealed dense vascular hyperintensity
+with a well-circumscribed appearance (Fig. 4). This pattern
+revealed a high-flow network, comprising a small
+capillary with a feeder vessel and small capillary ramifications.
+In the disorganized pattern, which was observed
+in six among the twelve eyes (50%), OCTA images revealed
+a small, high-flow network, harboring a vascular
+loop-like pattern with no obvious capillary ends (Fig. 5).
+The OCTA images revealed changes in the group of
+eyes with the interlacing CNV after intravitreal aflibercept
+injection. One month after the treatment, shrinkage
+of peripheral vascularity and reduction in vessel density
+from previous, dense, hyperintense vascularity with wellcircumscribed
+interlacing lesion was observed. The CNV
+lesion displayed a greater decrease in size and vessel
+density after 12 months (Fig. 4). In the group of disorganized
+CNV, OCTA showed shrinkage of the lesion 1
+month after treatment. Reduction in vessel density from
+a small, high-flow network, harboring a vascular loop-
+like pattern with no obvious capillary ends was also observed
+in theses lesions. The CNV lesion showed a
+greater decrease in size and vessel density after 12
+months (Fig. 5).
+Three and twelve months after the primary injection,
+the size of the selected CNV area and the flow area revealed
+a trend towards decline in both the interlacing
+pattern and the disorganized pattern (Table 5)
+(Fig. 6(a)(b)). The interlacing pattern displayed a trend
+towards better improvement in the size and flow of the
+selected CNV area (Fig. 6(a)(b)). However, the present
+study did not observe any obvious difference between
+the two groups with different patterns with regard to the
+improvement in BCVA after intravitreal aflibercept
+injection (Table 5).
+Discussion
+In the current study, most eyes showed improvement in
+vision and the burden of intravitreal therapies was found
+similar to the MYRROR study, which revealed that the
+patients with myopic CNV who underwent intravitreal
+aflibercept injection displayed significant improvements
+in visual and anatomic parameters over a time period of
+48 weeks [18].
+After intravitreal aflibercept injections, the subjects in
+the younger group displayed a greater reduction in CFT
+at 12 months compared to the order group. The aforementioned
+observation was concordant with the clinical
+findings reported by Yoshida et al. and Bruè et al. [7, 24]
+At 3 and 12 months, the younger group displayed a
+trend towards better improvement in vision after intravitreal
+aflibercept injections, although the results were
+not statistically significant.
+A less reduction in CFT at 12 months after treatment
+associated with myopic CNV in the older age group
+could be attributed to the decreased integrity and function
+of the myopic retinal pigment epithelium that
+downgrades the inhibition of angiogenesis [25]. Indeed,
+some studies report that myopic CNV in older patients
+could manifest simultaneous AMD and high myopia,
+resulting in poor natural outcomes. Moreover, older patients
+tend to develop chorioretinal atrophy or degeneration
+that negatively influences the final visual acuity.
+However in our study, no statistically significant
+difference in BCVA changes at 12 months after treatment
+between younger and older group is noted.
+Previous studies reported that the role of spherical
+equivalent refraction and axial length as predictive factors
+associated with the final visual acuity after anti-
+VEGF treatment in myopic CNV remained controversial.
+Bruè et al. reported that higher myopia is associated with
+decreased visual acuity after intravitreal aflibercept injections
+in young patients with myopic CNV. Some studies
+identified a significant positive correlation between
+BCVA and macular choroidal thickness after anti-VEGF
+treatment [23]. Greater axial length was often considered
+to be major factor associated with macular choroidal
+thinning. The current study did not observe any difference
+in the treatment outcomes between the groups
+with long and short axial length (Table 4). This could be
+attributed to the relatively small sample size and short
+duration of follow-up. Further investigations should be
+performed to elucidate the significance of axial length in
+predicting treatment outcomes.
+Recently, OCTA is being widely used in the diagnosis
+of various macular diseases and provides detailed, layered
+images of enface retinal and choroidal vasculature
+[26–29]. Cheng et al. used OCT B-scan and OCTA to
+perform quantitative analysis and monitor the therapeutic
+effects of intravitreal ranibizumab injection (0.5
+mg/0.05 mL) (Lucentis; Genentech, Inc., South San Francisco,
+CA) in myopic CNV [19]. The OCTA revealed
+significant attenuation of the capillaries and small caliber
+feeder vessels after intravitreal ranibizumab injection.
+Moreover, the study reported a simultaneous reduction
+in the size of the selected CNV area and flow area.
+To the best of our knowledge, this is the first study
+that used OCTA to detect the changes in the shape, selected
+area, and flow area of CNV after intravitreal aflibercept
+injection at 3 and 12 months. In the current
+study, among twelve patients who underwent OCTA,
+eleven patients displayed improvement in BCVA and
+twelve patients displayed decrease in the selected CNV
+area at 3 months. The treatment effects persisted until
+the twelfth month. Nine in twelve patients displayed decrease
+in the selected CNV flow area at 3 months after
+aflibercept injection. While eleven in twelve patients displayed
+decrease in the selected CNV flow area at 12
+months after aflibercept injection (Table 5). The decrease
+of selected CNV area and flow area after aflibercept
+injection is consistent with the results reported by
+Cheng et al., wherein myopic CNV was treated using intravitreal
+ranibizumab injection [19].
+According to a previous study, it was often considered
+that active CNV presented as retinal hemorrhage, intraretinal
+fluid, sub-retinal fluid, or pigment epithelial detachment,
+as shown by the fundus photography and
+OCT B-scan images. These active CNV lesions were also
+considered to be more sensitive to anti-VEGF therapy.
+However, some cases of myopic CNV that presented
+with scars or fibrosis on fundoscopic examinations after
+anti-VEGF treatment could also show residual, high reflective
+neovascularization lesions on OCT B-scan images.
+The aforementioned condition often confused
+clinicians regarding the necessity for further treatment
+and the presence of CNV activity. Hence, OCTA is expected
+to provide additional biomarkers and parameters
+to guide further management.
+Bruyère et al. used OCTA to identify two types of neovascular
+membranes in high myopia. The first involved
+small, disorganized vascular loops, suggesting an immature
+neovascular network. The second is a larger, highly
+structured, interlacing network, suggesting a mature lesion
+[21]. Querques et al. reported that on OCTA
+images, active myopic CNVs could be mainly interlacing,
+whereas the abnormal vascular network with tangled
+pattern could be inactive myopic CNV [30]. Cheng et al.
+reported that sea-fan and lacy-wheel types tend to be
+clinically active CNVs, whereas poorly defined lesions,
+such as filamentous CNV vessels, could be either active
+or inactive.
+In the present study, the interlacing group displayed a
+trend towards better improvement in CFT reduction
+and decrease in the selected CNV area and flow area
+(Table 5) (Fig. 6(a)(b)). Additionally, previous studies
+have reported consistent results and stated that the capillaries
+and small caliber feeder vessels were significantly
+attenuated after intravitreal ranibizumab injection,
+whereas the main central trunk vessel and large caliber
+feeder vessels remained unchanged [22, 31].
+However, owing to the limited sample size, the scenario
+warrants further investigation to clarify the significance
+of CNV patterns in predicting the response to
+anti-VEGF therapy. OCTA could be considered as a useful
+tool that can be employed to identify the different
+CNV patterns and detect CNV activity, predict treatment
+response, and monitor the need for repeated treatments
+in patients with myopic CNV.
+The current study has certain limitations. The series
+was relatively small, and the duration of follow-up was
+short. The present study observed some poor image
+quality with significant motion artifacts, due to unstable
+fixation, which could make the analysis more challenging.
+Similarly, the accuracy of the layers automatically
+divided by OCTA could be affected by the long axial
+length of the pathologic myopia eyeballs.
+Conclusion
+In conclusion, the administration of a single injection of
+intravitreal aflibercept 2.0 mg at the baseline in patients
+with myopic CNV showed effective results. A single aflibercept
+injection was observed to resolve myopic CNV
+in approximately half of the patients. The median number
+of injections was two injections within 12 months.
+Eyes with the interlacing pattern on OCTA displayed a
+greater decrease in size and flow after intravitreal
+aflibercept.
+Further studies with large sample sizes and longer
+follow-ups are necessary to explore the relationship between
+different CNV patterns, detected through OCTA,
+and the therapeutic effects of anti-VEGF on myopic
+CNV.

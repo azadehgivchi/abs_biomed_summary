@@ -1,0 +1,315 @@
+Introduction
+Suicide is a complex issue that involves multiple factors.
+Many researchers have looked into risk factors for
+suicide. However, much of this research looks at risk
+factors in isolation, or corrected only for age or gender
+[1–5]. As a consequence, risk factors found in these
+studies could simply be a proxy for other risk factors
+due to the fact that they are correlated (for example,
+education level and income). Additionally, many studies
+are of limited size, and are usually non-representative of
+the population as a whole due to the way the selection
+procedure was set up, for example, a clinical setting [1].
+Knowing that suicide is rarely related to just one risk
+factor, this study quantifies the effect of individual
+characteristics as accurately as possible by correcting for
+correlation of characteristics. Furthermore, this study
+uses all suicide cases in the Netherlands (around 1900
+suicides are reported every year) and a large randomly
+selected sample of control cases drawn from the full
+population. This avoids issues of small sample size and
+selection bias.
+To our knowledge, only Gradus et al. [6] used such an
+approach before in Denmark. They found sex-specific
+risk profiles for suicide, focusing their risk profiles
+mainly on medical data. However, in this paper, we
+focus on socio-demographic risk factors.
+This study decorrelates the effects of the risk factors
+to obtain odds ratios which take into account the proxy
+effects to the other risk factors. Moreover, we look
+across multiple years (2014–2017) and at a large number
+of socio-demographic factors. In this way, we obtain risk
+factors that are both robust to intercorrelation as well as
+to events that raise the risk among a certain
+subpopulation.
+Methods
+The primary aim of the study is to find risk factors for
+suicide that are robust to intercorrelation. In this way
+we can be sure that the risk factors are not proxies for
+the numerous other risk factors that are included in the
+study. Additionally, a secondary aim is to make sure that
+we can be sure that the risk factors found are based on a
+large unbiased sample.
+The data used was the micro-data of Statistics
+Netherlands [7]. Statistics Netherlands collects data on
+each inhabitant of the Netherlands (approximately
+17,000,000 inhabitants) from various sources, which are
+required to provide this information by law. This data
+includes socio-demographic characteristics like birth
+date, gender, marital status, type of household, role in
+household, ethnicity, income, social benefits and in case
+of death it includes cause and date of death.
+Due to the privacy-sensitive nature of the data, it is
+not freely accessible, nor is the data itself allowed to
+be published. Access has to be granted by Statistics
+Netherlands on a project-to-project basis, which was
+granted for this project. It is only possible to work
+with the data via remote connection to their secure
+servers, and any output is checked on whether it
+satisfies the privacy regulations before it is released
+for publication.
+We limited ourselves to the period of 2014–2017
+since some of the databases for 2018 and later were
+still undergoing data quality checks. Additionally,
+some databases had a different format prior to 2014
+so did not include all of the characteristics of interest
+prior to 2014. Therefore, we could not analyze
+data from before 2014 alongside data from the period
+2014–2017 while retaining all characteristics of interest.
+From the dataset of the years 2014–2017, those
+individuals who died by suicide were identified based
+on their cause of death, as established by coroners
+(ICD-10 codes for external causes: intentional selfharm
+(X60-X84)). The coroner is contacted when
+there is doubt as to whether a person died of natural
+causes. The coroner is always contacted when the
+deceased is underage (in the Netherlands, this means
+younger than 18 years old).
+Statistical analysis
+The binomial logit model was used (commonly referred
+to as logistic regression) to decorrelate effects. Sociodemographic
+characteristics of each inhabitant aged 10
+and up on the 31st of December (of 2013, 2014, 2015, or
+2016) were categorised. We limited ourselves to ages 10
+and up since Statistics Netherlands doesn’t report on
+suicides among youths under 10 years old, due to it
+being an extremely rare event. We then modelled the
+probability of suicide according to a binomial logit
+model such that
+P Snjxn !
+ ¼ eV xn !
+ 
+1 þ eV xn !
+ 
+;
+where Sn is the event that individual n dies due to
+suicide in the following year, and
+V xn !
+ ¼ β0
+þX k
+j¼1
+βj xn !
+ j
+where ðxn ! Þ
+j is 1 if individual n has characteristic j and 0
+otherwise, and k is the total number of possible characteristics.
+This results in characteristics j having an odds
+ratio (OR) of eβ j .
+Since suicide is a quite rare event (roughly 1 per
+10,000 people per year), the odds which are defined
+as O ¼ p
+1−p are extremely close to the actual
+probability.
+The main advantage of such a model is that proxy effects
+are corrected for as long as the proxy is also included
+in the model. Therefore, risk groups that are
+heavily correlated with, e.g., age, gender, income are corrected
+for. Though there is still an underlying assumption
+that risk factors increase risk independently to a
+certain degree, this assumption is significantly weaker
+than if one considered the risk factors in isolation or if
+corrected for a small number of risk factors.
+Estimation was done using the Python package biogeme
+[8]. This package estimates the model parameters
+using maximum likelihood estimation by gradient descent.
+It has been proven [9] that in the case of the binomial
+logit model, this always converges to the optimal
+model with regards to the training error. This means we
+do not have to worry about local optima. Additionally,
+the package provides us with standard errors on the parameter
+estimation, allowing us to form confidence intervals
+and do tests of significance. The tests of significance
+done are t-tests (which show how many standard deviations
+of the estimator it is distanced from 0).
+First, estimation was done on a training set. This training
+set consisted of both people who died by suicide as
+well as a group of people who did not die by suicide.
+The people who died by suicide were included with independent
+probability 0.8 (ended up being 5854 cases).
+The people who did not die due to suicide were included
+with independent probability 0.01 (ended up being
+596,416 cases). Due to the way the sampling was done,
+all bias introduced is introduced into the β0 parameter.
+We, therefore, do not report this parameter. The selection
+procedure of the training set does not introduce
+any bias into the other parameters.
+Secondly, we generated a test set. This test set contained
+the remaining suicide cases (1425 cases). Additionally,
+it contained cases of people who did not die by
+suicide. These cases were again included with probability
+0.01, in such a way that it contains no cases included in
+the training set.
+We then estimated the predicted risk of suicide for
+this test set. From these predictions, we calculated the
+sensitivity (the proportion of correctly classified cases
+among suicide victims) and specificity (the proportion of
+correctly classified cases among those who did not die
+due to suicide) for various risk thresholds. We then plotted
+the sensitivity and specificity against each other. In
+this way, we obtained the receiver operating characteristics
+curve (ROC curve). We then calculated the area
+under the ROC curve (AUC) to estimate model performance.
+The AUC is also the probability that a random
+case of death by suicide gets a higher predicted risk
+than a random case of someone who does not die due to
+suicide.
+Results
+The parameters we estimated (i.e., the βj parameters and
+associated standard errors, t-tests, and odds-ratios) for
+the binomial logit model are shown in Table 1. When
+we talk about increased risk we are talking about increases
+to the odds of suicide.
+Taking the effect of possible correlating risk factors
+into account, significant increases in risk in all age
+groups were observed compared to those aged 10 to 19.
+We see large increases in particular among people aged
+between 40 and 49 (OR 5.70, 95% CI [4.57,7.24]),
+between 50 and 59 (OR 6.69, 95% CI [5.37,8.33]), and
+between 60 and 69 (OR 4.76, 95% CI [3.82,5.93]).
+The fact that males die more often due to suicide than
+females (OR 2.60, 95% CI [2.46,2.77]) still holds when
+corrected for other characteristics. Furthermore, having
+mental health problems (OR 7.69, 95% CI [7.24,8.17]) as
+well as physical health problems as measured through
+healthcare costs (up to OR 2.23, 95% CI [2.01,2.46]) are
+major risk factors. Additionally, living alone (OR 1.75,
+95% CI [1.49,2.05]), and all forms of unemployment,
+especially those that have been found unfit for work
+(UFW; having an OR of 1.89, 95% CI [1.75,2.05]),
+increase the risk of suicide.
+Looking at protective factors, the analyses show that
+people with a high level of education have a low risk
+(OR 0.82, 95% CI [0.74,0.90]). Low-risk people are also
+those with a non-western immigration background (OR
+0.63, 95% CI [0.57,0.69]) and 1st generation immigrants
+(OR 0.72, 95% CI [0.66,0.78]). Also being married or
+having children is a protective factor for a couple living
+together (OR 0.64, CI 95% [0.54.0.75] for a married
+couple without kids, OR 0.63, 95% CI [0.52,0.77] for a
+non-married couple with kids). These effects are weaker
+when the other effect is already present (OR 0.58, 95%
+CI [0.48,0.69]).
+Having a higher income is also a protective factor.
+This holds for both personal income (up to OR 0.64,
+95% CI [0.41,1]) as well as household income (up to OR
+0.63, 95% CI [0.50,0.80]). Interestingly, household wealth
+does not appear to be a protective factor. It even increases
+risk in the wealthiest category (Table 1). We observe
+urbanicity and regional differences being mostly
+non-significant.
+Figure 1 shows the approximate ROC (based on
+percentiles to preserve privacy). Each point on the
+curve corresponds to a threshold and shows the proportion
+of people who died by suicide that are above
+the threshold (the sensitivity) on the y-axis. On the
+x-axis, it shows the proportion of people in the control
+group who are above the threshold. The curve
+shows a trade-off between true and false positives
+and allows for an informed choice of thresholds for
+risk groups. The AUC, which is based on the full
+plot, is 0.77. This means that the probability that an
+individual in the sample of those dying by suicide
+will get a higher predicted risk than an individual in
+the control set is 77%. A fully random model would
+have an AUC of 0.50, while a perfect model would
+have an AUC of 1.
+Discussion
+To our knowledge, this is the first study done into suicide
+on socio-demographic factors with such a large and
+unbiased sample, where, due to the level of detail of the
+data, analyses could be done to control for many characteristics,
+giving us very robust risk factors. We found
+that previously discovered risk factors for suicide (middle-
+age, male gender, and unemployment (as measured
+through benefits)) remain elevated even when corrected
+for a wide array of socio-demographic characteristics.
+The same holds for commonly found protective factors
+for suicide, like having a higher income or immigration
+background.
+Most increased risk came from being a recipient of
+mental health care (which includes being an inpatient
+as well as being an outpatient), which can be
+expected knowing that approximately 87% of people
+who die by suicide have mental health problems
+[10]. Additionally, physical healthcare being a risk
+factor could be explained due to hospitalisations for
+previous suicide attempts. However, due to the fact
+that the risk keeps increasing as physical health care
+costs increase, it is unlikely this would account for
+all of the increased risk.
+This study did not observe significant differences
+between rural and urban municipalities. However, it
+is important to note that due to the high population
+density in the Netherlands, most rural areas in the
+Netherlands might still be considered urban compared
+to rural areas in other countries.
+Looking at raw frequencies, we see regional differences
+in the Netherlands [11]. These differences became much
+less when the effects of possible correlating risk factors
+were considered. This seems to indicate that the regional
+differences are primarily caused by the differences in the
+demographic makeup of the regions as opposed to
+specific local causes.
+When we look at level of education, we see that being
+highly educated remains a protective factor. However,
+this only holds for the highest level of education and is
+not particularly protective. Especially when compared to
+the results of Phillips and Hempstead [12] who found
+large differences between the suicide rates among people
+with a high school degree and those among people with
+a college degree in the United States. Combined with
+the protective factor of income and the high correlation
+between level of education and income, this seems to
+suggest a proxy effect. The level of education might only
+be a protective factor due to the associated increase in
+income.
+Our model has a reasonable fit with an AUC of 0.77,
+which is high for a model predicting suicide death [1]
+and comparable to the recent results of Zheng et al. [13]
+who used deep neural networks on electronic health records
+to predict suicide attempts (AUC of 0.769). It
+could be used to identify low, regular, or high-risk
+groups. However, the model is not usable to predict suicide
+risk in individuals. Suicide is a rare event that on
+average occurs in about 1 in 10,000 people a year. This
+means that even if you have a tenfold increase in predicted
+risk, you will still have 1000 false positives for
+each true positive.
+Although then not useful for prediction on an individual
+level, the results from this study allow for targeted
+prevention measures at certain risk groups. For example,
+it would be possible to train social workers that are in
+regular contact with recipients of social benefits to be
+gatekeepers. Alternatively, high risk groups may be specifically
+targeted to raise awareness of suicide prevention
+hotlines within these groups. The authors also recommend
+that this study is repeated at regular intervals to
+see whether changes in public policy coincide with
+changes in risk groups.
+The methodology used in this study allowed us to find
+robust risk and protective factors for suicide. However,
+with this methodology it is not possible to discover
+which specific combinations of risk factors or protective
+factors are especially dangerous or safe. Research has
+shown that the interactions of risk factors play a substantial
+role in suicide prediction and greatly improves
+model performance [13]. Therefore, having a proper
+understanding of such interactions will be of great importance
+in future research. We are currently working
+on a new machine learning model that will allow us to
+find significant interactions in a data-driven and
+hypothesis-free manner. Since we are doing this in a
+data driven and hypothesis-free manner, it both limits
+bias on which interactions to include and allows us to
+discover interactions that have not even been considered
+before.

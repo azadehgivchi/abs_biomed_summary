@@ -1,0 +1,266 @@
+Introduction
+Neuromuscular blocking agents (NMBA) are used to
+facilitate tracheal intubation and improve surgical conditions [1–3]. Residual neuromuscular blockade is commonly seen postoperatively and patients with residual
+paralysis have an increased risk of postoperative respiratory complications such as hypoxemia and upper
+airway obstruction [4–6]. Te risk of residual paralysis
+and respiratory complications is markedly increased
+among elderly patients [7, 8]. Te presence of small
+degrees of muscle weakness after tracheal extubation
+may signifcantly afect outcome in this patient population, as the elderly have limited physiologic reserve [9].
+In particular, pharyngeal function and muscle strength
+may be impaired in patients older than 65  years, and
+the residual efects of NMBA’s may further worsen this
+impairment [8, 10]. Approximatively 50% of elderly
+patients will require anesthesia for surgical interventions
+and increasing age may be associated with greater morbidity and mortality after anesthesia [11, 12]. According
+to Eurostat’s 2019 edition of Ageing Europe report, the
+oldest old (i.e. patients≥80  years) are within the group
+of elderly the fastest growing segment of the population
+at large. Unfortunately, pharmacodynamic data of NMBA
+in patients≥80 years old are sparse.
+Te aim of this prospective, controlled observational study was to compare the time course of neuromuscular blockade after rocuronium 0.6  mg/kg in
+patients≥80 years old with patients between 20-50 years.
+We hypothesized that patients≥80 years old have slower
+onset and increased duration and recovery of neuromuscular blockade.
+Methods
+Te research protocol was approved by the institutional
+review committee (Comité de Protection des Personnes
+EST III, 10 September 2018, referral number 200, chairperson Pr Y. Martinet) and registered at Clinicaltrials.gov
+(NCT03551652 on 29/05/2018) before enrollment of the
+frst patient. All patients gave written informed consent,
+and all clinical data were obtained in our department.
+35 patients scheduled for a surgical procedure under
+general anesthesia were included between 15 May 2020
+and 16 March 2021. Exclusion criteria were hypersensitivity to rocuronium or any other of the drugs used during this study, contraindication to rocuronium, planned
+rapid sequence induction (RSI), refusal to participate,
+and the absence of written informed consent. Tis study
+is reported according to the STROBE statement.
+Patients were included in one of two groups based on
+age: an elderly cohort in group 80+ (≥80 years old) and a
+younger cohort in group 20–50 (age 20–50 years).
+Anesthesia technique
+Monitoring established on arrival in the operating room
+included electrocardiography, non-invasive arterial pressure, pulse oximetry, and capnography. After preoxygenation, total intravenous anesthesia (TIVA) was induced in
+all patients with 1.5–2.5 mg/kg propofol and 10 μg sufentanil and maintained with 4–10  mg/kg/h propofol and
+bolus doses of sufentanil (5–10  μg). Nitrous oxide and
+halogenated agents were avoided. Neuromuscular block
+was established with a single dose of rocuronium 0.6 mg/
+kg without any further injection. Te bolus of rocuronium was given over 5  s. By using a warming blanket,
+the central temperature was maintained over 35  °C and
+the peripheral body temperature measured at the thenar eminence of the palm was maintained at least at 32°
+C. End tidal pressure of carbon dioxide was maintained
+between 32–36 mm Hg.
+Neuromuscular monitoring
+Neuromuscular blockade was quantifed with TOFscan
+(IMED, Marseille, France) according to Good Clinical
+Research Practice (GCRP) in pharmacodynamic studies
+of neuromuscular blocking agents [13]. Tis device has
+an adapter with a built-in three-dimensional acceleration
+transducer applying a constant preload. Te TOFScan
+hand adapter was fxed on the dominant hand and surface electrodes were placed on the cleaned skin over the
+corresponding ulnar nerve as described previously [14].
+Te negative electrode was placed near the wrist and
+the positive electrode 3  cm proximally and the arm
+and fngers were secured with velcro straps to prevent
+movement artifacts during stimulation. Neuromuscular
+monitoring was started after induction of anesthesia but
+before administration of rocuronium. Te current intensity was fxed at 50 mA. To obtain raw TOF ratio’s the T4/
+T2 algorithm of the device was inactivated. After some
+initial TOF stimulation, a 5 s, 50 Hz tetanic stimulation
+was applied followed by TOF stimulations for 10–15 min
+until a stable response was achieved—defned as less than
+5% variation in the TOF-ratio for at least 2 min. Tereafter the device was set to deliver TOF stimulations at a
+15 s interval and the following time intervals were measured as defned: onset time, defned as the time from
+start of injection of rocuronium to no response to TOF
+stimulation (TOF count=0); clinical duration defned
+as the time from start of injection of rocuronium to the
+return of the 4th response of the TOF (TOF count=4)
+and recovery to the TOF-ratio of 0.9 and 1.0, defned as
+the time from start of injection of rocuronium to a TOF
+ratio above 0.9 and 1.0, respectively. For each time interval, the frst of three consecutive corresponding values
+were considered. In addition, the deepest level of neuromuscular block during onset was also quantifed.
+Endpoints
+Recovery to a TOF ratio≥0.9 was the primary endpoint
+of this study. Secondary outcomes were onset time, maximum depth of neuromuscular block, clinical duration
+and recovery to a TOF ratio≥1.0.
+Statistical analysis
+A sample size estimation was done to detect a diference of at least 30% in the recovery to a TOF ratio≥90%.
+Under intravenous anesthesia mean time to a TOF ratio
+recovery≥0.9 for adult patients is 60 min with a standard
+deviation of 11 min [15]. With an alpha risk of 5% and a
+power of 90%, 14 patients needed to be included in each
+group. In order to compensate for possible dropouts, 35
+patients were included in total.
+When continuous variables were compared between
+2 groups, the assumptions in the t-test, i.e. homogeneity of variances and normality of residuals were tested
+by the Bartlett’s test of homogeneity of variances and
+the Shapiro-Wilks test for the normality of the residuals. If the underlying assumptions were met, a t-test was
+performed, and data are presented as mean±standard
+deviation; if not, a nonparametric Wilcoxon rank test was
+used and data are presented as median and interquartile
+range. Discrete variables were compared using a Pearson
+Chi-square test. When paired diferences were tested for
+continuous variables, a t-test for paired data was used
+on variables for which a normal distribution is observed
+for the diference between the two variables and data are
+presented as mean±standard deviation. Otherwise, a
+Wilcoxon test for paired data was used and median and
+inter-quartile range are presented.
+Results
+Tirty fve patients were enrolled between May 2020 and
+March 2021. Data from 3 patients had to be excluded
+from analysis because of study protocol violation: in 2
+patients anesthesia was maintained with sevofurane
+instead of propofol and 1 patient received an initial bolus
+of rocuronium 0.9  mg/kg. Data from 32 patients were
+complete and could be analyzed.
+Of the 32 patients included 16 were≥80  years and
+16 were between 20–50 years old. Patients in the group
+80+ were 85 years old [82–88] and patients in the group
+20–50 were 39 years old [28–42]. Te female/male ratio
+was 4/12 in the group 80+ and 6/10 in the group 20–50.
+Te weight of patients in group 80+ was 70.5±14.0  kg
+and the BMI was 25.3±3.9. Te corresponding values in
+the group 20–50 were 69.6±10 kg and 24.2±3.9, respectively. Elderly patients had more comorbidities and a
+higher ASA score than the younger patients (Table 1).
+In the group 80+ onset time was 190±46  s and the
+corresponding value in the group 20–50 was 123±40 s;
+P<0.001. Te deepest level of neuromuscular block
+detected was PTC 3.5 and PTC 9, respectively; P=0.07.
+Te clinical duration was 52 [48–69.5] min in the group
+80+. Te corresponding values in the group 20–50 was 36
+[34–41] min, respectively; P<0.001.
+Recovery to a TOF-ratio ≥ 0.9 occurred after 77.5
+[71–88.5] min and a TOF-ratio ≥ 1.0 was reached after
+91.2 [82.2–98] min in the group 80+. Te corresponding values in the group 20–50 were 53.5 [49.5–55.5]
+min and 59.5 [56.5–70.25] min, respectively; P < 0.001.
+Discussion
+Te most important fndings of the present study were:
+frstly, both clinical duration and duration until 90%
+and 100% recovery are signifcantly prolonged in the
+group 80+. Secondly, compared to younger adults the
+onset of neuromuscular block is signifcantly slower in
+the group 80+. Moreover, a tendency toward deeper
+maximum levels of neuromuscular block could be
+observed in group 80+ (Table  2). Tus, a shift from
+rocuronium as a rapid onset, intermediate acting compound to a slower onset and long-acting compound can
+be observed in patients ≥ 80 years old.
+Te signifcance of an acceleromyographic TOF ratio
+of 0.9 as a criterion for sufcient neuromuscular recovery has been questioned by Capron et  al., proposing
+recovery of the TOF ratio to 1.0 as benchmark when
+acceleromyography is used [16]. Recent observations by
+Blobner et al. confrmed this limitation of an acceleromyographic TOF ratio of 0.9 for clinical decision-making [17]. Hence, in the present study both parameters
+were assessed: a TOF ratio recovery to 0.9 facilitating comparison with data in the literature, and a TOF
+recovery to 1.0 indicating acceptable neuromuscular
+recovery when using acceleromyography. In the present
+study time course neuromuscular block was assessed
+with the TOFscan monitor. Tis AMG device has
+recently been approved for research purpose [14]. Tis
+monitor does not need to be calibrated, as it operates
+with an alternative option to ensure a constant maximum stimulus, it measures the impedance of the skin
+directly (resistance) and as long as the resistance of the
+skin is within the measurement window, the stimulation of the nerve is assured with the user-selected electrical current [18]. Moreover, according to the available 
+evidence normalization of TOF values is not mandatory
+with this device [14]. Tus, recovery parameters indicated in this study are raw TOF-ratios.
+Murphy et  al. reported a twice as high incidence of
+postoperative residual neuromuscular block in geriatric patients compared to younger patients, despite
+similar neuromuscular management [8]. Tis increased
+incidence of residual paralysis in the elderly was associated with a higher incidence of hypoxic events, airway
+obstruction, and postoperative pulmonary complications.
+Moreover, even PACU and hospital length of stay was
+increased in the elderly. Hårdemark Cedborg et al. could
+report a profound negative impact of residual paralysis
+on airway integrity in elderly individuals, increasing the
+incidence of pharyngeal dysfunction from 37 to 71%,
+with impaired ability to protect the airway [10]. Hence,
+elderly patients are prone to adverse pharyngeal efects
+of residual neuromuscular blockade and these efects
+may further increase the risk of postoperative pulmonary
+complications in this population segment. Te present
+study gives new insights in neuromuscular block characteristics in the oldest old. Clinical duration and time
+needed to recover to a TOF-ratio of 90% and 100% of
+baseline are increased about approximatively 60% compared to the group 20–50. Tus, rocuronium shifts from
+an intermediate-acting compound to a long-acting compound in patients≥80 years. Terefore, strategies to prevent residual paralysis in this patient population needs to
+be revised and the poor tolerance of even small degrees
+of residual paralysis in the elderly should be considered
+in the context.
+Neuromuscular monitoring and pharmacological reversal are key elements in any strategy to prevent postoperative residual paralysis [4]. Tilen et  al.
+recently tested a protocol for the prevention of rocuronium-induced residual neuromuscular block based on
+qualitative monitoring and an optimized protocol for
+neostigmine-induced reversal [19]. Timing and dosing of
+neostigmine were founded on best available evidence in
+their protocol [20–22]. Basically, a TOF count of 4 at the
+adductor pollicis was required before starting reversal
+with neostigmine, 40 μg/kg neostigmine were given at a
+TOF count of 4 with fade, and a delay of at least 10 min
+between neostigmine administration and extubation was
+respected [20–22]. Compared to the pre-protocol practice, the incidence of residual paralysis could be reduced
+from initially 58% to 35% of patients and severe residual
+paralysis corresponding to a TOF-ratio<0.7 could be
+avoided with this protocol. However, small but clinically
+relevant degrees of residual paralysis corresponding to
+a TOF-ratio of 0.7—0.9 remained unchanged with this
+best practice protocol, suggesting that the association of
+qualitative monitoring and neostigmine-based reversal
+has limitations [19]. Findings from Martinez-Ubieto et al.
+further confrmed this limitation of neostigmine [23].
+A lesser relative potency of neostigmine in the elderly
+further confrmed this assumption and emphasizes the
+need for age-appropriate reversal strategies for elderly
+patients [24]. Of interest in this context, McDonagh
+et  al. observed a rapid and complete reversal of rocuronium neuromuscular block in the elderly when sugammadex was given at a TOF count of 2. Sugammadex
+doses were similar to nonelderly adults although reversal was slightly slower in the elderly cohort: 2.2  min in
+patients<65  years, 2.6  min in patients 65–74  years old
+and 3.6 min in patients≥75 years [25].
+Succinylcholine may be contraindicated in many
+elderly patients because of comorbidities such as renal
+insufciency with increased serum potassium levels or
+hemiplegia to name only a few. Tat’s why rocuronium
+may be an interesting alternative for rapid sequence
+induction (RSI) in the elderly. In the present study, a tendency to deeper maximum level of neuromuscular block
+could be observed in the elderly (Table 2). However, the
+study was not primarily designed to detect diferences in
+the depth of neuromuscular block. Moreover, the fndings of the present study confrmed previous results
+reporting a slower onset of rocuronium 0.6 mg/kg in the
+elderly [25]. In the light of these fndings one may question whether rocuronium is still a useful compound for
+RSI in the elderly. In a cohort of elderly patients between
+65–92 years Takagi et al. observed an onset time of 187 s
+after rocuronium 0.6  mg/kg and increasing the dose of
+rocuronium to 1 mg/kg decreased the onset time to 104 s
+[26]. Unfortunately, their study design did not allow to
+draw conclusions on intubating conditions for RSI after
+rocuronium 1.0 mg/kg. Te slower onset on rocuronium
+neuromuscular block observed in the study by Takagi
+et  al. may be explained by fndings from Shiraishi et  al.
+reporting an inverse relationship between cardiac output
+and rocuronium onset time in the elderly [27]. However,
+whether doses of rocuronium higher than 1  mg/kg will
+further decrease its onset time in the elderly is currently
+unknown, as is the question what level of neuromuscular
+block is really required in elderly patients to achieve good
+to excellent intubating conditions after 45–60 s [28].
+Limits and further research
+Te new insights in neuromuscular block characteristics in patients ≥ 80 given in this study should incite
+future research addressing the question of safe management of RSI with rocuronium in the elderly. Especially
+the optimal rocuronium dose and the required level of
+neuromuscular block to achieve adequate intubating
+conditions within 45 to 60  s need to be determined.
+Moreover, as the present study was designed to assess
+the impact of increasing age on the pharmacodynamic
+properties of rocuronium, it does not allow detailed
+insights in the underlaying mechanisms. Tis has to be
+addressed in future studies. To this end patients ≥ 80
+with hepatic and/or renal insufciency should be
+compared with patients in the same age group but
+without these organ dysfunctions. In addition, diferent dosing strategies based on real body weight, ideal
+body weight, or lean body weight should be evaluated
+in patients ≥ 80  years, also. Finally, the fndings of the
+present study are limited to an intravenous anesthesia
+background. Both parameters, duration and recovery of
+rocuronium may be signifcantly delayed during volatile anesthesia compared to TIVA, as volatile anesthesia
+may potentiate the efect of nondepolarizing neuromuscular blocking agents.
+In conclusion, the present study observed a shift from
+rocuronium as a rapid onset and intermediate acting
+compound in the group of younger adults to a slower
+onset and long-acting compound patients≥80 years old.
+Age-appropriate strategies for the management of neuromuscular blockade are required for the oldest old.

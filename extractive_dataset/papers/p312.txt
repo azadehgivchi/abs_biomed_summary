@@ -1,0 +1,384 @@
+Background
+Injuries are the leading cause of morbidity and mortality
+worldwide [1]. According to the Global Burden of Disease
+(GBD) study, 973 million individuals suffer from injuries
+that require medical attention, and around 4.8 million die
+every year [2]. Childhood injuries are of particular concern.
+In 2011, more than 630,000 children died because
+of injuries [3]. In the United States, unintentional injuries
+were the leading cause of death in 2019 [4]. According to
+the Centers for Disease Control and Prevention (CDC),
+the leading cause of death from unintentional injuries
+was MVC followed by drowning, burns, and suffocation,
+whereas unintentional fall remains the most common
+cause for nonfatal injuries.
+The burden of injuries is not limited to preventable
+deaths. Millions of children require hospitalization,
+and some endure lifelong disabilities that could negatively
+affect their stages of development. According to a
+report by the World Health Organization (WHO), loss
+of Disability-Adjusted Life Years (DALYs) worldwide is
+predicted to be primarily caused by MVC by 2030 [5].
+Around 16.6% of loss DALYs among children in Saudi
+Arabia are due to injuries and of which 8.1% are due to
+MVC [6].
+Injuries are not random events, but they are often associated
+with predictable factors. Age is associated with a
+higher risk of serious injury [7]. A previous systematic
+review suggested a bimodal distribution peaking at the
+two opposite age extremities [7]. Teenagers between 15
+to 19 have an increased risk due to increased exposure to
+hazards and risk-taking behaviours. On the other hand,
+young infants are also at a high risk of injuries [7]. Gender
+also plays a role in the risk of fatal and nonfatal injuries
+among children [7]. Although males are at a higher
+risk for mortality due to all types of injury, the male to
+female ratio varies by the cause of injury. For example,
+motorcycle crashes, falls, and firearm-related deaths are
+ten times higher among males, while pedestrian-related
+deaths are only slightly greater among males [7, 8].
+Child injuries are a public health concern for both
+high-income and low-income countries but more pronounced
+in countries undergoing extreme urbanization
+and industrialization [9, 10]. However, the risk of injuryrelated
+deaths is higher among low- and middle-income
+than high-income countries [11]. Children of low- and
+middle-income countries are exposed to more hostile
+environments; open fires, unstable construction sites,
+unprotected stairways, absence of safe play space, and
+lack of safe storage of chemicals [12]. Poverty is a risk factor
+for unintentional injuries even within high-income
+countries [13].
+In Saudi Arabia, two injuries were ranked among
+the ten leading causes of death: transport injuries and
+unintentional injuries, according to the GBD [14]. The
+majority of preventable deaths in Saudi children (82.5%)
+were attributed to injuries [15]. The leading cause
+for injury mortality was MVC at 60.6% and was most
+commonly found among 13-18-year-olds, followed by
+drowning at 13.4% and most commonly found among
+6-12-year-olds [15].
+Approximately 31% of the Saudi population are children
+and adolescents [14]. Therefore, the consequences
+of injuries will have direct effects on population health.
+Despite that, limited and fragmented exploration of the
+burden of childhood injuries may negatively impact prevention.
+Further understanding of the epidemiology
+of child injuries will facilitate efforts in prevention and
+guide future research to understand the magnitude of
+the problem. Therefore, we aim in this review to describe
+the magnitude of childhood injuries, including the most
+common types and causes across gender and age groups
+in Saudi Arabia.
+Methods
+Search strategy and study selection:
+A literature search was performed in January 2021
+using Scopus, MEDLINE, and Web of Science for any
+study published in English between January 2000 and
+December 2020. We used search limits for source type,
+document type, year, language, country, and age. The
+search strategy for each database is detailed in Supplementary
+file 1. Additional records were identified from
+reference lists of selected articles, Saudi digital library,
+and search engines. One reviewer (H.A) reviewed titles
+and abstracts to assess relevance and collected relevant
+titles and abstracts for full text assessment. Deduplication
+was performed using Microsoft Excel. Full text
+manuscripts were reviewed and evaluated against the
+eligibility criteria.
+Eligibility criteria
+The databases were searched from April to May 2021 to
+identify articles published between January 1st, 2000,
+to December 31st, 2020. The timeframe was chosen
+because medical documentation and research in Saudi
+Arabia became mature only in the last two decades.
+The steps we followed for study selection are shown in
+(Fig. 1). To be included in this review, a study had to
+meet the following criteria:
+1) Children (between 0 to 18 years of age.).
+2) The publication date is between 2000 and 2020.
+3) Published in English.
+4) Contain epidemiological data such as age and gender.
+5) Focused on injuries including drowning, fall, trauma,
+fracture, burn, MVC, poisoning, and suffocation.
+Exclusion criteria were:
+1)Reviews, case studies, or abstracts.
+2)Sample size of fewer than 50 children.
+Type of studies
+The type of studies included was retrospective and prospective
+cohorts in addition to cross-sectional studies.
+Data extraction and synthesis
+The primary outcome was the type and the cause of
+childhood injuries and their distribution among age
+groups, gender, and regions. The number of children,
+year of publication, study timeframe, study type, region,
+age, gender, type and cause of injury, and mortality rate
+were recorded by one reviewer (H.A). No authors have
+been contacted to obtain any additional data. After
+reviewing the literature, studies were categorized based
+on the type of injury into six categories: overall injuries,
+fractures, burns, MVC injuries, oral injuries, and poisoning.
+Weighted percentages were calculated for gender,
+causes, and mechanism of injury in addition to the
+reported overall mortality rate in each category.
+Quality assessment
+The quality of studies was assessed by two independent
+reviewers (HA and NA) using the Strengthening
+the Reporting of Observational Studies in Epidemiology
+(STROBE) statement [16]. The STROBE checklist
+includes 22 items distributed as 1 for abstract, 2 for introduction,
+9 for the methods, 5 for the results, and 4 for
+the discussion, and 1 for funding. Disagreements were
+resolved by consensus.
+Results
+The initial search identified 3,384 studies. After screening
+titles and abstracts, 3,330 publications were excluded
+for being irrelevant or duplicates. The full text of 54 studies
+was assessed for eligibility, where 18 did not meet the
+inclusion criteria and were excluded. Thirty-six studies
+have met the inclusion criteria and were included in this
+scoping review (Fig. 1). In total, 20,136 participants were
+included. Of the total population, 13,890 were males
+(69%), and 5,596 were females (27.8%), while gender was
+not reported for 650 children (3.2%). Twenty-one studies
+were conducted in the central region - Riyadh, which
+accounts for the majority (58%) of the studies. As for
+the remaining studies, five were conducted in the eastern
+region, four, three, and one were conducted in the
+western region, Southern region, and Northern region,
+respectively. Two studies were conducted in several
+regions of the country.
+Of the included publications, eleven studies explored
+overall injuries. Five studies focused on fractures, five on
+burns, four on MVC injuries, four on oral injuries, and
+seven examined poisoning. A visual summary of some of
+the studies’ findings is presented in Fig. 2. Based on the
+STROBE checklist, the quality of studies ranged from
+5 to 19, with the majority scores being between 13 and
+16 (Supplementary file 2). The most common missing
+items were the explanation of the study size, variables,
+handling quantitative variables, controlling for bias, and
+generalizability.
+Overall injuries
+Eleven thousand six hundred seventy-five participants
+were included in the overall injuries’ category (Table 1)
+[17–27]. Most injured children were males (74.6%). In
+fact, gender was found to be a significant predictor of
+unintentional injuries, falls and MVC with higher odds
+for males (OR: 2.59, OR: 1.76, OR: 2.17, respectively, P
+< 0.01) [17, 26]. According to a household survey conducted
+among 1,650 participants, 22% of children sustained
+an injury in the past year [17]. A more recent
+study with a smaller sample (n=283) suggested that the
+prevalence of unintentional childhood injuries was 24.7%
+in the past 12 months [26]. The weighted percentage of
+falls accounted for 31.9% of overall injuries, followed by
+MVC representing 25.1%. Head injuries were most likely
+to be associated with MVC followed by falls [18]. Furthermore,
+blunt injuries caused by falls and MVC were
+the leading cause of deaths in overall injuries [21]. Additionally,
+MVC was reported to be the primary cause of
+injury that led to an extended length of stay [22]. In fact,
+the mechanism of injury was found to be a significant
+predictor of extended length of stay with higher odds
+for MVC and burns (OR: 16.2, OR: 14.5, respectively, P <
+0.001) as opposed to falls [22].
+Another critical childhood injury was drowning.
+A study showed that males represented 66.7% of the
+drowning incidents. Among this population, drowning
+led to brain death (4%), and 2% of victims sustained
+severe neurological damage [23]. The study, which was
+conducted in the eastern region, reported that most cases
+occurred in the sea (74.5%) at night (56.9%) with no lifeguard
+present (92.2%).
+Fingertip injuries were identified as one mechanism
+and were significantly higher among males (59.5%) compared
+to females [19]. These injuries were commonly
+caused by house doors and more prevalent among children
+younger than five years. Overall, the mortality rate
+for overall injuries was only reported in five studies.
+Among those studies, the weighted mortality rate was
+5.2%, whereas the highest mortality rate (14.7%) was
+reported in head injuries [18].
+Fractures
+Fracture injuries studies included 865 participants
+(Table 2) [28–32]. The majority of reported fractures
+occurred among males (72.8%). The ratio of male to
+female was 2.68:1. The leading cause of fracture injuries
+was falling at home (37.9%), followed by MVC (21.5%).
+Other causes for fractures included door slams, direct
+hits, and pedestrian injuries. Fractures occurred mainly
+among older children as close half of children were
+between 13-18 of age [30]. At the same time, epidural
+hematoma was more likely to occur among children
+between 5-14 years of age than other children [29, 31].
+On the other hand, nonaccidental fractures were more
+common in preschoolers, followed by infants [32]. The
+mortality rate was reported in two studies conducted on
+spine fractures and epidural hematoma, both with a rate
+of 8.3% [29, 31].
+Burns
+Burn studies included 1,380 children (Table 3) [33–37].
+Of those, 58% were males. The extent of burns was minor
+in most cases (less than 20% of Total Body Surface Area
+(TBSA)). The most common cause for burns was flames
+(52.1%), followed by scald (36.4%). Two studies showed
+that most burns (60%) occurred among toddlers and preschoolers
+[33, 34]. About half of the victims admitted to
+the Intensive Care Unit (ICU) were between 5-10 years of
+age [36]. Four studies have reported mortality rates; the
+weighted percentage of mortality was 17.4%, where the
+highest rate (25.3%) occurred among those admitted to
+the ICU.
+MVC
+One thousand two hundred twelve children were
+included in the MVC studies (Table 4) [38–41]. Overall,
+males represented the majority (71%) of injured victims.
+One study showed that most injuries (71%) were
+sustained by pedestrians, followed by passengers (27%)
+[38]. Front seated children accounted for 46% of the
+cases with a higher rate of isolated head, neck, or facial
+injuries than back seated children (51.2% vs. 25%, P =
+0.01) [39]. On the other hand, children seated in the
+back had higher rates of rollover (52.1% vs 24.4%, P =
+0.02), ejection (41.7% vs 22%, P = 0.05), and occupant
+death ratio (14.8% vs 4%, P = 0.04) and were more likely
+to have long bone or pelvic fractures (60.4% vs 36.6%,
+P = 0.02) [39]. Moreover, a study showed that 38.3%
+of children injured in MVC sustained head injuries,
+whereas facial injuries were sustained by 34.8% of children
+[41]. According to that study, 2.4% lost their lives
+due to the MVC. More than half of injured children
+(53.8%) were back seated without seatbelts or car seats,
+while 9.1% were driving [41].
+Oral and dental trauma
+The number of patients included in oral and dental
+trauma studies was 2,454 (Table 5) [42–45]. There was
+a comparable proportion of males to females [43, 44].
+While the other two were conducted solely in males [42,
+45]. Falls were the most common cause of dental injuries
+(62.7%) [43, 44]. More than one-third (39.5%) of middle
+school boys sustained oral injuries, while only half have
+received dental treatment [45]. The same study showed
+high family income to be associated with a lower likelihood
+of dental trauma (OR=0.44, P < 0.05) [45].
+Poisoning and toxicological exposure
+Studies on childhood poisoning and toxicological exposure
+included 2,550 children (Table 6) [46–52]. Most
+of the accidental poisoning occurred among children
+younger than three years. Further, age was found to be
+a significant predictor of hospital admission (OR: 1.19,
+P < 0.05) [48]. The male-female ratio was comparable
+(1.17:1). The most common mechanism was ingestion
+with drugs associated with 39.9% of the cases, followed
+by toxic household products (25.7%). One study
+reported that no action was taken by parents (90.2%)
+following the incidents [47]. A study conducted in several
+regions of the kingdom reported a 3.1% mortality
+rate [51].
+Discussion
+This scoping review suggests that falls and MVC are the
+leading causes of injuries in the kingdom. Similarly, a
+global study conducted in low-and middle-income countries
+found fall and MVC to be the most common mechanism
+of childhood injuries [53].
+Many MVC injuries are preventable using evidencebased
+safety measures such as seatbelts, car seats, or
+helmets. However, they remain a neglected focus in the
+kingdom. In this respect, a study conducted in 2018 to
+assess the use of child restraint systems found that only
+one-third of the families reported having child restraint
+systems while only half of them were consistently using
+them [54]. Additionally, more than half of the families
+reported setting children on the passenger’s lap [54].
+Therefore, further investment in public health interventions
+to reduce falls and MVC is warranted to reduce
+their burden on population health.
+Our findings show that males represented most overall
+injuries, fractures, burns, MVC, and dental trauma.
+These results are consistent with the public data obtained
+from the CDC, stating that males accounted for 58.4% of
+unintentional injuries that occurred between 2001 and
+2019 in the United States [55]. Likewise, in low- and middle-
+income countries, male children were more susceptible
+to injuries than females [53]. This gender disparity
+can be attributed to the greater risk-taking tendency in
+males [56]. Thus, gender-specific prevention strategies
+may help reduce the burden of associated injuries [57].
+Although the mortality rate was relatively low, it may
+reflect the underlying resources for capturing injury data.
+However, the rate was exceptionally high among more
+critical cases such as ICU burns (25.3%) and head injuries
+(14.7%), followed by fractures (8.3%). Correspondingly,
+a study on childhood mortality in the eastern region
+showed that half of the deaths (51%) were attributed to
+accidents, with male children representing 69% of the
+cases [58]. In addition, the autopsy has revealed that head
+injury was the leading cause of death (27%) among the
+autopsied cases [58]. These are high rates, and national
+actions need to be undertaken to reduce them.
+Primary prevention of injuries provides the best value
+and return on the outcome. The Child Safety Action
+Plan (CSAP) in European Union serves as an excellent
+example for tackling mortality resulting from childhood
+injuries [59]. This policy was first developed through
+assessing the situation with government engagement,
+followed by setting a vision, goals, and objectives, and
+finally implementing the best evidence-based practices
+that the government endorsed.
+Our findings have some policy and public health implications,
+namely supporting the Saudi 2030 vision [60].
+One of the pillars of this Vision is to extend life expectancy
+from 74 to 80 and improve quality of life. Our research
+describes the magnitude of the problem and highlights
+the need for intersectoral interventions. As the Vision
+focuses on preventing health risks, preventive interventions
+of childhood injuries, namely fall, and MVC need to
+be implemented. One of the Vision’s objectives is to promote
+traffic safety which could potentially aid in MVC
+prevention. Another implication is highlighting the need
+for investing in secondary prevention by dealing with
+injuries once they occur to reduce their consequences. A
+recent cross-sectional study found a low level of awareness
+about first aid to childhood injuries such as burns,
+drowning, and choking among 39% of Saudi parents [61].
+However, most parents (78%) were willing to take a first
+aid class. This reinforces the need to implement sustainable
+awareness-raising strategies at the family level.
+This is the first scoping review of the epidemiology
+of childhood injuries in Saudi Arabia to the best of our
+knowledge. However, we acknowledge that our review
+has several limitations. First, the lack of socioeconomic
+data may not reflect the variation of the prevalence and
+the mechanisms of injuries. Second, we were also unable
+to capture and generalize the age groups due to the missing
+continuous data and the inconsistency in age group
+classification across the studies. Third, most studies were
+retrospective chart review studies which can be more
+susceptible to bias. There is a significant need for population-
+based and longitudinal studies to provide more substantial
+evidence of the burden of injuries on population
+health of the kingdom. Fourth, except for one study, the
+primary focus of the included publications was unintentional
+injuries, which emphasizes the need to extend the
+current research in Saudi Arabia to nonaccidental childhood
+injuries. Finally, there was a substantial difference
+in publication rates across the regions of Saudi Arabia as
+more than half of the included studies were conducted in
+the central region-Riyadh, which affects the generalizability
+of our findings. This can be attributed to the presence
+of highly equipped trauma centers and research institutions
+in the region. Clearly, there is a disparity in our ability
+to capture the true burden in other regions accurately.
+Therefore, it is crucial to conduct further studies on the
+prevalence and magnitude of childhood injuries across all
+regions of Saudi Arabia while maintaining a high-quality
+research and reporting practices.
+Conclusions
+This review found that the leading causes and mechanisms
+of childhood injuries were falls and MVC. Unfortunately,
+all types of injuries resulted in substantial mortality
+rates, and there is a definite need for national action to
+be undertaken to reduce them. Overall, further research
+should be carried out to capture the determinants of
+childhood injuries across all regions of Saudi Arabia

@@ -1,0 +1,359 @@
+Background
+Radical prostatectomy is recommended as an effective
+treatment for clinically localized prostate cancer [1, 2], and
+used to cure patients with low/intermediate risk of disease
+[3]. Based on the updated anatomy understandings, the approaches to preserve peri-prostatic nerves have undergone
+many modifications from the conventional nerve-sparing
+surgery [4]. Intrafascial technique was a kind of refinements, characterized by developing a dissection plane
+medially/internally to the prostatic fascia, in order to maximally preserve peri-prostatic nerves and to enhance the
+post-surgical recovery of continence and potency. This
+technique is now applied worldwide in combination with
+different surgical approaches and procedures [5, 6].
+Controversy about the intrafascial nerve-sparing technique has persisted since its introduction [7]. Most doubts
+were concentrated at its oncological safety, considering the
+necessity of removing all fascial coverings of the prostatic
+surface in resecting a tumor. It is generally recognized that
+the greater extent of structures spared, the higher is the
+risk of residual tumor; therefore, some surgeons would be
+concerned that intrafascial dissection would compromise
+its oncological safety and incur a risk of a higher rate of
+positive surgical margins (PSMs) [8].
+There were obvious variations regarding the oncological results reported by different surgeons, which may
+be influenced by factors such as surgeon characteristics,
+surgical procedures, patient inclusion criteria, and outcome assessment methods. The purpose of this study
+was to critically summarize existing clinical trials and
+provide a detailed and comprehensive assessment of the
+oncological findings of intrafascial prostatectomy to
+guide urologists in selecting the appropriate technique.
+Methods
+Inclusion criteria
+Inclusion criteria were set according to PICOS (patients,
+intervention, comparison, outcomes, and study design)
+principle as presented in Table 1. This review included
+trials designed as surgery series or controlled studies. Included studies had at least one arm that is performed
+using intrafascial techniques, including veil technique
+and other techniques approaching fascial planes close to
+the prostatic capsule and internal to the prostatic fascia,
+regardless of the types of surgery including retropubic
+radical prostatectomy (RRP), laparoscopic radical prostatectomy (LRP) and robot-assisted laparoscopic radical
+prostatectomy (RALRP). Study paralleling convetional
+interfascial technique was included in the comparative
+analysis as a control study. We excluded studies from
+the comparative assessment, including extra-fascial or
+wide-dissection or non-nerve-sparing prostatectomy,
+and for these studies we only extracted data from the
+intrafascial group.
+Data sources and searches
+Database searches were performed for published articles
+till June 2018 on PubMed. The following keywords were
+used across the “Title” and “Abstract” field including:
+(“intrafascial” OR “veil” OR “curtain dissection” OR “incremental nerve sparing” OR “high anterior release”) AND
+“radical prostatectomy”. Study characteristics were in accordance with our PICOS principle. There were no restrictions on the reporting characteristics of the publication
+status or language. In addition, there were no restrictions
+on the time of surgery or the date of publication. We
+manually checked the reference list of the included studies
+to further identify other relevant studies. Three reviewers
+(JG, HC, XW) independently screened the titles, abstracts
+and keywords of each search article. If the study met the
+inclusion criteria, we screened the full text for further
+evaluation. We excluded duplicate publications or superficially reported studies. Disagreements were resolved
+through open discussion.
+Data extraction and synthesis
+Data were independently extracted by three reviewers
+(JG, HC, XW) using standard formats, including study
+characteristics, patient characteristics, surgical information and outcomes. The authors of the original study
+were consulted for the missing data if needed. As surgical margins were confounded by patient selection, we
+evaluated and scored the patients’ preoperative risk level
+according to the nomogram of Partin tables [9] along
+with D’Amico’s study [10]. The scoring scale shown in
+Table 2 is stratified into 4 parts including clinical tumor
+stage, preoperative PSA level, Gleason score and invaded
+cores percentage. The scores of the 4 parts were
+summed up to the Selection Score of Oncologic Safety
+(SSOS). A high score indicated a more rigorous patient
+selection criteria and low risk of extraprostatic extension
+and margin involvement.
+With regard to a comparative analysis of the PSM rate,
+some studies had a selection bias between the intra- and
+inter-fascial groups. As surgeons often doubted the
+oncological safety of the intrafascial technique, they restricted the application of this technique to patients with
+early-stage tumors and lower risk of extraprostatic extension, but employed the interfascial procedure in
+high-risk disease. We considered this bias as a selection
+imbalance and, if surgeons made no exception in the selection of patients, we judged this as selection balance.
+Bias assessment
+The Cochrane Collaborative Bias Assessment Tool was
+used to assess the methodological quality of the included
+control studies. The following items were evaluated: (1)
+Adequate sequence generation? (2) Allocation concealment? (3) Binding? (4) Incomplete outcome data addressed? (5) Free of selective reporting? (6) Free of other
+bias? Each question was rated as “low risk”, “high risk”
+or “unclear” and three reviewers (JG, HC and XW) independently assessed each trial. We used the funnel plot to
+evaluate publication bias. If there is a disagreement,
+judgment was made through public discussion.
+Data analysis
+All data extracted from the intrafascial arms were pooled
+using Open Meta-analyst software, stratified by surgical
+type. We performed one-arm meta-analysis using random effects models, and heterogeneity in the studies
+was assessed using Chi-square test and the I2 index.
+Meta-regression analysis was performed with total PSM
+rate as a dependent variable, including patient age, preservation techniques, pT2 cancer percentage, and SSOS
+as covariate variables. An in-depth regression analysis
+was performed by including each part of the SSOS and
+excluding each part from the SSOS.
+Comparative meta-analysis was conducted with the
+Cochrane Collaboration Review Manager. Heterogeneity
+among the studies was assessed using Chi-square test
+and the I2 index statistic. When p > 0.1 and I2 < 50%,
+fixed-effect models were applied for the calculation of
+pooled effect index and only if p < 0.1 and I2 > 50%, the
+random-effect models were used. A comparative analysis
+of the PSM rates was performed by stratifying selection
+balance as a subgroup.
+Results
+This review was performed according to the Preferred
+Reporting Items of Systematic Reviews and
+Meta-analysis (PRISMA) statement. A total of 117 records were retrieved after electronic search strategy,
+which ultimately included 21 studies [6, 11–30]. Figure 1
+present the PRISMA flowchart of literature searches and
+Table 3 provided detailed characteristics of the included
+studies. Among the 21 studies included, 15 were controlled studies and 6 were surgical series. Eight trials
+paralleling conventional interfascial technique as controlled groups were included for comparative
+meta-analysis. Additional file 1: Table S1 showed the risk
+of bias in individual studies.
+One-arm meta-analysis
+Figure 2 summarized the prevalence of total PSMs recorded in the intrafascial group of the published surgical
+series or controlled studies. The total PSM rate ranged
+from 2.2 to 35%, with a pooled rate of 14.2% (498/3351,
+95% confidence interval [CI]: 11.0–17.3%). It was possible to calculate the heterogeneity among the included
+studies as I2 was 86.38%. Three studies showed significantly higher PSM rates than the pooled rate, which included the studies of Curto 2006 [11], Choi 2012 [18],
+and Mortezavi 2012 [16], with a PSM rate of 30.8%
+(127/413, 95% CI: 26.3–35.2%), 34% (17/50, 95% CI:
+20.9–47.1%), and 35% (28/80, 95% CI: 24.5–45.5%), respectively, whereas the VIP team reported a notably
+lower PSM rate of 1/46 [27]. No obvious differences
+could be detected among the 3 surgery types of LRP,
+RRP, and RALRP. PSM rates of intrafascial group stratified by pathological tumor stages could be found in
+Additional files 2 and 3, which showed that the pooled
+PSM rate was 9.7% (236/2423, 95% CI: 7.0–12.4%) in
+pT2 cancers (Additional file 2: Figure S1) and 44.0%
+(208/527, 95% CI: 34.9–53.2%) in pT3 cancer (Additional file 3: Figure S2). Overlapping higher rates could
+be seen in terms of the PSM rate in pT2 cancer that the
+studies of Curto (2006) [11] and Mortezavi (2012) [16],
+which also reported a significantly higher PSM rate than
+the pooled rate; however, this overlap was not observed
+with regard to the PSM rate in pT3 cancer.
+Meta-regression analysis
+Table 4 summarized the result of meta-regression evaluating the impact of confounding factors affecting PSM rates.
+Age, pT2 cancer percentage, and SSOS were significantly
+associated with the total PSM rate, and age was the only
+factor that affected the PSM rate in pT3 cancer. Regarding
+the total PSM rate, the regression model demonstrated
+that 1 more year to the mean age could increase the total
+PSM rate by an average of 1.2%, while each 1 point of
+SSOS could decrease it by an average of 1.3%. Moreover,
+preservation techniques including D-fascia preservation,
+puboprostatic ligament sparing, selective ligation of DVC,
+had no significant influence on PSM rate. Figure 3
+depicted the meta-regression plot to describe the effect of
+the confounding factors of patient age, pT2 cancer percentage, and SSOS score on total PSM rate.
+Comparative meta-analysis
+As shown in Figs. 4 and 5, the I2 standing for heterogeneity among the studies was 39, 47, and 0% in the
+meta-analysis of total PSM rate, PSM rate in pT2 cancer,
+and PSM rate in pT3 cancer, respectively, therefore,
+fixed-effects models were applied. None of the 3
+meta-analyses demonstrated a significant difference between the intra- and interfascial groups. It is noteworthy
+that, in the meta-analysis of total PSM rate (Fig. 4) and
+PSM rate in pT2 cancer (Fig. 5a), under a balanced selection of preoperative oncologic risk, the interfascial
+group had a numerically lower rate compared with the
+intrafascial group, but interestingly, pooling the studies
+without a balanced baseline resulted in an observable
+significant difference in PSM rate in favor of the intrafascial group. This condition was not observed in the assessment of the PSM rate in pT3 (Fig. 5b), which
+showed consistency between the balanced and imbalanced studies, both indicating that the intrafascial group
+was associated with a higher PSM rate, although insignificant statistically. Table 5 provided characteristics of
+studies included in comparable meta-analysis reporting
+PSM and Additional file 4: Figure S3 showed the funnel
+plots for assessing the publication biases.
+Discussion
+In this study we conducted a systematic review and
+pooled analysis of oncological outcomes following intrafascial nerve-sparing prostatectomy. In 2012, a detailed
+and in-depth systematic review summarizing all surgical
+series of RALP between 2008 to 2011 was reported by
+Novara et al. [31], wherein they indicated that the prevalence of PSM after RALP was, on average, 15% in
+all-stage disease and 9% in pathologically localized cancer; PSM rates were similar following RARP, RRP, and
+LRP. The authors proposed an average PSM rate of 15
+and 10% could be expected for all-stage and pT2 cancers
+after RALP, respectively. In this present meta-analysis,
+we found that the pooled PSM rate in the intrafascial
+group was, overall, 14.2% in all stages of prostate cancer
+and 9.7% in pT2 disease regardless of surgery types,
+which seemed to match the results of previous review.
+Comparative analysis revealed no significant difference
+in PSM rate between the intra- and inter-fascial groups,
+which was consistent with a previous meta-analysis [32].
+From this point of view, oncological outcomes of intrafascial technique seemed acceptable, or at least not
+worse than with conventional approach. However, a
+hasty conclusion of the oncological safety of this
+technique should be avoided, as there are additional issues worthy of critical appraisal.
+Extracapsular extension of carcinoma could lead to
+higher PSM rate of radical prostatectomy compared with
+that associated with a localized tumor. The mean percentage of pT2 cancer in the intrafascial studies included
+in our present review was 84.5% (range: 58.6–98.1%),
+which is significantly higher than that in the 17 surgical
+series included in Novara’s review [31] (t-test of
+independent samples: mean difference = − 7.91569, t = −
+2.618, p = .014); this meant, surgeons selected more
+patients with localized disease to perform intrafascial
+approach, but only comparable total PSM rates were
+gained. Moreover, according to the guidelines of the
+European Association of Urology, radical prostatectomy
+could be extended for indications such as patients with
+intermediate-risk, localized prostate cancer with clinical
+stage T2b–T2c, Gleason score = 7, or PSA 10–20 ng/ml
+[3]. However, our review found that most surgeons applied more rigorous selection criteria against generally
+recommended indications for radical prostatectomy. For
+example, the VIP team in 2005 reported a notably low
+PSM rate with a robot-assisted surgical system wherein
+only 1 case of positive margin was detected from among
+46 patients who underwent intrafascial RALRP [27].
+With regard to their selection criteria, only patients with
+clinical T1c stage cancer combined with a Gleason
+score ≤ 6 and preoperative PSA ≤10 were selected for
+the adoption of the intrafascial technique. Therefore, the
+currently acceptable low PSM rate following intrafascial
+prostatectomy could be attributed to more stringent
+patient selection and, subsequently, a higher proportion
+of localized disease; however, the oncological safety of
+this technique could not be confirmed. If intrafascial dissection is carried out among patients with a high risk of
+extracapsular invasion, the result may be unsatisfactory.
+For example, in 2006, Curto et al. reported a contemporary laparoscopic surgical series wherein a surgical team
+experienced in over 2800 LRP performed intrafascial
+prostatectomies in patients with organ-confined prostate
+cancer (including 3 cases of cT3a disease) without other
+selection restrictions such as PSA level or Gleason score, for
+control of preoperative oncological risk. Subsequently, the
+percentage of pT2 cancer was only 58.6% and the
+overall PSM rate in all-stage tumors was as high as
+30.7% (127/413) [11].
+With regard to our regression model, the percentage
+of pT2 cancer was significantly associated with the total
+PSM rate, and high proportion of pT2 disease led to a
+low PSM rate. However, as preoperative pathological staging could not be obtained, the risk of extracapsular invasion was predicted on the basis of the patient’s
+preoperative information. Clinical stage, PSA level, Gleason score, and positive biopsy cores could be used as independent predictors of this risk and, therefore, we
+scored each factor and summed to SSOS to quantitatively evaluate this risk preoperatively. We identified a
+significant correlation between the SSOS and pathological pT2 percentage (Pearson Correlation = 0.749, p
+= .001). Moreover, an obvious association could be identified from our meta-regression model by including
+SSOS as a confounding factor, indicating that, for intrafascial prostatectomy, stringent case selection was associated with low risk of PSM and quantitatively, each 1
+point of SSOS could decrease the total PSM rate by
+1.3% on average. Thus, based on our regression model,
+the preoperative SSOS should be more than 7 points to
+obtain a postoperative PSM rate of 15% on average and
+SSOS more than 11 points meant a postoperative PSM
+rate of 10%. Surgeons intending to adapt this technique
+should take cautions when setting criteria for patient selection and we, for the first time, proposed the SSOS as
+an indication of intrafascial prostatectomy.
+SSOS had four components, by which we used to
+evaluate the patients’ selection criteria for intrafascial
+prostatectomy of the included studies. We performed
+in-depth regression analysis setting total PSM rates as
+dependent variable by including each section and excluding each section from SSOS (see Additional file 5:
+Table S2). The result showed that section 1 (clinical T
+stage) was the most influential factor, as only section 1
+could significantly affect PSM rates and when excluding
+section 1, the regression model became insignificant.
+Thus surgeons should make clinical T stage a priority
+when using SSOS as an indication.
+A histological study by the VIP team indicated that 2/30
+anterolateral zones of the prostate specimen after the Veil
+technique revealed capsular incision, compared with 0/40
+for the standard technique [33]. In pathologically localized
+disease, the tumor does not invade beyond the limit of the
+prostatic capsule; thus, only intracapsular incision will
+lead to positive margins. Theoretically, intrafascial dissection should increase risk of capsular incision compared
+with the interfascial technique and, subsequently, with a
+localized tumor situated close to the capsule or having
+large volume, is likely to lead to PSM. This can be inferred
+from Curto’s surgical series [11], wherein investigators
+found a higher PSM rate, especially for pT2c tumors, as
+compared with the previous largest series; however, this
+difference was not present for other pathological stages.
+For comparative analysis, we only included parallel-group
+studies including conventional interfascial nerve-sparing
+prostatectomy as the control. Several studies compared the
+outcomes of intrafascial prostatectomy with that of wide
+dissection or non-nerve-sparing prostatectomy, but as reported in some of these studies, wider preservation of the
+NVBs may be associated with a higher risk of PSM [34, 35].
+Thus, for these studies, the oncological results could be
+confounded by the nerve-sparing technique, and, therefore,
+we did not include these studies in the comparative
+analysis. In our meta-analysis comparing intra- and interfascial groups, we stratified studies according to patient selection balance; however, the overall pooled result
+demonstrated there was no significant difference for PSM
+rate in all pathological stages of disease. Notably, in the
+study by Khoder et al. [12], patients were selected to
+undergo intrafascial prostatectomy only if biopsy Gleason
+scores were ≤ 6 and PSA ≤10 ng/mL with low tumor size;
+patients with relatively higher Gleason scores and PSA
+levels were allocated to the interfascial group, and this was
+considered as selection imbalance. These researchers ultimately reported that PSM rates for pT2 stage and all pathological stages were lower in the intrafascial group compared
+with the interfascial group; however, this advantage was not
+reported for pT3 cancer. From the subgroup results in our
+comparative analysis, a significantly lower PSM rate was
+identified in favor of the intrafascial technique in pT2 and
+all-stage disease for pooled studies with non-balanced selection criteria. All of these non-balanced studies applied additional more stringent patient selection criteria for the
+intrafascial technique, as compared with patient selection
+for the interfascial group. With regard to subgroup analysis
+of balanced studies, pooled results revealed a higher
+PSM rate, although statistically non-significant, with
+the intrafascial technique for pT2 and all-stage cancers. The variance between subgroups of balanced
+and non-balanced studies reconfirmed the crucial role
+of patient selection in controlling the PSM rate. In
+pT3 cancer, a higher PSM rate, although statistically
+non-significant, was detected for the interfascial group
+and may be attributable to insufficient sample size.
+The PSM rate is known to be associated with
+surgeon-related characteristics, with surgical experience being the most important factor. Surgeons experienced in
+high-volume resections could decrease the PSM rate [36,
+37]. A study evaluating the learning curve of radical prostatectomy indicated that increasing surgical experience was associated with substantial reductions in cancer recurrence:
+however, for LRP, the learning curve was slower than for
+RRP [38]. The relatively high PSM rate for LRP reported by
+Choi et al. in 2012 can be attributed to the learning curve
+[18]. In fact, the authors emphasized that, in the first 30
+cases, the PSM rate was 51.7%, and then subsequently decreased to 9.5%. However, there are no published studies
+reporting an evaluation of PSM with the learning curve of
+the intrafascial technique.
+Regarding on the dissection plane during procedure, surgeons supplied several technical variations, including VIP
+technique and Leipzig technique. We included all the intrafascial surgeries in this pooled study regardless of the variable
+techniques. Most authors described their dissection technique in the original manuscripts, but ignored pathological
+evaluation of the specimen regarding whether the utilized
+surgical technique was intra or interfacial nerve sparing.
+Thus we can only judge the classification depending on the
+authors’ description. As the PSM rates were affected by the
+dissection plane, the quality of the original trials may confound our conclusion and this is a major limitation when we
+included these trials in our pooled analysis.
+In the present review, no obvious evidence indicative of
+preserving technique, including D-fascia preservation,
+puboprostatic ligament sparing, or selective/no ligation of
+DVC, was detected in conjunction with increased PSM
+rate. In a retrospective controlled study reported by Hoshi
+et al. in 2013 [15], the authors reconfirmed that the DVC
+preserving technique would not increase the PSM rate, as
+compared with the conventional intrafascial technique.
+Further, we could not conclusively determine any significant differences among the 3 surgical types of RRP, LRP,
+and RALRP from our pooled results. Overlapping results
+could be identified from the studies of Asimakopoulos
+and Greco. Asimakopoulos et al. conducted a randomized comparison between LRP and RALRP and
+found no statistically significant differences for the
+PSM rate [21]. In the study of Greco et al. comparing
+RRP with LRP, results demonstrated that both surgical
+types had similar PSM rates [24]. In terms of our regression model, age was another relevant predictor of
+the PSM rate, demonstrating that older patients had
+higher PSM rates for pT3 and all-stage cancers.
+Conclusions
+In summary, intrafascial technique resulted in a total
+PSM rate of 14.2% for all-stage cancer and 9.7% in pT2
+disease. With stringent case selection and conducted by
+experienced surgeons, intrafascial prostatectomy could
+offer an acceptable or, at least, equivalent PSM rate compared with the conventional interfascial approach.
+Current patient selection criteria are more stringent than
+those indicated for radical prostatectomy by guidelines,
+and we proposed SSOS as an indication of intrafascial
+prostatectomy. Preoperative SSOS should be more than
+7 points to obtain an acceptable postoperative PSM rate
+of 15% on average.

@@ -1,0 +1,20 @@
+
+Abstract
+Background: Diffuse large B-cell lymphoma (DLBCL) is the most frequent lymphoid neoplasm among adults,and
+approximately 30–40% of patients will experience relapse while 5–10% will suffer from primary refractory disease
+caused by different mechanisms, including treatment-induced resistance. For refractory and relapsed DLBCL
+(rrDLBCL) patients, early detection and understanding of the mechanisms controlling treatment resistance are of
+great importance to guide therapy decisions. Here, we have focused on genetic variations in immune surveillance
+genes in diagnostic DLBCL (dDLBCL) and rrDLBCL patients to elaborate on the suitability of new promising
+immunotherapies.
+Methods: Biopsies from 30 dDLBCL patients who did not progress or relapse during follow up and 17 rrDLBCL
+patients with refractory disease or who relapsed during follow up were analyzed by whole-exome sequencing,
+including matched individual germline samples to include only somatic genetic variants in downstream analysis of
+a curated list of 58 genes involved in major immune surveillance pathways.
+Results: More than 70% of both dDLBCLs and rrDLBCLs harbored alterations in immune surveillance genes, but
+rrDLBCL tumor samples have a lower number of genes affected compared to dDLBCL tumor samples. Increased
+gene mutation frequencies in rrDLBCLs were observed in more than half of the affected immune surveillance genes
+than dDLBCLs.
+Conclusion: Genetic variants in the antigen-presenting genes affect a higher number of rrDLBCL patients
+supporting an important role for these genes in tumor progression and development of refractory disease and
+relapse.

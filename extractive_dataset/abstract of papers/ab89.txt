@@ -1,0 +1,18 @@
+
+Abstract 
+Background: BRD4 and PIN1 have been described to be involved in inflammation and vascular endothelial cell dys‑
+function, which in turn may increase pulse pressure.
+Hypothesis: Genetic mutations within the BRD4 and PIN1 genes could affect the risk of high pulse pressure.
+Methods: A total of four single nucleotide polymorphisms (SNPs) (BRD4: rs4808278; PIN1: rs2233678, rs2287838, and 
+rs2233682) were genotyped in a cohort of 666 hypertensive patients and 232 normotensive controls with Chinese 
+Han origin. Generalized multifactor dimensionality reduction (GMDR) was used to screen the best interaction combi‑
+nation among the four SNPs within the BRD4 and PIN1 genes and diabetes. Logistic regression analysis was performed 
+to calculate the odds ratio (ORs) (95% confidence interval (CI)) for the association between the four SNPs.
+Results: Adjusted for age, weight, waist circumference, drinking, smoking, hypertension, and diabetes, high pulse 
+pressure risk was significantly higher for carriers with the rs4808278‑TT genotype in BRD4 than those with wild geno‑
+types (OR: 0.400, 95% CI: 0.217–0.737, P* < 0.05). However, we did not find any significant association of rs2233678, 
+rs2287838, and rs2233682 in PIN1 with high pulse pressure susceptibility after covariate adjustment. GMDR analysis 
+indicated a significant three‑locus model (P = 0.0107) involving rs4808278, rs2233678, and diabetes, the cross‑valida‑
+tion consistency of the three‑locus models was 9/10, and the testing accuracy was 57.47%.
+Conclusions: Genetic mutations within BRD4 (rs4808278) could affect the susceptibility to high pulse pressure in a 
+southeastern Chinese population.

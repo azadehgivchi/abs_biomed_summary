@@ -1,0 +1,15 @@
+Background: Rates of suicide attempts and deaths are highest on Mondays and these occur more frequently in
+the morning or early afternoon, suggesting weekly temporal and diurnal variation in suicidal behaviour. It is
+unknown whether there are similar time trends on social media, of posts relevant to suicide. We aimed to
+determine temporal and diurnal variation in posting patterns on the Reddit forum SuicideWatch, an online
+community for individuals who might be at risk of, or who know someone at risk of suicide.
+Methods: We used time series analysis to compare date and time stamps of 90,518 SuicideWatch posts from 1st
+December 2008 to 31st August 2015 to (i) 6,616,431 posts on the most commonly subscribed general subreddit,
+AskReddit and (ii) 66,934 of these AskReddit posts, which were posted by the SuicideWatch authors.
+Results: Mondays showed the highest proportion of posts on SuicideWatch. Clear diurnal variation was observed,
+with a peak in the early morning (2:00–5:00 h), and a subsequent decrease to a trough in late morning/early
+afternoon (11:00–14:00 h). Conversely, the highest volume of posts in the control data was between 20:00–23:00 h.
+Conclusions: Posts on SuicideWatch occurred most frequently on Mondays: the day most associated with suicide
+risk. The early morning peak in SuicideWatch posts precedes the time of day during which suicide attempts and
+deaths most commonly occur. Further research of these weekly and diurnal rhythms should help target populations
+with support and suicide prevention interventions when needed most.

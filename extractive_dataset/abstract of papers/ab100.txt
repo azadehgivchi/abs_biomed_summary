@@ -1,0 +1,27 @@
+
+The Emergency Room (ER) is one of the most used areas in healthcare institutions. Problems with 
+over utilisation and overcrowding have been reported worldwide. This study aims at examining the characteristics 
+of paediatric ER visits, the rate of hospital admissions and its associated predictors at King Fahd Hospital of the 
+University in the Eastern Province of Saudi Arabia. 
+
+Methods: This is a retrospective, medical record-based study. Variables included gender, age group, nationality, 
+complaints, Triage level, shifts and seasons. Descriptive statistics were reported as frequencies/percentages. P-values 
+were obtained through a Chi-Squared test while unadjusted and adjusted odds ratios were estimated by binary 
+logistic regression, where admission was considered as the outcome. 
+
+Results: The total number of paediatric patients included was 46,374, and only 2.5% were admitted. Males 
+comprised 55.4% while females comprised 44.6%. The most common age group were toddlers, and 92.4% of the 
+total sample were Saudis. The most common complaint was fever (26.9%) followed by respiratory symptoms 
+(24.9%). Only 7 patients (0.02%) were classified as triage I (Resuscitation), and most were triage IV (Less urgent) 
+(71.0%). Most visits occurred during the winter months. Adjusted ORs showed that neonates had higher odds of 
+admission (OR = 3.85, 95%CI = 2.57–5.76). Moreover, those presenting with haematological conditions showed an 
+OR of 65.49 (95%CI = 47.85–89.64), followed by endocrine conditions showing an OR of 34.89 (95%CI = 23.65–51.47). 
+Triage I had a very high odds of admission (OR = 19.02, 95%CI = 2.70–133.76), whereas triage V was associated with 
+a very low odds of admission (OR = 0.30, 95%CI = 0.23–0.38). 
+
+Conclusions: A low rate of hospital admission was found in comparison with other rates worldwide. This was 
+mostly attributed to an alarmingly high number of non-urgent ER visits. This further emphasises the problem with 
+improper use of ER services, as these cases should be more appropriately directed towards primary healthcare 
+centres. Further studies to examine the impact of prioritising patients in the ER based on the identified predictors 
+of hospital admission, in addition to the standard triage system, are suggested. 
+

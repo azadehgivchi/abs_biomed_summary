@@ -1,0 +1,417 @@
+Background
+The worldwide incidence of oropharyngeal cancer
+(OPC) has increased in the past 40 years owing to the
+rising rates of human papillomavirus (HPV) infection related
+to sexual behavior [1]. Traditionally, China had a
+lower burden of HPV-positive OPC compared to the rest
+of the world. However, in the recent decade, changes in
+sexual behavior brought by high-pressure lifestyle have
+led to an upward trend in the occurrence of OPC in
+China [2]. As reported, during the years 2003–2012, the
+age-standardized rate of OPC incidence has increased
+from 2.0/100,000 per year to 2.54/100,000 per year [3].
+According to the latest treatment guidelines of OPC,
+radiotherapy/concurrent chemoradiotherapy is recommended
+as the mainstream treatment for patients with
+early/locally advanced OPC [4, 5]. Owing to the need of
+a high irradiation dose for potential cure, localized adverse
+events such as irradiation-induced dysphagia and
+xerostomia become the most common late toxicities in
+OPC survivors. Even with the optimal photon irradiation
+technique, intensity-modulated photon-radiation therapy
+(IMRT), symptomatic dysphagia and xerostomia (grade
+2–4) occur at incidences as high as 15–23% and 32–
+48%; and have been identified as independent negative
+factors impacting the long-term quality of life of OPC
+patients [6–9].
+Proton beam therapy (PBT) is a new-emerging particle
+irradiation technique. Compared with conventional
+photon-radiation therapy, it has superior energy absorption
+distribution afforded by protons’ “Bragg peaks” to
+better protect normal tissues from radiation injury. The
+comparative dosimetric studies have confirmed that the
+intensity-modulated proton radiation therapy (IMPT,
+the advanced form of PBT) enabled to significantly reduce
+the irradiation dose to parotid, larynx, oral cavity,
+and pharyngeal constrictor muscle in OPC patients,
+thereby having the potential to reduce the normal tissue
+complication probability (NTCP) in long-term dysphagia
+and xerostomia [10–13]. In previous PBT decisionmaking
+studies, the ability of IMPT over IMRT in reducing
+dysphagia and xerostomia has been applied as a pivotal
+factor determining whether an OPC patient was
+appropriate to undergo PBT [14, 15].
+Nevertheless, the therapeutic benefits of PBT should
+still be carefully weighed against its high treatment costs,
+which can be 3.2 to 4.8 times higher than that of IMRT
+[16]. On the mainland of China, there is currently only 1
+operational proton center but the Chinese government
+has planned to authorize another 16 licenses for operating
+proton centers in the major cities by the year 2021
+[17]. Meanwhile, the high treatment costs of this newemerging
+cancer treatment are not yet covered by
+Chinese public medical insurance. As such, costeffectiveness
+analysis (CEA) is urgently needed to ensure
+the proper use of PBT when this treatment would become
+more available in the near future [18, 19]. Till present, no
+CEA study has been conducted to evaluate the costeffectiveness
+of PBT for Chinese OPC patients.
+Herein, we designed a 7-state Markov model to track
+the natural development of OPC and late toxicities, and
+simultaneously evaluated the relevant cost and effectiveness
+of IMPT versus IMRT in a long-term period;
+aiming to identify cost-effective scenarios for optimal
+PBT efficacy in Chinese OPC patients.
+Methods
+Model design
+The TreeAge Pro 2018 software (Williamstown, MA)
+was used for model building and analysis. A CEA model
+(a decision tree combining two-arm Markov model) was
+designed to evaluate the cost-effectiveness of IMPT, in
+comparison to that of IMRT, for newly diagnosed nonmetastatic
+OPC patients. The CEA model was built
+based on the following two assumptions: (1) compared
+to IMRT, IMPT would be able to reduce symptomatic
+dysphagia and xerostomia (Radiation Therapy Oncology
+Group, RTOG grade 2–4), defined in this present study
+as “NTCP-reduction”; per the equation: NTCP-reduction
+(%) = [(NTCP after IMRT - NTCP after IMPT) / NTCP after
+IMRT] *100%; (2) all the dysphagia and xerostomia would
+occur within the first year after radiotherapy and the two
+symptoms would be irreversible once occurred [20, 21].
+Transition states of the Markov model are illustrated
+in Fig. 1. Different states, namely “alive with cancer”, “no
+cancer” (including 4 sub-states of “dysphagia”, “xerostomia”,
+“dysphagia and xerostomia” and “no complication”)
+and “death” (including “cancer death” or “other
+death”), were used to simulate the natural process of disease
+and late toxicities for OPC patients after radiotherapy.
+A 1-year cycle length was used, and the Markov
+models were cycled from 1 year after radiotherapy until
+the estimated generalized Chinese life expectancy (77
+years old) for the year 2020, to evaluate the costeffectiveness
+over a lifetime horizon [22]. Half-cycle
+corrections were performed to minimize discretization
+errors in the continuous Markov process. The risk of
+natural non-cancer deaths was calculated based on the
+United States 2016 Life Tables [23].
+Base-case set-ups
+We assumed a 56-year-old (median age of OPC in
+China) male patient who had a squamous OPC of stage
+IVA (T2N2M0) as the base case to represent the
+Chinese OPC patients at the average level [24]. Disease
+probabilities in the model were calibrated according to
+the data of overall survival (OS) and disease-free survival
+(DFS), as reported by De Felice et al. [25]. The NTCPs
+of dysphagia and xerostomia after IMRT were set according
+to long-term follow-up results of OPC patients
+after IMRT, reported by Bird et al. and Al-Mamgani
+et al., in which the probabilities of dysphagia and xerostomia
+(≥ grade 2) were 0.19 and 0.33, respectively [5, 6].
+On the basis of published toxicities data, we initially assumed
+that IMPT could provide a 25% NTCP-reduction
+in dysphagia and xerostomia compared with IMRT for
+the base case [12, 13]. Other clinical outcomes, including
+the survival rates, were assumed to be identical between
+the two strategies.
+Cost and utilities
+The treatment regimens of the 2 compared strategies
+were similar except for the irradiation technique (IMPT
+versus IMRT), and included radical radiotherapy (32-
+fraction to a total dose of 70 Grays) and 3 cycles of concurrent
+chemotherapy. The cost of IMPT was estimated
+as being $50,000 based on the relevant charge standard
+applied in Shanghai Proton and Heavy Ion Center
+(Shanghai, China). Such treatment cost reflected both
+the capital investment (i.e. the estimates for building and
+infrastructure, hardware, dosimetry and engineering
+equipment, planning and clinical management software,
+and the working capital during the construction) and the
+operating costs (i.e. the estimates for land, equipment
+maintenance, electrical power, and the salaries for the
+staff). Another 2 assumed IMPT costs levels ($40,000
+and $30,000) were applied to evaluate the influence of
+decrease in proton treatment costs on cost-effectiveness.
+The costs of IMRT were estimated as being $12,000 to
+reflect the similar treatment cost for photons irradiation
+at the Sun Yat-sen University Cancer Center (Guangzhou
+China). The other costs for treatments and examinations
+were estimated based on casual clinical prescriptions to
+reflect similar costs as that of daily practice in a Chinese
+hospital. The cost of concurrent chemotherapy was assumed
+as $5000; simulating 3 cycles of 80–100 mg/m2
+cisplatin bolus injection delivered on day-1, − 21, and −
+42 of the radiotherapy. The follow-up cost per year was
+assumed as $1000; simulating a set of examinations
+including hematologic and biochemistry profiles, nasopharyngeal
+fiberoptic endoscope examination, magnetic
+resonance imaging of head and neck, chest radiography,
+and abdominal ultrasonography. The cost of palliative
+therapy per year was assumed as $5000; simulating 8
+cycles of oral palliative chemotherapy based on 5-
+fluorouracil. The treatment cost for dysphagia per year
+was estimated as $3000; simulating the long-term
+requirement of a nasal feeding tube or percutaneous
+gastrostomy tube. The treatment cost for xerostomia
+per year was estimated as $2000; simulating the use of
+traditional Chinese medicine/artificial saliva and additional
+intensive dental care. For patients in the “no
+cancer” state, the annual cost included the follow-up cost
+± the treatment cost for dysphagia and/or xerostomia. For
+patients in the “alive with cancer” state (recurrence, metastasis,
+or residue), the annual cost included the followup
+cost and the cost of palliative chemotherapy. All costs
+were adjusted to US dollars ($), using a Sino-US exchange
+rate of $1 = 6.47 RMB (February 28, 2021).
+The utilities were adjusted to QALY using health state
+utility values (HSUV). On the basis of published data,
+the HSUV of “alive with cancer” was assumed to be 0.57,
+representing a progressive disease with the disutility
+caused by anticancer treatment [26]. The HSUVs for the
+states of “dysphagia”, “xerostomia” and “dysphagia and
+xerostomia” (≥ grade 2) were standardized as being
+0.803, 0.846, and 0.763 [9]. The HSUVs for the states of
+“no complication” and “death” were set as 1 and 0. Costs
+and quality-adjusted life-year (QALY) were discounted
+at an annual rate of 3% [27].
+Sensitivity analysis and Monte Carlo simulation
+Probabilistic sensitivity analysis was applied to illustrate
+the robustness of the model in light of a joint uncertainty
+for model parameters by running over 50,000
+iteration trials, and the 90% confidence interval of the
+model parameters were identified. Tornado diagram
+was used to evaluate the influences of the parameters
+on the ICER over the variation of their 90% confidence
+interval. One-way sensitivity analyses were performed
+to identify cost-effective threshold values for
+the parameters. Monte Carlo simulation (50,000 trials)
+was applied to show the trials distributions of the two
+strategies and to determine the recommended strategy
+from the perspective of net benefit.
+Outcome measurement
+OS was defined as the time interval between the end
+of the radiotherapy and death from any cause. DFS
+was defined as the time interval between the end of
+the radiotherapy and first cancer progression or death
+from any cause. The outcome measure of the model
+was the incremental cost-effectiveness ratio (ICER)
+which represented the ratio of the difference in costs
+to the difference in effectiveness (incremental cost /
+incremental effectiveness) between IMPT and IMRT.
+A strategy was deemed cost-effective by comparing
+the ICER of the strategy with an established societal
+willingness-to-pay (WTP). According to the World
+Health Organization guidelines, a strategy is defined
+as cost-effective if the ICER value is below 3 times
+the gross domestic product (GDP) per capita [28]. In
+this study, $33,558 / QALY (3 times the Chinese
+GDP per capita in 2020) was applied as the current
+WTP level of China; and 2 common WTP thresholds
+($50,000/QALY and $100,000/QALY) were applied to
+evaluate future trends [29].
+Results
+Model robustness verification
+The input information and probabilistic sensitivity
+analyses for the model parameters are summarized in
+Table 1. The model robustness verification was performed
+using the base-case set-ups. Markov cohort
+analyses for both IMPT and IMRT strategy are shown
+in Additional file 1: Fig. S1. The CEA model for the
+base case predicted a 1-,3-, 5- and 10-year OS rates
+of 90.0, 85.5, 80.0 and 68.7%, and the 1-,3-, 5- and
+10-year DFS rates of 85.0, 78.8, 72.9 and 67.1%,
+respectively (detailed in Additional file 2: Fig. S2).
+The tornado diagram identified the NTCP of dysphagia
+after IMPT, the NTCP of xerostomia after IMPT
+and the cost of IMPT as the top 3 parameters influencing
+the ICER. The other parameters had only a
+minor impact on the ICER (Fig. 2).
+Cost-effectiveness of the base case
+By model calculation, IMPT (compared with IMRT)
+provided the base case an additional 0.205 QALY at an
+additional cost of $34,926.6, and the ICER was
+$170,082.4/QALY. Thus, IMPT was not cost-effective
+for the base case at the current WTP of China
+($33,558/QALY). In the Monte Carlo simulations,
+IMPT was the recommended strategy in 32.7% of trials
+from the perspective of net benefit (Additional file 3:
+Fig. S3). One-way sensitivity analyses with base-case
+set-ups identified cost-effective threshold values for
+the parameters using 3 different WTP thresholds
+($33,558 / QALY, $50,000 / QALY, and $100,000 /
+QALY) (Additional file 4: Table S1). IMPT could be
+cost-effective for the base case if IMPT treatment costs
+($50,000) reduced to ≤ $ 21,964.6, ≤ 25,341.0 and ≤
+35,608.5 at the WTP thresholds of $33,558 / QALY,
+$50,000 / QALY and $100,000 / QALY, respectively.
+Stratified analyses
+Stratified analyses were conducted for NTCP-reduction
+levels and age levels. The ICERs under different NTCPreduction
+levels and different age levels are listed in Table 2.
+For OPC patients at median age level (56-year-old), the corresponding
+ICERs were $454,083.8 / QALY, $217,370.3 /
+QALY, $138,587.0 / QALY, $99,283.6 / QALY, $75,770.2 /
+QALY, $65,150.4 / QALY, $49,049.7 / QALY and
+$40,746.3 / QALY under the NTCP-reduction levels of 10,
+20, 30, 40, 50, 60,70 and 80%, respectively.
+Cost-effective scenarios and trends
+With different set-ups for WTP levels ($33,558 / QALY,
+$50,000 / QALY and $100,000 / QALY) and proton
+treatment cost levels ($50,000, $40,000 and $30,000),
+one-way sensitivity analyses identified the minimum
+NTCP-reduction threshold, above which IMPT could be
+cost-effective, for different patients age levels, as shown
+in Additional file 5: Table S2. At the current WTP of
+China ($33,558 / QALY) and a IMPT treatment costs
+level of $50,000, IMPT should provide a minimum
+NTCP-reduction of 47.5, 50.8, 55.6, 63.3 and 77.2% to
+be considered cost-effective for patient age levels of 10,
+20, 30, 40 and 50-year-old, respectively. The costeffective
+thresholds of NTCP-reduction decreased significantly
+with the growth of WTP level and the reduction
+of proton treatment costs (Fig. 3). For OPC patients
+at median age level (56-year-old), reducing the current
+IMPT costs ($50,000) to a $30,000 level would make the
+minimum NTCP-reduction threshold for “cost-effective”
+decrease from 91.4 to 44.6%, at the current WTP of
+China (decrease from 69.0 to 33.5%, at a WTP of
+$50,000 / QALY; and decrease from 39.7 to 19.1%, at a
+WTP of $100,000 / QALY).
+Discussion
+In this study, a reliable and robust 7-state Markov model
+was designed to evaluate the cost-effectiveness of IMPT
+versus IMRT for OPC, whose incidence is fast-growing
+in China. Base-case evaluation was performed to examine
+the model robustness and evaluate cost-effectiveness
+at median age level, the minimum NTCP-reduction
+threshold for “cost-effective” were identified to evaluate
+the cost-effective scenarios. Our analyses demonstrated
+that the cost-effective scenarios of PBT currently exist
+in Chinese OPC younger patients who could obtain
+profound NTCP-reduction from PBT; such costeffective
+scenarios largely expanded with the improvement
+of the WTP level and the decrease of proton
+treatment costs.
+The cost-effectiveness of PBT has been poorly evaluated
+worldwide and has been referred to as the proton’s
+“economic controversy” [18, 30]. The only documented
+CEA study on PBT for OPC patients was reported by
+Sher et al. [31], who designed a 6-state Markov model
+using the base case of a 65-year-old OPC patient with
+American hospital settings, on the assumption that
+IMPT could provide a 25% reduction in xerostomia, dysgeusia
+and the need for a gastrostomy tube. However,
+the established 6-state Markov model by Sher et al. [31]
+was found inapplicable for Chinese OPC patients in
+regards to the preferential use of nasal feeding tube, rather
+than percutaneous gastrostomy tube, for treating
+eating difficulty, and the use of traditional Chinese medicine
+when dealing with xerostomia by Chinese patients.
+The Markov model design is a key step of CEA modeling
+for PBT. In our previous CEA modeling for paranasal
+sinus and nasal cavity cancer, a reliable 3-state
+Markov model was designed to simulate the tumor development
+and evaluate the cost-effectiveness of IMPT
+in comparison to IMRT in terms of tumor control improvement
+[32]. Unlike paranasal sinus and nasal cavity
+cancer, the advantages of IMPT over IMRT for OPC patients
+was the reduction of late toxicities whilst no improvement
+in tumor control or survival rates [33, 34]. In
+this CEA modeling for OPC, we similarly used 3 main
+states including “alive with cancer”, “no cancer” and
+“death” to simulate the tumor development of OPC, but
+the survival probabilities were set identical between
+IMPT and IMRT strategy. The model-predicted OS and
+DFS were found to correspond to the previous longterm
+survival outcomes reported by De Felice et al. [25],
+which demonstrated that the CEA modeling indeed
+followed the natural disease process of OPC.
+To evaluate the long-term differences in effectiveness
+and cost between the two treatment strategies, the state
+of “no cancer”, which refers to OPC survivor after radiotherapy,
+was further divided into 4 sub-states (“dysphagia”,
+“xerostomia”, “dysphagia and xerostomia” and “no
+complication”). The initial state probabilities of the 4
+sub-states were set according to the NTCPs of dysphagia
+and xerostomia. The observed HSUVs for the “dysphagia”,
+“xerostomia”, “dysphagia and xerostomia” and “no
+complication” sub-states were set as 0.803, 0.846, 0.763,
+and 1, respectively, and the annual treatment costs for
+these late toxicities were added as the accumulated incremental
+costs. Therefore, NTCP-reduction (superiority
+of IMPT over IMRT in reducing dysphagia and xerostomia)
+became the motivating force to examine the
+differences of cost and effectiveness between the two
+strategies. The robustness of this model design was confirmed
+using tornado diagram analysis, which demonstrated
+that only the NTCPs after IMPT and the cost of
+IMPT had major impacts on ICER value.
+NTCP-reductions and patient’s age level were two
+pivotal factors determining whether IMPT was costeffective
+to an OPC patient in our CEA modeling. Thus,
+we conducted stratified analyses for NTCP-reduction
+levels and age levels, based on which the cost-effective
+threshold for NTCP-reduction was more readily identified
+for different patients age levels. With the current
+WTP of China ($33,558 / QALY) and a proton treatment
+costs of $50,000, PBT was found more favorable to
+the younger OPC patients who could obtain a profound
+NTCP-reduction. These findings could provide clinical
+insight in terms of guiding the most cost-effective use of
+this limited and expensive irradiation technique in
+Chinese OPC patients setting. But it should be noted
+that the cost-effectiveness of PBT would likely change
+with the potential upcoming growth of PBT use in
+China. In our analyses using different set-ups for WTP
+levels and proton treatment cost levels, the cost-effective
+thresholds of NTCP-reduction were found decreased
+significantly with the growth of WTP level and the reduction
+of proton treatment costs. With more proton
+centers opening in China in the near future, technology
+upgrades and market competition would likely promote
+size reduction in proton facility layout and increase in
+patient throughput efficiency, thereby contributing to a
+gradual decrease of proton treatment costs. A 20% or
+40% reduction to the current high costs ($50,000), the
+hypothetical scenarios in our analyses, may occur [35, 36].
+Meanwhile, the WTP level might increase with gradual increment
+of medical insurance coverage (public or private)
+and economic growth. As such, we estimated that the
+cost-effective scenarios of PBT for OPC patients would
+expand along with these future changes.
+There were two limitations to this study worth mentioning.
+First, our CEA modeling was assumption-based.
+We assumed that all the symptomatic dysphagia and
+xerostomia would occur within the first year after radiotherapy
+and late toxicities would be irreversible once
+occurred. This assumption was made based on the previously
+observed studies, which showed that the risk of
+these two late toxicities would be high in the first year
+but negligible thereafter [37, 38]. Besides, the potential
+occurrence of dysphagia or xerostomia were not evaluated
+for a small part of patients in the state of “alive with
+cancer”, for whom we assumed that the main suffering
+should be their progressive cancer and anticancer treatment.
+Hence, these assumption-related problems may
+hamper the interpretation of the results to a certain
+extent. Second, the CEA modeling in this study was
+performed on a series of assumed set-ups. However, the
+clinical decision making of using PBT to a specific OPC
+patient should be based on CEA modeling with an individualized
+set-up, which enables to take the patient’s age
+and the specific therapeutic benefits from IMPT into
+account. Thus, we plan to create an individualized CEA
+modeling to guide treatment decisions for real OPC
+patients.
+Conclusions
+On the basis of published data and assumption-based
+CEA modeling, the analyses of this study demonstrated
+that cost-effective scenarios of PBT do exist in Chinese
+OPC patients at the current WTP of China. At current
+stage, PBT is more favorable to the younger OPC patients
+who could obtain a profound NTCP-reduction.
+With emerging novel proton technologies optimizing
+therapeutic benefits, gradual increment of medical insurance
+coverage, economic growth, and proton treatment
+costs reduction due to the opening of more proton centers
+in China, PBT could become more cost-effective.

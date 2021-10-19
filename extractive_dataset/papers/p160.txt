@@ -1,0 +1,343 @@
+[3, 4], is associated with high case fatality rate and leads
+to substantial increase in the demand for hospital beds
+and shortage of medical equipment. Up to January 2021,
+the hospital and intensive care unit (ICU) occupancy and
+the new admission due to COVID-19 increased in several
+European countries, reaching 82% of the peak ICU
+occupancy observed during the pandemic [5]. Descriptive
+studies on the natural course of COVID-19 have
+revealed that the disease progression occurs typically
+at an early stage of the illness, usually within 7–14 days
+after the onset of symptoms [6, 7] with or without acute
+severe respiratory distress syndrome [8]. Given the lack
+of standardized treatments for patients with COVID-19,
+the identification of patients at higher risk of short-term
+complications is of utmost importance to ensure the best
+possible clinical care and to optimise resource allocation.
+Since the beginning of the pandemic, several prognostic
+predictive models combining various clinical and laboratory
+parameters have been developed to estimate risk
+of patients experiencing poor outcomes. A systematic
+review of ten prognostic models observed that the most
+reported predictors of disease progression and mortality
+were age, sex, C-reactive protein (CRP), lactic dehydrogenase
+(LDH) and lymphocyte count [9].
+All the published models were computed using the
+trend of clinical and laboratory information starting from
+the admission day onward [10–12], with the result that
+the data was related to a wide range of disease length as
+opposed to specific time points. To the best of our knowledge,
+no prognostic models have been developed taking
+into account a homogeneous time point across patients,
+such as the onset of symptoms, for the assessment of disease
+progression.
+This study aims at identifying a panel of clinical and
+laboratory parameters that could support the prediction
+of disease progression based on symptoms onset in hospitalized
+patients with COVID-19.
+Methods
+Study design and participants
+This is a prospective cohort study. All adult patients
+(aged ≥ 18 years) with microbiologically confirmed
+SARS-CoV-2 infection admitted from 1st March to 31st
+May, 2020 at the University Hospital of Verona were prospectively
+followed during the hospital stay and included
+in the COVID 19-VR registry (registered on ClinicalTrials.
+gov, 18/05/2020, Number: NCT04497194). The study
+protocol is performed in accordance with the relevant
+guidelines. The study was approved by the hospital Institutional
+Review Board (“Comitato etico per la sperimentazione
+clinica delle province di Verona e Rovigo”,
+2577CESC). A written informed consent for study participation
+was obtained from the patients or from the legal
+guardian on enrolment. Infection with SARS-CoV-2 was
+microbiologically defined by a positive real-time reversetranscriptase
+polymerase chain reaction (RT-PCR) assay
+from nasopharyngeal swab.
+Data collection
+Patient-level demographic (age, sex, ethnicity), chronic
+underlying diseases (hypertension and/or coronary
+artery disease, diabetes, dyslipidaemia, pulmonary disease
+(chronic obstructive pulmonary disease, active
+tuberculosis, asthma or obstructive sleep apnoea syndrome),
+chronic kidney disease, neoplastic disease, thyroid
+disorders, neurological/psychiatric disorders, liver
+diseases, obesity (body mass index higher than 30), and
+clinical parameters (body temperature, respiratory rate,
+blood pressure, heart rate, peripheral oxygen saturation)
+were gathered at study inclusion and entered into a predefined
+case report form. Laboratory parameters, including
+lymphocytes (reference range: 120–400 109/
+L) and
+neutrophils (reference range: 180–800 109/
+L) count, LDH
+(reference range: 135–214 U/L), CRP (reference range:
+< 5 mg/L), aspartate aminotransferase (AST, reference
+range: 5–45 U/L), alanine aminotransferase (ALT, reference
+range: 5–45 U/L)), creatine kinase (CK, reference
+range: 30–200 U/L) were extracted from routine blood
+testing at fixed time points: at hospital admission, day-5
+(± 1) and day-10 (± 1) from onset of symptoms and in
+case of transfer to ICU/sub-intensive unit, discharge, and
+death.
+Outcomes
+COVID-19 progression was defined as PaO2/
+FiO2
+ratio < 200 and/or transfer to ICU and/or in-hospital
+death occurring by day-11 after symptoms onset.
+Statistical analysis
+Descriptive statistics included means with standard
+deviations (SD) and frequency analyses (percentages)
+for categorical variables at day 5 after onset of symptoms.
+T-test for independent samples, χ2 test, or Fisher’s
+test were applied to compare differences between
+patients with or without disease progression. Logistic
+regression was performed to evaluate univariate and
+multivariate associations with the outcome. Results
+were presented as odds ratio (OR) and 95% confidence
+interval (95% CI). A p-value less than 0.05 was deemed
+as statistically significant. In order to enter the model
+as categorical variable, the cut-off of each laboratory
+parameter was set at the best point of sensitivity and
+specificity identified through the receiver operating
+characteristic (ROC) curve. The selected parameters
+with correspondent cut-offs were: CRP > 80 mg/L, neutrophil
+lymphocyte ratio (NLR) > 4.5, LDH > 250 U/L,
+CK > 80 U/L, and ALT > 40 U/L. Candidate predictors
+to enter the logistic multivariate regression were variables
+with p < 0.05 in univariate analysis. Variables independently
+associated with the outcome at multivariate
+analysis together with those deemed as critically relevant
+in accordance with literature evidence and clinical
+experience were selected to fit the prediction model.
+The performance of the model was assessed by calculating
+the ROC curves and the corresponding area under
+the curve (AUC) values. The Hosmer–Lemeshow test
+was applied to assess the goodness-of-fit. All statistical
+analyses were carried out using International Business
+Machines (IBM) Statistical Package for the Social
+Sciences (SPSS) 21 (IBM Corporation: Armonk, NY,
+10504).
+Role of the funding source
+The funders of the study did not have any role in data
+collection and in study design, data analysis, data interpretation,
+or writing of the report. The corresponding
+author had full access to all data in the study and
+had final responsibility for the decision to submit for
+publication.
+Results
+A total of 235 patients with COVID-19 were prospectively
+included in the cohort. Demographic and clinical
+characteristics of patients enrolled in the study are displayed
+in Table 1. The majority of patients were male
+(148, 63%) and the mean age was 71 (SD 15.9). One hundred
+and ninety patients (81%) suffered from at least one
+underlying illness, most frequently cardiovascular disease
+(47%), neurological/psychiatric disorders (35%), and
+diabetes (21%).
+The majority of patients had fever prior to admission
+(193, 82%). Cough and dyspnoea were reported in 106
+(45%) and 87 (37%) cases, respectively. The mean time
+from onset of symptoms and admission to hospital was
+3.6 days (SD 3.2), while mean length of hospital stay was
+13.2 days (SD 11.5). Patients received antiviral therapy
+according to national and regional recommendations (see
+Table 1). Steroids (methylprednisolone or dexamethasone),
+if prescribed, were administered for at least 5 days.
+In 26 (11%) cases non-invasive ventilation was required,
+while 30 (13%) patients underwent invasive mechanical
+ventilation.
+Eighty-eight (37%) patients experienced poor outcome,
+e.g. PaO2/
+FiO2 ratio < 200 (37 patients, 42%), transfer
+to ICU (30 patients, 34%), and death (47 patients, 53%)
+by day-11 after symptoms onset. At univariate analysis
+(Table 1), patients with poor outcome were more likely to
+be older than 65 years (OR 2.02; 95% CI 1.12–3.65 years,
+p = 0.020), to suffer from cardiovascular disease (OR
+2.85; 95% CI 1.55–5.23, p = 0.001), and to have experienced
+dyspnoea during the 5 days prior to admission (OR
+2.83; 95% CI 1.63–4.92, p < 0.000). Blood test performed
+by day-5 of symptoms onset showed that mean values of
+CRP, NLR, LDH and CK were significantly higher compared
+with patients not experiencing progression of
+COVID-19 (Fig. 1). After applying the cut-offs set at the
+best point of sensitivity and specificity identified through
+the ROC curve, an association between disease progression
+and the above mentioned variables showing values
+above the cut-offs was observed (CRP: OR 7.38; 95% CI
+3.83–14.23, p < 0.000; NLR: OR 3.43; 95% CI 1.77–6.64,
+p < 0.000; LDH: OR 6.70; 95% CI 2.14–21.04, p = 0.001;
+and CK: OR 3.83; 95% CI 1.56–9.39, p = 0.003) (Table 2).
+Multivariate logistic regression showed that at day
+5 presence of cardiovascular disease (OR 2.29; CI 95%
+1.12–4.68; p = 0.023), dyspnoea (OR 2.40; 95% CI 1.19–
+4.84; p = 0.015) and at least three abnormal laboratory
+findings among CRP > 80 U/L, ALT > 40 U/L, NLR > 4.5,
+LDH > 250 U/L, and CK > 80 U/L (OR 2.80; 95% CI
+1.35–5.81; p = 0.006) were independently associated with
+COVID-19 progression (Table 3). A model combining
+the above mentioned variables with age > 65 years old and
+male sex showed an AUC of 0.73 (95% CI 0.66–0.81) for goodness of fit test did not reach statistical significance
+(p = 0.427), indicating a good match of predicted risk
+over observed risk. The ROC curve for COVID-19 progression
+is displayed in Fig. 2.
+Discussion
+This study proposes an easy-to-use panel of five clinical
+and laboratory parameters to aid in the prediction of
+disease progression in COVID-19 patients. The model
+including age > 65 years, male sex, cardiovascular disease,
+dyspnoea and at least three abnormal blood parameters
+among CRP (> 80 U/L), ALT (> 40 U/L), NLR (> 4.5),
+LDH (> 250 U/L), and CK (> 80 U/L) shows fair discrimination
+ability (AUC 0.73). To our knowledge, this is the
+first study assessing predictors of disease progression at
+specific time-points starting from the onset of COVID-
+19 symptoms.
+Since the start of the pandemic, a wide range of predictive
+models and scores has been published with the
+common goal of informing clinical decision making and
+optimising resource allocation. An observational cohort
+of 1157 patients acutely admitted to two London hospitals
+analysed several demographics, clinical, laboratory
+and imaging factors likely to predict mortality, highlighting
+a correlation of male sex, older age, hypertension,
+chronic lung diseases and higher levels of lymphocytes,
+CRP and creatinine, among the others, with critical care
+admission and/or death [7]. A systematic review of ten
+prognostic models revealed that the most reported predictors
+of disease progression and mortality were age,
+sex, CRP, LDH and lymphocyte count [9]. Recently, the
+predictive value of NLR measured at hospital admission
+has been assessed in a prospective cohort, showing a high
+value in predicting disease deterioration, shock and death
+(all the areas under the curve > 0.80) [13]. The vast majority
+of these models assessed the predictors by considering
+the hospital admission as baseline time-point [10–13],
+and share therefore the common drawback of including
+patients at varying stages of the disease.
+In our cohort, more than one-third (37%) of patients
+experienced disease progression by day-11 of symptoms
+onset. Descriptive studies on clinical course of COVID-
+19 revealed that the median time from onset of illness to
+acute respiratory distress syndrome and to ICU admission
+was 8–12 days and 9.5–12 days, respectively [14].
+These findings would seem to indicate that clinical deterioration
+with the need of higher level of care may occur
+at a very early stage of the disease and suggest that setting
+“onset of symptoms” as baseline time-point leads to
+inclusion of patients with homogeneous disease length.
+Older age and the presence of cardiovascular comorbidities
+were associated with a higher risk of unfavourable
+outcome, as highlighted by other studies [7, 15,
+16]. Comorbidities, secondary bacterial infections, and
+altered cellular and humoral immune functions are
+more common in the elderly, thus increasing the risk of
+developing severe illness. A meta-analysis of 51 studies
+including a total of over 48,000 patients with confirmed
+COVID-19 infection showed that fatal outcomes with
+COVID-19 infection were strongly associated with diabetes,
+hypertension and cardiovascular diseases across
+all age groups, thus suggesting that the risk of poor outcome
+associated with cardiovascular diseases may be not
+affected by age [17]. In the present cohort, no statistically
+significant differences between male and female were
+observed with regards to the outcome, while in most of
+the studies the severity and mortality of COVID-19 have
+been reported to be higher in males than in females.
+Sex-related differences in immune system responses
+to pathogens has been observed, with female eliciting
+higher immune responses. Furthermore, RNA clearance
+has been reported to be delayed in male patients with
+COVID-19 [18].
+Laboratory assessment on day-5 of symptoms onset
+showed several parameters with significant mean differences
+between patients with or without poor outcome.
+In particular, poor outcome was associated with
+higher NLR, CRP, LDH, and CK, according with several
+studies [12, 19]. Lymphopenia and elevated neutrophil
+count suggest an alteration of lymphocyte function and
+are associated with elevated secretion of IL-6 and TNFalpha,
+since these inflammatory markers contribute to
+lymphocyte apoptosis as well as decreased proliferation
+of lymphocytes [20]. Several mechanisms are responsible
+of this alteration, including direct infection of the lymphocytes
+with SARS-CoV-2 virus, causing lymphocyte
+death or dysfunction. Furthermore, the pro-inflammatory
+state with increased cytokines is inversely correlated
+with the induction of granulopoiesis (resulting in neutrophilia)
+and suppressed lymphopoiesis in the bone marrow
+of patients with SARS‐CoV infection [21].
+This inflammatory state, when persistent and uncontrolled,
+may lead to acute respiratory distress syndrome
+and rapid deterioration of the clinical conditions. IL-6
+upregulates hepatic CRP production, thus suggesting the
+plausibility of the clinical use of this inflammatory biomarker
+as a prognosis predictor for COVID-19 patients
+[9]. Similarly, LDH blood level increases in case of cell
+damage and is a marker of various inflammatory states.
+A systematic review and meta-analysis of 28 studies
+reporting LDH levels in severe vs. non-sever COVID-
+19 patients confirmed that LDH level can be used as a
+COVID-19 severity marker and is a predictor of survival
+[22] CK, a marker of muscle damage, has been associated
+with a more severe COVID-19. Currently, it remains
+unclear whether increased levels of CK in COVID-
+19 patients is due to a virus‐triggered inflammatory
+response or direct muscle toxicity [23]. Elevation of liver
+transaminases during SARS-CoV-2 infection has been
+frequently reported. Possible pathophysiology mechanisms
+include direct effect of the virus, liver injury mediated
+by uncontrolled immune response drug toxicity and
+ischemic hepatitis due to multiorgan dysfunction [24].
+Based on these evidences and on our findings, patients
+affected by COVID-19 may benefit from blood testing
+including inflammation markers, complete blood count
+and transaminases within the 1st week after symptoms
+onset to evaluate the risk of developing a life-threatening
+disease.
+In a recent work, a large group of Italian experts
+was invited to complete an online survey through the
+PAPRIKA (Potentially All Pairwise RanKings of all possible
+Alternatives) method [25] with the aim of determining
+the weights of several criteria for prioritizing
+COVID-19 patients for hospitalization [26]. Among a list
+of criteria, including age, body mass index, comorbidities,
+findings at chest X-ray, CRP, and duration of symptoms
+among others, the highest weights were attributed
+to PaO2
+and peripheral oxygen saturation, denoting the
+well-known central role of respiratory findings in the
+assessment of the risk of rapid deterioration of COVID-
+19 patients. These findings, alongside those outlined in
+our study, suggest that in addition to considering symptoms
+onset and duration, the typology of symptoms
+should also be taken into account in an early risk assessment
+of COVID-19 deterioration.
+This study has several limitations. First, the sample size
+limits the accuracy of the findings. Second, the study was
+performed in a single centre, hampering the generalizability
+and the applicability of the results to other settings.
+Third, the model did not undergo external validation and
+might be at risk of overfitting. However, we tried to mitigate
+overfitting by decreasing the number of predictors.
+The results from this study highlight the importance of
+relying on homogeneous populations with same length
+of disease in order to build the best possible prediction
+model for disease progression in COVID-19 patients and
+allow optimal treatment and resource allocation.
+This study shows how an easy-to-use panel of five laboratory
+and clinical parameters applied in patients with
+COVID-19 at day-5 of symptoms onset can predict disease
+progression with fair discriminatory power. It further
+suggests that the onset of symptoms might represent
+a useful and reliable baseline time-point for developing
+prognostic models. The assessment of few variables
+at the right time may contribute to early identification
+of patients at major risk of developing life-threatening
+COVID-19. The model can also play a role as a tool to
+increase homogeneity of population in clinical trials on
+COVID-19 treatment in hospitalized patients. A validation
+study is needed to evaluate whether this model
+can reliably inform decision making and identify proper
+level-of-care requirements for hospitalized patients.

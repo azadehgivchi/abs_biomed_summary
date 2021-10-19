@@ -1,0 +1,15 @@
+Background: The determination of the right x-ray angiography viewing angle is an important issue during the
+treatment of thoracic endovascular aortic repair (TEVAR). An inaccurate projection angle (manually determined today
+by the physicians according to their personal experience) may affect the placement of the stent and cause vascular
+occlusion or endoleak.
+Methods: Based on the acquisition of a computed tomography angiography (CTA) image before TEVAR, an adaptive
+optimization algorithm is proposed to determine the optimal viewing angle of the angiogram automatically.
+This optimal view aims at avoiding any overlapping between the left common carotid artery and the left subclavian
+artery. Moreover, the proposed optimal procedure exploits the patient-specific morphology to adaptively reduce the
+potential foreshortening effect.
+Results: Experimental results conducted on thirty-five patients demonstrate that the optimal angiographic viewing
+angle based on the proposed method has no significant difference when compared with the expert practice
+(p = 0.0678).
+Conclusion: We propose a method that utilizes the CTA image acquired before TEVAR to automatically calculate
+the optimal C-arm angle. This method has the potential to assist surgeons during their interventional procedure by
+providing a shorter procedure time, less radiation exposure, and less contrast injection.
